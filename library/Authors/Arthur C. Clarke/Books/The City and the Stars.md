@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The City and the Stars
 
-![|200]([[Attachments/Covers/Arthur C. Clarke - The City and the Stars.jpg]])
+![[Attachments/Covers/Arthur C. Clarke - The City and the Stars.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

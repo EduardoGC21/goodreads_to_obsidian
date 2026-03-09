@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Hyperion (Hyperion Cantos, Num. 1)
 
-![|200]([[Attachments/Covers/Dan Simmons - Hyperion (Hyperion Cantos, Num. 1).jpg]])
+![[Attachments/Covers/Dan Simmons - Hyperion (Hyperion Cantos, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

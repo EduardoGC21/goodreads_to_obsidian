@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Library
+    filters:
+      and:
+        - file.inFolder("Authors")
+        - file.tags.contains("book")
+    order:
+      - file.name
+      - author
+      - date_read
+    sort:
+      - property: date_read
+        direction: DESC
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 0.7

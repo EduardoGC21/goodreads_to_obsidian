@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Meditaciones
 
-![|200]([[Attachments/Covers/Marcus Aurelius - Meditaciones.jpg]])
+![[Attachments/Covers/Marcus Aurelius - Meditaciones.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

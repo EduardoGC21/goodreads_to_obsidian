@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others
 
-![|200]([[Attachments/Covers/Anonymous - Myths from Mesopotamia Creation, the Flood, Gilgamesh, and Others.jpg]])
+![[Attachments/Covers/Anonymous - Myths from Mesopotamia Creation, the Flood, Gilgamesh, and Others.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

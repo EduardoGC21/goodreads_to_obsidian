@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Brave New World
 
-![|200]([[Attachments/Covers/Aldous Huxley - Brave New World.jpg]])
+![[Attachments/Covers/Aldous Huxley - Brave New World.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Pax Romana
 
-![|200]([[Attachments/Covers/Adrian Goldsworthy - Pax Romana.jpg]])
+![[Attachments/Covers/Adrian Goldsworthy - Pax Romana.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

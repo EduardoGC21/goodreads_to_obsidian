@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones
 
-![|200]([[Attachments/Covers/George R.R. Martin - The World of Ice & Fire The Untold History of Westeros and the Game of Thrones.jpg]])
+![[Attachments/Covers/George R.R. Martin - The World of Ice & Fire The Untold History of Westeros and the Game of Thrones.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

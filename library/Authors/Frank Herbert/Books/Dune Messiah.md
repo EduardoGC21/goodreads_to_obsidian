@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Dune Messiah
 
-![|200]([[Attachments/Covers/Frank Herbert - Dune Messiah.jpg]])
+![[Attachments/Covers/Frank Herbert - Dune Messiah.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

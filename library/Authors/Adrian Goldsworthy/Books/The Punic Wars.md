@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Punic Wars
 
-![|200]([[Attachments/Covers/Adrian Goldsworthy - The Punic Wars.jpg]])
+![[Attachments/Covers/Adrian Goldsworthy - The Punic Wars.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

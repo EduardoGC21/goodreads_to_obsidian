@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El alcalde de Zalamea
 
-![|200]([[Attachments/Covers/Pedro Calderón de la Barca - El alcalde de Zalamea.jpg]])
+![[Attachments/Covers/Pedro Calderón de la Barca - El alcalde de Zalamea.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

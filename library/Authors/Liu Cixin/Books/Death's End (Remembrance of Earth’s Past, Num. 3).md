@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Death's End (Remembrance of Earth’s Past, Num. 3)
 
-![|200]([[Attachments/Covers/Liu Cixin - Death's End (Remembrance of Earth’s Past, Num. 3).jpg]])
+![[Attachments/Covers/Liu Cixin - Death's End (Remembrance of Earth’s Past, Num. 3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

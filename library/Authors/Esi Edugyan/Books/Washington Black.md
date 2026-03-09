@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Washington Black
 
-![|200]([[Attachments/Covers/Esi Edugyan - Washington Black.jpg]])
+![[Attachments/Covers/Esi Edugyan - Washington Black.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Fascism: A Warning
 
-![|200]([[Attachments/Covers/Madeleine K. Albright - Fascism A Warning.jpg]])
+![[Attachments/Covers/Madeleine K. Albright - Fascism A Warning.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

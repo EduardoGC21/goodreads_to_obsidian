@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Napoleon: A Life
 
-![|200]([[Attachments/Covers/Andrew Roberts - Napoleon A Life.jpg]])
+![[Attachments/Covers/Andrew Roberts - Napoleon A Life.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

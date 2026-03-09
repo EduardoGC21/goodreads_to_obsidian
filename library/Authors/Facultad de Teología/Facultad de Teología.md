@@ -1,6 +1,6 @@
 ---
 name: "Facultad de Teología"
-country: "[[Spain]]"
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Facultad de Teología is the Faculty of Theology of the University of Navarra, a Catholic academic institution dedicated to advanced study and teaching in theology and related disciplines. As an institutional author, it brings together scholars, clergy, and lay experts who collaborate in research on Scripture, doctrine, Church history, moral theology, and spirituality, with a strong emphasis on fidelity to the Catholic tradition and engagement with contemporary intellectual life.
+“Facultad de Teología” is the name typically used for a Catholic faculty or school of theology within a university, responsible for academic study and teaching in areas such as Scripture, dogmatic theology, moral theology, and church history. In many cases, works published under this name—such as annotated Bibles, theological commentaries, or catechetical materials—are produced collectively by professors and researchers rather than a single identifiable individual.
 
-The faculty’s work on the "Sagrada Biblia: Universidad de Navarra (Spanish Edition)" reflects its broader mission: to provide rigorous, well-documented, and pastorally useful resources for students, clergy, and lay readers. Through projects like this annotated Bible, the Facultad de Teología has played a significant role in Spanish-language theological scholarship, helping to shape biblical studies and theological education within Spain and the wider Spanish-speaking Catholic world.
+For editions like the “Sagrada Biblia: Universidad de Navarra (Spanish Edition)”, attribution to a “Facultad de Teología” usually signals that the text, notes, and scholarly apparatus arise from a collaborative academic project under the oversight of a theological faculty, rather than an author in the personal sense. Since this is an institutional or collective designation and not a specific person, standard biographical details such as birth and death years do not apply.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

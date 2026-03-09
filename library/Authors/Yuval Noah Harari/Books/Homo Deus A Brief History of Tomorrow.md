@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Homo Deus: A Brief History of Tomorrow
 
-![|200]([[Attachments/Covers/Yuval Noah Harari - Homo Deus A Brief History of Tomorrow.jpg]])
+![[Attachments/Covers/Yuval Noah Harari - Homo Deus A Brief History of Tomorrow.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

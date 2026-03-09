@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La muerte de los héroes
 
-![|200]([[Attachments/Covers/Carlos García Gual - La muerte de los héroes.jpg]])
+![[Attachments/Covers/Carlos García Gual - La muerte de los héroes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

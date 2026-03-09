@@ -1,7 +1,7 @@
 ---
 name: "Timothy E. Gregory"
 country: "[[United States]]"
-birth_year: ""
+birth_year: "1943"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Timothy E. Gregory is an American historian and classical archaeologist specializing in the Byzantine Empire and early Christianity. Trained at the University of Michigan, he built a long career at The Ohio State University, where he served as Professor of Byzantine History and Adjunct Professor of Anthropology, combining textual scholarship with archaeological fieldwork in Greece and the eastern Mediterranean. His direction of excavations in the Isthmus of Corinth and his leadership in East Corinth archaeological projects helped integrate material culture into the study of late antique and Byzantine society.
+Timothy E. Gregory (b. 1943) is an American historian and archaeologist specializing in the Byzantine Empire and the wider eastern Mediterranean from Late Antiquity through the medieval period. Educated at the University of Michigan, where he completed his PhD in 1972 under leading scholars of Roman and Byzantine history, he went on to join the faculty of Ohio State University in 1978. At OSU he served as Professor of Byzantine History and Adjunct Professor of Anthropology, training generations of students in both historical and archaeological methods and becoming a central figure in North American Byzantine studies.
 
-Gregory is widely recognized for bridging political, social, economic, and religious history. His book *A History of Byzantium* situates the Byzantine Empire as a vital mediator between the ancient and modern worlds, making a complex field accessible to students while reflecting cutting‑edge scholarship and archaeological evidence. Beyond this synthesis, he has authored influential studies on late antique Christianity, numismatics, epigraphy, and the transformation of the classical world, and has contributed to reference works such as *The Oxford Dictionary of Byzantium*.
+Gregory’s scholarship combines close reading of late antique and early Christian texts with material evidence from numismatics, epigraphy and archaeology. He has directed the Ohio State University excavations at Isthmia in Greece and co-directed the Eastern Korinthia Archaeological Survey, producing influential work on the social and economic history of Greece and the eastern Mediterranean. His publications range from early studies of religious conflict and Christianization to broader syntheses, including the widely used textbook "A History of Byzantium," which presents Byzantium as a dynamic society and a crucial bridge between ancient and modern worlds.
 
-Respected as a mentor and collaborator, Gregory has worked closely with colleagues and students in both history and archaeology, fostering interdisciplinary approaches to the study of the Mediterranean past. His career illustrates how close reading of Greek sources, systematic archaeological investigation, and attention to everyday life can reshape understanding of the transition from the Roman world to Byzantium and medieval Europe.
+Over the course of his career, Gregory has been recognized as one of the scholars who helped reshape the study of Late Antiquity in the 1970s and after, emphasizing the complexity and continuity of the period rather than simple narratives of decline. His research, teaching and extensive fieldwork have contributed significantly to our understanding of everyday life, religious change and regional networks in the Greek and Roman worlds, securing his reputation as a leading interpreter of Byzantine history and archaeology.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Rise and Fall of the Third Reich: A History of Nazi Germany
 
-![|200]([[Attachments/Covers/William L. Shirer - The Rise and Fall of the Third Reich A History of Nazi Germany.jpg]])
+![[Attachments/Covers/William L. Shirer - The Rise and Fall of the Third Reich A History of Nazi Germany.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

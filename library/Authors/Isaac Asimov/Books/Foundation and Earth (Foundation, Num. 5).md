@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Foundation and Earth (Foundation, Num. 5)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Foundation and Earth (Foundation, Num. 5).jpg]])
+![[Attachments/Covers/Isaac Asimov - Foundation and Earth (Foundation, Num. 5).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

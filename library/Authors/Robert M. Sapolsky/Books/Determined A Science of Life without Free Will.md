@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Determined: A Science of Life without Free Will
 
-![|200]([[Attachments/Covers/Robert M. Sapolsky - Determined A Science of Life without Free Will.jpg]])
+![[Attachments/Covers/Robert M. Sapolsky - Determined A Science of Life without Free Will.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

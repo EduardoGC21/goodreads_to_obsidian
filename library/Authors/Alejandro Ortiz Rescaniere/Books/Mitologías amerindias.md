@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitologías amerindias
 
-![|200]([[Attachments/Covers/Alejandro Ortiz Rescaniere - Mitologías amerindias.jpg]])
+![[Attachments/Covers/Alejandro Ortiz Rescaniere - Mitologías amerindias.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

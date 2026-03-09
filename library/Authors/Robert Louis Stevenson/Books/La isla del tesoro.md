@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La isla del tesoro
 
-![|200]([[Attachments/Covers/Robert Louis Stevenson - La isla del tesoro.jpg]])
+![[Attachments/Covers/Robert Louis Stevenson - La isla del tesoro.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

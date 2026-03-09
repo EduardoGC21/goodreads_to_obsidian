@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Timon de Atenas
 
-![|200]([[Attachments/Covers/William Shakespeare - Timon de Atenas.jpg]])
+![[Attachments/Covers/William Shakespeare - Timon de Atenas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

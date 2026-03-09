@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mahabharata
 
-![|200]([[Attachments/Covers/Anonymous - Mahabharata.jpg]])
+![[Attachments/Covers/Anonymous - Mahabharata.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

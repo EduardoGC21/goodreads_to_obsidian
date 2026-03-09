@@ -1,8 +1,8 @@
 ---
 name: "Epicurus"
 country: "[[Greece]]"
-birth_year: ""
-death_year: ""
+birth_year: "0341"
+death_year: "0270"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Epicurus (341–270 BCE) was an ancient Greek philosopher and the founder of Epicureanism, a school that taught that the highest good is a life of tranquil pleasure achieved through modest living, intellectual inquiry, and the cultivation of friendships. Born on the island of Samos to Athenian parents, he began studying philosophy as a youth and was influenced by Democritean atomism. After teaching in various cities, he settled in Athens and founded his own school, known as "The Garden," which became a small, close-knit community of students and friends who lived and studied together.
+Epicurus (341–270 BC) was an ancient Greek philosopher and the founder of Epicureanism, a school that taught that the highest good is a life of tranquility achieved through modest pleasures, friendship, and freedom from fear. Born on the island of Samos to Athenian parents, he later moved to Athens where he established his own school in a house and garden just outside the city walls, a community that welcomed women and enslaved people as students, which was unusual for its time.
 
-Epicurus’ philosophy emphasized the removal of fear—especially fear of the gods and of death—arguing that the gods, if they exist, are indifferent to human affairs and that death is simply the end of sensation. He saw moral and psychological well-being as grounded in prudence, justice, and mutual respect, and he welcomed women and enslaved people into his school, which was unusual in his time. Although most of his works are lost and survive only in fragments and later reports, his ideas deeply influenced Hellenistic and Roman thought and resurfaced with force in early modern Europe, shaping modern discussions of happiness, secular ethics, and the nature of the universe.
+Epicurus’ philosophy emphasized rational inquiry and the rejection of superstition, arguing that the gods, if they exist, are indifferent to human affairs, and that death is the end of sensation and therefore not to be feared. He developed an atomistic physics, adapting earlier ideas from Democritus to support an ethical outlook focused on mental serenity rather than luxury or excess. His letters and maxims, preserved in later collections, shaped ethical thought in the Hellenistic and Roman worlds and were rediscovered with renewed influence in early modern Europe.
 
-Collections such as "Obras completas" typically gather remaining letters, principal doctrines, and sayings attributed to Epicurus, which together offer a partial but powerful window into his ethical ideals, conception of pleasure, and vision of a fear-free, reflective life among friends.
+Personally, Epicurus lived simply, valuing close friendships and a small circle of companions in his Garden. He was known for his kindness, frugality, and emphasis on mutual support within his community. Although many of his writings have been lost, his ideas survived through followers such as Lucretius and through later anthologies, securing his significance as one of the central figures in the history of ancient ethics and materialist philosophy.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

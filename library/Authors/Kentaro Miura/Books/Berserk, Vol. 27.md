@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 27
 
-![|200]([[Attachments/Covers/Kentaro Miura - Berserk, Vol. 27.jpg]])
+![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 27.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

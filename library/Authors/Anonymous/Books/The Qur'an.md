@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Qur'an
 
-![|200]([[Attachments/Covers/Anonymous - The Qur'an.jpg]])
+![[Attachments/Covers/Anonymous - The Qur'an.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

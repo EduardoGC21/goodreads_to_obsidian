@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitos hititas: Entre Oriente y Occidente
 
-![|200]([[Attachments/Covers/Alberto Bernabé Pajares - Mitos hititas Entre Oriente y Occidente.jpg]])
+![[Attachments/Covers/Alberto Bernabé Pajares - Mitos hititas Entre Oriente y Occidente.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

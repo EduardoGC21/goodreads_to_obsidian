@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Raven
 
-![|200]([[Attachments/Covers/Edgar Allan Poe - The Raven.jpg]])
+![[Attachments/Covers/Edgar Allan Poe - The Raven.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

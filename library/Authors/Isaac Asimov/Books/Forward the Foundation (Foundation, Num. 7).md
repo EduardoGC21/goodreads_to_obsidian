@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Forward the Foundation (Foundation, Num. 7)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Forward the Foundation (Foundation, Num. 7).jpg]])
+![[Attachments/Covers/Isaac Asimov - Forward the Foundation (Foundation, Num. 7).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

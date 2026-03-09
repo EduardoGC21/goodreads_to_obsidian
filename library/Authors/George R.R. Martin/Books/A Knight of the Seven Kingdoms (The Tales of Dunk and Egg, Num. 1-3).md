@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3)
 
-![|200]([[Attachments/Covers/George R.R. Martin - A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3).jpg]])
+![[Attachments/Covers/George R.R. Martin - A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

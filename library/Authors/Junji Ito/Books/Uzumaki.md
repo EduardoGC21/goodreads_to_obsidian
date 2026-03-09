@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Uzumaki
 
-![|200]([[Attachments/Covers/Junji Ito - Uzumaki.jpg]])
+![[Attachments/Covers/Junji Ito - Uzumaki.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

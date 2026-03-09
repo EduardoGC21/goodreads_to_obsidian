@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El idiota
 
-![|200]([[Attachments/Covers/Fyodor Dostoevsky - El idiota.jpg]])
+![[Attachments/Covers/Fyodor Dostoevsky - El idiota.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

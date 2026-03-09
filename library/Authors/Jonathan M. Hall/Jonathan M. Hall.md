@@ -1,6 +1,6 @@
 ---
 name: "Jonathan M. Hall"
-country: "[[United Kingdom]]"
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Jonathan M. Hall is a historian and classicist whose work has reshaped modern understanding of identity and society in ancient Greece. Trained at the University of Oxford (BA, 1988) and the University of Cambridge (PhD, 1993), he has built his career at the University of Chicago, where he holds the title of Phyllis Fay Horton Distinguished Service Professor in the Humanities and serves in the Departments of History and Classics and in the College. His scholarship combines literary, epigraphic, and archaeological evidence to explore how Greek communities understood themselves and others, especially in relation to ethnicity, culture, and political organization.
+Jonathan M. Hall is a historian and classicist whose work has significantly shaped modern understanding of ancient Greek identity and society. Based at the University of Chicago as the Phyllis Fay Horton Distinguished Service Professor in the Humanities, he holds appointments in History, Classics, and the College, and has been widely recognized for both his research and his teaching, including receiving a Quantrell Award for Excellence in Undergraduate Teaching. Trained in the United Kingdom and active in American academia, Hall has built an interdisciplinary profile that bridges history, archaeology, and cultural studies.
 
-Hall’s early books, including *Ethnic Identity in Greek Antiquity* and *Hellenicity: Between Ethnicity and Culture*, offered influential arguments about the constructed nature of Greek ethnic categories and the relatively late emergence of a unified Hellenic self-consciousness, work that earned major academic awards and wide citation. In *A History of the Archaic Greek World, ca. 1200–479 BCE*, he presents a thematic, evidence‑driven account of the period that foregrounds social change, the rise of the polis, and the complexities of colonization, helping students and specialists alike to see the Archaic era as a dynamic field of debate rather than a fixed narrative.
+Hall’s scholarship has focused on the cultural and social history of ancient Greece, especially the construction and meaning of ethnic and civic identities among Greek communities. His early books, such as "Ethnic Identity in Greek Antiquity" and "Hellenicity: Between Ethnicity and Culture," offered influential frameworks for thinking about how ancient Greeks understood themselves and others, and they have been honored with major disciplinary awards. In "A History of the Archaic Greek World, ca. 1200–479 BCE," he synthesizes literary, epigraphic, and archaeological evidence to illuminate the political, social, and cultural developments of early Greece, inviting readers to question received narratives about the rise of the polis and the roots of egalitarian practices.
 
-Beyond these studies, Hall has investigated the relationship between material culture and written sources in *Artifact and Artifice* and examined questions of cultural heritage and local identity in modern Greece, notably in his work on Argos. A highly regarded teacher, he received the Quantrell Award for Excellence in Undergraduate Teaching in 2009, and he remains an important figure in debates over how historians use archaeological evidence and how concepts of ethnicity and culture are applied to the ancient Mediterranean.
+In later work, including "Artifact and Artifice" and "Reclaiming the Past," Hall has explored the relationship between material culture and historical interpretation, as well as the role of archaeology and cultural heritage in the formation of modern identities, with particular attention to Greece in the nineteenth and twentieth centuries. Across his career he has engaged closely with debates over colonization, the early polis, and regional identities, and he is known for mentoring generations of students while contributing to international scholarly conversations on Greek history and historiography.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

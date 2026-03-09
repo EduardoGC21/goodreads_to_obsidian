@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Historia universal de la infamia
 
-![|200]([[Attachments/Covers/Jorge Luis Borges - Historia universal de la infamia.jpg]])
+![[Attachments/Covers/Jorge Luis Borges - Historia universal de la infamia.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

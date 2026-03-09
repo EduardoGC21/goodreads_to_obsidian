@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
 
-![|200]([[Attachments/Covers/Steven Pinker - Enlightenment Now The Case for Reason, Science, Humanism, and Progress.jpg]])
+![[Attachments/Covers/Steven Pinker - Enlightenment Now The Case for Reason, Science, Humanism, and Progress.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

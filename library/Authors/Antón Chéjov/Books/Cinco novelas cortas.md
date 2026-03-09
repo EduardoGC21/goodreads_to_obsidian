@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cinco novelas cortas
 
-![|200]([[Attachments/Covers/Antón Chéjov - Cinco novelas cortas.jpg]])
+![[Attachments/Covers/Antón Chéjov - Cinco novelas cortas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

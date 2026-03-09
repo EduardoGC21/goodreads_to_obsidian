@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Antonio y Cleopatra
 
-![|200]([[Attachments/Covers/William Shakespeare - Antonio y Cleopatra.jpg]])
+![[Attachments/Covers/William Shakespeare - Antonio y Cleopatra.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

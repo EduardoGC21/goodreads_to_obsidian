@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Un artista del hambre
 
-![|200]([[Attachments/Covers/Franz Kafka - Un artista del hambre.jpg]])
+![[Attachments/Covers/Franz Kafka - Un artista del hambre.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

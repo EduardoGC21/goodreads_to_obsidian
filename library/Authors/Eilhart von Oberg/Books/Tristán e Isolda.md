@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tristán e Isolda
 
-![|200]([[Attachments/Covers/Eilhart von Oberg - Tristán e Isolda.jpg]])
+![[Attachments/Covers/Eilhart von Oberg - Tristán e Isolda.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

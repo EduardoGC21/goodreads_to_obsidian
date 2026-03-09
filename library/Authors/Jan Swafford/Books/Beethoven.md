@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Beethoven
 
-![|200]([[Attachments/Covers/Jan Swafford - Beethoven.jpg]])
+![[Attachments/Covers/Jan Swafford - Beethoven.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

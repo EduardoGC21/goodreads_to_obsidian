@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La feria de las vanidades
 
-![|200]([[Attachments/Covers/William Makepeace Thackeray - La feria de las vanidades.jpg]])
+![[Attachments/Covers/William Makepeace Thackeray - La feria de las vanidades.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Mammoth Book of Celtic Myths and Legends
 
-![|200]([[Attachments/Covers/Peter Berresford Ellis - The Mammoth Book of Celtic Myths and Legends.jpg]])
+![[Attachments/Covers/Peter Berresford Ellis - The Mammoth Book of Celtic Myths and Legends.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

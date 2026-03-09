@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tratado de ateología
 
-![|200]([[Attachments/Covers/Michel Onfray - Tratado de ateología.jpg]])
+![[Attachments/Covers/Michel Onfray - Tratado de ateología.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

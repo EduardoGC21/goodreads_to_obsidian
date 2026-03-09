@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Wendigo
 
-![|200]([[Attachments/Covers/Algernon Blackwood - The Wendigo.jpg]])
+![[Attachments/Covers/Algernon Blackwood - The Wendigo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

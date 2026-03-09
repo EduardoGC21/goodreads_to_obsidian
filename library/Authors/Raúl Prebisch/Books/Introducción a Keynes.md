@@ -11,7 +11,7 @@ isbn: ""
 isbn13: ""
 pages: 134
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Raúl Prebisch - Introducción a Keynes.jpg]]"
 bookshelves:
   - "[[economía]]"
 reread_dates: []
@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Introducción a Keynes
 
-> Cover not available.
+![[Attachments/Covers/Raúl Prebisch - Introducción a Keynes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

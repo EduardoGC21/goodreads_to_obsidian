@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Robinson Crusoe
 
-![|200]([[Attachments/Covers/Daniel Defoe - Robinson Crusoe.jpg]])
+![[Attachments/Covers/Daniel Defoe - Robinson Crusoe.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

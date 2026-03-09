@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Crítica de la Razón Pura (Sepan Cuantos, Num. 203)
 
-![|200]([[Attachments/Covers/Immanuel Kant - Crítica de la Razón Pura (Sepan Cuantos, Num. 203).jpg]])
+![[Attachments/Covers/Immanuel Kant - Crítica de la Razón Pura (Sepan Cuantos, Num. 203).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

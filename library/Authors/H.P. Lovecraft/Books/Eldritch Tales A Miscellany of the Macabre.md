@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Eldritch Tales: A Miscellany of the Macabre
 
-![|200]([[Attachments/Covers/H.P. Lovecraft - Eldritch Tales A Miscellany of the Macabre.jpg]])
+![[Attachments/Covers/H.P. Lovecraft - Eldritch Tales A Miscellany of the Macabre.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

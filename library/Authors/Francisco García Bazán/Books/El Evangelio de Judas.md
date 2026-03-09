@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Evangelio de Judas
 
-![|200]([[Attachments/Covers/Francisco García Bazán - El Evangelio de Judas.jpg]])
+![[Attachments/Covers/Francisco García Bazán - El Evangelio de Judas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

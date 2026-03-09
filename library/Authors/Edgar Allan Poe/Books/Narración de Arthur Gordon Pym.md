@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Narración de Arthur Gordon Pym
 
-![|200]([[Attachments/Covers/Edgar Allan Poe - Narración de Arthur Gordon Pym.jpg]])
+![[Attachments/Covers/Edgar Allan Poe - Narración de Arthur Gordon Pym.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

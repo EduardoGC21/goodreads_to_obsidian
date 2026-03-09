@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Art of War
 
-![|200]([[Attachments/Covers/Sun Tzu - The Art of War.jpg]])
+![[Attachments/Covers/Sun Tzu - The Art of War.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

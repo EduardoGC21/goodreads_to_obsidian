@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Upanisads
 
-![|200]([[Attachments/Covers/Anonymous - Upanisads.jpg]])
+![[Attachments/Covers/Anonymous - Upanisads.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El ardor
 
-![|200]([[Attachments/Covers/Roberto Calasso - El ardor.jpg]])
+![[Attachments/Covers/Roberto Calasso - El ardor.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

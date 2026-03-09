@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Historia del Próximo Oriente antiguo (ca. 3000-323 a.n.e.)
 
-![|200]([[Attachments/Covers/Marc Van de Mieroop - Historia del Próximo Oriente antiguo (ca. 3000-323 a.n.e.).jpg]])
+![[Attachments/Covers/Marc Van de Mieroop - Historia del Próximo Oriente antiguo (ca. 3000-323 a.n.e.).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

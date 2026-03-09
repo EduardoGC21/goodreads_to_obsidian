@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Communist Manifesto
 
-![|200]([[Attachments/Covers/Karl Marx - The Communist Manifesto.jpg]])
+![[Attachments/Covers/Karl Marx - The Communist Manifesto.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

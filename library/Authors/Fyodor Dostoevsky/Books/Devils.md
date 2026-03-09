@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Devils
 
-![|200]([[Attachments/Covers/Fyodor Dostoevsky - Devils.jpg]])
+![[Attachments/Covers/Fyodor Dostoevsky - Devils.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

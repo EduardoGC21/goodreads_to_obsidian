@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lolita
 
-![|200]([[Attachments/Covers/Vladimir Nabokov - Lolita.jpg]])
+![[Attachments/Covers/Vladimir Nabokov - Lolita.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

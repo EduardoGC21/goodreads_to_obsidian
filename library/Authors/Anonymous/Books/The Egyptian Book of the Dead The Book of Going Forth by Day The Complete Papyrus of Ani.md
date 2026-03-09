@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Egyptian Book of the Dead: The Book of Going Forth by Day: The Complete Papyrus of Ani
 
-![|200]([[Attachments/Covers/Anonymous - The Egyptian Book of the Dead The Book of Going Forth by Day The Complete Papyrus of Ani.jpg]])
+![[Attachments/Covers/Anonymous - The Egyptian Book of the Dead The Book of Going Forth by Day The Complete Papyrus of Ani.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

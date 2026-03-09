@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tartufo
 
-![|200]([[Attachments/Covers/Molière - Tartufo.jpg]])
+![[Attachments/Covers/Molière - Tartufo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

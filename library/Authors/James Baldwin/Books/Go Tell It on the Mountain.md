@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Go Tell It on the Mountain
 
-![|200]([[Attachments/Covers/James Baldwin - Go Tell It on the Mountain.jpg]])
+![[Attachments/Covers/James Baldwin - Go Tell It on the Mountain.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

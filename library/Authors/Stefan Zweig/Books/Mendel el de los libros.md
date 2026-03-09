@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mendel el de los libros
 
-![|200]([[Attachments/Covers/Stefan Zweig - Mendel el de los libros.jpg]])
+![[Attachments/Covers/Stefan Zweig - Mendel el de los libros.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

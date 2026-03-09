@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Fenomenología del espíritu
 
-![|200]([[Attachments/Covers/Georg Wilhelm Friedrich Hegel - Fenomenología del espíritu.jpg]])
+![[Attachments/Covers/Georg Wilhelm Friedrich Hegel - Fenomenología del espíritu.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

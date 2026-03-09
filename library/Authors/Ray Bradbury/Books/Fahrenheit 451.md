@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Fahrenheit 451
 
-![|200]([[Attachments/Covers/Ray Bradbury - Fahrenheit 451.jpg]])
+![[Attachments/Covers/Ray Bradbury - Fahrenheit 451.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

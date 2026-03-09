@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 6 (Berserk, Num. 6)
 
-![|200]([[Attachments/Covers/Kentaro Miura - Berserk, Vol. 6 (Berserk, Num. 6).jpg]])
+![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 6 (Berserk, Num. 6).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

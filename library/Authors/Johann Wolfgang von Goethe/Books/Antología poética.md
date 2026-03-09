@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Antología poética
 
-![|200]([[Attachments/Covers/Johann Wolfgang von Goethe - Antología poética.jpg]])
+![[Attachments/Covers/Johann Wolfgang von Goethe - Antología poética.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

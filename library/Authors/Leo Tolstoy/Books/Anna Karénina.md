@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Anna Karénina
 
-![|200]([[Attachments/Covers/Leo Tolstoy - Anna Karénina.jpg]])
+![[Attachments/Covers/Leo Tolstoy - Anna Karénina.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

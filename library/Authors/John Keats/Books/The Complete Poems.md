@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Complete Poems
 
-![|200]([[Attachments/Covers/John Keats - The Complete Poems.jpg]])
+![[Attachments/Covers/John Keats - The Complete Poems.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

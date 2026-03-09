@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Misbehaving: The Making of Behavioral Economics
 
-![|200]([[Attachments/Covers/Richard H. Thaler - Misbehaving The Making of Behavioral Economics.jpg]])
+![[Attachments/Covers/Richard H. Thaler - Misbehaving The Making of Behavioral Economics.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El cazador celeste
 
-![|200]([[Attachments/Covers/Roberto Calasso - El cazador celeste.jpg]])
+![[Attachments/Covers/Roberto Calasso - El cazador celeste.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt
 
-![|200]([[Attachments/Covers/Geraldine Pinch - Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.jpg]])
+![[Attachments/Covers/Geraldine Pinch - Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Foundation (Foundation, Num. 1)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Foundation (Foundation, Num. 1).jpg]])
+![[Attachments/Covers/Isaac Asimov - Foundation (Foundation, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

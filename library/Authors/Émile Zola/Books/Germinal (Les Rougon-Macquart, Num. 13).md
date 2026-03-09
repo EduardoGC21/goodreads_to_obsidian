@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Germinal (Les Rougon-Macquart, Num. 13)
 
-![|200]([[Attachments/Covers/Émile Zola - Germinal (Les Rougon-Macquart, Num. 13).jpg]])
+![[Attachments/Covers/Émile Zola - Germinal (Les Rougon-Macquart, Num. 13).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

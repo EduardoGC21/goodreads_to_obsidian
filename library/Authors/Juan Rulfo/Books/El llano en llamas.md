@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El llano en llamas
 
-![|200]([[Attachments/Covers/Juan Rulfo - El llano en llamas.jpg]])
+![[Attachments/Covers/Juan Rulfo - El llano en llamas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Manfred
 
-![|200]([[Attachments/Covers/Lord Byron - Manfred.jpg]])
+![[Attachments/Covers/Lord Byron - Manfred.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

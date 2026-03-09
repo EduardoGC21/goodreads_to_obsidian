@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Otelo
 
-![|200]([[Attachments/Covers/William Shakespeare - Otelo.jpg]])
+![[Attachments/Covers/William Shakespeare - Otelo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

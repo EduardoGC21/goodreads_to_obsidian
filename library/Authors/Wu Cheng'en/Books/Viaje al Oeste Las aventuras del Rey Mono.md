@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Viaje al Oeste: Las aventuras del Rey Mono
 
-![|200]([[Attachments/Covers/Wu Cheng'en - Viaje al Oeste Las aventuras del Rey Mono.jpg]])
+![[Attachments/Covers/Wu Cheng'en - Viaje al Oeste Las aventuras del Rey Mono.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

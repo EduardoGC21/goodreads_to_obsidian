@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La peste
 
-![|200]([[Attachments/Covers/Albert Camus - La peste.jpg]])
+![[Attachments/Covers/Albert Camus - La peste.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

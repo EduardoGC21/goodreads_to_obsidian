@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Bhagavad Gītā: con los comentarios advaita de Šankara
 
-![|200]([[Attachments/Covers/Consuelo Martín - Bhagavad Gītā con los comentarios advaita de Šankara.jpg]])
+![[Attachments/Covers/Consuelo Martín - Bhagavad Gītā con los comentarios advaita de Šankara.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

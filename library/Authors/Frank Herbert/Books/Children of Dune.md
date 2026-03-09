@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Children of Dune
 
-![|200]([[Attachments/Covers/Frank Herbert - Children of Dune.jpg]])
+![[Attachments/Covers/Frank Herbert - Children of Dune.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

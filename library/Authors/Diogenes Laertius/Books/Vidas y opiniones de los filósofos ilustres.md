@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Vidas y opiniones de los filósofos ilustres
 
-![|200]([[Attachments/Covers/Diogenes Laertius - Vidas y opiniones de los filósofos ilustres.jpg]])
+![[Attachments/Covers/Diogenes Laertius - Vidas y opiniones de los filósofos ilustres.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

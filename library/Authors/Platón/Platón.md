@@ -1,8 +1,8 @@
 ---
 name: "Platón"
 country: "[[Greece]]"
-birth_year: ""
-death_year: ""
+birth_year: "0427"
+death_year: "0347"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Plato (c. 427–347 BCE) was a classical Greek philosopher from an aristocratic Athenian family and one of the foundational figures in Western philosophy. A student of Socrates, he was deeply marked by Socrates’ trial and execution, which shaped his lifelong concern with justice, ethics, and the proper organization of the city-state. After Socrates’ death, Plato traveled widely in the Mediterranean, encountering different political systems and philosophical ideas that influenced his thinking.
+Plato (c. 427–347 BC) was an ancient Greek philosopher from Athens and one of the most influential thinkers in Western intellectual history. A student of Socrates and later the teacher of Aristotle, he stood at the center of a crucial philosophical lineage that shaped ethics, politics, metaphysics, and epistemology for millennia. Deeply affected by the trial and execution of Socrates, Plato devoted much of his work to examining justice, virtue, knowledge, and the ideal organization of society, often using Socrates as a central character.
 
-He founded the Academy in Athens, often considered the first institution of higher learning in the Western world, where he taught mathematics, philosophy, and the sciences to generations of students, including Aristotle. Through his dialogues—philosophical works that often feature Socrates as a central character—Plato explored topics such as the theory of Forms, the immortality of the soul, the nature of knowledge, and the relation between appearance and reality. His reflections on political order, especially in works like the Republic, set enduring terms for debates about justice, virtue, and the role of philosophers in public life.
+Plato founded the Academy in Athens, one of the earliest known institutions of higher learning in the Western world, where philosophy, mathematics, and the sciences were studied. His ideas about the Forms, the immortality of the soul, and the role of philosophers as potential rulers profoundly marked later religious, philosophical, and political thought. Many of his works are dialogues, a form that stages philosophical inquiry as a living conversation between characters, and collections such as "Dialogues" gather these texts to show the range of his investigations.
 
-Plato’s intellectual legacy shaped not only ancient Greek and Hellenistic thought, but also medieval Christian, Jewish, and Islamic philosophy and much of modern philosophy. His influence can be traced in metaphysics, epistemology, ethics, political theory, and educational ideals. The relationships among Socrates, Plato, and Aristotle formed a pivotal lineage in the history of ideas, and Plato’s Academy became a model for later schools and universities, securing his reputation as one of the most significant thinkers in human history.
+Beyond his intellectual achievements, Plato is significant for how he wove together logic, myth, and dramatic narrative to explore human life and the structure of reality. His reflections on friendship, love, education, and the responsibilities of leaders influenced not only subsequent philosophers but also statesmen, theologians, and writers. Through the transmission of his dialogues across languages and centuries, he continues to shape how readers everywhere think about reason, morality, and the possibility of a just society.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sátiras. Epístolas. Arte Poética
 
-![|200]([[Attachments/Covers/Horacio - Sátiras. Epístolas. Arte Poética.jpg]])
+![[Attachments/Covers/Horacio - Sátiras. Epístolas. Arte Poética.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

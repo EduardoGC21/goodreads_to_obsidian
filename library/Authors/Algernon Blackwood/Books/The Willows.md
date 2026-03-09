@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Willows
 
-![|200]([[Attachments/Covers/Algernon Blackwood - The Willows.jpg]])
+![[Attachments/Covers/Algernon Blackwood - The Willows.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

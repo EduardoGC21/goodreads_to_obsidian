@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Poe: Stories and Poems: A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens)
 
-![|200]([[Attachments/Covers/Gareth Hinds - Poe Stories and Poems A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens).jpg]])
+![[Attachments/Covers/Gareth Hinds - Poe Stories and Poems A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

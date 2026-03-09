@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Genghis Khan and the Making of the Modern World
 
-![|200]([[Attachments/Covers/Jack Weatherford - Genghis Khan and the Making of the Modern World.jpg]])
+![[Attachments/Covers/Jack Weatherford - Genghis Khan and the Making of the Modern World.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

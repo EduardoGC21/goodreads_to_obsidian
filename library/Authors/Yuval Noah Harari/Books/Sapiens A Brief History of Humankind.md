@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sapiens: A Brief History of Humankind
 
-![|200]([[Attachments/Covers/Yuval Noah Harari - Sapiens A Brief History of Humankind.jpg]])
+![[Attachments/Covers/Yuval Noah Harari - Sapiens A Brief History of Humankind.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

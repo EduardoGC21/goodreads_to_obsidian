@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lisístrata
 
-![|200]([[Attachments/Covers/Aristophanes - Lisístrata.jpg]])
+![[Attachments/Covers/Aristophanes - Lisístrata.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

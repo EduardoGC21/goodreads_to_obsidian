@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Rojo y negro
 
-![|200]([[Attachments/Covers/Stendhal - Rojo y negro.jpg]])
+![[Attachments/Covers/Stendhal - Rojo y negro.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La pata de mono
 
-![|200]([[Attachments/Covers/W.W. Jacobs - La pata de mono.jpg]])
+![[Attachments/Covers/W.W. Jacobs - La pata de mono.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

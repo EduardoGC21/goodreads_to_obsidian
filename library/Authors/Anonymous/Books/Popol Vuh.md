@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Popol Vuh
 
-![|200]([[Attachments/Covers/Anonymous - Popol Vuh.jpg]])
+![[Attachments/Covers/Anonymous - Popol Vuh.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

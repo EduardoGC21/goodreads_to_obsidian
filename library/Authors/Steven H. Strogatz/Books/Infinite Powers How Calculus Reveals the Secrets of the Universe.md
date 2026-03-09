@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Infinite Powers: How Calculus Reveals the Secrets of the Universe
 
-![|200]([[Attachments/Covers/Steven H. Strogatz - Infinite Powers How Calculus Reveals the Secrets of the Universe.jpg]])
+![[Attachments/Covers/Steven H. Strogatz - Infinite Powers How Calculus Reveals the Secrets of the Universe.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El capote
 
-![|200]([[Attachments/Covers/Nikolai Gogol - El capote.jpg]])
+![[Attachments/Covers/Nikolai Gogol - El capote.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

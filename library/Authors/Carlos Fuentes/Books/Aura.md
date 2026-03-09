@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Aura
 
-![|200]([[Attachments/Covers/Carlos Fuentes - Aura.jpg]])
+![[Attachments/Covers/Carlos Fuentes - Aura.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

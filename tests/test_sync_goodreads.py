@@ -434,6 +434,17 @@ class GoodreadsSyncTests(unittest.TestCase):
         self.assertEqual(len(errors), 1)
         self.assertIn("no usable images", errors[0])
         self.assertIn("Bing Images", errors[0])
+    def test_render_book_header_uses_obsidian_embed(self) -> None:
+        header = sync_goodreads.render_book_header(
+            "Egyptian Mythology",
+            "[[Attachments/Covers/Geraldine Pinch - Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.jpg]]",
+        )
+        self.assertIn(
+            "![[Attachments/Covers/Geraldine Pinch - Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.jpg|200]]",
+            header,
+        )
+        self.assertNotIn("![|200](", header)
+
     def test_chekhov_record_materializes_under_normalized_author(self) -> None:
         base = make_case_dir("chekhov_fix")
         csv_path = base / "goodreads.csv"
@@ -453,6 +464,45 @@ class GoodreadsSyncTests(unittest.TestCase):
         _, expected_author = sync_goodreads.apply_manual_record_fixes("Cuentos", "Anton Chekhov")
         self.assertTrue((vault_root / "Authors" / expected_author / f"{expected_author}.md").exists())
         self.assertTrue((vault_root / "Authors" / expected_author / "Books" / "Cuentos Chejov.md").exists())
+        self.assertFalse((vault_root / "Authors" / "Anton Chekhov").exists())
+
+    def test_run_sync_merges_chekhov_alias_directories(self) -> None:
+        base = make_case_dir("chekhov_alias_merge")
+        csv_path = base / "goodreads.csv"
+        vault_root = base / "library_v2"
+        canonical_author = sync_goodreads.CHEKHOV_CANONICAL_AUTHOR
+        mojibake_author = "AntÃ³n ChÃ©jov"
+
+        for author_name, book_title in (
+            (canonical_author, "Cinco novelas cortas"),
+            (mojibake_author, "Cuentos Chejov"),
+            ("Anton Chekhov", "La estepa - En el barranco"),
+        ):
+            books_dir = vault_root / "Authors" / author_name / "Books"
+            books_dir.mkdir(parents=True, exist_ok=True)
+            (vault_root / "Authors" / author_name / f"{author_name}.md").write_text("---\nname: \"temp\"\n---\n", encoding="utf-8")
+            (books_dir / f"{book_title}.md").write_text("---\ntitle: \"temp\"\n---\n", encoding="utf-8")
+
+        write_csv(csv_path, [{
+            "Book Id": "1", "Title": "La estepa / En el barranco", "Author": "Anton Chekhov", "Author l-f": "Chekhov, Anton",
+            "Additional Authors": "", "ISBN": "", "ISBN13": "", "My Rating": "4", "Average Rating": "",
+            "Publisher": "Porr?a", "Binding": "Paperback", "Number of Pages": "300", "Year Published": "2000",
+            "Original Publication Year": "1900", "Date Read": "2026-01-01", "Date Added": "2026-01-01",
+            "Bookshelves": "clasicos", "Bookshelves with positions": "", "Exclusive Shelf": "read",
+            "My Review": "", "Spoiler": "", "Private Notes": "", "Read Count": "1", "Owned Copies": "1",
+        }])
+
+        with patch.object(sync_goodreads, "fetch_cover_url_with_fallbacks", return_value=("", [])), patch.object(
+            sync_goodreads, "generate_author_metadata_via_codex", return_value=(sync_goodreads.AuthorMetadataResult(biography="Anton Chekhov was a Russian writer.", country="Russia", birth_year="1860", death_year="1904"), [])
+        ):
+            sync_goodreads.run_sync(csv_path, vault_root)
+
+        canonical_dir = vault_root / "Authors" / canonical_author
+        self.assertTrue((canonical_dir / f"{canonical_author}.md").exists())
+        self.assertTrue((canonical_dir / "Books" / "Cinco novelas cortas.md").exists())
+        self.assertTrue((canonical_dir / "Books" / "Cuentos Chejov.md").exists())
+        self.assertTrue((canonical_dir / "Books" / "La estepa - En el barranco.md").exists())
+        self.assertFalse((vault_root / "Authors" / mojibake_author).exists())
         self.assertFalse((vault_root / "Authors" / "Anton Chekhov").exists())
 
     def test_migrate_yaml_normalizes_status_bookshelves_tags_country_and_new_fields(self) -> None:

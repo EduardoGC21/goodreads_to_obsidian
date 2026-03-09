@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World)
 
-![|200]([[Attachments/Covers/Marc Van de Mieroop - A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World).jpg]])
+![[Attachments/Covers/Marc Van de Mieroop - A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

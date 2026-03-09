@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Diosa Blanca
 
-![|200]([[Attachments/Covers/Robert Graves - La Diosa Blanca.jpg]])
+![[Attachments/Covers/Robert Graves - La Diosa Blanca.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

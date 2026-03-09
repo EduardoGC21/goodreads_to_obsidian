@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Señor de las Moscas
 
-![|200]([[Attachments/Covers/William Golding - El Señor de las Moscas.jpg]])
+![[Attachments/Covers/William Golding - El Señor de las Moscas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

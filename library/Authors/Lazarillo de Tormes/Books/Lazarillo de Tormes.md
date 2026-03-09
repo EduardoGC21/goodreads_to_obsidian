@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lazarillo de Tormes
 
-![|200]([[Attachments/Covers/Lazarillo de Tormes - Lazarillo de Tormes.jpg]])
+![[Attachments/Covers/Lazarillo de Tormes - Lazarillo de Tormes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

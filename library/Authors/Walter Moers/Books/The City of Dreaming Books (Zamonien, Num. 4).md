@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The City of Dreaming Books (Zamonien, Num. 4)
 
-![|200]([[Attachments/Covers/Walter Moers - The City of Dreaming Books (Zamonien, Num. 4).jpg]])
+![[Attachments/Covers/Walter Moers - The City of Dreaming Books (Zamonien, Num. 4).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

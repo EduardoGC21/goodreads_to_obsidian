@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Nudge: Improving Decisions About Health, Wealth, and Happiness
 
-![|200]([[Attachments/Covers/Richard H. Thaler - Nudge Improving Decisions About Health, Wealth, and Happiness.jpg]])
+![[Attachments/Covers/Richard H. Thaler - Nudge Improving Decisions About Health, Wealth, and Happiness.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

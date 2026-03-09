@@ -625,16 +625,51 @@ def is_anonymous_author(author_name: str) -> bool:
     return repair_text_value(author_name).casefold() in {"", "anonymous", "anon", "unknown"}
 
 
+CHEKHOV_CANONICAL_AUTHOR = "Antón Chéjov"
+CHEKHOV_ALIAS_KEYS = {"anton chekhov", "anton chejov"}
+CHEKHOV_ALIAS_PATTERNS = (
+    "anton chekhov",
+    "anton chejov",
+    "antÃ³n chÃ©jov",
+)
+
+
+def normalize_author_alias_key(author_name: str) -> str:
+    repaired = repair_text_value(author_name)
+    normalized = unicodedata.normalize("NFKD", repaired)
+    return "".join(char for char in normalized if not unicodedata.combining(char)).casefold().strip()
+
+
+def is_chekhov_alias(author_name: str) -> bool:
+    candidate_forms = {
+        author_name.casefold(),
+        repair_text_value(author_name).casefold(),
+        normalize_author_alias_key(author_name),
+    }
+    for form in candidate_forms:
+        if any(pattern in form for pattern in CHEKHOV_ALIAS_PATTERNS):
+            return True
+        if "ant" in form and "ch" in form and "jov" in form:
+            return True
+    return False
+
+
 def normalize_author_name(author_name: str) -> str:
-    return "Anonymous" if is_anonymous_author(author_name) else repair_text_value(author_name)
+    if is_anonymous_author(author_name):
+        return "Anonymous"
+    repaired = repair_text_value(author_name)
+    if is_chekhov_alias(repaired):
+        return CHEKHOV_CANONICAL_AUTHOR
+    return repaired
 
 
 def apply_manual_record_fixes(title: str, author_name: str) -> tuple[str, str]:
     normalized_title = sanitize_obsidian_text(title).casefold()
-    normalized_author = repair_text_value(author_name).casefold()
-    if normalized_title == "cuentos" and any(token in normalized_author for token in ("chekhov", "chejov", "ch?jov")):
-        return "Cuentos Chejov", "AntÃ³n ChÃ©jov"
-    return title, author_name
+    canonical_author = normalize_author_name(author_name)
+    normalized_author_key = normalize_author_alias_key(canonical_author)
+    if normalized_title == "cuentos" and normalized_author_key in CHEKHOV_ALIAS_KEYS:
+        return "Cuentos Chejov", CHEKHOV_CANONICAL_AUTHOR
+    return title, canonical_author
 
 def classify_format(binding: str) -> str:
     value = repair_text_value(binding).casefold()
@@ -849,7 +884,7 @@ def set_generated_block(body: str, marker_key: str, rendered_block: str) -> str:
 
 
 def render_book_header(title: str, cover_link: str) -> str:
-    image_block = f"![|200]({cover_link})" if cover_link else "> Cover not available."
+    image_block = f"!{cover_link[:-2]}|200]]" if cover_link.startswith("[[") and cover_link.endswith("]]") else "> Cover not available."
     return f"# {title}\n\n{image_block}"
 
 
@@ -1949,6 +1984,45 @@ def migrate_yaml(vault_root: Path) -> tuple[int, int]:
     return authors, books
 
 
+def merge_known_author_aliases(vault_root: Path) -> None:
+    authors_root = vault_root / "Authors"
+    if not authors_root.exists():
+        return
+
+    canonical_dir = authors_root / CHEKHOV_CANONICAL_AUTHOR
+    canonical_books_dir = canonical_dir / "Books"
+
+    for author_dir in list(authors_root.iterdir()):
+        if not author_dir.is_dir():
+            continue
+        if author_dir.name == CHEKHOV_CANONICAL_AUTHOR:
+            continue
+        if not is_chekhov_alias(author_dir.name):
+            continue
+
+        canonical_dir.mkdir(parents=True, exist_ok=True)
+        canonical_books_dir.mkdir(parents=True, exist_ok=True)
+
+        alias_books_dir = author_dir / "Books"
+        if alias_books_dir.exists():
+            for note_path in alias_books_dir.iterdir():
+                destination = canonical_books_dir / note_path.name
+                if destination.exists():
+                    note_path.unlink(missing_ok=True)
+                else:
+                    shutil.move(str(note_path), str(destination))
+            shutil.rmtree(alias_books_dir, ignore_errors=True)
+
+        for note_path in author_dir.glob("*.md"):
+            destination = canonical_dir / f"{CHEKHOV_CANONICAL_AUTHOR}.md"
+            if destination.exists():
+                note_path.unlink(missing_ok=True)
+            else:
+                shutil.move(str(note_path), str(destination))
+
+        shutil.rmtree(author_dir, ignore_errors=True)
+
+
 def run_sync(
     csv_path: Path,
     vault_root: Path,
@@ -1961,6 +2035,7 @@ def run_sync(
     image_only: bool = False,
 ) -> SyncSummary:
     ensure_directories(vault_root)
+    merge_known_author_aliases(vault_root)
     review_sections = create_manual_review_collector()
     summary = SyncSummary()
 

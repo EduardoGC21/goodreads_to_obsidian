@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El libro de arena
 
-![|200]([[Attachments/Covers/Jorge Luis Borges - El libro de arena.jpg]])
+![[Attachments/Covers/Jorge Luis Borges - El libro de arena.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

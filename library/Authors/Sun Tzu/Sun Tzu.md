@@ -1,8 +1,8 @@
 ---
 name: "Sun Tzu"
 country: "[[China]]"
-birth_year: ""
-death_year: ""
+birth_year: "0544"
+death_year: "0496"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Sun Tzu (often rendered Sunzi) is traditionally regarded as a military strategist and philosopher from ancient China, associated with the late Spring and Autumn or early Warring States period. Although details of his life are sparse and partly legendary, he is said to have served as a general and adviser to the state of Wu, where his insights into warfare, leadership, and discipline shaped the conduct of armies and the politics of his time.
+Sun Tzu (traditionally 0544–0496 BCE) is credited as the author of "The Art of War," one of the most influential treatises on strategy and military theory in world history. Said to have been a military commander and strategist serving the state of Wu during China’s late Spring and Autumn period, he is portrayed as a figure who combined battlefield experience with a deep understanding of politics, psychology, and statecraft. Classical sources describe him advising rulers on how to strengthen the state, discipline armies, and win conflicts with minimal cost in lives and resources.
 
-He is credited as the author of "The Art of War", a concise treatise on strategy that blends practical military guidance with broader reflections on psychology, organization, and the wise use of power. Over centuries, this work has been studied not only by soldiers and rulers but also by scholars, statesmen, and business leaders, helping to cement Sun Tzu’s reputation as one of history’s most influential thinkers on conflict and strategy.
+Although historians debate the exact details of his life and even whether "Sun Tzu" represents a single historical individual or a later composite, the persona associated with his name has had enormous cultural and intellectual impact. "The Art of War" shaped Chinese military and political thinking for centuries and later influenced leaders, revolutionaries, and strategists around the world in fields ranging from warfare and diplomacy to business and management. Sun Tzu’s emphasis on intelligence, adaptability, and understanding both oneself and one’s opponents has kept his ideas central to discussions of strategy and leadership long after his own era.
 
-Because he lived in an early historical era and records are fragmentary, many aspects of Sun Tzu’s biography—including precise dates, personal relationships, and specific campaigns—remain uncertain or debated among historians. Nonetheless, his legacy endures through the strategic principles attributed to him, which emphasize flexibility, knowledge of oneself and one’s adversaries, and the pursuit of victory with minimal cost.
+In traditional accounts, Sun Tzu is associated with the broader intellectual milieu that produced many of early China’s classic texts, and he is sometimes linked—directly or by later interpretation—to other strategists and thinkers who served rival states. While specific personal relationships are sparsely documented and often legendary, his legacy is that of a teacher whose concise principles guided generations of rulers, generals, and scholars seeking to navigate the complexities of power, conflict, and state survival.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

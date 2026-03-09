@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cándido / Micromegas / Zadig
 
-![|200]([[Attachments/Covers/Voltaire - Cándido Micromegas Zadig.jpg]])
+![[Attachments/Covers/Voltaire - Cándido Micromegas Zadig.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

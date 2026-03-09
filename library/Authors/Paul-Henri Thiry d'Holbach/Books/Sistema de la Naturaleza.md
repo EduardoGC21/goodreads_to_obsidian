@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sistema de la Naturaleza
 
-![|200]([[Attachments/Covers/Paul-Henri Thiry d'Holbach - Sistema de la Naturaleza.jpg]])
+![[Attachments/Covers/Paul-Henri Thiry d'Holbach - Sistema de la Naturaleza.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

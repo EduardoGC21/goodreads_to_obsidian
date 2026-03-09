@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # En las cimas de la desesperación
 
-![|200]([[Attachments/Covers/Emil M. Cioran - En las cimas de la desesperación.jpg]])
+![[Attachments/Covers/Emil M. Cioran - En las cimas de la desesperación.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

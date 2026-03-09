@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Silmarillion
 
-![|200]([[Attachments/Covers/J.R.R. Tolkien - The Silmarillion.jpg]])
+![[Attachments/Covers/J.R.R. Tolkien - The Silmarillion.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

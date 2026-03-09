@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # History of the Later Roman Empire, Ad 284-641: The Transformation of the Ancient World
 
-![|200]([[Attachments/Covers/Stephen Mitchell - History of the Later Roman Empire, Ad 284-641 The Transformation of the Ancient World.jpg]])
+![[Attachments/Covers/Stephen Mitchell - History of the Later Roman Empire, Ad 284-641 The Transformation of the Ancient World.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 
-![|200]([[Attachments/Covers/Gary Keller - The One Thing The Surprisingly Simple Truth Behind Extraordinary Results.jpg]])
+![[Attachments/Covers/Gary Keller - The One Thing The Surprisingly Simple Truth Behind Extraordinary Results.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

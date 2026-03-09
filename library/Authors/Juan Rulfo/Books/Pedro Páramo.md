@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Pedro Páramo
 
-![|200]([[Attachments/Covers/Juan Rulfo - Pedro Páramo.jpg]])
+![[Attachments/Covers/Juan Rulfo - Pedro Páramo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

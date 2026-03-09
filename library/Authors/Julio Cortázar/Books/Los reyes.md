@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los reyes
 
-![|200]([[Attachments/Covers/Julio Cortázar - Los reyes.jpg]])
+![[Attachments/Covers/Julio Cortázar - Los reyes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

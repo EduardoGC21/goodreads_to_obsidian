@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El retorno del rey (El señor de los anillos, Num. 3)
 
-![|200]([[Attachments/Covers/J.R.R. Tolkien - El retorno del rey (El señor de los anillos, Num. 3).jpg]])
+![[Attachments/Covers/J.R.R. Tolkien - El retorno del rey (El señor de los anillos, Num. 3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

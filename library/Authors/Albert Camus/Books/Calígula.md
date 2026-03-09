@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Calígula
 
-![|200]([[Attachments/Covers/Albert Camus - Calígula.jpg]])
+![[Attachments/Covers/Albert Camus - Calígula.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

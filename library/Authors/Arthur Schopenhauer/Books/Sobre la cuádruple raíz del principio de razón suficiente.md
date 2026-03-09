@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sobre la cuádruple raíz del principio de razón suficiente
 
-![|200]([[Attachments/Covers/Arthur Schopenhauer - Sobre la cuádruple raíz del principio de razón suficiente.jpg]])
+![[Attachments/Covers/Arthur Schopenhauer - Sobre la cuádruple raíz del principio de razón suficiente.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

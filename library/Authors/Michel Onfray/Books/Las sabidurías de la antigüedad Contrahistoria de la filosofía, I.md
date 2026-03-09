@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las sabidurías de la antigüedad: Contrahistoria de la filosofía, I
 
-![|200]([[Attachments/Covers/Michel Onfray - Las sabidurías de la antigüedad Contrahistoria de la filosofía, I.jpg]])
+![[Attachments/Covers/Michel Onfray - Las sabidurías de la antigüedad Contrahistoria de la filosofía, I.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

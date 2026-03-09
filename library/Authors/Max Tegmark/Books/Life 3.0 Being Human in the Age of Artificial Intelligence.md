@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Life 3.0: Being Human in the Age of Artificial Intelligence
 
-![|200]([[Attachments/Covers/Max Tegmark - Life 3.0 Being Human in the Age of Artificial Intelligence.jpg]])
+![[Attachments/Covers/Max Tegmark - Life 3.0 Being Human in the Age of Artificial Intelligence.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

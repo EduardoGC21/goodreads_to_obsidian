@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Criticón
 
-![|200]([[Attachments/Covers/Baltasar Gracián - El Criticón.jpg]])
+![[Attachments/Covers/Baltasar Gracián - El Criticón.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Budismo sin creencias: Guía contemporánea para despertar (Spanish Edition)
 
-![|200]([[Attachments/Covers/Stephen Batchelor - Budismo sin creencias Guía contemporánea para despertar (Spanish Edition).jpg]])
+![[Attachments/Covers/Stephen Batchelor - Budismo sin creencias Guía contemporánea para despertar (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

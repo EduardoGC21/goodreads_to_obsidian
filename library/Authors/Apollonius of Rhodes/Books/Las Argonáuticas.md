@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las Argonáuticas
 
-![|200]([[Attachments/Covers/Apollonius of Rhodes - Las Argonáuticas.jpg]])
+![[Attachments/Covers/Apollonius of Rhodes - Las Argonáuticas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

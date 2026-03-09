@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Dhammapada
 
-![|200]([[Attachments/Covers/Anonymous - Dhammapada.jpg]])
+![[Attachments/Covers/Anonymous - Dhammapada.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # H.P. Lovecraft's At the Mountains of Madness, Volume 2
 
-![|200]([[Attachments/Covers/Gou Tanabe - H.P. Lovecraft's At the Mountains of Madness, Volume 2.jpg]])
+![[Attachments/Covers/Gou Tanabe - H.P. Lovecraft's At the Mountains of Madness, Volume 2.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

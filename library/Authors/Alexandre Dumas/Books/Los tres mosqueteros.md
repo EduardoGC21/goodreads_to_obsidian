@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los tres mosqueteros
 
-![|200]([[Attachments/Covers/Alexandre Dumas - Los tres mosqueteros.jpg]])
+![[Attachments/Covers/Alexandre Dumas - Los tres mosqueteros.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

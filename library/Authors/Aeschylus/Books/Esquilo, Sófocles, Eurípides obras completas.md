@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Esquilo, Sófocles, Eurípides obras completas
 
-![|200]([[Attachments/Covers/Aeschylus - Esquilo, Sófocles, Eurípides obras completas.jpg]])
+![[Attachments/Covers/Aeschylus - Esquilo, Sófocles, Eurípides obras completas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos hebreos
 
-![|200]([[Attachments/Covers/Robert Graves - Los mitos hebreos.jpg]])
+![[Attachments/Covers/Robert Graves - Los mitos hebreos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

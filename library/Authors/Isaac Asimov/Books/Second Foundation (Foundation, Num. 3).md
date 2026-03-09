@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Second Foundation (Foundation, Num. 3)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Second Foundation (Foundation, Num. 3).jpg]])
+![[Attachments/Covers/Isaac Asimov - Second Foundation (Foundation, Num. 3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -18,7 +18,7 @@ Review these items manually after the sync run.
 - Anonymous - Evangelios Apócrifos (Sepan Cuantos, Num. 602): Cover image not found (row 344)
 - Anonymous - La epopeya de Gilgamesh: Cover image not found (row 351)
 - Antoine de Saint-Exupéry - El Principito (Sepan Cuantos, Num. 299): Cover image not found (row 95)
-- Anton Chekhov - La estepa / En el barranco: Cover image not found (row 47)
+- Antón Chéjov - La estepa / En el barranco: Cover image not found (row 47)
 - Apolodoro - Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition): Cover image not found (row 89)
 - Aristophanes - Comedias I. Los acarnienses. Los caballeros.: Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition): Cover image not found (row 35)
 - Aristophanes - Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition): Cover image not found (row 34)
@@ -132,7 +132,6 @@ Review these items manually after the sync run.
 - Percy Bysshe Shelley - Selected Poems and Prose (Penguin Classics): Cover image not found (row 180)
 - Percy Bysshe Shelley - The Cenci: A Tragedy in Five Acts: An Authoritative Text Based on the 1819 Edition: Cover image not found (row 181)
 - Platón - Diálogos (Sepan Cuantos, Num. 13): Cover image not found (row 116)
-- Raúl Prebisch - Introducción a Keynes: Cover image not found (row 420)
 - Richard Dawkins - The Selfish Gene: Cover image not found (row 413)
 - Robert Malcolm Errington - A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16): Cover image not found (row 187)
 - Roberto Calasso - Las bodas de Cadmo y Harmonía: Cover image not found (row 270)
@@ -161,7 +160,7 @@ Review these items manually after the sync run.
 - Yuji Oniki - The Art of Howl's Moving Castle: Cover image not found (row 38)
 
 ## Failed Author Biographies
-- None.
+- Homer: Codex biography generation produced unusable output for Homer.
 
 ## Broken Book Materialization
 - None.
@@ -260,7 +259,7 @@ Review these items manually after the sync run.
 - Albert Camus - El extranjero: No ISBN or ISBN13 found (row 75)
 - Albert Camus - La peste: No ISBN or ISBN13 found (row 76)
 - Algernon Blackwood - The Wendigo: No ISBN or ISBN13 found (row 64)
-- Anton Chekhov - La estepa / En el barranco: No ISBN or ISBN13 found (row 47)
+- Antón Chéjov - La estepa / En el barranco: No ISBN or ISBN13 found (row 47)
 - Arthur C. Clarke - Childhood’s End: No ISBN or ISBN13 found (row 27)
 - Arthur C. Clarke - The City and the Stars: No ISBN or ISBN13 found (row 26)
 - Byung-Chul Han - La sociedad del cansancio: No ISBN or ISBN13 found (row 398)
@@ -330,8 +329,7 @@ Review these items manually after the sync run.
 - Google Books search failed for El extranjero: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22El+extranjero%22%2Binauthor%3A%22Albert+Camus%22&maxResults=1
 - Google Books search failed for Grimm's Fairy Tales: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Grimm%27s+Fairy+Tales%22%2Binauthor%3A%22Jacob+Grimm%22&maxResults=1
 - Google Books search failed for Introduccion A La Teoria Monetaria: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Introduccion+A+La+Teoria+Monetaria%22%2Binauthor%3A%22Lester+Vernon+Chandler%22&maxResults=1
-- Google Books search failed for Introducción a Keynes: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Introducci%C3%B3n+a+Keynes%22%2Binauthor%3A%22Ra%C3%BAl+Prebisch%22&maxResults=1
-- Google Books search failed for La estepa / En el barranco: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22La+estepa+%2F+En+el+barranco%22%2Binauthor%3A%22Anton+Chekhov%22&maxResults=1
+- Google Books search failed for La estepa / En el barranco: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22La+estepa+%2F+En+el+barranco%22%2Binauthor%3A%22Ant%C3%B3n+Ch%C3%A9jov%22&maxResults=1
 - Google Books search failed for La sociedad del cansancio: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22La+sociedad+del+cansancio%22%2Binauthor%3A%22Byung-Chul+Han%22&maxResults=1
 - Google Books search failed for Las dos torres (El señor de los anillos, Num. 2): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Las+dos+torres+%28El+se%C3%B1or+de+los+anillos%2C+%232%29%22%2Binauthor%3A%22J.R.R.+Tolkien%22&maxResults=1
 - Google Books search failed for Lo bello y lo sublime ensayo de estetica y moral: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Lo+bello+y+lo+sublime+ensayo+de+estetica+y+moral%22%2Binauthor%3A%22Immanuel+Kant%22&maxResults=1
@@ -356,8 +354,7 @@ Review these items manually after the sync run.
 - Wikimedia Commons search failed for El extranjero: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+extranjero+Albert+Camus&gsrlimit=5&prop=imageinfo&iiprop=url
 - Wikimedia Commons search failed for Grimm's Fairy Tales: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grimm%27s+Fairy+Tales+Jacob+Grimm&gsrlimit=5&prop=imageinfo&iiprop=url
 - Wikimedia Commons search failed for Introduccion A La Teoria Monetaria: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Introduccion+A+La+Teoria+Monetaria+Lester+Vernon+Chandler&gsrlimit=5&prop=imageinfo&iiprop=url
-- Wikimedia Commons search failed for Introducción a Keynes: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Introducci%C3%B3n+a+Keynes+Ra%C3%BAl+Prebisch&gsrlimit=5&prop=imageinfo&iiprop=url
-- Wikimedia Commons search failed for La estepa / En el barranco: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+estepa+%2F+En+el+barranco+Anton+Chekhov&gsrlimit=5&prop=imageinfo&iiprop=url
+- Wikimedia Commons search failed for La estepa / En el barranco: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+estepa+%2F+En+el+barranco+Ant%C3%B3n+Ch%C3%A9jov&gsrlimit=5&prop=imageinfo&iiprop=url
 - Wikimedia Commons search failed for La sociedad del cansancio: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+sociedad+del+cansancio+Byung-Chul+Han&gsrlimit=5&prop=imageinfo&iiprop=url
 - Wikimedia Commons search failed for Las dos torres (El señor de los anillos, Num. 2): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Las+dos+torres+%28El+se%C3%B1or+de+los+anillos%2C+Num.+2%29+J.R.R.+Tolkien&gsrlimit=5&prop=imageinfo&iiprop=url
 - Wikimedia Commons search failed for Lo bello y lo sublime ensayo de estetica y moral: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lo+bello+y+lo+sublime+ensayo+de+estetica+y+moral+Immanuel+Kant&gsrlimit=5&prop=imageinfo&iiprop=url
@@ -382,7 +379,6 @@ Review these items manually after the sync run.
 - Wikipedia search failed for El extranjero: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/El_extranjero
 - Wikipedia search failed for Grimm's Fairy Tales: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Grimm%27s_Fairy_Tales
 - Wikipedia search failed for Introduccion A La Teoria Monetaria: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Introduccion_A_La_Teoria_Monetaria
-- Wikipedia search failed for Introducción a Keynes: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Introducci%C3%B3n_a_Keynes
 - Wikipedia search failed for La estepa / En el barranco: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/La_estepa_%2F_En_el_barranco
 - Wikipedia search failed for La sociedad del cansancio: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/La_sociedad_del_cansancio
 - Wikipedia search failed for Las dos torres (El señor de los anillos, Num. 2): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Las_dos_torres_(El_se%C3%B1or_de_los_anillos,_%232)

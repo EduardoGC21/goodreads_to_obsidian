@@ -1,6 +1,6 @@
 ---
 title: "La estepa / En el barranco"
-author: "[[Authors/Anton Chekhov/Anton Chekhov|Anton Chekhov]]"
+author: "[[Authors/Antón Chéjov/Antón Chéjov|Antón Chéjov]]"
 status: "read"
 rating: 5
 read_count: 1

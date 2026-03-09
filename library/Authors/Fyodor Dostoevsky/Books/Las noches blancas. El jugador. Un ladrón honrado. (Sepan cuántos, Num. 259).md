@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259)
 
-![|200]([[Attachments/Covers/Fyodor Dostoevsky - Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259).jpg]])
+![[Attachments/Covers/Fyodor Dostoevsky - Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

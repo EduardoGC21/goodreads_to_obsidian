@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El mundo como voluntad y representación, II: complementos
 
-![|200]([[Attachments/Covers/Arthur Schopenhauer - El mundo como voluntad y representación, II complementos.jpg]])
+![[Attachments/Covers/Arthur Schopenhauer - El mundo como voluntad y representación, II complementos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

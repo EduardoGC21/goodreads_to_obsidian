@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Art of the Wind Rises
 
-![|200]([[Attachments/Covers/Hayao Miyazaki - Art of the Wind Rises.jpg]])
+![[Attachments/Covers/Hayao Miyazaki - Art of the Wind Rises.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

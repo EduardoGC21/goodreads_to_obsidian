@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Narrative Economics: How Stories Go Viral and Drive Major Economic Events
 
-![|200]([[Attachments/Covers/Robert J. Shiller - Narrative Economics How Stories Go Viral and Drive Major Economic Events.jpg]])
+![[Attachments/Covers/Robert J. Shiller - Narrative Economics How Stories Go Viral and Drive Major Economic Events.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

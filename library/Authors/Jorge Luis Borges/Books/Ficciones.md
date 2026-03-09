@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ficciones
 
-![|200]([[Attachments/Covers/Jorge Luis Borges - Ficciones.jpg]])
+![[Attachments/Covers/Jorge Luis Borges - Ficciones.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

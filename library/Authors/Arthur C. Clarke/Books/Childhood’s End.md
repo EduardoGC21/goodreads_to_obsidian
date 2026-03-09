@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Childhood’s End
 
-![|200]([[Attachments/Covers/Arthur C. Clarke - Childhood’s End.jpg]])
+![[Attachments/Covers/Arthur C. Clarke - Childhood’s End.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cartas a Lucilio
 
-![|200]([[Attachments/Covers/Seneca - Cartas a Lucilio.jpg]])
+![[Attachments/Covers/Seneca - Cartas a Lucilio.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

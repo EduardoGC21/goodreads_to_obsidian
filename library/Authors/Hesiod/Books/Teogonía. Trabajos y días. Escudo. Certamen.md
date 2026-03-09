@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Teogonía. Trabajos y días. Escudo. Certamen.
 
-![|200]([[Attachments/Covers/Hesiod - Teogonía. Trabajos y días. Escudo. Certamen.jpg]])
+![[Attachments/Covers/Hesiod - Teogonía. Trabajos y días. Escudo. Certamen.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos griegos 1
 
-![|200]([[Attachments/Covers/Robert Graves - Los mitos griegos 1.jpg]])
+![[Attachments/Covers/Robert Graves - Los mitos griegos 1.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

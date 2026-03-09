@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-“Lazarillo de Tormes” is not the name of a known historical author, but the fictional protagonist and title of an anonymous Spanish novella first published in 1554. The true writer has never been definitively identified, despite centuries of scholarly debate and attempts to attribute the work to various figures. Because the author chose anonymity in an era of religious and political censorship, almost nothing can be said with certainty about their personal life, background, or relationships.
+“Lazarillo de Tormes” is not the name of a known historical person but the title and fictional narrator of the anonymous 16th‑century Spanish novella “La vida de Lazarillo de Tormes y de sus fortunas y adversidades.” The work is presented as an autobiographical account written by a low-born boy, Lázaro (Lazarillo), who serves a series of masters and describes his struggles to survive in a harsh, hierarchical society.
 
-What can be said is that the anonymous author of “Lazarillo de Tormes” showed a deep, critical understanding of 16th‑century Spanish society, particularly its social hierarchies, religious institutions, and economic hardships. Through the life story of the boy Lazarillo, the author helped inaugurate the picaresque genre, influencing later European literature by centering a marginal, often hungry anti‑hero who survives through wit in a corrupt world. The choice to remain unnamed underscores the work’s daring critique of hypocrisy and power, and has become part of its enduring mystique and significance in literary history.
+Because the true author deliberately concealed their identity, nothing certain is known about their life, relationships, or specific social position. Scholars have proposed various candidates—often clerics or humanists connected to Spain’s intellectual circles—but none has been definitively proven. The enduring significance of “Lazarillo de Tormes” lies in how this anonymous voice helped establish the picaresque genre, offering a sharp, ironic critique of religious hypocrisy and social injustice in Golden Age Spain.
+
+In literary history, the “author” figure behind Lazarillo is thus treated as an unknown Spanish writer whose work profoundly influenced later European narrative fiction. The absence of a verifiable personal biography has itself become part of the book’s mystique and scholarly interest, highlighting how a single anonymous text can reshape literary tradition without leaving a traceable human profile behind it.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

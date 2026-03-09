@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Foundation's Edge (Foundation, Num. 4)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Foundation's Edge (Foundation, Num. 4).jpg]])
+![[Attachments/Covers/Isaac Asimov - Foundation's Edge (Foundation, Num. 4).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

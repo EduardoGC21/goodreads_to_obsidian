@@ -1,7 +1,7 @@
 ---
 name: "Geraldine Pinch"
 country: "[[United Kingdom]]"
-birth_year: ""
+birth_year: "1951"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Geraldine Pinch is a British Egyptologist and author specializing in the religious and mythological traditions of ancient Egypt. Trained as a professional scholar of Egyptology, she built her reputation through academic research and accessible publications that bridge the gap between specialist scholarship and general readers. Her work explores how myths, rituals, and divine figures shaped ancient Egyptian society, thought, and daily life, with particular attention to how stories about the gods were preserved, adapted, and reinterpreted over time.
+Geraldine Pinch (often credited as Geraldine Harris or Geraldine Harris Pinch) is a British Egyptologist and author whose work has helped make the complex world of ancient Egyptian religion and myth accessible to both scholars and general readers. Trained in Egyptology and long associated with the University of Oxford’s Oriental Institute and the Griffith Institute, she has taught at Oxford and Cambridge and contributed to the academic study of the ancient Near East while also writing for wider audiences.
 
-Over the course of her career, Pinch has written influential reference works and syntheses that are widely used by students, researchers, and interested lay readers. "Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt" exemplifies her approach: it systematizes complex material from texts, temples, and artifacts into a coherent guide to Egyptian deities, symbols, and religious concepts. Through this and related works, she has helped shape modern understanding of Egyptian religion and popular perceptions of ancient Egypt, making specialist research intelligible and reliable for a broad audience.
+Pinch is best known for her lucid syntheses of Egyptian religious thought, especially her studies of magic, myth, and the gods. Works such as *Magic in Ancient Egypt*, *Handbook of Egyptian Mythology* (later republished as *Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt*), and *Egyptian Myth: A Very Short Introduction* offer clear explanations of difficult primary sources and shifting religious traditions, and are widely used in classrooms and personal libraries. Under the name Geraldine Harris she has also written fiction, including the fantasy "Seven Citadels" series, showing the same interest in mythic structures and symbolic worlds that characterizes her scholarly work.
 
-Pinch’s scholarship is frequently cited in academic and popular treatments of Egyptian religion, and she has contributed to a wider appreciation of how myth functioned within one of the world’s oldest civilizations. Her work emphasizes context—how narratives about the gods intersected with royal ideology, mortuary beliefs, and local cults—offering readers a nuanced picture of ancient Egyptian culture rather than a simple catalogue of deities.
+Throughout her career Pinch has been regarded as a bridge between academic Egyptology and general readers. Her writing emphasizes the social and cultural contexts of belief, the relationships between myth and ritual, and the ways ideas about gods, magic, death, and the afterlife shaped daily life in ancient Egypt. By combining rigorous scholarship with engaging prose, she has played a significant role in shaping modern understanding of Egyptian mythology and its ongoing influence on literature and popular imagination.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

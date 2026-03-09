@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cien años de soledad
 
-![|200]([[Attachments/Covers/Gabriel García Márquez - Cien años de soledad.jpg]])
+![[Attachments/Covers/Gabriel García Márquez - Cien años de soledad.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

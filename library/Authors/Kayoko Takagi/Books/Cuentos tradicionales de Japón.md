@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos tradicionales de Japón
 
-![|200]([[Attachments/Covers/Kayoko Takagi - Cuentos tradicionales de Japón.jpg]])
+![[Attachments/Covers/Kayoko Takagi - Cuentos tradicionales de Japón.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

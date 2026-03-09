@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Thinking, Fast and Slow
 
-![|200]([[Attachments/Covers/Daniel Kahneman - Thinking, Fast and Slow.jpg]])
+![[Attachments/Covers/Daniel Kahneman - Thinking, Fast and Slow.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

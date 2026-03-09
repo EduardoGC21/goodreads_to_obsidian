@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Carta sobre el Humanismo
 
-![|200]([[Attachments/Covers/Martin Heidegger - Carta sobre el Humanismo.jpg]])
+![[Attachments/Covers/Martin Heidegger - Carta sobre el Humanismo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

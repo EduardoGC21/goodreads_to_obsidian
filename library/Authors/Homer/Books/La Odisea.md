@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Odisea
 
-![|200]([[Attachments/Covers/Homer - La Odisea.jpg]])
+![[Attachments/Covers/Homer - La Odisea.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -1,6 +1,6 @@
 ---
 name: "Marc Lichtenfeld"
-country: "[[United States]]"
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Marc Lichtenfeld is an American financial analyst, author, and investment strategist best known for his work on income investing and retirement planning. Starting his career on the trading floor, he later became a financial writer and commentator, focusing on dividend strategies and conservative approaches to building long-term wealth. Over time he developed a reputation for explaining complex financial concepts in accessible language aimed at individual investors, particularly those nearing or in retirement.
+Marc Lichtenfeld is an American financial analyst and author known for his work on income investing and retirement planning. After beginning his career on the trading desk at Carlin Equities, he became a senior analyst at Avalon Research Group and later a senior columnist for Jim Cramer’s TheStreet, establishing a reputation for contrarian, research-driven market commentary. Over more than two decades in the markets, he developed a specialty in dividend-focused strategies designed to help individual investors build sustainable long-term income.
 
-As a senior figure at an investment research firm, Lichtenfeld has written extensively on strategies to generate reliable income without taking excessive risk, emphasizing the importance of dividends, value, and capital preservation. His book "You Don't Have to Drive an Uber in Retirement" reflects his broader mission to help retirees maintain their lifestyles without returning to traditional employment or dramatically cutting expenses. Drawing on both market history and the practical realities facing retirees, his work positions him as a prominent voice in the niche of retirement income strategy.
+Lichtenfeld serves as Chief Income Strategist for The Oxford Club and its related publications, including The Oxford Income Letter and Wealthy Retirement, where he guides a large readership through conservative, income-oriented investment approaches. His books, notably "Get Rich with Dividends" and "You Don't Have to Drive an Uber in Retirement: How to Maintain Your Lifestyle without Getting a Job or Cutting Corners," reflect his emphasis on practical, step-by-step systems aimed at preserving lifestyle in retirement without excessive risk-taking. His work has been recognized by organizations such as the Institute for Financial Literacy and has been translated for international audiences.
 
-Beyond his published books, Lichtenfeld has contributed to newsletters, articles, and speaking engagements where he discusses portfolio construction, risk management, and the psychological aspects of investing. His guidance is often framed around real-world concerns—healthcare costs, longevity risk, and market volatility—making his work influential among everyday investors seeking financial independence later in life.
+Beyond writing, Lichtenfeld is a prominent educator and media commentator. He frequently appears on outlets such as CNBC, Fox Business, Yahoo Finance, and in publications including The Wall Street Journal, Barron’s, and U.S. News & World Report. As a speaker at investment conferences around the world, he focuses on helping ordinary savers—teachers, engineers, small-business owners, and others—understand how to convert their life savings into reliable income streams, positioning him as an influential voice in the field of retirement and dividend investing.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

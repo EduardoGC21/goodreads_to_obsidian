@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El discurso del método (Spanish Edition)
 
-![|200]([[Attachments/Covers/René Descartes - El discurso del método (Spanish Edition).jpg]])
+![[Attachments/Covers/René Descartes - El discurso del método (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

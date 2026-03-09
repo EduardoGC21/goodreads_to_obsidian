@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El médico de su honra
 
-![|200]([[Attachments/Covers/Pedro Calderón de la Barca - El médico de su honra.jpg]])
+![[Attachments/Covers/Pedro Calderón de la Barca - El médico de su honra.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

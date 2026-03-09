@@ -1,6 +1,6 @@
 ---
 name: "Paul-Henri Thiry d'Holbach"
-country: "[[Unknown]]"
+country: "[[Germany]]"
 birth_year: "1723"
 death_year: "1789"
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Paul-Henri Thiry, Baron d’Holbach (1723–1789), was a German-born French philosopher, encyclopedist, and one of the most radical voices of the Enlightenment. Orphaned at a young age in the Rhineland, he was brought to Paris by a wealthy uncle, whose name and fortune he inherited along with the baronial title. In Paris he studied law but devoted himself to philosophy, science, and the intellectual life of the salons, becoming a central figure in the circle around Denis Diderot and the Encyclopédie. Holbach hosted regular gatherings at his home that brought together leading thinkers of the age to debate religion, politics, and natural science.
+Paul-Henri Thiry, Baron d’Holbach (1723–1789), was a German-born French philosopher, encyclopedist, and one of the most radical thinkers of the Enlightenment. Orphaned at a young age in the Rhineland, he was taken in by a wealthy uncle in Paris, where he received an excellent education, studied law, and later natural sciences. Through this family connection and his subsequent marriage into another prosperous family, he inherited considerable wealth and the title of baron, which allowed him to live as an independent man of letters.
 
-Holbach is best known for his uncompromising atheism and materialism, set out most systematically in works such as "Système de la nature" ("The System of Nature"), which argued that the universe is governed by immutable natural laws and that religious belief is a human construction rooted in fear and ignorance. These writings, often published anonymously or under false names because of censorship, made him a key critic of revealed religion and clerical power. Through his books and his salon, Holbach helped shape the secular, rationalist strands of Enlightenment thought that would influence later political and social movements in Europe.
+In Paris, d’Holbach became a central figure in the intellectual circles surrounding Denis Diderot and the Encyclopédie. His home, often called the “café de l’Europe,” served as a famous salon where leading philosophes, scientists, and foreign visitors debated religion, politics, and science. D’Holbach contributed numerous anonymous articles to the Encyclopédie and wrote a series of fiercely materialist and atheistic works, the most famous being "Système de la nature" (System of Nature), which argued that the universe is governed solely by natural laws and that religious belief rests on fear and ignorance. He also penned vigorous critiques of Christianity and organized religion, including works later translated into Spanish such as "El cristianismo al descubierto," attacking the Church’s political power and moral authority.
 
-Despite his sharp attacks on religious and political authority, Holbach himself lived a relatively quiet and comfortable life as a Parisian gentleman. He married twice and maintained close friendships with figures such as Diderot, Jean-Jacques Rousseau (before their break), and other philosophes who visited his salon. He died in Paris in 1789, just months before the French Revolution, leaving behind a body of work that continued to symbolize the most radical critique of religion and metaphysics in the eighteenth century.
+Although many of his writings were published clandestinely or under pseudonyms because of their controversial content, d’Holbach’s ideas helped shape later secular, rationalist, and humanist thought. He remained a private citizen rather than a public revolutionary and died in Paris shortly before the French Revolution, having spent much of his life fostering debate and spreading an uncompromising vision of a naturalistic, ethical society grounded in reason rather than revelation.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El mito del eterno retorno
 
-![|200]([[Attachments/Covers/Mircea Eliade - El mito del eterno retorno.jpg]])
+![[Attachments/Covers/Mircea Eliade - El mito del eterno retorno.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

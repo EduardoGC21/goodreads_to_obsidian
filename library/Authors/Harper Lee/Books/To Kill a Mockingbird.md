@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # To Kill a Mockingbird
 
-![|200]([[Attachments/Covers/Harper Lee - To Kill a Mockingbird.jpg]])
+![[Attachments/Covers/Harper Lee - To Kill a Mockingbird.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

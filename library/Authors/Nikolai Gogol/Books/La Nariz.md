@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Nariz
 
-![|200]([[Attachments/Covers/Nikolai Gogol - La Nariz.jpg]])
+![[Attachments/Covers/Nikolai Gogol - La Nariz.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

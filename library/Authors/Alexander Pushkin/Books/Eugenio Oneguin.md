@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Eugenio Oneguin
 
-![|200]([[Attachments/Covers/Alexander Pushkin - Eugenio Oneguin.jpg]])
+![[Attachments/Covers/Alexander Pushkin - Eugenio Oneguin.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

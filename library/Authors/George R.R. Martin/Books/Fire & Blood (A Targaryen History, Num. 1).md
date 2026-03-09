@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Fire & Blood (A Targaryen History, Num. 1)
 
-![|200]([[Attachments/Covers/George R.R. Martin - Fire & Blood (A Targaryen History, Num. 1).jpg]])
+![[Attachments/Covers/George R.R. Martin - Fire & Blood (A Targaryen History, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

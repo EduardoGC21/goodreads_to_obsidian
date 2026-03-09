@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Poesía y verdad: de mi vida
 
-![|200]([[Attachments/Covers/Johann Wolfgang von Goethe - Poesía y verdad de mi vida.jpg]])
+![[Attachments/Covers/Johann Wolfgang von Goethe - Poesía y verdad de mi vida.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

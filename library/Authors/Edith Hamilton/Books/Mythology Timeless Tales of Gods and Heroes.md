@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mythology: Timeless Tales of Gods and Heroes
 
-![|200]([[Attachments/Covers/Edith Hamilton - Mythology Timeless Tales of Gods and Heroes.jpg]])
+![[Attachments/Covers/Edith Hamilton - Mythology Timeless Tales of Gods and Heroes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

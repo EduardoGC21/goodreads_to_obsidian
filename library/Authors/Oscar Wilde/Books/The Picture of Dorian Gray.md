@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Picture of Dorian Gray
 
-![|200]([[Attachments/Covers/Oscar Wilde - The Picture of Dorian Gray.jpg]])
+![[Attachments/Covers/Oscar Wilde - The Picture of Dorian Gray.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

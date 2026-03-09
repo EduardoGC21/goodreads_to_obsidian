@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Behave: The Biology of Humans at Our Best and Worst
 
-![|200]([[Attachments/Covers/Robert M. Sapolsky - Behave The Biology of Humans at Our Best and Worst.jpg]])
+![[Attachments/Covers/Robert M. Sapolsky - Behave The Biology of Humans at Our Best and Worst.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

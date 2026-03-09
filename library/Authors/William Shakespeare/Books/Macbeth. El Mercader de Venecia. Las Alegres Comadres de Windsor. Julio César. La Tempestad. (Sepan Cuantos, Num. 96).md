@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96)
 
-![|200]([[Attachments/Covers/William Shakespeare - Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96).jpg]])
+![[Attachments/Covers/William Shakespeare - Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

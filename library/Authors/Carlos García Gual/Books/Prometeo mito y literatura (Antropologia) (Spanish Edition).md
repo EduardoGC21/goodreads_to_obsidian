@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Prometeo: mito y literatura (Antropologia) (Spanish Edition)
 
-![|200]([[Attachments/Covers/Carlos García Gual - Prometeo mito y literatura (Antropologia) (Spanish Edition).jpg]])
+![[Attachments/Covers/Carlos García Gual - Prometeo mito y literatura (Antropologia) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Clash of Kings (A Song of Ice and Fire, Num. 2)
 
-![|200]([[Attachments/Covers/George R.R. Martin - A Clash of Kings (A Song of Ice and Fire, Num. 2).jpg]])
+![[Attachments/Covers/George R.R. Martin - A Clash of Kings (A Song of Ice and Fire, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

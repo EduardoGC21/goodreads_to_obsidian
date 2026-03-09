@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164)
 
-![|200]([[Attachments/Covers/Manuel García Morente - Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164).jpg]])
+![[Attachments/Covers/Manuel García Morente - Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

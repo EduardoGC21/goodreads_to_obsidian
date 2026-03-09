@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Selected Poems
 
-![|200]([[Attachments/Covers/Lord Byron - Selected Poems.jpg]])
+![[Attachments/Covers/Lord Byron - Selected Poems.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

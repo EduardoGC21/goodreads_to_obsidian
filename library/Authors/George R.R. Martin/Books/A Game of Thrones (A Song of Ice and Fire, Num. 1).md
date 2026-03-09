@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Game of Thrones (A Song of Ice and Fire, Num. 1)
 
-![|200]([[Attachments/Covers/George R.R. Martin - A Game of Thrones (A Song of Ice and Fire, Num. 1).jpg]])
+![[Attachments/Covers/George R.R. Martin - A Game of Thrones (A Song of Ice and Fire, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

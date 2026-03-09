@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Esperando a Godot
 
-![|200]([[Attachments/Covers/Samuel Beckett - Esperando a Godot.jpg]])
+![[Attachments/Covers/Samuel Beckett - Esperando a Godot.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

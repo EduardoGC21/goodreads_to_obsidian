@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sobre la paz perpetua
 
-![|200]([[Attachments/Covers/Immanuel Kant - Sobre la paz perpetua.jpg]])
+![[Attachments/Covers/Immanuel Kant - Sobre la paz perpetua.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

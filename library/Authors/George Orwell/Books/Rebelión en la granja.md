@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Rebelión en la granja
 
-![|200]([[Attachments/Covers/George Orwell - Rebelión en la granja.jpg]])
+![[Attachments/Covers/George Orwell - Rebelión en la granja.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

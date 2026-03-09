@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Odas. Canto secular. Epodos
 
-![|200]([[Attachments/Covers/Horacio - Odas. Canto secular. Epodos.jpg]])
+![[Attachments/Covers/Horacio - Odas. Canto secular. Epodos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Classical World: An Epic History from Homer to Hadrian
 
-![|200]([[Attachments/Covers/Robin Lane Fox - The Classical World An Epic History from Homer to Hadrian.jpg]])
+![[Attachments/Covers/Robin Lane Fox - The Classical World An Epic History from Homer to Hadrian.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Contemplación
 
-![|200]([[Attachments/Covers/Franz Kafka - Contemplación.jpg]])
+![[Attachments/Covers/Franz Kafka - Contemplación.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

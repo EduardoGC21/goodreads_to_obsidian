@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El gran teatro del mundo / El gran mercado del mundo
 
-![|200]([[Attachments/Covers/Pedro Calderón de la Barca - El gran teatro del mundo El gran mercado del mundo.jpg]])
+![[Attachments/Covers/Pedro Calderón de la Barca - El gran teatro del mundo El gran mercado del mundo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ser y tiempo
 
-![|200]([[Attachments/Covers/Martin Heidegger - Ser y tiempo.jpg]])
+![[Attachments/Covers/Martin Heidegger - Ser y tiempo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

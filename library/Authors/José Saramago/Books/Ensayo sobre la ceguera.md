@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ensayo sobre la ceguera
 
-![|200]([[Attachments/Covers/José Saramago - Ensayo sobre la ceguera.jpg]])
+![[Attachments/Covers/José Saramago - Ensayo sobre la ceguera.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

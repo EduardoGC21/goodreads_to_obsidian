@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Byzantium (Blackwell History of the Ancient World)
 
-![|200]([[Attachments/Covers/Timothy E. Gregory - A History of Byzantium (Blackwell History of the Ancient World).jpg]])
+![[Attachments/Covers/Timothy E. Gregory - A History of Byzantium (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

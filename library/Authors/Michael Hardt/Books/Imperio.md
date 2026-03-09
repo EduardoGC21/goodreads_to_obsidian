@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Imperio
 
-![|200]([[Attachments/Covers/Michael Hardt - Imperio.jpg]])
+![[Attachments/Covers/Michael Hardt - Imperio.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

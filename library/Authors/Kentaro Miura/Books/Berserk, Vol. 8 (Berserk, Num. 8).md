@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 8 (Berserk, Num. 8)
 
-![|200]([[Attachments/Covers/Kentaro Miura - Berserk, Vol. 8 (Berserk, Num. 8).jpg]])
+![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 8 (Berserk, Num. 8).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Muerte de Iván Ilich
 
-![|200]([[Attachments/Covers/Leo Tolstoy - La Muerte de Iván Ilich.jpg]])
+![[Attachments/Covers/Leo Tolstoy - La Muerte de Iván Ilich.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

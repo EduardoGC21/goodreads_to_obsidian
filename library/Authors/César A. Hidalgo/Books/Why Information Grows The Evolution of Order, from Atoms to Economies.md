@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Why Information Grows: The Evolution of Order, from Atoms to Economies
 
-![|200]([[Attachments/Covers/César A. Hidalgo - Why Information Grows The Evolution of Order, from Atoms to Economies.jpg]])
+![[Attachments/Covers/César A. Hidalgo - Why Information Grows The Evolution of Order, from Atoms to Economies.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

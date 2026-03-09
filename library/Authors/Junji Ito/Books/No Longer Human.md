@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # No Longer Human
 
-![|200]([[Attachments/Covers/Junji Ito - No Longer Human.jpg]])
+![[Attachments/Covers/Junji Ito - No Longer Human.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

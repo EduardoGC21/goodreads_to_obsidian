@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El cupón falso
 
-![|200]([[Attachments/Covers/Leo Tolstoy - El cupón falso.jpg]])
+![[Attachments/Covers/Leo Tolstoy - El cupón falso.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

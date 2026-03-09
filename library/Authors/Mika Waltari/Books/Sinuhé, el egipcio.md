@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sinuhé, el egipcio
 
-![|200]([[Attachments/Covers/Mika Waltari - Sinuhé, el egipcio.jpg]])
+![[Attachments/Covers/Mika Waltari - Sinuhé, el egipcio.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Heráclito. Seminario del semestre de invierno 1966-1967
 
-![|200]([[Attachments/Covers/Martin Heidegger - Heráclito. Seminario del semestre de invierno 1966-1967.jpg]])
+![[Attachments/Covers/Martin Heidegger - Heráclito. Seminario del semestre de invierno 1966-1967.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

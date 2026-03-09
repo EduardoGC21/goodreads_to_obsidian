@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Parerga y paralipómena II
 
-![|200]([[Attachments/Covers/Arthur Schopenhauer - Parerga y paralipómena II.jpg]])
+![[Attachments/Covers/Arthur Schopenhauer - Parerga y paralipómena II.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

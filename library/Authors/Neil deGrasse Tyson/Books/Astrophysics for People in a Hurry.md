@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Astrophysics for People in a Hurry
 
-![|200]([[Attachments/Covers/Neil deGrasse Tyson - Astrophysics for People in a Hurry.jpg]])
+![[Attachments/Covers/Neil deGrasse Tyson - Astrophysics for People in a Hurry.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

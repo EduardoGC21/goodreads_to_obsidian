@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Táin: From the Irish Epic Táin Bó Cúailnge
 
-![|200]([[Attachments/Covers/Anonymous - The Táin From the Irish Epic Táin Bó Cúailnge.jpg]])
+![[Attachments/Covers/Anonymous - The Táin From the Irish Epic Táin Bó Cúailnge.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Dark Forest (The Three-Body Problem, Num. 2)
 
-![|200]([[Attachments/Covers/Liu Cixin - The Dark Forest (The Three-Body Problem, Num. 2).jpg]])
+![[Attachments/Covers/Liu Cixin - The Dark Forest (The Three-Body Problem, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

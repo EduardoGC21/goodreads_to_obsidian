@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Augustus: First Emperor of Rome
 
-![|200]([[Attachments/Covers/Adrian Goldsworthy - Augustus First Emperor of Rome.jpg]])
+![[Attachments/Covers/Adrian Goldsworthy - Augustus First Emperor of Rome.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

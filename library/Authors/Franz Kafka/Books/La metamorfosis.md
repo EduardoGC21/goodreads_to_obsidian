@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La metamorfosis
 
-![|200]([[Attachments/Covers/Franz Kafka - La metamorfosis.jpg]])
+![[Attachments/Covers/Franz Kafka - La metamorfosis.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Obras completas
 
-![|200]([[Attachments/Covers/Epicurus - Obras completas.jpg]])
+![[Attachments/Covers/Epicurus - Obras completas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

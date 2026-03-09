@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Capital. Libro tercero: El proceso global de la producción capitalista
 
-![|200]([[Attachments/Covers/Karl Marx - El Capital. Libro tercero El proceso global de la producción capitalista.jpg]])
+![[Attachments/Covers/Karl Marx - El Capital. Libro tercero El proceso global de la producción capitalista.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Fausto
 
-![|200]([[Attachments/Covers/Johann Wolfgang von Goethe - Fausto.jpg]])
+![[Attachments/Covers/Johann Wolfgang von Goethe - Fausto.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

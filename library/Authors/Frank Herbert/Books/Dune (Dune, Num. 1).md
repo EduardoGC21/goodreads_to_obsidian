@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Dune (Dune, Num. 1)
 
-![|200]([[Attachments/Covers/Frank Herbert - Dune (Dune, Num. 1).jpg]])
+![[Attachments/Covers/Frank Herbert - Dune (Dune, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

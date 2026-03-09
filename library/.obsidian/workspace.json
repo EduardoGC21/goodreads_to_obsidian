@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "e6defc1e68de8762",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a91eb22aa6394dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1a6abfbdac3c9d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Library_base.base",
+                "viewName": "Library"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Library_base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa2fcc0def59dc38",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d01b8aed0c7ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de011c259ea0af36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "669a1047a5e7760c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "a game of thrones",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "966bdc80474cf380",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32742a1dc80b612c",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e62fe3c2a6261a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2addb9efcfda16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Library_base.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Library_base"
+            }
+          },
+          {
+            "id": "89fd8397309077e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Library_base.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Library_base"
+            }
+          },
+          {
+            "id": "c34c0e1b47dc2b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a1666c47dca48dc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "885d16cca9c3c002",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Library_base.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Library_base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ee1a6abfbdac3c9d",
+  "lastOpenFiles": [
+    "Library.md",
+    "Library_base.base",
+    "Attachments/Covers/Dan Simmons - Hyperion (Hyperion Cantos, Num. 1).jpg",
+    "Attachments/Covers/Edgar Allan Poe - Cuentos 1.jpg",
+    "Attachments/Covers/Eilhart von Oberg - Tristán e Isolda.jpg",
+    "Attachments/Covers/Émile Zola - Germinal (Les Rougon-Macquart, Num. 13).jpg",
+    "Attachments/Covers/Anonymous - El libro de Enoc (Spanish Edition).jpg",
+    "Attachments/Covers/Anonymous - Myths from Mesopotamia Creation, the Flood, Gilgamesh, and Others.jpg",
+    "Attachments/Covers/Algernon Blackwood - The Willows.jpg",
+    "Attachments/Covers/Alexander Pushkin - Eugenio Oneguin.jpg",
+    "Attachments/Covers/Aldous Huxley - Brave New World.jpg",
+    "Attachments/Covers/Alberto Bernabé Pajares - Mitos hititas Entre Oriente y Occidente.jpg",
+    "Authors/George R.R. Martin/Books/A Game of Thrones (A Song of Ice and Fire, Num. 1).md",
+    "Authors/Geraldine Pinch/Books/Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.md",
+    "Authors/Antón Chéjov/Antón Chéjov.md",
+    "Authors/Antón Chéjov/Books/Cinco novelas cortas.md",
+    "Authors/Antón Chéjov/Books/La gaviota El tío Vania Las tres hermanas El jardín de los cerezos.md",
+    "Authors/Antón Chéjov/Books/Cuentos Chejov.md",
+    "Authors/Antón Chéjov/Books/La estepa En el barranco.md",
+    "Authors/Antón Chéjov/Books",
+    "Authors/Antón Chéjov",
+    "[[Attachments/Covers/Geraldine.md",
+    "[[Attachments/Covers",
+    "[[Attachments",
+    "Authors/Anonymous/Anonymous.md",
+    "Authors/Anton Chekhov/Anton Chekhov.md",
+    "Authors/AntÃ³n ChÃ©jov/AntÃ³n ChÃ©jov.md",
+    "Authors/Antoine de Saint-Exupéry/Books/El Principito (Sepan Cuantos, Num. 299).md",
+    "Authors/Antoine de Saint-Exupéry/Antoine de Saint-Exupéry.md",
+    "Authors/AntÃ³n ChÃ©jov/Books/Cuentos Chejov.md",
+    "Authors/George R.R. Martin/Books/A Clash of Kings (A Song of Ice and Fire, Num. 2).md",
+    "Manual Review/Missing Metadata.md"
+  ]
+}

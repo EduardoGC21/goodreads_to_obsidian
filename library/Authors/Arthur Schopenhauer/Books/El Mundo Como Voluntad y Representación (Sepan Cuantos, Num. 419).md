@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419)
 
-![|200]([[Attachments/Covers/Arthur Schopenhauer - El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419).jpg]])
+![[Attachments/Covers/Arthur Schopenhauer - El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

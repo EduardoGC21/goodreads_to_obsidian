@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Rime of the Ancient Mariner
 
-![|200]([[Attachments/Covers/Samuel Taylor Coleridge - The Rime of the Ancient Mariner.jpg]])
+![[Attachments/Covers/Samuel Taylor Coleridge - The Rime of the Ancient Mariner.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

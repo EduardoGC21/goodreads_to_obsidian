@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Beowulf: Traducción y comentario
 
-![|200]([[Attachments/Covers/Anonymous - Beowulf Traducción y comentario.jpg]])
+![[Attachments/Covers/Anonymous - Beowulf Traducción y comentario.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

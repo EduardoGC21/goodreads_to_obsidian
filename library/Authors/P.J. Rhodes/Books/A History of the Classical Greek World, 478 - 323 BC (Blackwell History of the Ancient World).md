@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of the Classical Greek World, 478 - 323 BC (Blackwell History of the Ancient World)
 
-![|200]([[Attachments/Covers/P.J. Rhodes - A History of the Classical Greek World, 478 - 323 BC (Blackwell History of the Ancient World).jpg]])
+![[Attachments/Covers/P.J. Rhodes - A History of the Classical Greek World, 478 - 323 BC (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

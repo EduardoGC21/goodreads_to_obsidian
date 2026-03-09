@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Why Nations Fail: The Origins of Power, Prosperity, and Poverty
 
-![|200]([[Attachments/Covers/Daron Acemoğlu - Why Nations Fail The Origins of Power, Prosperity, and Poverty.jpg]])
+![[Attachments/Covers/Daron Acemoğlu - Why Nations Fail The Origins of Power, Prosperity, and Poverty.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

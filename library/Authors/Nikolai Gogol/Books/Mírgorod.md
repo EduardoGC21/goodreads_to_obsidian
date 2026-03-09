@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mírgorod
 
-![|200]([[Attachments/Covers/Nikolai Gogol - Mírgorod.jpg]])
+![[Attachments/Covers/Nikolai Gogol - Mírgorod.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

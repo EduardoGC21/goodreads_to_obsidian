@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El golem
 
-![|200]([[Attachments/Covers/Gustav Meyrink - El golem.jpg]])
+![[Attachments/Covers/Gustav Meyrink - El golem.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Don Quijote de la Mancha
 
-![|200]([[Attachments/Covers/Miguel de Cervantes Saavedra - Don Quijote de la Mancha.jpg]])
+![[Attachments/Covers/Miguel de Cervantes Saavedra - Don Quijote de la Mancha.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

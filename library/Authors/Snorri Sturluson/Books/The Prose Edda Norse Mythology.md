@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Prose Edda: Norse Mythology
 
-![|200]([[Attachments/Covers/Snorri Sturluson - The Prose Edda Norse Mythology.jpg]])
+![[Attachments/Covers/Snorri Sturluson - The Prose Edda Norse Mythology.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

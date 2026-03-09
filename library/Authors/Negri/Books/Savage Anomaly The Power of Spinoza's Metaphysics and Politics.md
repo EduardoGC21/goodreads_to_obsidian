@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Savage Anomaly: The Power of Spinoza's Metaphysics and Politics
 
-![|200]([[Attachments/Covers/Negri - Savage Anomaly The Power of Spinoza's Metaphysics and Politics.jpg]])
+![[Attachments/Covers/Negri - Savage Anomaly The Power of Spinoza's Metaphysics and Politics.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Moby-Dick or, The Whale
 
-![|200]([[Attachments/Covers/Herman Melville - Moby-Dick or, The Whale.jpg]])
+![[Attachments/Covers/Herman Melville - Moby-Dick or, The Whale.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

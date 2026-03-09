@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # 21 Lessons for the 21st Century
 
-![|200]([[Attachments/Covers/Yuval Noah Harari - 21 Lessons for the 21st Century.jpg]])
+![[Attachments/Covers/Yuval Noah Harari - 21 Lessons for the 21st Century.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

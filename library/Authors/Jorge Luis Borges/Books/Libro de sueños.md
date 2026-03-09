@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Libro de sueños
 
-![|200]([[Attachments/Covers/Jorge Luis Borges - Libro de sueños.jpg]])
+![[Attachments/Covers/Jorge Luis Borges - Libro de sueños.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

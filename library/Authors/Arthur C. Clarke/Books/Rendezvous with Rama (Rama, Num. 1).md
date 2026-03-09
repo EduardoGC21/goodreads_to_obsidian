@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Rendezvous with Rama (Rama, Num. 1)
 
-![|200]([[Attachments/Covers/Arthur C. Clarke - Rendezvous with Rama (Rama, Num. 1).jpg]])
+![[Attachments/Covers/Arthur C. Clarke - Rendezvous with Rama (Rama, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

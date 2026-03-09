@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La montaña mágica
 
-![|200]([[Attachments/Covers/Thomas Mann - La montaña mágica.jpg]])
+![[Attachments/Covers/Thomas Mann - La montaña mágica.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

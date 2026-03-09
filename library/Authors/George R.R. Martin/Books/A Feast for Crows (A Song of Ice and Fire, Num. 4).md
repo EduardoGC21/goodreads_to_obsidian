@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Feast for Crows (A Song of Ice and Fire, Num. 4)
 
-![|200]([[Attachments/Covers/George R.R. Martin - A Feast for Crows (A Song of Ice and Fire, Num. 4).jpg]])
+![[Attachments/Covers/George R.R. Martin - A Feast for Crows (A Song of Ice and Fire, Num. 4).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

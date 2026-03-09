@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Do Androids Dream of Electric Sheep?
 
-![|200]([[Attachments/Covers/Philip K. Dick - Do Androids Dream of Electric Sheep.jpg]])
+![[Attachments/Covers/Philip K. Dick - Do Androids Dream of Electric Sheep.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

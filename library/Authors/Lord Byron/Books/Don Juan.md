@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Don Juan
 
-![|200]([[Attachments/Covers/Lord Byron - Don Juan.jpg]])
+![[Attachments/Covers/Lord Byron - Don Juan.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

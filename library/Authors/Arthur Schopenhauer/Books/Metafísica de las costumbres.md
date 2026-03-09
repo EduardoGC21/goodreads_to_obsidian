@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Metafísica de las costumbres
 
-![|200]([[Attachments/Covers/Arthur Schopenhauer - Metafísica de las costumbres.jpg]])
+![[Attachments/Covers/Arthur Schopenhauer - Metafísica de las costumbres.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

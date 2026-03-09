@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las penas del joven Werther
 
-![|200]([[Attachments/Covers/Johann Wolfgang von Goethe - Las penas del joven Werther.jpg]])
+![[Attachments/Covers/Johann Wolfgang von Goethe - Las penas del joven Werther.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

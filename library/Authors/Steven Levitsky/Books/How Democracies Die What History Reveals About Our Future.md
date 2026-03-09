@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # How Democracies Die: What History Reveals About Our Future
 
-![|200]([[Attachments/Covers/Steven Levitsky - How Democracies Die What History Reveals About Our Future.jpg]])
+![[Attachments/Covers/Steven Levitsky - How Democracies Die What History Reveals About Our Future.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -1,6 +1,6 @@
 ---
 name: "Franz Kafka"
-country: "[[Unknown]]"
+country: "[[Czech Republic]]"
 birth_year: "1883"
 death_year: "1924"
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Franz Kafka (1883–1924) was a German-language writer born into a middle-class Jewish family in Prague, then part of the Austro-Hungarian Empire. Trained as a lawyer, he spent most of his adult life working in insurance while writing fiction privately, publishing only a small portion of his work during his lifetime. His complex relationships with his demanding father, his cultural position as a German-speaking Jew in a largely Czech environment, and his own fragile health and self-doubt deeply marked both his personal life and his writing.
+Franz Kafka (1883–1924) was a German-speaking Jewish writer born in Prague, then part of the Austro-Hungarian Empire, whose work profoundly shaped twentieth-century literature. Raised in a middle-class family under a domineering father, he struggled with feelings of inadequacy and alienation that later infused his fiction. Kafka studied law, completed a doctorate, and spent much of his professional life working for an insurance company, writing primarily at night and sharing his texts with a small circle of friends.
 
-Kafka’s fiction, including works such as "The Trial" and "The Castle," is renowned for depicting alienation, opaque bureaucratic power, and the absurdity of modern existence, themes that later critics would call Kafkaesque. Although he requested that his manuscripts be destroyed after his death, his friend and literary executor Max Brod ignored this wish and arranged for their publication, ensuring Kafka’s posthumous fame. Today he is regarded as one of the most influential writers of the 20th century, shaping existentialist thought, modernist literature, and countless later portrayals of anxiety, guilt, and powerlessness in modern life.
+Kafka’s work—often depicting opaque bureaucracies, anxiety, and powerlessness—captures the psychological tensions of modern life. His relationships were intense but conflicted: he was engaged multiple times, maintained a deep, complex friendship with Max Brod, and had a famously fraught relationship with his father, reflected in his long, unsent letter "Letter to His Father". Plagued by self-doubt and tuberculosis, Kafka requested that most of his manuscripts be destroyed after his death, a wish Brod ignored, leading to the posthumous publication of major works such as "The Trial", "The Castle", and "Amerika" ("The Man Who Disappeared"). These texts secured Kafka’s reputation as a central figure of existential and modernist literature.
+
+Kafka’s life was marked by the tensions of identity: he was a Jew in a largely antisemitic society, a German speaker in a predominantly Czech city, and an employee in rigid bureaucratic structures despite his artistic ambitions. His early death from complications of tuberculosis at forty-one cut short a career he himself considered marginal, yet his surviving oeuvre transformed him into an emblem of the estranged modern individual. Today, the adjective "Kafkaesque" is widely used to describe nightmarishly complex, impersonal systems, testifying to the enduring cultural impact of his imagination.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Goodnight Punpun Omnibus, Vol. 4
 
-![|200]([[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 4.jpg]])
+![[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 4.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

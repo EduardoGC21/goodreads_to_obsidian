@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Literature and the Gods
 
-![|200]([[Attachments/Covers/Roberto Calasso - Literature and the Gods.jpg]])
+![[Attachments/Covers/Roberto Calasso - Literature and the Gods.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

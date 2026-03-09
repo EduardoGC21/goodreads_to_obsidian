@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ética demostrada según el orden geométrico
 
-![|200]([[Attachments/Covers/Baruch Spinoza - Ética demostrada según el orden geométrico.jpg]])
+![[Attachments/Covers/Baruch Spinoza - Ética demostrada según el orden geométrico.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

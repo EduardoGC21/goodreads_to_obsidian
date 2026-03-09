@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ka
 
-![|200]([[Attachments/Covers/Roberto Calasso - Ka.jpg]])
+![[Attachments/Covers/Roberto Calasso - Ka.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

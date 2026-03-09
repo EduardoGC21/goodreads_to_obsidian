@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Capital. Libro primero: El proceso de producción del capital
 
-![|200]([[Attachments/Covers/Karl Marx - El Capital. Libro primero El proceso de producción del capital.jpg]])
+![[Attachments/Covers/Karl Marx - El Capital. Libro primero El proceso de producción del capital.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

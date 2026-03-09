@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La puta de Babilonia
 
-![|200]([[Attachments/Covers/Fernando Vallejo - La puta de Babilonia.jpg]])
+![[Attachments/Covers/Fernando Vallejo - La puta de Babilonia.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

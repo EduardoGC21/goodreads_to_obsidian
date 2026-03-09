@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Complete Chronicles of Conan
 
-![|200]([[Attachments/Covers/Robert E. Howard - The Complete Chronicles of Conan.jpg]])
+![[Attachments/Covers/Robert E. Howard - The Complete Chronicles of Conan.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

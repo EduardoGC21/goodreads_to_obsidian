@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Rayuela
 
-![|200]([[Attachments/Covers/Julio Cortázar - Rayuela.jpg]])
+![[Attachments/Covers/Julio Cortázar - Rayuela.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

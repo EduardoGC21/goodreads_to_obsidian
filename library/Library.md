@@ -1,4 +1,3 @@
-# Library
 
 This vault is generated from a Goodreads export.
 

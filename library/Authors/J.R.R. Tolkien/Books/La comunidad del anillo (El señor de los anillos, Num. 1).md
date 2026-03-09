@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La comunidad del anillo (El señor de los anillos, Num. 1)
 
-![|200]([[Attachments/Covers/J.R.R. Tolkien - La comunidad del anillo (El señor de los anillos, Num. 1).jpg]])
+![[Attachments/Covers/J.R.R. Tolkien - La comunidad del anillo (El señor de los anillos, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

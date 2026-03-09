@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El paraíso perdido (Sepan cuántos, Num. 194)
 
-![|200]([[Attachments/Covers/John Milton - El paraíso perdido (Sepan cuántos, Num. 194).jpg]])
+![[Attachments/Covers/John Milton - El paraíso perdido (Sepan cuántos, Num. 194).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

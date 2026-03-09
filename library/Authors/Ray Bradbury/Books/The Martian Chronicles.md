@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Martian Chronicles
 
-![|200]([[Attachments/Covers/Ray Bradbury - The Martian Chronicles.jpg]])
+![[Attachments/Covers/Ray Bradbury - The Martian Chronicles.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

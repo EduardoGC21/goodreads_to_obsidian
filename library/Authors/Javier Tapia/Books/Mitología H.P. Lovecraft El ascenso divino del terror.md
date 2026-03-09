@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitología H.P. Lovecraft: El ascenso divino del terror
 
-![|200]([[Attachments/Covers/Javier Tapia - Mitología H.P. Lovecraft El ascenso divino del terror.jpg]])
+![[Attachments/Covers/Javier Tapia - Mitología H.P. Lovecraft El ascenso divino del terror.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

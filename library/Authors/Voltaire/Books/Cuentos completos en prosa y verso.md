@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos completos en prosa y verso
 
-![|200]([[Attachments/Covers/Voltaire - Cuentos completos en prosa y verso.jpg]])
+![[Attachments/Covers/Voltaire - Cuentos completos en prosa y verso.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

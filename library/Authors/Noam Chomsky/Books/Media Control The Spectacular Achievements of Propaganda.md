@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Media Control: The Spectacular Achievements of Propaganda
 
-![|200]([[Attachments/Covers/Noam Chomsky - Media Control The Spectacular Achievements of Propaganda.jpg]])
+![[Attachments/Covers/Noam Chomsky - Media Control The Spectacular Achievements of Propaganda.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 13
 
-![|200]([[Attachments/Covers/Kentaro Miura - Berserk, Vol. 13.jpg]])
+![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 13.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Fountains of Paradise
 
-![|200]([[Attachments/Covers/Arthur C. Clarke - The Fountains of Paradise.jpg]])
+![[Attachments/Covers/Arthur C. Clarke - The Fountains of Paradise.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

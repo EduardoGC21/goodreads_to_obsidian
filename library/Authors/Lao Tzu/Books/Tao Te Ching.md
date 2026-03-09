@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tao Te Ching
 
-![|200]([[Attachments/Covers/Lao Tzu - Tao Te Ching.jpg]])
+![[Attachments/Covers/Lao Tzu - Tao Te Ching.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

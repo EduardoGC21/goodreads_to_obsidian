@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los miserables
 
-![|200]([[Attachments/Covers/Victor Hugo - Los miserables.jpg]])
+![[Attachments/Covers/Victor Hugo - Los miserables.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

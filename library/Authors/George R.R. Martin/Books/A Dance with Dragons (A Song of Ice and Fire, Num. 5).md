@@ -23,7 +23,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Dance with Dragons (A Song of Ice and Fire, Num. 5)
 
-![|200]([[Attachments/Covers/George R.R. Martin - A Dance with Dragons (A Song of Ice and Fire, Num. 5).jpg]])
+![[Attachments/Covers/George R.R. Martin - A Dance with Dragons (A Song of Ice and Fire, Num. 5).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

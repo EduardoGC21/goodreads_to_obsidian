@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las mil y una noches
 
-![|200]([[Attachments/Covers/Anonymous - Las mil y una noches.jpg]])
+![[Attachments/Covers/Anonymous - Las mil y una noches.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

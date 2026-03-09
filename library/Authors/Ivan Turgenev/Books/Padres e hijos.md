@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Padres e hijos
 
-![|200]([[Attachments/Covers/Ivan Turgenev - Padres e hijos.jpg]])
+![[Attachments/Covers/Ivan Turgenev - Padres e hijos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

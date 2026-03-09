@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Uno y los Múltiples
 
-![|200]([[Attachments/Covers/Erik Hornung - El Uno y los Múltiples.jpg]])
+![[Attachments/Covers/Erik Hornung - El Uno y los Múltiples.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

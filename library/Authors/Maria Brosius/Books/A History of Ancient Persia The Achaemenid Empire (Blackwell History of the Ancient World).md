@@ -20,7 +20,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Ancient Persia: The Achaemenid Empire (Blackwell History of the Ancient World)
 
-![|200]([[Attachments/Covers/Maria Brosius - A History of Ancient Persia The Achaemenid Empire (Blackwell History of the Ancient World).jpg]])
+![[Attachments/Covers/Maria Brosius - A History of Ancient Persia The Achaemenid Empire (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

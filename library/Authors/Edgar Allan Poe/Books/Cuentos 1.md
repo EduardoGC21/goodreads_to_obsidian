@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos 1
 
-![|200]([[Attachments/Covers/Edgar Allan Poe - Cuentos 1.jpg]])
+![[Attachments/Covers/Edgar Allan Poe - Cuentos 1.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

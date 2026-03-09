@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Momentos estelares de la humanidad: Catorce miniaturas históricas
 
-![|200]([[Attachments/Covers/Stefan Zweig - Momentos estelares de la humanidad Catorce miniaturas históricas.jpg]])
+![[Attachments/Covers/Stefan Zweig - Momentos estelares de la humanidad Catorce miniaturas históricas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

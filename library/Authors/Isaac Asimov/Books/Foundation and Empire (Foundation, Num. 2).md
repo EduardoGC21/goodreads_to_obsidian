@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Foundation and Empire (Foundation, Num. 2)
 
-![|200]([[Attachments/Covers/Isaac Asimov - Foundation and Empire (Foundation, Num. 2).jpg]])
+![[Attachments/Covers/Isaac Asimov - Foundation and Empire (Foundation, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

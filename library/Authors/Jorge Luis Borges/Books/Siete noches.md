@@ -21,7 +21,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Siete noches
 
-![|200]([[Attachments/Covers/Jorge Luis Borges - Siete noches.jpg]])
+![[Attachments/Covers/Jorge Luis Borges - Siete noches.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
