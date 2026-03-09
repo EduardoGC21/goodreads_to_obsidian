@@ -13,9 +13,9 @@ pages: 416
 format: "virtual"
 cover: "[[Attachments/Covers/José Saramago - Ensayo sobre la ceguera.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ensayo sobre la ceguera

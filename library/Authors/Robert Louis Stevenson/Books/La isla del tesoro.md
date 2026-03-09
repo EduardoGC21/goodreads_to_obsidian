@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Robert Louis Stevenson - La isla del tesoro.jpg]]"
 bookshelves:
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La isla del tesoro

@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Esi Edugyan - Washington Black.jpg]]"
 bookshelves:
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Washington Black

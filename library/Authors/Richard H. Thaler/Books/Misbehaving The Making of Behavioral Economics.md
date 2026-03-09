@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Richard H. Thaler - Misbehaving The Making of Behavioral Economics.jpg]]"
 bookshelves:
   - "[[economía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Misbehaving: The Making of Behavioral Economics

@@ -13,9 +13,9 @@ pages: 680
 format: "physical"
 cover: "[[Attachments/Covers/Paul-Henri Thiry d'Holbach - Sistema de la Naturaleza.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sistema de la Naturaleza

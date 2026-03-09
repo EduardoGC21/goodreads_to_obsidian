@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-11-05"
 date_read: "2021-11-16"
-language: "Spanish"
+language: "Unknown"
 isbn: "8481648582"
 isbn13: "9788481648584"
 pages: 424
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Alejandro Ortiz Rescaniere - Mitologías amerindias.jpg]]"
 bookshelves:
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitologías amerindias

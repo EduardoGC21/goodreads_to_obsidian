@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Arthur Schopenhauer - Metafísica de las costumbres
 bookshelves:
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Metafísica de las costumbres

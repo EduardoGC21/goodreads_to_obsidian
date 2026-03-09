@@ -17,9 +17,9 @@ bookshelves:
   - "[[miedo]]"
   - "[[novela-grafica]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poe: Stories and Poems: A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens)

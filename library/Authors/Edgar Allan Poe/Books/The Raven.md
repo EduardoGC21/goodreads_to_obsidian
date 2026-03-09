@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Edgar Allan Poe - The Raven.jpg]]"
 bookshelves:
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Raven

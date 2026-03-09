@@ -1,6 +1,6 @@
 ---
 name: "Apollonius of Rhodes"
-country: "[[Unknown]]"
+country: "[[Greece]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Apollonius of Rhodes (c. 295–c. 215 BCE) was a Hellenistic Greek poet and scholar best known for his epic poem on Jason and the Argonauts, commonly titled the Argonautica (in Spanish, "Las Argonáuticas"). Probably born in Alexandria, he was closely associated with the Library of Alexandria and the scholarly milieu that flourished there under the Ptolemies. Ancient sources portray him as a pupil or junior contemporary of the poet-scholar Callimachus, and later tradition reports a literary rivalry between them, reflecting broader debates about the future of epic and learned poetry in the Hellenistic age.
+Apollonius of Rhodes was a Hellenistic Greek poet and scholar best known as the author of the epic poem usually called the Argonautica, which recounts Jason’s voyage in search of the Golden Fleece. He lived and worked during the 3rd century BCE, in the intellectual milieu shaped by the Library and Museum of Alexandria. Ancient testimonies disagree on his birthplace, naming either Alexandria or the Greek city of Naucratis in Egypt, but all agree that he was formed within the scholarly culture of the Ptolemaic court, where poets were also philologists, textual critics, and librarians.
 
-Apollonius’ Argonautica is the only surviving Hellenistic epic of substantial length and represents a deliberate rethinking of Homeric narrative for a new era: more compact, highly allusive, and steeped in philological learning, while also exploring interior psychology—especially in the portrayal of Medea. His work deeply influenced later Roman poets, above all Virgil in the Aeneid, and through them the wider epic tradition. At some point, Apollonius left Alexandria for Rhodes, where he is said to have been granted citizenship, giving rise to the epithet "of Rhodes"; some accounts suggest he later returned to Alexandria and may even have served as head librarian, underscoring his dual identity as both creative poet and leading scholar of his time.
+Apollonius is closely associated with the Library of Alexandria and is said by some sources to have served as its head librarian, situating him among the leading intellectuals of his time and in proximity to other major scholars such as Callimachus. Ancient biographical traditions describe tensions and rivalry between Apollonius and Callimachus over poetic style and ambition, with Apollonius’s long epic standing in contrast to Callimachus’s preference for shorter, refined forms; these stories, whether literal or exaggerated, highlight his role in broader debates about what Greek poetry should be after Homer. His Argonautica represents a turning point in Greek literature, blending epic narrative with learned allusion, psychological characterization, and a new focus on figures such as Medea, and it secured his place as one of the key intermediaries between archaic epic and later Roman poets like Virgil.
+
+Details of Apollonius’s later life and death are obscure, but ancient accounts report that he spent significant time on the island of Rhodes, where he may have revised his Argonautica and where he was later honored as a citizen. This Rhodian connection is the source of his enduring epithet “of Rhodes,” reflecting both a personal association and the broader mobility of intellectuals in the Hellenistic world, who often moved between royal courts and city-states in search of patronage and recognition.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

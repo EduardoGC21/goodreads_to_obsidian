@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 3 (Berserk, Num. 3)

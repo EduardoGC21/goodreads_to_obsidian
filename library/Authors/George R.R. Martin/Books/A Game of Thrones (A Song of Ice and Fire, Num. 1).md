@@ -16,9 +16,9 @@ bookshelves:
   - "[[game-of-thrones]]"
   - "[[novelas]]"
   - "[[fantasía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A Game of Thrones (A Song of Ice and Fire, Num. 1)

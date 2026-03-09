@@ -1,6 +1,6 @@
 ---
 name: "Lewis Carroll"
-country: "[[England]]"
+country: "[[United Kingdom]]"
 birth_year: "1832"
 death_year: "1898"
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Lewis Carroll (1832–1898), born Charles Lutwidge Dodgson in Daresbury, Cheshire, England, was an English writer, mathematician, Anglican deacon, and photographer. Educated at Rugby School and then at Christ Church, Oxford, he excelled in mathematics and logic, eventually becoming a lecturer in mathematics at Oxford. Despite his reserved and somewhat shy personality, he formed close friendships with several families in Oxford society, particularly the Liddell family, whose children inspired some of his most famous imaginative works.
+Lewis Carroll (born Charles Lutwidge Dodgson, 1832–1898) was an English writer, mathematician, and Anglican deacon best known for creating the imaginative worlds of Alice and her adventures underground. Raised in a large middle-class family in the north of England, he showed early talent for wordplay, storytelling, and drawing. He later studied at Christ Church, Oxford, where he excelled in mathematics and remained as a lecturer and fellow for many years, combining academic life with religious duties.
 
-Carroll’s enduring significance rests chiefly on his contributions to children’s literature and literary nonsense, most notably through “Alice’s Adventures in Wonderland” and its sequel “Through the Looking-Glass.” These works combined playful logic, inventive language, and surreal fantasy in ways that challenged Victorian norms about children’s books and influenced later writers, artists, and scholars. Beyond fiction, he published mathematical texts and puzzle collections that reflected his fascination with logic, paradox, and wordplay. Although his intense, often photographed friendships with young girls have drawn modern scrutiny and debate, in his own time he was regarded as a devoted, if unconventional, figure in academic and artistic circles. He died in Guildford, Surrey, leaving a legacy that bridges literature, mathematics, and the broader history of Victorian culture.
+Carroll’s close friendships with the Liddell family, especially the children of Henry Liddell, Dean of Christ Church, deeply shaped his creative work. Stories first told to entertain Alice Liddell and her sisters evolved into "Alice's Adventures in Wonderland" and its sequel, which blended logic, fantasy, and satire in ways that appealed to both children and adults. Beyond the Alice books, he wrote poetry such as "The Hunting of the Snark" and produced serious mathematical texts, reflecting his dual life as entertainer and logician.
 
-Carroll’s achievements lie in transforming children’s literature into a sophisticated art form that adults could also appreciate, pioneering a style of fantasy that blends whimsy with philosophical and logical depth. His characters, settings, and turns of phrase have become embedded in English-speaking culture, influencing everything from modern fantasy fiction and linguistics to psychology and popular media. Today he is remembered both as a Victorian scholar with a meticulous mind and as a creator of one of the most imaginative and resonant fictional worlds in English literature.
+Reserved and methodical in private life yet playful in his writings, Carroll was also an early enthusiast of photography and took portraits of many contemporaries. His work has had lasting influence on children’s literature, logic, and popular culture, inspiring countless adaptations and scholarly analyses. Despite ongoing debates over aspects of his personal relationships and psychology, he remains a central figure in Victorian literature and a symbol of the power of nonsense and imagination.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

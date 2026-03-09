@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Javier Tapia - Mitología H.P. Lovecraft El ascenso
 bookshelves:
   - "[[mitología]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitología H.P. Lovecraft: El ascenso divino del terror

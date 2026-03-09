@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2023-07-08"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437605415"
 isbn13: "9788437605418"
 pages: 288
@@ -16,9 +16,9 @@ bookshelves:
   - "[[cuentos]]"
   - "[[filosofía]]"
   - "[[literatura-francesa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cándido / Micromegas / Zadig

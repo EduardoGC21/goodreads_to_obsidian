@@ -1,7 +1,7 @@
 ---
 name: "Jonathan Haskel"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1963"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Jonathan Haskel (b. 1963) is a British economist whose work has significantly shaped contemporary understanding of productivity, innovation, and the changing structure of modern economies. Educated at the University of Bristol and the London School of Economics, he has built an academic career focused on how firms invest, how technology diffuses, and why productivity growth varies across countries and industries. Haskel has held professorial positions at Queen Mary University of London and later at Imperial College Business School, where he has been a leading figure in applied microeconomics and industrial organization.
+Jonathan Haskel (born 1963) is a British economist whose work has helped reframe how scholars and policymakers think about productivity, innovation, and the rise of the intangible economy. Educated at the University of Bristol and the London School of Economics, he built his academic career at Queen Mary University of London before joining Imperial College Business School, where he is Professor of Economics and has held leadership roles including heading the doctoral programme. His research has focused on firm performance, labour markets, and especially the role of intangible investment in modern growth, work that underpins books such as "Capitalism without Capital: The Rise of the Intangible Economy," co‑authored with Stian Westlake.
 
-Beyond academia, Haskel has played an important policy role in the United Kingdom. In 2018 he was appointed to the Bank of England’s Monetary Policy Committee, contributing his expertise on productivity and investment to interest-rate and macroeconomic decisions. His research on intangible capital, co-authored in works such as "Capitalism without Capital: The Rise of the Intangible Economy," has been influential in explaining how assets like software, branding, and organizational know-how now drive growth, reshape competition, and challenge traditional measurement of investment and national accounts. Through his research, teaching, and policy service, Haskel has become a prominent interpreter of how advanced economies are being transformed by knowledge-intensive and innovation-driven activity.
+Beyond academia, Haskel has been deeply involved in economic policy and public service in the United Kingdom. He served for many years on the UK Competition Commission’s reporting panel, advised on competition and regulatory issues, and later became a non‑executive director of the UK Statistics Authority. From 2018 to 2024 he was an external member of the Bank of England’s Monetary Policy Committee, contributing to interest‑rate decisions during a period marked by Brexit, the COVID‑19 pandemic, and an extended bout of high inflation. In recognition of his services to economics and public policy, he was appointed Commander of the Order of the British Empire (CBE) in 2018.
+
+Haskel comes from a politically engaged family—he is the son of British politician Simon Haskel—and his personal and professional life has been closely intertwined with public service and the communication of economic ideas. Married to artist Sue Haskel and a father of two daughters, he has combined academic research with teaching, public speaking, and media engagement, helping to explain complex issues like innovation, productivity slowdowns, and the structure of modern capital to wider audiences of students, policymakers, and the general public.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

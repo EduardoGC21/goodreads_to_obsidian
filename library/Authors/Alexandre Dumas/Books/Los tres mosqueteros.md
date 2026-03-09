@@ -13,9 +13,9 @@ pages: 876
 format: "physical"
 cover: "[[Attachments/Covers/Alexandre Dumas - Los tres mosqueteros.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los tres mosqueteros

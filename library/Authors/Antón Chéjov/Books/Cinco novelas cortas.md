@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Antón Chéjov - Cinco novelas cortas.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cinco novelas cortas

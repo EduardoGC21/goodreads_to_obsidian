@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2023-07-29"
 date_read: ""
-language: "Spanish"
+language: "Unknown"
 isbn: "8416465789"
 isbn13: "9788416465781"
 pages: 496
 format: "physical"
 cover: "[[Attachments/Covers/Eilhart von Oberg - Tristán e Isolda.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Tristán e Isolda

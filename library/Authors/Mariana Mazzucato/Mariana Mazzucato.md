@@ -1,7 +1,7 @@
 ---
 name: "Mariana Mazzucato"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Italy]]"
+birth_year: "1968"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Mariana Mazzucato (born 1968) is an Italian-born economist whose work has reshaped contemporary debates on the role of the state, innovation, and value creation in capitalism. Born in Rome to Italian parents and later raised partly in the United States, she was influenced early on by academic and scientific environments, especially through her father, physicist Nicola Mazzucato. She studied history and international relations before specializing in economics, a trajectory that helped her connect economic analysis with politics, public policy, and long-run technological change.
+Mariana Mazzucato (1968– ) is an Italian-American economist known for her influential work on the role of the state in fostering innovation, shaping markets, and driving inclusive growth. Born in Rome and raised partly in the United States, she studied at Tufts University and earned her PhD in economics from the New School for Social Research, developing an early interest in innovation, industrial policy, and the history of economic thought. Over her academic career she has held professorships at institutions such as the University of Sussex and University College London, where she founded and directs the Institute for Innovation and Public Purpose.
 
-Mazzucato became widely known as a professor in the Economics of Innovation and Public Value at University College London and as the founding director of the UCL Institute for Innovation and Public Purpose. Her research argues that governments are not just market fixers but key entrepreneurial actors in creating and shaping markets, a theme developed in books such as “The Value of Everything: Making and Taking in the Global Economy,” where she distinguishes between value-creating and value-extracting activities. Beyond academia, she has advised national governments, the European Commission, and international organizations on mission-oriented innovation policies, gaining significance as a public intellectual who bridges scholarship and practice while advocating for more just, sustainable, and innovation-driven economies.
+Mazzucato’s work challenges conventional views that value creation stems primarily from the private sector, arguing instead that governments are often key entrepreneurial actors that take on early, high-risk investments in areas like health, digital technologies, and green innovation. In “The Value of Everything: Making and Taking in the Global Economy,” she contrasts productive activities with rent-seeking, highlighting how parts of the financial sector and large corporations may extract value rather than create it, with profound implications for inequality and public policy. Her ideas have made her a prominent advisor to governments and international organizations around the world on mission-oriented innovation, climate policy, and industrial strategy.
+
+Beyond academia and policy advising, Mazzucato is known for her public engagement and clear, forceful communication style, making complex economic debates accessible to wider audiences. She has served on high-level commissions and councils for bodies such as the European Commission, the World Health Organization, and various national governments, helping to shape debates on how to design more dynamic, equitable, and sustainable economies. Her work has garnered numerous awards and has positioned her as a leading voice in rethinking capitalism and the relationship between public and private sectors in the 21st century.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

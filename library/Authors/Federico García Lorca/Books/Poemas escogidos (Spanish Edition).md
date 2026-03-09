@@ -6,7 +6,7 @@ rating: 4
 read_count: 1
 date_added: "2023-07-11"
 date_read: "2023-07-11"
-language: "Unknown"
+language: "English"
 isbn: ""
 isbn13: ""
 pages: 50
@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poemas escogidos (Spanish Edition)

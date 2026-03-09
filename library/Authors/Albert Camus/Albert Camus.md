@@ -1,6 +1,6 @@
 ---
 name: "Albert Camus"
-country: "[[Unknown]]"
+country: "[[Algeria]]"
 birth_year: "1913"
 death_year: "1960"
 tags:
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Albert Camus (1913–1960) was a French-Algerian writer, essayist, and philosopher whose work explored the human condition in the face of an indifferent universe. Born in Mondovi, in French colonial Algeria, to a poor pied-noir family, he was raised by his widowed mother in working-class Algiers. Tuberculosis interrupted his early studies, but he remained deeply engaged with literature, theatre, and journalism, experiences that later shaped his clear, unsentimental prose and his focus on ordinary people caught in extreme situations.
+Albert Camus (1913–1960) was a French-Algerian writer, philosopher, and journalist whose work is closely associated with existentialism and the philosophy of the absurd, though he often rejected strict ideological labels. Born in Mondovi, French Algeria, to a poor pied-noir family, he lost his father in World War I and was raised by his mother in modest circumstances. A gifted student, he studied philosophy in Algiers but struggled with tuberculosis throughout his life, a chronic illness that shaped his outlook on human fragility, solidarity, and resistance.
 
-During the Second World War Camus joined the French Resistance in Paris as a journalist and editor for the clandestine newspaper Combat, becoming a moral voice against fascism and totalitarianism. In major works such as "The Stranger" ("L’Étranger") and "The Plague" ("La Peste"), as well as the philosophical essay "The Myth of Sisyphus," he developed the idea of the absurd—the tension between our search for meaning and the world’s silence—and argued for a response based on lucidity, personal integrity, and solidarity rather than despair. His plays, including "Caligula," extended these themes to political power and moral responsibility.
-
-Awarded the Nobel Prize in Literature in 1957, Camus was celebrated for illuminating the problems of human conscience in his time. His relationships and debates with contemporaries—most notably his break with Jean-Paul Sartre over Stalinism and violence—highlighted his insistence on individual moral limits even in revolutionary causes. Camus died in a car accident in 1960 at the age of 46, leaving a legacy as one of the 20th century’s most influential and accessible thinkers on ethics, revolt, and the challenges of living without transcendental guarantees.
+Camus gained international recognition with novels such as "The Stranger" ("El extranjero") and "The Plague" ("La peste"), and with essays like "The Myth of Sisyphus," where he explored how individuals confront a seemingly indifferent or absurd universe. His plays, including "Caligula," further examined power, freedom, and moral responsibility. During World War II he worked with the French Resistance and edited the underground newspaper "Combat," reinforcing his public image as a moral voice against oppression and totalitarianism. Awarded the Nobel Prize in Literature in 1957, Camus used his influence to advocate for justice and moderation, notably taking nuanced and often controversial positions on the Algerian War that reflected his divided loyalties to both France and his Algerian homeland. He died in a car accident in 1960, leaving a legacy as one of the 20th century’s most influential and humane moral thinkers.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

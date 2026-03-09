@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Victor Hugo - Los miserables.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-francesa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los miserables

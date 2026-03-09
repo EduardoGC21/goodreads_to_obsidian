@@ -13,9 +13,9 @@ pages: 412
 format: "physical"
 cover: "[[Attachments/Covers/Adrian Goldsworthy - The Punic Wars.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Punic Wars

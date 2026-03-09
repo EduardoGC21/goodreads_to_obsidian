@@ -1,6 +1,6 @@
 ---
 name: "Alejandro Jodorowsky"
-country: "[[Chile, France]]"
+country: "[[Chile]]"
 birth_year: "1929"
 death_year: ""
 tags:
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Alejandro Jodorowsky (born 1929) is a Chilean-French filmmaker, writer, comic-book creator, and spiritual theorist whose work has had a lasting impact on avant-garde cinema and graphic novels. Born in Tocopilla, Chile, to Ukrainian Jewish immigrant parents, he grew up in a culturally and emotionally turbulent household that deeply influenced his later fascination with identity, trauma, and personal transformation. After moving to Paris in the 1950s, he became involved with mime, theater, and the Surrealist movement, collaborating with artists such as Marcel Marceau and co-founding the radical performance group Panique.
+Alejandro Jodorowsky (1929– ) is a Chilean-born writer, filmmaker, comics author, and spiritual teacher whose eclectic career bridges avant-garde cinema, graphic novels, theater, and esoteric practices. Born in Tocopilla, Chile, to Ukrainian Jewish immigrant parents, he spent his early years immersed in literature, performance, and the circus-like atmosphere of provincial life before moving to Santiago and then leaving Latin America to pursue art in Europe. In Paris he became associated with the Surrealists and co-founded the performance troupe Panique with Fernando Arrabal and Roland Topor, developing a reputation for provocative, transgressive theater and film. His cult-classic movies—especially “El Topo” and “The Holy Mountain”—made him a central figure in midnight cinema and countercultural art in the late 1960s and 1970s.
 
-Jodorowsky gained international recognition for his visionary and often controversial films, including "El Topo" (1970) and "The Holy Mountain" (1973), which blended mysticism, esotericism, and transgressive imagery and helped define the cult midnight-movie circuit. His aborted attempt to adapt Frank Herbert’s "Dune" in the 1970s became legendary for its ambition and for gathering artists like H. R. Giger and Moebius, collaborations that directly led to influential works in science fiction and comics, notably the graphic novel series "The Incal." Beyond film and comics, Jodorowsky developed practices he calls psychomagic and psychogenealogy, using symbolic acts, Tarot, and family-history work as tools for psychological and spiritual healing, and he has become a mentor-like figure to many artists and seekers drawn to his fusion of art, mysticism, and personal liberation.
+Jodorowsky’s influence extends deeply into comics and speculative fiction. His collaboration with artist Moebius on the science-fiction graphic novel cycle “The Incal” helped redefine European comics, blending metaphysical quests, political satire, and visionary imagery; it also shaped the aesthetics of later science-fiction films and graphic novels. Beyond his creative work, Jodorowsky became known for “psychomagic,” his own blend of psychotherapy, tarot, and ritual aimed at psychological healing, which he practiced and wrote about extensively. Throughout his life he has cultivated a network of artistic and intellectual relationships—ranging from Surrealist circles to comics artists and filmmakers—that positioned him as a bridge between Latin American, European, and esoteric cultural currents, and as a figure of enduring influence on visionary and experimental art worldwide.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -1,6 +1,6 @@
 ---
-title: "Cuentos"
-author: "[[Authors/Anton Chekhov/Anton Chekhov|Anton Chekhov]]"
+title: "Cuentos Chejov"
+author: "[[Authors/AntÃ³n ChÃ©jov/AntÃ³n ChÃ©jov|AntÃ³n ChÃ©jov]]"
 status: "read"
 rating: 5
 read_count: 1
@@ -11,19 +11,19 @@ isbn: "8484282198"
 isbn13: "9788484282198"
 pages: 770
 format: "physical"
-cover: "[[Attachments/Covers/Anton Chekhov - Cuentos.jpg]]"
+cover: "[[Attachments/Covers/AntÃ³n ChÃ©jov - Cuentos Chejov.jpg]]"
 bookshelves:
   - "[[antología]]"
   - "[[cuentos]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
-# Cuentos
+# Cuentos Chejov
 
-![|200]([[Attachments/Covers/Anton Chekhov - Cuentos.jpg]])
+![|200]([[Attachments/Covers/AntÃ³n ChÃ©jov - Cuentos Chejov.jpg]])
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

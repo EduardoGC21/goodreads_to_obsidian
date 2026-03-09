@@ -11,7 +11,7 @@ isbn: ""
 isbn13: ""
 pages: 320
 format: "virtual"
-cover: "[[Attachments/Covers/Jacob Grimm - Grimm's Fairy Tales.jpg]]"
+cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[mitología]]"
@@ -22,7 +22,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Grimm's Fairy Tales
 
-![|200]([[Attachments/Covers/Jacob Grimm - Grimm's Fairy Tales.jpg]])
+> Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -13,9 +13,9 @@ pages: 424
 format: "physical"
 cover: "[[Attachments/Covers/Roberto Calasso - El cazador celeste.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cazador celeste

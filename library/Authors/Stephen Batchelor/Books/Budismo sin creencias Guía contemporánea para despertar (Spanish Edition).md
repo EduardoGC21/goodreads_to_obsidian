@@ -6,7 +6,7 @@ rating: 4
 read_count: 1
 date_added: "2021-04-11"
 date_read: "2021-04-12"
-language: "Spanish"
+language: "Unknown"
 isbn: "8484451534"
 isbn13: "9788484451532"
 pages: 160
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Stephen Batchelor - Budismo sin creencias Guía con
 bookshelves:
   - "[[filosofía]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Budismo sin creencias: Guía contemporánea para despertar (Spanish Edition)

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Ray Bradbury - The Martian Chronicles.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[ciencia-ficción]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Martian Chronicles

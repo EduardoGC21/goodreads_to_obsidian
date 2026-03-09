@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-05-05"
 date_read: "2021-05-06"
-language: "Spanish"
+language: "Unknown"
 isbn: "8425431182"
 isbn13: "9788425431180"
 pages: 112
@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # ¿Qué es la filosofía? (Spanish Edition)

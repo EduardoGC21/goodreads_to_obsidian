@@ -13,9 +13,9 @@ pages: 103
 format: "physical"
 cover: "[[Attachments/Covers/Noam Chomsky - Media Control The Spectacular Achievements of Propaganda.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Media Control: The Spectacular Achievements of Propaganda

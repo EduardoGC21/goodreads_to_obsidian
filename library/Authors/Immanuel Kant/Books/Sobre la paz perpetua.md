@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Immanuel Kant - Sobre la paz perpetua.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sobre la paz perpetua

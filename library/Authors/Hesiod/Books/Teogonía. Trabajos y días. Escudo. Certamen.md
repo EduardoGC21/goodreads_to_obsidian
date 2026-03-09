@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-06-28"
 date_read: "2021-06-30"
-language: "Spanish"
+language: "Unknown"
 isbn: "842063686X"
 isbn13: "9788420636863"
 pages: 199
@@ -16,9 +16,9 @@ bookshelves:
   - "[[epopeyas]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Teogonía. Trabajos y días. Escudo. Certamen.

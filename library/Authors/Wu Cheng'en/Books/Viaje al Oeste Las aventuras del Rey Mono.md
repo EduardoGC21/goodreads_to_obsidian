@@ -13,9 +13,9 @@ pages: 2264
 format: "physical"
 cover: "[[Attachments/Covers/Wu Cheng'en - Viaje al Oeste Las aventuras del Rey Mono.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Viaje al Oeste: Las aventuras del Rey Mono

@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Gary Keller - The One Thing The Surprisingly Simple Truth Behind Extraordinary Results.jpg]]"
 bookshelves:
   - "[[self-help]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results

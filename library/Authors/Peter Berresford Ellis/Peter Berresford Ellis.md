@@ -1,7 +1,7 @@
 ---
 name: "Peter Berresford Ellis"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1943"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Peter Berresford Ellis (1943– ) is a British historian, literary biographer, and novelist best known as one of the leading modern authorities on Celtic history and culture. Born in Coventry, England, to an Irish journalist father from Cork and an English mother of Sussex and Breton heritage, he grew up in a strongly pan‑Celtic family environment that shaped his lifelong commitment to Celtic studies and political causes. After early work as a journalist on British and Irish newspapers, he returned to higher education, earning a first-class degree and later a master’s in Celtic Studies, and went on to publish a substantial body of scholarly and popular works on Celtic languages, history, and nationalism.
+Peter Berresford Ellis (born 10 March 1943 in Coventry, England) is a British historian, Celtic scholar, biographer, and novelist whose work has been central to modern popular understanding of Celtic history and culture. The son of an Irish journalist from Cork and a mother of English and Breton descent, he grew up within a richly mixed Celtic and English family background that helped shape his lifelong interest in the Celtic nations. After early training at Brighton College of Art, he worked as a journalist, eventually helping to launch the Irish Post newspaper in Britain, and later returned to higher education to specialise in Celtic Studies, earning a first-class degree and a master’s in the field.
 
-From the mid‑1970s Ellis worked as a full‑time writer, producing dozens of books and many academic papers that helped bring Celtic history to a wider readership. He played an active role in organizations such as the Celtic League and the London Association for Celtic Education, and became a Fellow of the Royal Historical Society and the Royal Society of Antiquaries of Ireland. Under his own name he wrote influential surveys of Celtic culture and politics, while edited works such as his collection of James Connolly’s writings reflected his socialist convictions and interest in labour history.
+From the late 1960s onward, Ellis became a prolific author and advocate of Pan-Celticism. Writing under his own name, he produced influential studies such as works on the Cornish language and broader Celtic history, as well as biographies of writers including H. Rider Haggard and Talbot Mundy. Under the pseudonym Peter Tremayne he gained international fame with the Sister Fidelma historical mystery series, and also published adventure fiction as Peter MacAlan. His books and stories—well over a hundred volumes in total—have been translated into many languages, and he has lectured widely and appeared regularly on radio and television to discuss Celtic history and literature.
 
-Ellis also achieved international popularity as a novelist under the pseudonym Peter Tremayne, most notably with the Sister Fidelma historical mystery series set in 7th‑century Ireland. His fiction and non‑fiction alike often fuse rigorous historical research with accessible storytelling, as seen in works like “The Mammoth Book of Celtic Myths and Legends,” which distills and interprets a wide range of Celtic narrative traditions for general readers. Across his career he has been a prominent voice for Celtic cultural, linguistic, and political self‑determination, while maintaining close connections to Irish, Cornish, Scottish, Welsh, and Breton communities.
+Ellis has been recognised with numerous honours, including fellowships of the Royal Historical Society and the Royal Society of Antiquaries of Ireland, a Bardship of the Cornish Gorsedd, honorary life roles in several Celtic and literary organisations, and an honorary doctorate from the University of East London. Throughout his career he has combined scholarship, activism, and storytelling, promoting cultural and political awareness of the Celtic nations while maintaining a strong commitment to social justice and historical interpretation that openly acknowledges its own perspective.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

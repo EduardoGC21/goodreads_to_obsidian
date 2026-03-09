@@ -13,9 +13,9 @@ pages: 288
 format: "physical"
 cover: "[[Attachments/Covers/Alberto Bernabé Pajares - Mitos hititas Entre Oriente y Occidente.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitos hititas: Entre Oriente y Occidente

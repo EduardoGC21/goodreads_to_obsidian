@@ -1,8 +1,8 @@
 ---
 name: "Miguel de Cervantes Saavedra"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Spain]]"
+birth_year: "1547"
+death_year: "1616"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Miguel de Cervantes Saavedra (1547–1616) was a Spanish writer, soldier, and tax collector whose life was marked by hardship, adventure, and financial struggle, yet he became one of the most influential authors in world literature. Born in Alcalá de Henares, Spain, he spent part of his youth in Valladolid, Madrid, and Seville, likely receiving a humanist education that exposed him to classical and Renaissance currents of thought. In 1571 he fought as a soldier in the Holy League fleet at the Battle of Lepanto, where he was wounded and permanently maimed in his left hand, an experience that shaped his sense of honor, courage, and vulnerability.
+Miguel de Cervantes Saavedra (1547–1616) was a Spanish novelist, playwright, and poet widely regarded as one of the most important figures in Western literature. Born in Alcalá de Henares, Spain, he grew up during the height of the Spanish Golden Age. In his youth he left Spain and became a soldier, fighting in the Battle of Lepanto in 1571, where he was wounded and permanently maimed in his left hand. On his return voyage to Spain in 1575 he was captured by Barbary pirates and spent several years as a prisoner in Algiers before being ransomed and finally returning home.
 
-On his return to Spain from Italy in 1575, Cervantes was captured by Barbary pirates and spent five years as a slave in Algiers, making several failed escape attempts before being ransomed by Trinitarian friars. These ordeals deepened his understanding of captivity, freedom, and human resilience. Back in Spain, he worked variously as a provisioning agent for the Armada and later as a tax collector, occupations that brought him into contact with many social classes but also into legal and financial difficulties, including periods of imprisonment.
+Back in Spain, Cervantes struggled financially and worked in a series of modest government posts while pursuing his literary ambitions. His greatest work, "Don Quijote de la Mancha," published in two parts (1605 and 1615), was an immediate success and is often considered the first modern novel for its complex narrative structure, psychological depth, and interplay between reality and imagination. The book’s enduring influence reshaped European prose fiction and helped define the figure of the anti-hero.
 
-Despite his precarious circumstances, Cervantes produced a body of work crowned by "Don Quijote de la Mancha" (Part I, 1605; Part II, 1615), often regarded as the first modern novel. Through its complex narrative structure, self-reflexive play with authorship, and vivid portrayal of both noble ideals and social realities, the book secured his place as a foundational figure of European literature and a key voice of Spain’s Siglo de Oro. Cervantes married Catalina de Salazar y Palacios, and though their marriage appears to have been distant at times, he maintained close relationships with his sisters and his daughter Isabel. He died in Madrid in 1616, leaving a legacy that profoundly shaped narrative fiction, the representation of character, and the exploration of illusion and reality.
+Despite his later fame, Cervantes never achieved great wealth and lived much of his life in relative obscurity and hardship, often in debt and occasionally imprisoned for financial irregularities tied to his administrative work. He married Catalina de Salazar y Palacios, though little is known about the intimacy of their relationship, and he had an acknowledged daughter, Isabel. Cervantes died in Madrid in 1616, leaving behind a body of work that came to symbolize both the creativity of Spain’s Golden Age and a deeply human, ironic vision of idealism confronting a changing world.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

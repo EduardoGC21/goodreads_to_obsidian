@@ -6,7 +6,7 @@ rating: 4
 read_count: 1
 date_added: "2021-03-03"
 date_read: "2021-04-15"
-language: "Spanish"
+language: "Unknown"
 isbn: "6071644143"
 isbn13: "9786071644145"
 pages: 145
@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition)

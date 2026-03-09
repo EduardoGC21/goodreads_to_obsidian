@@ -16,9 +16,9 @@ bookshelves:
   - "[[ciencia]]"
   - "[[filosofía]]"
   - "[[progreso]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Life 3.0: Being Human in the Age of Artificial Intelligence

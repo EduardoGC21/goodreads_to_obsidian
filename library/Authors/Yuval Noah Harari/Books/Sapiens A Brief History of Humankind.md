@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Yuval Noah Harari - Sapiens A Brief History of Huma
 bookshelves:
   - "[[filosofía]]"
   - "[[history]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sapiens: A Brief History of Humankind

@@ -1,7 +1,7 @@
 ---
 name: "Michel Onfray"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[France]]"
+birth_year: "1959"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Michel Onfray (born 1959) is a French philosopher and writer known for his materialist, hedonistic and atheist worldview. Born in Argentan in Normandy to a working-class family, he spent part of his childhood in Catholic boarding institutions, experiences he later described as formative for his rejection of religious authority and development of a fiercely secular, anti-clerical stance. After working various jobs, he studied philosophy at the University of Caen, where he completed a doctorate and began to shape a project that combined classical hedonism and Epicureanism with contemporary social and political critique.
+Michel Onfray (b. 1959) is a French philosopher and essayist whose work champions a materialist, hedonistic, and openly atheist worldview. Born in Argentan in Normandy to a working-class family, he grew up in modest circumstances and spent part of his childhood in Catholic institutions, an experience he later described as formative in his rejection of religious authority and metaphysical consolation. He studied philosophy at the University of Caen, earning a doctorate in 1986, and for nearly two decades taught philosophy in a technical high school while beginning a prolific publishing career.
 
-From 1983 to 2002 Onfray taught philosophy at a technical high school in Caen before resigning to found the tuition‑free Université populaire de Caen, an experimental “people’s university” offering open lectures in philosophy and other disciplines. An extraordinarily prolific author with over a hundred books, he is widely known in the French‑speaking world for works such as his multi‑volume "Contre-histoire de la philosophie" (including the volume "Les sagesses antiques", translated into Spanish as "Las sabidurías de la antigüedad") and "Traité d’athéologie" ("Tratado de ateología"), in which he advances a systematic critique of Judeo‑Christian religion. His thought is deeply influenced by Nietzsche, Epicurus, the Cynic and Cyrenaic schools, and French materialism, and he often revisits neglected or marginal figures in the history of philosophy.
+Onfray became widely known in the Francophone world for his attempt to write a “counter-history of philosophy,” foregrounding marginal, sensualist, and materialist thinkers against what he sees as a canon shaped by religious and idealist traditions. Works such as the first volume of his counter-history series, often translated as “The Wisdoms of Antiquity,” and his polemical “Traité d’athéologie” (“Atheist Manifesto”) exemplify his project of reinterpreting Western thought from the standpoint of hedonism, embodied existence, and radical critique of monotheistic religions. His style is accessible and combative, which has made him both influential among a broad public and controversial among academic philosophers and theologians.
 
-Onfray’s significance lies both in his attempt to popularize philosophy beyond academic institutions and in his polemical interventions in contemporary cultural and political debates. He advocates a philosophy centered on the body, pleasure, and individual autonomy, while criticizing psychoanalysis, traditional metaphysics, and established political camps. Over the decades he has cultivated a public persona as an iconoclastic, media‑savvy intellectual, sometimes courting controversy for his positions on religion, politics, and national identity, yet remaining a prominent reference point in current discussions of atheism, hedonism, and the role of public philosophy in France and beyond.
+In 2002 he resigned from state education to found the Université Populaire de Caen, a free “people’s university” where he and other lecturers offered open courses, especially on philosophy, as a civic and intellectual initiative responding to contemporary political disillusionment. Over the years he has published more than a hundred books on topics ranging from ancient philosophy and aesthetics to politics, ethics, and psychoanalysis, and he has often engaged polemically with major figures such as Freud, Nietzsche, and Christian thinkers. Onfray’s life and work are marked by a consistent effort to connect philosophical reflection with everyday life, personal history, and the social struggles of his time, while maintaining an unapologetically secular, anti-clerical stance.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

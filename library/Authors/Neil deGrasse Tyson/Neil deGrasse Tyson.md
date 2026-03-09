@@ -1,7 +1,7 @@
 ---
 name: "Neil deGrasse Tyson"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United States]]"
+birth_year: "1958"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Neil deGrasse Tyson (1958– ) is an American astrophysicist, science communicator, and author known for bringing complex cosmic ideas to broad public audiences. Born in New York City, he developed an early fascination with the night sky during childhood visits to the Hayden Planetarium, an institution he would later lead. Tyson studied at Harvard University (BA in Physics), the University of Texas at Austin (MA in Astronomy), and Columbia University (PhD in Astrophysics), focusing his research on star formation, galactic structure, and the evolution of the Milky Way.
+Neil deGrasse Tyson (1958– ) is an American astrophysicist, science communicator, and author known for making complex concepts in cosmology and physics accessible to the general public. Born and raised in New York City, he developed an early fascination with the night sky after visiting the Hayden Planetarium, where he would later become director. Tyson studied at Harvard University, the University of Texas at Austin, and Columbia University, focusing on astrophysics and earning his PhD with research on star formation and galactic structure.
 
-Beyond academia, Tyson became a highly influential public figure through books, television, radio, and public lectures that emphasize clear, engaging explanations of scientific concepts. His book "Astrophysics for People in a Hurry" exemplifies his talent for distilling modern cosmology into accessible, concise narratives for non-specialists. As director of the Hayden Planetarium at the American Museum of Natural History, he played a notable role in the reclassification of Pluto, helping shape public discussion about what constitutes a planet. Tyson’s work has earned him numerous honors and has made him a central figure in contemporary efforts to promote scientific literacy, critical thinking, and a sense of cosmic perspective in society.
+Beyond his academic work, Tyson has played a major role in popularizing science through books, television, radio, and public lectures. As director of the Hayden Planetarium at the American Museum of Natural History, he has shaped exhibits and programs that present cutting-edge astrophysics to broad audiences. His book “Astrophysics for People in a Hurry” exemplifies his ability to distill the modern understanding of the universe into concise, engaging explanations. Tyson gained additional prominence as host of the television series “Cosmos: A Spacetime Odyssey,” continuing Carl Sagan’s legacy while bringing his own perspective to themes of scientific discovery, critical thinking, and humanity’s place in the cosmos.
+
+Tyson has advised governmental bodies on science and space policy, served on commissions related to U.S. aerospace priorities, and frequently comments on the importance of scientific literacy in civic life. His public persona—combining humor, clarity, and advocacy for evidence-based reasoning—has made him a widely recognized figure in contemporary science culture. He is also known for his reflections on how race, identity, and mentorship shaped his path into astrophysics, often highlighting the importance of opportunity and representation in scientific fields.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Anonymous - Dhammapada.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Dhammapada

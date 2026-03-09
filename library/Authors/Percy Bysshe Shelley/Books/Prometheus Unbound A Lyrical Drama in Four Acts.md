@@ -16,9 +16,9 @@ bookshelves:
   - "[[teatral-dramático]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Prometheus Unbound: A Lyrical Drama in Four Acts

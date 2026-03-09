@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Anonymous - El libro de Enoc (Spanish Edition).jpg]
 bookshelves:
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El libro de Enoc (Spanish Edition)

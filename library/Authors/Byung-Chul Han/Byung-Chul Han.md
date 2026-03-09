@@ -1,7 +1,7 @@
 ---
 name: "Byung-Chul Han"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[South Korea]]"
+birth_year: "1959"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Byung-Chul Han (born 1959) is a South Korean–born philosopher, Catholic theologian, and cultural theorist who has become one of the most influential critics of contemporary capitalism and digital culture. Raised in Seoul, he initially studied metallurgy at Korea University before abandoning that path and emigrating to Germany in the 1980s without knowing German or having a background in philosophy. In Germany he studied philosophy, German literature, and Catholic theology in Freiburg and Munich, earning his doctorate at the University of Freiburg in 1994 with a dissertation on Stimmung (mood) in the work of Martin Heidegger.
+Byung-Chul Han (1959–) is a South Korean–born philosopher, cultural theorist, and Catholic theologian who has become one of the most influential contemporary critics of neoliberalism, digital culture, and modern forms of power. Raised near Seoul, he initially studied metallurgy at Korea University before abandoning that path and moving to Germany in the 1980s, arriving with little knowledge of the language or of academic philosophy. He went on to study philosophy, German literature, and theology in Freiburg and Munich, completing a doctorate in 1994 on Martin Heidegger’s concept of mood, and later a habilitation at the University of Basel, which established his academic career in German-speaking Europe.
 
-After completing his habilitation in philosophy at the University of Basel in 2000, Han taught there and later held positions at the Karlsruhe University of Arts and Design and the Berlin University of the Arts, where he became known for concise, essayistic books that diagnose the psychic and social pathologies of neoliberal, performance‑oriented societies. In works such as “The Burnout Society” (original German: “Müdigkeitsgesellschaft”, Spanish: “La sociedad del cansancio”), he analyzes phenomena like burnout, depression, hyperactivity, and the demand for constant self‑optimization as symptoms of a regime of self‑exploitation rather than external coercion. Living in Berlin, he is noted for a way of life that deliberately resists aspects of digital capitalism—eschewing smartphones and cultivating a private garden—as an ethical counterpoint to the transparency, exposure, and constant connectivity he critiques.
+Han has taught at several institutions, including the University of Basel, the Karlsruhe University of Arts and Design, and the Berlin University of the Arts, and he has made his life in Berlin while writing almost exclusively in German. His short, essayistic books—among them “Die Müdigkeitsgesellschaft” (“The Burnout Society,” also known in Spanish as “La sociedad del cansancio”)—diagnose contemporary pathologies such as burnout, depression, hypertransparency, and loss of meaningful communal rituals, framing them as effects of an achievement-oriented, self-exploitative society. Widely translated and read across Europe, Asia, and Latin America, his work has shaped public debates about technology, capitalism, and subjectivity and has earned major distinctions, including Spain’s Princess of Asturias Prize for Humanities, underscoring his status as a philosopher whose reflections resonate far beyond academic philosophy.
 
-Han’s writings, which engage thinkers such as Heidegger, Hegel, Foucault, and Derrida, have been widely translated and have shaped debates on technology, power, subjectivity, and the erosion of otherness, intimacy, and privacy in late modernity. His influence extends well beyond academic philosophy into media, politics, and cultural criticism, and he has received international recognition, including major European humanities prizes, for his analyses of the social and psychological consequences of neoliberalism and digital technologies.
+A distinctive feature of Han’s thought is the way it weaves together Western continental philosophy—figures such as Heidegger, Hegel, and Foucault—with East Asian and Christian traditions, producing a critical perspective that is at once global and deeply personal. While he tends to keep his private life out of the public eye, his essays reveal a consistent concern for how social systems penetrate intimacy, love, and everyday relationships, and they often argue for the recovery of contemplation, slowness, and genuine otherness in a world dominated by performance metrics and digital exposure.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

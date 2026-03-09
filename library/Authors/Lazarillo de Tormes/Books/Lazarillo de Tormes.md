@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
-language: "Spanish"
+language: "Unknown"
 isbn: "8437606608"
 isbn13: "9788437606606"
 pages: 196
 format: "physical"
 cover: "[[Attachments/Covers/Lazarillo de Tormes - Lazarillo de Tormes.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lazarillo de Tormes

@@ -13,9 +13,9 @@ pages: 204
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pobre gente

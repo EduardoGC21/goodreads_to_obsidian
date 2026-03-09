@@ -1,8 +1,8 @@
 ---
 name: "Daniel Kahneman"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Israel]]"
+birth_year: "1934"
+death_year: "2024"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Daniel Kahneman (1934–2024) was an Israeli-born psychologist whose work fundamentally reshaped economics, psychology, and public policy by revealing the systematic ways in which human judgment departs from strict rationality. Born in Tel Aviv in what was then Mandatory Palestine, he spent much of his childhood in Nazi-occupied France, an experience that deeply influenced his interest in human behavior. After the Second World War he returned to what became the State of Israel, studied psychology and mathematics at the Hebrew University of Jerusalem, and later earned his PhD in psychology from the University of California, Berkeley.
+Daniel Kahneman (1934–2024) was an Israeli-American psychologist whose work fundamentally reshaped our understanding of judgment, decision-making, and human rationality. Born in Tel Aviv to Jewish parents who had emigrated from Eastern Europe, he spent part of his childhood in Nazi-occupied France before moving back to what would become the State of Israel. These early experiences with uncertainty, danger, and social prejudice helped shape his lifelong interest in how people perceive risk and interpret the world around them.
 
-Kahneman first gained prominence through his collaboration with Amos Tversky, with whom he developed the heuristics-and-biases program and prospect theory, explaining how people actually make decisions under risk rather than how they would if they were perfectly rational. This work laid the foundations of behavioral economics and earned him the Nobel Memorial Prize in Economic Sciences in 2002, a rare distinction for a non-economist by training. His later research explored well-being, the difference between experienced and remembered happiness, and the limits of introspection about our own minds. His book Thinking, Fast and Slow synthesized decades of research on fast, intuitive thinking and slow, deliberative reasoning, bringing his ideas to a broad audience.
+Educated at the Hebrew University of Jerusalem and later at the University of California, Berkeley, Kahneman first made his mark studying perception and attention before turning to the psychology of judgment under uncertainty. In close collaboration with Amos Tversky, he identified systematic cognitive biases and heuristics that show how people often deviate from the predictions of classical rational-choice theory. This research led to prospect theory, a descriptive model of decision-making under risk that became foundational in behavioral economics. For this work, Kahneman received the Nobel Prize in Economic Sciences in 2002, a rare honor for a non-economist.
 
-Over a long academic career, Kahneman held positions at the Hebrew University of Jerusalem, the University of British Columbia, the University of California, Berkeley, and Princeton University. He was known not only for his intellectual rigor but also for generous collaborations with colleagues and students, including his marriage and long-standing intellectual partnership with cognitive psychologist Anne Treisman. Widely regarded as one of the most influential thinkers of the late twentieth and early twenty-first centuries, he transformed how scholars and practitioners in fields from finance to public policy understand judgment, decision-making, and human welfare.
+Over a long academic career with appointments at institutions such as the Hebrew University, the University of British Columbia, and Princeton University, Kahneman influenced fields ranging from economics and public policy to medicine, law, and management. His later popular book "Thinking, Fast and Slow" synthesized decades of research on the interplay between intuitive, rapid thinking and slower, more deliberative reasoning, bringing his ideas to a broad global audience. Known for his intellectual modesty and generosity toward colleagues and students, Kahneman left a lasting legacy as a scholar who connected psychology to real-world choices, reshaping how societies think about rationality, risk, and human error.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

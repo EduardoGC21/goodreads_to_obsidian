@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2026-01-30"
 date_read: "2026-01-30"
-language: "Spanish"
+language: "Unknown"
 isbn: "842493962X"
 isbn13: "9788424939625"
 pages: 144
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Aristophanes - Lisístrata.jpg]]"
 bookshelves:
   - "[[grecorromano]]"
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lisístrata

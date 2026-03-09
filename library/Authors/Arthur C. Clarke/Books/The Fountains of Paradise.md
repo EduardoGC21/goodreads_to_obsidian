@@ -13,9 +13,9 @@ pages: 332
 format: "physical"
 cover: "[[Attachments/Covers/Arthur C. Clarke - The Fountains of Paradise.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Fountains of Paradise

@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2022-02-01"
-language: "Spanish"
+language: "Unknown"
 isbn: "8498790492"
 isbn13: "9788498790498"
 pages: 688
@@ -16,9 +16,9 @@ bookshelves:
   - "[[filosofía]]"
   - "[[favoritos]]"
   - "[[schopenhueriano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Parerga y paralipómena II

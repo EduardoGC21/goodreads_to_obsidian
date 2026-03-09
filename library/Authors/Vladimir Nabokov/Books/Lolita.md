@@ -13,9 +13,9 @@ pages: 392
 format: "physical"
 cover: "[[Attachments/Covers/Vladimir Nabokov - Lolita.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lolita

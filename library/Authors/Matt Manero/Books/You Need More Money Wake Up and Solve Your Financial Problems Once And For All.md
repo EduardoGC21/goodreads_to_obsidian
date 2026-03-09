@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[economía]]"
   - "[[self-help]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # You Need More Money: Wake Up and Solve Your Financial Problems Once And For All

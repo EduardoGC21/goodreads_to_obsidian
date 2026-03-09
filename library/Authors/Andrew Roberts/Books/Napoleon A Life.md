@@ -13,9 +13,9 @@ pages: 976
 format: "physical"
 cover: "[[Attachments/Covers/Andrew Roberts - Napoleon A Life.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Napoleon: A Life

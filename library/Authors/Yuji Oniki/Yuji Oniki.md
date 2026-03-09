@@ -1,11 +1,10 @@
 ---
 name: "Yuji Oniki"
-country: "[[Unknown]]"
+country: "[[United States]]"
+birth_year: "1967"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Yuji Oniki
@@ -13,9 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Yuji Oniki is a Japanese-to-English translator and adapter best known for his work on books that document and interpret the films of director Hayao Miyazaki and Studio Ghibli. His credits appear on major art and picture books such as *The Art of Howl's Moving Castle*, where he helps present the film's visual development and creative process to English-language readers. ([chipublib.bibliocommons.com](https://chipublib.bibliocommons.com/v2/record/S161C259806?utm_source=openai))
+Yuji Oniki (b. 1967, New York City) is a Japanese‑American artist whose career bridges music and literary translation, particularly in bringing the worlds of Japanese animation and manga to English‑speaking audiences. Born in NYC and raised in the United States, he grew up between American and Japanese cultures, a background that later shaped both his songwriting and his sensitivity as a translator of Japanese visual storytelling.
 
-Oniki has been repeatedly entrusted with adapting key Studio Ghibli texts, including *The Art of Miyazaki's Spirited Away* and the *Spirited Away* picture book, as well as the multi-volume *Castle in the Sky* film comics, indicating an ongoing professional relationship with publishers like Viz (VIZ) and long-term involvement in bringing Miyazaki's work to international audiences. ([evergreen.lib.in.us](https://evergreen.lib.in.us/eg/opac/record/23290629?utm_source=openai)) Beyond Ghibli-related titles, he is also credited as a translator on other manga such as Junji Ito's horror classic *Uzumaki*, underscoring his broader role in shaping how English-speaking readers experience contemporary Japanese popular culture. ([hatchards.co.uk](https://www.hatchards.co.uk/book/uzumaki/junji-ito/9781591160335?utm_source=openai))
+As a musician, Oniki emerged in the indie and alternative scenes, releasing albums such as "Shonen Blue," "Orange," "Tvi," "Woodstock," "Tokyo," and "Sister Worlds," and collaborating with artists connected to bands like Guided by Voices, Game Theory, and Gang of Four. His work is marked by introspective lyrics and understated arrangements, and he has lived and worked between major creative centers including New York, Tokyo, and later Kyoto, reflecting a transpacific life that informs his art.
+
+In publishing, Oniki is best known as an English‑language translator and adapter of works tied to Studio Ghibli and Hayao Miyazaki, including film art books and manga editions such as "The Art of Howl's Moving Castle." His translations help convey the tone, atmosphere, and emotional nuance of Japanese animation to Western readers, making him a quiet but important contributor to the global appreciation of contemporary Japanese culture.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

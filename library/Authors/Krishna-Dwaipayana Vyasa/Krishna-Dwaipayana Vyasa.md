@@ -1,11 +1,10 @@
 ---
 name: "Krishna-Dwaipayana Vyasa"
 country: "[[India]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Krishna-Dwaipayana Vyasa
@@ -13,9 +12,9 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Krishna-Dwaipayana Vyasa, also known as Vedavyasa, is the semi-legendary sage traditionally credited with composing the Mahabharata and compiling the Vedas in ancient India. His precise historical dates are unknown, but he is generally placed in the first millennium BCE and revered as a central figure in the formation of Hindu scripture and philosophy. The Bhagavad Gita, embedded within the Mahabharata, is thus also associated with Vyasa’s authorship, and through it he is seen as a foundational shaper of later Hindu thought and devotional practice.
+Krishna-Dwaipayana Vyasa, often simply called Vyasa, is the legendary sage traditionally credited with composing and compiling some of the most important texts of Hindu civilization, including the Mahabharata and major Puranas, and with organizing the Vedic corpus into its fourfold form. In Hindu tradition he is revered as a rishi and an incarnation of Vishnu, situated at the junction between myth and history rather than as a clearly datable historical figure. His life story is interwoven with the narrative of the Mahabharata itself, where he appears both as author and as a character, born to the sage Parashara and the fisherwoman Satyavati on an island in the Yamuna River, which gives him the epithet “Dwaipayana” (island-born).
 
-According to tradition, Vyasa was the son of the sage Parashara and Satyavati, and through the practice of niyoga became the father of Dhritarashtra, Pandu, and Vidura, making him the grandfather of both the Pandava and Kaurava lineages whose conflict forms the core of the Mahabharata. Beyond epic authorship, he is credited with dividing the Vedas into four collections and composing or inspiring many of the Puranas, giving him an unparalleled role in systematizing sacred knowledge. In Hindu religious memory he is honored as a rishi and sometimes as an immortal sage whose life, teachings, and literary work bridge the human and the divine, shaping the religious, ethical, and philosophical landscape of South Asia for millennia.
+Vyasa’s significance lies not only in authorship but also in his role as a transmitter and organizer of sacred knowledge. He is said to have systematized the Vedas to preserve them in an age of declining spiritual capacity, and the Mahabharata—within which the Bhagavad Gita appears—presents his theological and ethical vision in narrative form, shaping later Hindu thought on dharma, devotion, and liberation. His relationships with the Kuru royal line, especially through his sons Dhritarashtra, Pandu, and Vidura, link him to the epic’s central dynastic conflict, symbolizing the intimate connection between spiritual authority and political life. Because his figure belongs to a semi-mythic age, traditional sources assign him to distant epochs without consensus, and modern scholarship cannot firmly establish his dates, leaving him as a foundational but chronologically elusive figure in Indian religious and literary history.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

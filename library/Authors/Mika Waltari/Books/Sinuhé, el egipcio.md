@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Mika Waltari - Sinuhé, el egipcio.jpg]]"
 bookshelves:
   - "[[novelas-historicas]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sinuhé, el egipcio

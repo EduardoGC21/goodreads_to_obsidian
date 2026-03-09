@@ -13,9 +13,9 @@ pages: 255
 format: "physical"
 cover: "[[Attachments/Covers/Arthur C. Clarke - The City and the Stars.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The City and the Stars

@@ -1,7 +1,7 @@
 ---
 name: "Esi Edugyan"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Canada]]"
+birth_year: "1978"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Esi Edugyan (b. 1978) is a Canadian novelist whose work explores history, race, memory, and belonging, often through characters caught between worlds. Born and raised in Calgary, Alberta, to parents who emigrated from Ghana, she grew up navigating both West African and Canadian cultural influences. She studied creative writing at the University of Victoria, where she was mentored by Jack Hodgins, and later completed a master’s degree at the Johns Hopkins Writing Seminars in the United States, beginning her career with short fiction before turning to the novel.
+Esi Edugyan (b. 1978) is a Canadian novelist whose work explores race, belonging, memory, and the afterlives of slavery through richly imagined historical narratives. Born in Calgary, Alberta, to parents who immigrated from Ghana, she grew up negotiating the distance between her family’s West African roots and the realities of Black life in western Canada. She studied creative writing at the University of Victoria and later at Johns Hopkins University, benefiting from international residencies and fellowships in Europe and North America that broadened her sense of history and diaspora.
 
-Edugyan’s debut novel, "The Second Life of Samuel Tyne" (2004), signaled the arrival of a serious new voice in Canadian literature, but it was her second novel, "Half-Blood Blues" (2011), that brought her international attention, winning the Scotiabank Giller Prize and being shortlisted for the Man Booker Prize and several other major awards. Her later work, including the novel "Washington Black" (2018), deepens her engagement with the legacies of slavery and colonialism, following characters across continents and historical periods to examine how freedom, identity, and storytelling are constructed. "Washington Black" earned her a second Giller Prize, making her one of the few writers to receive the award twice, and it confirmed her as a leading figure in contemporary fiction.
-
-Edugyan has also written non-fiction, notably the Massey Lectures collection "Out of the Sun: On Race and Storytelling," where she reflects on how Black histories have been represented and erased. She has held residencies and fellowships in Europe and North America, taught creative writing at universities, and served in prominent literary roles, including chairing the 2023 Booker Prize jury. She lives in Victoria, British Columbia, with her husband, novelist and poet Steven Price, and their two children, balancing a private family life with a public literary career that continues to shape conversations about race, history, and narrative authority.
+Edugyan’s early fiction established her as a major new voice, but it was her second novel, "Half-Blood Blues," that brought her international prominence, winning the Scotiabank Giller Prize and garnering shortlistings for the Booker and multiple other awards. Her later work, including the novel "Washington Black," extends her interest in how individuals marked by slavery and racism search for freedom, scientific discovery, and self-definition across continents, helping to reshape contemporary historical fiction. Beyond her novels, she has written non-fiction lectures on race and storytelling and children’s literature, and she has served in prominent literary roles such as chair of the Booker Prize jury, underscoring her influence on both Canadian and global letters. Edugyan lives in Victoria, British Columbia, with her husband, writer Steven Price, and their two children.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

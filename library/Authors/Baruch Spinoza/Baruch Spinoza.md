@@ -1,8 +1,8 @@
 ---
 name: "Baruch Spinoza"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Netherlands]]"
+birth_year: "1632"
+death_year: "1677"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Baruch Spinoza (1632–1677) was a Dutch philosopher of Portuguese-Jewish descent, born in Amsterdam into a community of Sephardic Jews who had fled Iberian persecution. Educated in traditional Jewish texts as well as in contemporary science and philosophy, he gradually developed unorthodox views about God, scripture, and the nature of reality. These ideas led to a dramatic break with his community: in 1656 he was placed under a harsh herem (excommunication) by the Amsterdam synagogue, severing him from family, friends, and communal life. Afterward, he earned a modest living as a lens grinder, choosing an independent, almost ascetic existence in order to preserve his intellectual freedom.
+Baruch Spinoza (1632–1677) was a Dutch philosopher of Portuguese-Jewish descent, born in Amsterdam into a community of Sephardic Jews who had fled Iberian persecution. Educated in traditional Jewish learning as well as the commercial and intellectual life of Amsterdam, he gradually developed unorthodox views about Scripture, God, and the nature of religious authority. These positions led to his dramatic excommunication from the Portuguese-Jewish community in 1656, after which he lived as an independent thinker on the margins of both Jewish and Christian societies.
 
-Spinoza’s mature philosophy, most systematically presented in his posthumously published "Ethics" (often referred to as "Ética demostrada según el orden geométrico" in Spanish), proposed a radical monism in which God and Nature are one substance and everything that exists is a mode of that single reality. He combined rigorous geometric method with a deeply ethical aim: to show how understanding the necessary order of nature can free individuals from destructive passions and lead to a life of rational joy, virtue, and peace of mind. His political and religious writings defended freedom of thought, argued for a secular, tolerant state, and influenced later Enlightenment thinkers such as Leibniz, Locke, and the authors of the radical Enlightenment. Though he lived a relatively quiet and outwardly uneventful life, dying in The Hague at a young age likely from lung illness, Spinoza’s ideas profoundly shaped modern philosophy, biblical criticism, and liberal political thought.
+Spinoza earned his living modestly as a lens grinder while dedicating himself to philosophy, mathematics, and science. In his major work, often known simply as the "Ethics" (in Spanish editions: "Ética demostrada según el orden geométrico"), he presented a rigorous, geometrically structured system that identified God with Nature, rejected a personal, interventionist deity, and grounded human freedom in understanding the necessary order of reality. His writings on politics and theology defended freedom of thought, criticized superstition and religious intolerance, and argued that a stable state depends on protecting philosophical and civil liberties.
+
+Although vilified in his own time as an atheist and dangerous radical, Spinoza’s ideas deeply influenced the European Enlightenment and later German philosophy, particularly thinkers such as Lessing, Herder, and Hegel. His emphasis on intellectual honesty, ethical living through understanding, and the unity of all things has made him a lasting symbol of philosophical integrity and a key figure in debates about religion, democracy, and the nature of modern secular thought.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

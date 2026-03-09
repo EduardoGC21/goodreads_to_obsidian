@@ -13,9 +13,9 @@ pages: 672
 format: "physical"
 cover: "[[Attachments/Covers/Robin Lane Fox - The Classical World An Epic History from Homer to Hadrian.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Classical World: An Epic History from Homer to Hadrian

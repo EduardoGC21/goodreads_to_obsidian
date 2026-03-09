@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Edith Hamilton - Mythology Timeless Tales of Gods and Heroes.jpg]]"
 bookshelves:
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mythology: Timeless Tales of Gods and Heroes

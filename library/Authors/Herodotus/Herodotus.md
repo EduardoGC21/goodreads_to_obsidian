@@ -1,8 +1,8 @@
 ---
 name: "Herodotus"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Greece]]"
+birth_year: "0484"
+death_year: "0425"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Herodotus (c. 484–c. 425 BCE) was an ancient Greek historian from Halicarnassus in Asia Minor, often called the “Father of History” for being the first writer known to collect, evaluate, and narrate events in a systematic prose account. Writing in the wake of the Greco-Persian Wars, he traveled widely through regions such as Egypt, the Near East, and the Greek world, gathering stories, inscriptions, and eyewitness reports. His curiosity extended beyond battles and rulers to the customs, religions, and geographies of the peoples he encountered, making his work an early synthesis of history, ethnography, and geography.
+Herodotus (c. 484–425 BC) was an ancient Greek historian from Halicarnassus in Asia Minor, often called the "Father of History" for composing one of the earliest large-scale prose narratives about the known world. Born under Persian rule in a culturally mixed Greek city, he grew up amid stories of conflict between Greeks and Persians, which later became the central theme of his major work, the *Histories*.
 
-His major work, commonly known as *The Histories* (divided in later antiquity into nine books), recounts the origins and course of the conflict between the Greeks and the Persian Empire while digressing into rich narratives about earlier kings, legendary figures, and foreign cultures. Herodotus’s blend of critical inquiry with storytelling influenced later historians such as Thucydides and Polybius, and his willingness to report multiple versions of events—sometimes skeptical, sometimes credulous—shows an early awareness of the problem of sources. Though exact details of his personal life, relationships, and death remain uncertain, he is believed to have spent time in cities like Athens and possibly Thurii in southern Italy, moving within intellectual circles that linked history, politics, and oral tradition in the classical Greek world.
+As an adult, Herodotus traveled widely throughout the eastern Mediterranean, Egypt, the Near East, and parts of the Black Sea region, gathering oral traditions, local legends, and eyewitness reports. His writing combines inquiry into the causes of the Greco-Persian Wars with vivid portrayals of foreign customs, religious practices, and political institutions, making him both a political historian and an ethnographer of sorts. Although later critics sometimes accused him of credulity, his willingness to compare sources and flag uncertainties marks an early step toward critical historical method. Editions such as Spanish translations of his nine books of history testify to his long-standing influence, as later generations across cultures have turned to Herodotus for insight into the interconnected ancient world.
+
+Herodotus’ work shaped how Greeks understood their own identity in relation to powerful neighbors like Persia and Egypt, and it influenced subsequent historians such as Thucydides and writers of biography and geography. His attention to character, chance, and divine intervention, as well as to the moral lessons of hubris and moderation, ensured that his narratives remained central to classical education. Though details of his personal relationships and final years are sparse, tradition places his later life in cities such as Athens and Thurii in southern Italy, reflecting his integration into the wider Greek intellectual and colonial networks of the classical era.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

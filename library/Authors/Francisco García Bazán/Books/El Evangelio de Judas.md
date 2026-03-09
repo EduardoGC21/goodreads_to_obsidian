@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Francisco García Bazán - El Evangelio de Judas.jpg]]"
 bookshelves:
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Evangelio de Judas

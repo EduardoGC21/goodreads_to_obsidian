@@ -16,9 +16,9 @@ bookshelves:
   - "[[novelas]]"
   - "[[fantasía]]"
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El retorno del rey (El señor de los anillos, Num. 3)

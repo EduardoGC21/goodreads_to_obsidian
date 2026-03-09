@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-08-21"
 date_read: "2021-11-05"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437613302"
 isbn13: "9788437613307"
 pages: 128
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Epicurus - Obras completas.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Obras completas

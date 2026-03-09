@@ -13,9 +13,9 @@ pages: 976
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La muerte de Arturo

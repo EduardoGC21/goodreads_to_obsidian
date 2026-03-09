@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Daniel Kahneman - Thinking, Fast and Slow.jpg]]"
 bookshelves:
   - "[[economía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Thinking, Fast and Slow

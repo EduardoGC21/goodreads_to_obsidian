@@ -6,22 +6,22 @@ rating: 4
 read_count: 1
 date_added: "2020-06-04"
 date_read: "2020-06-09"
-language: "Spanish"
+language: "Unknown"
 isbn: ""
 isbn13: ""
 pages: 134
 format: "physical"
-cover: "[[Attachments/Covers/Raúl Prebisch - Introducción a Keynes.jpg]]"
+cover: ""
 bookshelves:
   - "[[economía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Introducción a Keynes
 
-![|200]([[Attachments/Covers/Raúl Prebisch - Introducción a Keynes.jpg]])
+> Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Samuel Beckett - Esperando a Godot.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[existencialista]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Esperando a Godot

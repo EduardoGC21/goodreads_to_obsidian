@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Aldous Huxley - Brave New World.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[distopia]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Brave New World

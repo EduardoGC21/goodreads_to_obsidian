@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-06-20"
 date_read: "2022-07-07"
-language: "Spanish"
+language: "Unknown"
 isbn: "8439732473"
 isbn13: "9788439732471"
 pages: 400
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Gabriel García Márquez - Cien años de soledad.jpg]]"
 bookshelves:
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cien años de soledad

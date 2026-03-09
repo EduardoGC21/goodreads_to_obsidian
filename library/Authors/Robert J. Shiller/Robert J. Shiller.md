@@ -1,7 +1,7 @@
 ---
 name: "Robert J. Shiller"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United States]]"
+birth_year: "1946"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Robert J. Shiller (1946– ) is an American economist known for his pioneering work on asset prices, speculative bubbles, and the role of psychology and narrative in financial markets. Born in Detroit, Michigan, he studied at the University of Michigan and received his Ph.D. in economics from the Massachusetts Institute of Technology before joining the faculty at Yale University, where he became a leading figure in behavioral finance and macroeconomics. His research has challenged the notion that markets are always efficient, showing that asset prices can deviate persistently from fundamentals due to human psychology and social dynamics.
+Robert J. Shiller (born 1946) is an American economist renowned for his work on financial markets, asset prices, and the role of psychology in economics. Educated at the University of Michigan and the Massachusetts Institute of Technology, he spent most of his academic career at Yale University, where he became Sterling Professor of Economics. Shiller’s research challenged the prevailing view that financial markets are fully efficient, showing that stock and housing prices can deviate persistently from fundamentals.
 
-Shiller gained wide recognition for developing the Case–Shiller Home Price Index, which became a key benchmark for tracking U.S. housing prices and helped illuminate the buildup and collapse of the housing bubble leading up to the 2008 financial crisis. He accurately warned of both the dot-com stock market bubble in the late 1990s and the housing bubble in the 2000s, enhancing his reputation as a careful empirical observer of markets. His 2000 book “Irrational Exuberance” became a touchstone for understanding speculative manias, and his later work “Narrative Economics: How Stories Go Viral and Drive Major Economic Events” extended this perspective by emphasizing how contagious stories shape economic behavior and outcomes.
+He is widely known for developing the Case–Shiller Home Price Indices, which transformed empirical research and public understanding of housing markets, especially during the U.S. housing boom and the 2008 financial crisis. Shiller’s work often blends rigorous data analysis with insights from psychology and history, highlighting how speculation, narratives, and herd behavior drive booms and busts. "Narrative Economics" extends this line of thought by arguing that contagious stories—about markets, technology, or economic destiny—shape major economic events.
 
-In 2013, Shiller was awarded the Nobel Memorial Prize in Economic Sciences, shared with Eugene Fama and Lars Peter Hansen, for his empirical analysis of asset prices. Throughout his career, he has combined rigorous empirical research with clear public communication, writing columns, books, and giving talks aimed at both academics and the general public. His work has significantly influenced economic policy debates, financial regulation, and the broader understanding of how markets and societies interact through beliefs, expectations, and narratives.
+Shiller shared the 2013 Nobel Memorial Prize in Economic Sciences for his empirical analysis of asset prices, alongside Eugene Fama and Lars Peter Hansen, underscoring both his influence and his constructive engagement with differing schools of thought. Over his career he has been an important public intellectual, writing books and columns aimed at broad audiences, and influencing policy debates on financial regulation, housing, and retirement security.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-09-18"
-language: "Spanish"
+language: "Unknown"
 isbn: "8481648795"
 isbn13: "9788481648799"
 pages: 510
@@ -16,9 +16,9 @@ bookshelves:
   - "[[favoritos]]"
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Parerga y paralipómena I

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Yuval Noah Harari - Homo Deus A Brief History of To
 bookshelves:
   - "[[filosofía]]"
   - "[[history]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Homo Deus: A Brief History of Tomorrow

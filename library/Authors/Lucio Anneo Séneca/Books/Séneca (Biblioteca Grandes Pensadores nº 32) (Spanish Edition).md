@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2024-03-24"
 date_read: ""
-language: "Unknown"
+language: "English"
 isbn: "8424930355"
 isbn13: "9788424930356"
 pages: 1133
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Séneca (Biblioteca Grandes Pensadores nº 32) (Spanish Edition)

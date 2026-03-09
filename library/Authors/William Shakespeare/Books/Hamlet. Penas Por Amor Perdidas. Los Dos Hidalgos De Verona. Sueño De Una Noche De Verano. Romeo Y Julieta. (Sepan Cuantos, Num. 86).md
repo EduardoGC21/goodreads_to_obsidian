@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86)

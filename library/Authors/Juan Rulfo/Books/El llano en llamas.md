@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Juan Rulfo - El llano en llamas.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El llano en llamas

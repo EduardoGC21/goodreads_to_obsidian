@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-07-31"
-language: "Spanish"
+language: "Unknown"
 isbn: "8484284921"
 isbn13: ""
 pages: 1464
@@ -16,9 +16,9 @@ bookshelves:
   - "[[favoritos]]"
   - "[[novelas]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Anna Karénina

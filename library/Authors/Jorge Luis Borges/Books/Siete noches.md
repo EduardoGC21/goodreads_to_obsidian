@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2023-05-10"
 date_read: "2023-05-14"
-language: "Spanish"
+language: "Unknown"
 isbn: "9681664094"
 isbn13: "9789681664091"
 pages: 171
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Jorge Luis Borges - Siete noches.jpg]]"
 bookshelves:
   - "[[borgiano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Siete noches

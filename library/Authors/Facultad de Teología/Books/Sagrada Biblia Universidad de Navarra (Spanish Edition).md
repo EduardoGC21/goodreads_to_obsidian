@@ -17,9 +17,9 @@ bookshelves:
   - "[[history]]"
   - "[[filosofía]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sagrada Biblia: Universidad de Navarra (Spanish Edition)

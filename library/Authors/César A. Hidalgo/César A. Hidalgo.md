@@ -1,7 +1,7 @@
 ---
 name: "César A.  Hidalgo"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Chile]]"
+birth_year: "1979"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-César A. Hidalgo (born 1979) is a Chilean-born researcher and author known for his pioneering work at the intersection of economic complexity, data visualization, and the science of information in social systems. Trained as a physicist, he became widely recognized through his research on how knowledge and productive capabilities shape the growth and diversification of economies, contributing to a more nuanced understanding of development and inequality. His work often blends theory, empirical data, and design to make complex phenomena intelligible to both scholars and the general public.
+César A. Hidalgo is a Chilean‑Spanish‑American physicist and scholar whose work has reshaped how researchers think about economic complexity, data visualization, and applied artificial intelligence. Born and raised in Santiago de Chile, he studied physics at the Pontificia Universidad Católica de Chile before completing a PhD in physics at the University of Notre Dame, where he worked on networks and complex systems. His early career included a research fellowship at Harvard’s Kennedy School of Government, reflecting a long‑standing interest in how scientific ideas can inform public policy and economic development.
 
-Hidalgo’s academic career has included influential posts at leading institutions, where he helped develop tools and frameworks—such as economic complexity metrics and interactive data platforms—that allow policymakers, researchers, and citizens to explore patterns of trade, innovation, and development. In "Why Information Grows: The Evolution of Order, from Atoms to Economies," he extends his research into a broader argument about information as the physical basis of organization in economies and societies, situating economic processes within a larger scientific narrative about order and complexity. Through his writing, public speaking, and collaborative projects, he has played a central role in popularizing the idea that the structure of knowledge and networks underpins long-term prosperity.
+Hidalgo became widely known through his leadership of the Collective Learning (formerly Macro Connections) group at the MIT Media Lab from 2010 to 2019, where he and his collaborators developed influential visualizations and platforms—such as DataUSA and related projects—that make large‑scale economic and social data accessible to the public and policymakers. His book “Why Information Grows: The Evolution of Order, from Atoms to Economies” brought his research on information, networks, and growth to a broad audience, complementing earlier work such as “The Atlas of Economic Complexity.”
 
-Beyond his scholarly contributions, Hidalgo is noted for his interdisciplinary collaborations with designers, computer scientists, and policymakers, which have yielded widely used public data tools and visually compelling representations of global economic structures. His work reflects both his scientific training and a strong interest in civic engagement, transparency, and the democratization of data. Although his career has taken him to various countries and institutions, his background as a Latin American scientist has shaped his attention to development challenges and opportunities in emerging economies.
+After MIT, Hidalgo moved to Europe, taking a tenured professorship at the Toulouse School of Economics and founding the Center for Collective Learning, an international research laboratory based in Toulouse and Budapest. Alongside his academic posts at institutions including the University of Manchester and Harvard’s School of Engineering and Applied Sciences, he co‑founded Datawheel, a company specializing in data visualization and public data distribution. His research, books, and public talks have earned numerous awards, including the Lagrange Prize and multiple Webby Awards, underscoring his influence at the intersection of science, economics, and civic technology.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-06-28"
 date_read: "2021-07-02"
-language: "Spanish"
+language: "Unknown"
 isbn: "8484289249"
 isbn13: "9788484289241"
 pages: 216
@@ -17,9 +17,9 @@ bookshelves:
   - "[[guerra]]"
   - "[[literatura-rusa]]"
   - "[[history]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Relatos de Sevastópol

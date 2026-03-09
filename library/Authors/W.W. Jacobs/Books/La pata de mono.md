@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/W.W. Jacobs - La pata de mono.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La pata de mono

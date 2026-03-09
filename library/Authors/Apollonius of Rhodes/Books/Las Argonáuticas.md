@@ -17,9 +17,9 @@ bookshelves:
   - "[[epopeyas]]"
   - "[[grecorromano]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las Argonáuticas

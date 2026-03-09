@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Arthur C. Clarke - Childhood’s End.jpg]]"
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Childhood’s End

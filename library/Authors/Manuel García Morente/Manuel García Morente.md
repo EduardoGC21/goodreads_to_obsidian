@@ -1,8 +1,8 @@
 ---
 name: "Manuel García Morente"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Spain]]"
+birth_year: "1886"
+death_year: "1942"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Manuel García Morente (1886–1942) was a Spanish philosopher, translator, and university professor whose work helped connect early 20th‑century Spanish intellectual life with broader European thought. Born in Arjonilla (Jaén) into a provincial bourgeois family, he received a cosmopolitan education: secondary studies in Bayonne, higher studies in France (notably at the Sorbonne, where he was influenced by Henri Bergson and other prominent thinkers), and later specialized training in Germany among the Marburg neo‑Kantian school. Returning to Spain, he became associated with the Institución Libre de Enseñanza and, in 1912, obtained the chair of Ethics at the University of Madrid, quickly earning a reputation as a brilliant lecturer and gifted systematizer of contemporary philosophy.
+Manuel García Morente (1886–1942) was a Spanish philosopher, translator, and university professor who became one of the central figures of early 20th‑century Spanish intellectual life. Born in Arjonilla (Jaén) and raised partly in Granada, he was the son of a liberal, anticlerical physician and a devout Catholic mother, a family background that foreshadowed the tensions between faith and reason that would later mark his life. Educated first in France at the lycée in Bayonne, he studied philosophy at the Sorbonne, where he encountered Henri Bergson and other major French thinkers, and then completed advanced studies in Germany among the Marburg neo‑Kantians, including Cohen, Natorp, and Cassirer. This cosmopolitan formation grounded his project of connecting Spanish culture with contemporary European philosophy.
 
-Throughout the 1910s and 1920s, García Morente was a central figure in the modernization of Spanish philosophy, both as an original thinker and as a prolific translator of major German and French works (including Kant, Husserl, Spengler, and Brentano). Closely connected to the “Generation of ’14” and influenced by José Ortega y Gasset, he promoted a style of philosophy grounded in reason, culture, and historical consciousness. As dean of the Faculty of Philosophy and Letters and later as a high‑ranking official in Spain’s Ministry of Education, he played a key role in reforming university curricula and in shaping how philosophy was taught; his course materials later crystallized into works such as “Lecciones preliminares de filosofía,” which became a touchstone for generations of Spanish‑speaking students.
+Upon his return to Spain, García Morente joined the Institución Libre de Enseñanza and quickly rose in the university, winning the chair of Ethics at the University of Madrid in 1912 and eventually serving as dean of the Faculty of Philosophy and Letters during one of its most vibrant periods. Closely associated with José Ortega y Gasset and the intellectual circles around the Residencia de Estudiantes and the Revista de Occidente, he became known both for his clear, rigorous lectures and for his prolific work as a translator and expositor of Kant, Bergson, Husserl, Spengler, and other European authors. Works such as “La filosofía de Kant,” “La filosofía de Bergson,” and especially his widely read “Lecciones preliminares de filosofía” made him a key mediator of modern thought for Spanish‑speaking students and readers.
 
-The Spanish Civil War marked a dramatic turning point in his life. Removed from his academic posts, personally affected by political violence, and forced into exile in France and then Argentina, García Morente underwent a profound religious experience that led to his conversion to Catholicism and, eventually, to ordination as a priest. He returned to Spain in the late 1930s, combining his philosophical vocation with pastoral and theological concerns until his death in Madrid in 1942. His life thus bridges liberal, secular intellectual circles and a later, explicitly Christian humanism, making him a significant figure for understanding the tensions and transformations of Spanish culture in the first half of the 20th century.
+His personal life was marked by both success and tragedy: he married Carmen García del Cid and had children, but was widowed in 1923 and later endured the upheavals of the Spanish Civil War, exile in France, and the spiritual crisis that led to his dramatic return to Catholicism. In the late 1930s he experienced a profound religious conversion, entered priestly formation in a Benedictine setting in France, and was ordained a Catholic priest in 1940 after returning to Spain. The final years of his life were devoted to teaching, pastoral work, and reflection on Spanish history and identity, culminating in writings on Hispanidad and the philosophical meaning of Spain. He died in Madrid in 1942, remembered as both a major philosopher‑educator and an emblematic figure of Spain’s attempt to reconcile modern European thought with its own religious and cultural traditions.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -16,9 +16,9 @@ bookshelves:
   - "[[antología]]"
   - "[[cuentos]]"
   - "[[fábula]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El paraíso imperfecto: Antología tímida

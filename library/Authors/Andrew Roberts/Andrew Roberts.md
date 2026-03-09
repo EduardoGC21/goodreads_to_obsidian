@@ -1,7 +1,7 @@
 ---
 name: "Andrew Roberts"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1963"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Andrew Roberts (born 1963) is a British historian and biographer renowned for his deeply researched, narrative-driven studies of great leaders and statesmen. Educated at Gonville and Caius College, Cambridge, he built his reputation through works on British and European political history, especially the 18th through 20th centuries. Roberts has become particularly well known for his penetrating portraits of figures such as Napoleon Bonaparte, Winston Churchill, and Lord Salisbury, combining archival research with a strong interest in personality, decision-making, and high politics.
+Andrew Roberts (born 1963) is an English historian and biographer best known for his vivid studies of political and military leadership, from the Victorians through the Second World War and the age of Napoleon. Raised in London, he was educated at Cranleigh School and went on to read modern history at Gonville and Caius College, Cambridge, where he took a first-class degree and later a PhD. After a brief early career in corporate finance, he turned full-time to writing history, quickly gaining a reputation for archival depth, clear narrative, and an often conservative, revisionist approach to major figures and events.
 
-In "Napoleon: A Life," Roberts drew on newly available archives to present a more rounded and, in some respects, revisionist view of the French emperor, helping to shape contemporary debates about Napoleon’s legacy. Beyond his books, Roberts has been an active public intellectual, contributing to newspapers, television documentaries, and lectures, where he often interprets historical leadership for modern audiences. His work has earned numerous literary prizes and honors, cementing his status as one of the leading popular historians of his generation.
+Roberts’s work ranges from British political history to sweeping accounts of global conflict, and he has become one of the most prominent interpreters of Winston Churchill, the Second World War, and Napoleon Bonaparte. His major biographies and campaign studies have won prizes such as the Wolfson History Prize and the British Army Military Book of the Year, and his large-scale life of Napoleon, published as “Napoleon: A Life” in the United States, sought to reinterpret the emperor through newly available letters and extensive battlefield research. Alongside his books, he is a regular presence in newspapers, on radio, and on television, and he has advised or lectured for political and military audiences in Britain, the United States, and elsewhere.
+
+Personally, Roberts has longstanding connections to Britain’s political and media worlds and has been an outspoken voice in contemporary debates about history, leadership, and Western civilisation. He has served as a visiting fellow or professor at institutions including the Hoover Institution at Stanford University and King’s College London, and has been made a life peer in the House of Lords. He lives in London with his second wife, businesswoman Susan Gilchrist, and has two children from his first marriage.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

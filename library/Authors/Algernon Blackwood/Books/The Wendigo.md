@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Algernon Blackwood - The Wendigo.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Wendigo

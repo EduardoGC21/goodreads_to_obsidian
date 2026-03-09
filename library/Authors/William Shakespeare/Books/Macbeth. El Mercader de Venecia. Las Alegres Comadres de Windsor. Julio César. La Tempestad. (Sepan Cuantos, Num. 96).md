@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/William Shakespeare - Macbeth. El Mercader de Venec
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96)

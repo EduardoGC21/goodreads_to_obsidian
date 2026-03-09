@@ -16,9 +16,9 @@ bookshelves:
   - "[[game-of-thrones]]"
   - "[[fantasía]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Fire & Blood (A Targaryen History, Num. 1)

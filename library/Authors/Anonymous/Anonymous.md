@@ -1,11 +1,10 @@
 ---
 name: "Anonymous"
 country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Anonymous

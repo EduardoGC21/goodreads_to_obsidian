@@ -13,9 +13,9 @@ pages: 304
 format: "physical"
 cover: "[[Attachments/Covers/Negri - Savage Anomaly The Power of Spinoza's Metaphysics and Politics.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Savage Anomaly: The Power of Spinoza's Metaphysics and Politics

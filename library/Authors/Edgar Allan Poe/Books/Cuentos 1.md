@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Edgar Allan Poe - Cuentos 1.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos 1

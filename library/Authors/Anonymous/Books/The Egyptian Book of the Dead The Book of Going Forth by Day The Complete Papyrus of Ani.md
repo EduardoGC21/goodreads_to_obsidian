@@ -16,9 +16,9 @@ bookshelves:
   - "[[history]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Egyptian Book of the Dead: The Book of Going Forth by Day: The Complete Papyrus of Ani

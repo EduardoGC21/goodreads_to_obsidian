@@ -1,7 +1,7 @@
 ---
 name: "Gary Keller"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United States]]"
+birth_year: "1957"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Gary Keller (born 1957) is an American real estate entrepreneur, author, and business leader best known as the co‑founder of Keller Williams Realty, which grew from a small Texas brokerage into one of the largest real estate franchise organizations in the world. Raised in Texas and educated at Baylor University, he began his career as a real estate agent and quickly became a top producer, which gave him early insight into the habits, systems, and models that distinguish consistently successful agents and businesses from those that struggle.
+Gary Keller (born 1957) is an American real estate entrepreneur, author, and educator best known as the co‑founder of Keller Williams, one of the world’s largest real estate franchise companies. Raised in a family of schoolteachers, he studied marketing and real estate at Baylor University before moving into brokerage work, where he quickly became a top‑producing agent and then a team leader. In 1983 he co‑founded Keller Williams in Austin, Texas, and over the following decades helped grow it into a global firm by emphasizing agent training, profit‑sharing, and a distinctive culture that treats agents as partners rather than simple sales staff.
 
-In 1983, Keller co‑founded Keller Williams Realty in Austin, Texas, with a strong emphasis on agent education, profit sharing, and a culture of collaboration rather than competition. This people‑first approach, along with his willingness to codify and teach what works in real estate and business, made him an influential figure for agents and entrepreneurs. His later work as an author—most notably “The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results,” written with co‑author Jay Papasan—extended his impact beyond real estate, distilling his experience into a broader philosophy of focus, priority, and purposeful living that resonated with professionals in many fields.
-
-Throughout his career, Keller has been known for mentoring other leaders inside Keller Williams and promoting a life built around clarity of purpose, family, and contribution. His significance lies in both reshaping how real estate brokerages think about agents—as partners rather than just salespeople—and in articulating simple, scalable models for achieving extraordinary results in work and life.
+Beyond building his company, Keller has become widely known for his writing and coaching on focus, productivity, and business-building. His book “The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results,” co‑authored with Jay Papasan, distilled lessons from his own entrepreneurial and personal experience into a framework for clarifying priorities and sustaining long‑term achievement. Keller has also been active as a mentor and public speaker, influencing generations of agents and entrepreneurs through seminars, books, and leadership within the real estate industry.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

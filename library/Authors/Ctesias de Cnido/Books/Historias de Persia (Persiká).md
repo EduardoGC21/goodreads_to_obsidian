@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2025-01-30"
 date_read: ""
-language: "Spanish"
+language: "Unknown"
 isbn: "8446056208"
 isbn13: "9788446056201"
 pages: 192
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Historias de Persia: (Persiká)

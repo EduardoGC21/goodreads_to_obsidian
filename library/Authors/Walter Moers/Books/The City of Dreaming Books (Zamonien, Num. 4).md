@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Walter Moers - The City of Dreaming Books (Zamonien, Num. 4).jpg]]"
 bookshelves:
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The City of Dreaming Books (Zamonien, Num. 4)

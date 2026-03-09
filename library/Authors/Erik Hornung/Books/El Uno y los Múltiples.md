@@ -13,9 +13,9 @@ pages: 264
 format: "physical"
 cover: "[[Attachments/Covers/Erik Hornung - El Uno y los Múltiples.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Uno y los Múltiples

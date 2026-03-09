@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los libros de la selva (Alba Maior) (Spanish Edition)

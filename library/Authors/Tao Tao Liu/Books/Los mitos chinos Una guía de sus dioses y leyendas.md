@@ -13,9 +13,9 @@ pages: 248
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos chinos: Una guía de sus dioses y leyendas

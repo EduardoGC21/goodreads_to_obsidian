@@ -1,8 +1,8 @@
 ---
 name: "Philip K. Dick"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United States]]"
+birth_year: "1928"
+death_year: "1982"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Philip K. Dick (1928–1982) was an American science fiction writer whose work explored the nature of reality, identity, and perception under the pressures of technology, capitalism, and authoritarian power. Born in Chicago and raised largely in California by his mother after his parents’ early separation, he struggled throughout his life with financial instability, health problems, and periods of psychological distress. These hardships, combined with his voracious reading of philosophy and interest in religion, deeply shaped his fiction, which often centers on fragile individuals confronting deceptive worlds.
+Philip K. Dick (1928–1982) was an American writer best known for his groundbreaking work in science fiction, where he explored themes of reality, identity, paranoia, and authoritarian control. Born in Chicago and raised primarily in California, he lived much of his life on the margins, struggling financially and wrestling with mental health challenges and drug use. These personal battles, along with his voracious reading in philosophy, religion, and psychology, deeply shaped his fiction, which often questioned what is real and who gets to decide.
 
-Dick became a defining figure of 20th‑century speculative fiction through his prolific output of novels and short stories that questioned what is real and who gets to decide. “Do Androids Dream of Electric Sheep?” (1968), later adapted into the film "Blade Runner," crystallized his preoccupations with artificial beings, empathy, and the moral cost of a technologized, consumerist society. Many of his works were adapted to film and television, greatly expanding his influence beyond the science fiction community and cementing his reputation as a visionary whose ideas anticipated debates about surveillance, virtual realities, and posthuman life.
+Dick was remarkably prolific, publishing dozens of novels and over a hundred short stories, many of which were later adapted into films and television series. Works like "Do Androids Dream of Electric Sheep?" showcased his talent for blending futuristic settings with intimate, human moral dilemmas—here, using androids and a ruined Earth to interrogate empathy and personhood. Though he received limited mainstream recognition during his lifetime, he was admired within the science fiction community, winning awards such as the Hugo and the John W. Campbell Memorial Award, and maintaining complex, sometimes turbulent personal relationships, including multiple marriages.
 
-Despite limited commercial success during much of his lifetime, Dick developed close relationships with fellow writers and fans in the science fiction community and is now regarded as one of the genre’s most important and unconventional voices. His distinctive blend of paranoia, metaphysical inquiry, and emotional vulnerability has inspired generations of authors, filmmakers, and theorists, making him a central figure in discussions of how speculative fiction can interrogate both personal consciousness and broader social structures.
+After his death, Dick’s influence grew dramatically; he is now regarded as one of the most important and prescient science fiction authors of the 20th century. His visions of surveillance states, altered consciousness, and unstable realities anticipated many contemporary anxieties about technology and power. Dick’s work continues to shape literature, film, and popular culture, and his life story—marked by creative brilliance, personal instability, and a relentless search for truth—remains central to understanding his enduring significance.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

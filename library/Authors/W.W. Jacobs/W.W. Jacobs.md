@@ -1,8 +1,8 @@
 ---
 name: "W.W. Jacobs"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[England]]"
+birth_year: "1863"
+death_year: "1943"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-W.W. Jacobs (William Wymark Jacobs, 1863–1943) was an English author best known for his mastery of the short story, particularly tales blending everyday realism with irony, dark humor, and the supernatural. Born in the dockside district of Wapping in London, the son of a wharf manager, he grew up observing sailors, river workers, and the life of the Thames, experiences that later shaped the vivid maritime settings and characters in many of his stories. He worked for years as a civil servant at the Post Office Savings Bank while writing in his spare time, gradually achieving success in the 1890s with collections like "Many Cargoes" and "Sea Urchins".
+W. W. Jacobs (William Wymark Jacobs, 1863–1943) was an English author best known for his mastery of the short story, particularly tales blending everyday realism with unsettling supernatural twists. Born in Wapping, a riverside district of London closely tied to docklands and seafaring life, he grew up amid the bustle of the Thames and the working maritime world, which later furnished the settings, characters, and idioms for many of his stories. For a significant period he held a steady job at the Post Office Savings Bank, writing fiction in his spare time until his success allowed him to devote himself fully to literature.
 
-Jacobs earned lasting literary significance with the macabre tale often translated into Spanish as "La pata de mono" ("The Monkey’s Paw"), which became a classic of supernatural fiction for its tightly controlled suspense and exploration of fate and unintended consequences. Beyond horror, he was widely read in his own day for comedic and domestic stories that gently satirized lower-middle-class life and relationships, often featuring genial rogues and long-suffering spouses. In 1900 he married Agnes Eleanor Williams, an active suffragette, and their household life in London and later Essex gave him further material for his depictions of marriage and family.
+Jacobs first made his name with humorous sketches and sea stories about sailors, dockworkers, and small-time rogues, capturing their speech and habits with a comic but sympathetic eye. His work was popular with a broad readership in the late Victorian and Edwardian periods, and collections of his short stories sold well and were frequently adapted for the stage. Today, however, his lasting fame rests mainly on his macabre tale "The Monkey’s Paw" (known in Spanish as "La pata de mono"), which distills themes of fate, desire, and unintended consequences into a compact, haunting narrative that has influenced countless later horror and suspense writers.
 
-Though his popularity waned as literary tastes changed, Jacobs’ influence has endured through frequent anthologizing and adaptation of his best-known pieces, especially "The Monkey’s Paw", which helped define the modern English-language horror short story. His work stands at the intersection of late Victorian and Edwardian popular fiction, showing how a writer rooted in everyday working-class environments could create stories that traveled far beyond their local origins.
+Though not a public intellectual or political figure, Jacobs was well integrated into the literary culture of his time, respected by contemporaries for his technical control of the short-story form and his ability to shift from broad comedy to quiet terror. He married Agnes Eleanor Williams in 1900, and his later life was comparatively private, spent largely in suburban London as his output gradually declined. By the time of his death in 1943, his broader body of work had begun to fade from public attention, but "The Monkey’s Paw" in particular ensured him a lasting place in the canon of English short fiction.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/William Golding - El Señor de las Moscas.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-inglesa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Señor de las Moscas

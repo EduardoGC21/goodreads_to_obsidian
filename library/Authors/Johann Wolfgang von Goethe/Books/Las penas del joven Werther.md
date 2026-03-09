@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Johann Wolfgang von Goethe - Las penas del joven We
 bookshelves:
   - "[[epistolas]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las penas del joven Werther

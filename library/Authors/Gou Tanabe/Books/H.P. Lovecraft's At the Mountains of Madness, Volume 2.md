@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Gou Tanabe - H.P. Lovecraft's At the Mountains of M
 bookshelves:
   - "[[manga]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # H.P. Lovecraft's At the Mountains of Madness, Volume 2

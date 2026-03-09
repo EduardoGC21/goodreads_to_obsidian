@@ -13,9 +13,9 @@ pages: 178
 format: "physical"
 cover: "[[Attachments/Covers/James Baldwin - Giovanni’s Room.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Giovanni’s Room

@@ -1,7 +1,7 @@
 ---
 name: "Steven Pinker"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Canada]]"
+birth_year: "1954"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Steven Pinker (1954–) is a Canadian-born cognitive psychologist, linguist, and public intellectual known for his influential work on language, the mind, and the nature of human progress. Born in Montreal, Quebec, he studied at McGill University and later earned his PhD in experimental psychology from Harvard University, where he would eventually become a professor. Pinker first rose to prominence through his research on visual cognition and language acquisition, helping to popularize the idea that many aspects of human language and thought are shaped by innate cognitive structures.
+Steven Pinker (born 1954) is a Canadian-American cognitive psychologist, linguist, and popular science writer known for his work on language, the mind, and human progress. Trained at McGill University and Harvard, he rose to prominence through research on visual cognition and language acquisition, and later became widely known for his accessible books that bridge experimental psychology, linguistics, and evolutionary theory. He has held prominent academic positions at institutions such as MIT and Harvard University, where he has focused on how language and cognition illuminate human nature.
 
-Over the course of his career, Pinker has become a major figure in debates about human nature, violence, and progress, arguing—drawing on large empirical datasets—that, over the long run, humanity has become less violent and more prosperous. His book "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress" exemplifies his defense of Enlightenment values and his belief that reason and scientific thinking have played a central role in improving human life. Pinker has also engaged widely in public discourse, writing for general audiences, participating in policy and cultural debates, and receiving numerous honors and awards. He has been married to philosopher and novelist Rebecca Goldstein, and his work often sits at the intersection of psychology, philosophy, and public policy, making him one of the most prominent contemporary voices on the role of science and rationality in modern society.
+Pinker’s major contributions include advancing the view that many aspects of the mind are shaped by evolution and that language is an innate human faculty, ideas he popularized in works like “The Language Instinct.” His later books, including “Enlightenment Now: The Case for Reason, Science, Humanism, and Progress,” argue that long-term data show substantial improvements in human welfare, attributing these gains to Enlightenment ideals of reason and science. A prominent public intellectual, he frequently engages in debates about rationality, free speech, violence, and moral progress, influencing discussions well beyond academic psychology.
+
+Throughout his career, Pinker has received numerous awards and honors for both scholarship and science communication, and he has been elected to prestigious scholarly societies. He is known for his clear, data-driven style and his willingness to challenge conventional pessimism about the modern world. His work has shaped contemporary thinking about how empirical evidence, evolutionary perspectives, and Enlightenment values can inform public policy and our understanding of human history.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

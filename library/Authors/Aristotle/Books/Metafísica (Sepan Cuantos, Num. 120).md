@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-05-25"
 date_read: "2020-06-04"
-language: "Spanish"
+language: "Unknown"
 isbn: "9700730999"
 isbn13: "9789700730998"
 pages: 326
@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[filosofía]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Metafísica (Sepan Cuantos, Num. 120)

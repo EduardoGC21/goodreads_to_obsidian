@@ -243,6 +243,218 @@ class GoodreadsSyncTests(unittest.TestCase):
         sleep_mock.assert_called_once()
         self.assertAlmostEqual(sleep_mock.call_args[0][0], 0.6, places=2)
 
+    def test_fetch_wikimedia_commons_cover_url_returns_ranked_image(self) -> None:
+        record = sync_goodreads.BookRecord(
+            row_number=2,
+            book_id="1",
+            title="Dune",
+            author_name="Frank Herbert",
+            original_author_name="Frank Herbert",
+            isbn="",
+            isbn13="",
+            rating=0,
+            read_count=0,
+            date_added="",
+            date_read="",
+            language="English",
+            pages=0,
+            binding="Paperback",
+            format_tag="physical",
+            exclusive_shelf="read",
+            bookshelves=["science fiction"],
+            review="",
+            publisher="Ace",
+            row_context="row 2",
+        )
+        session = sync_goodreads.configure_metadata_session(FakeSession([
+            FakeResponse(200, payload={
+                "query": {
+                    "pages": {
+                        "1": {"title": "File:Dune cover.jpg", "imageinfo": [{"url": "https://commons.example/dune-cover.jpg"}]},
+                        "2": {"title": "File:Frank Herbert portrait.jpg", "imageinfo": [{"url": "https://commons.example/herbert.jpg"}]},
+                    }
+                }
+            })
+        ]))
+        cover_url, errors = sync_goodreads.fetch_wikimedia_commons_cover_url(session, record)
+        self.assertEqual(cover_url, "https://commons.example/dune-cover.jpg")
+        self.assertEqual(errors, [])
+
+    def test_fetch_cover_url_with_fallbacks_stops_after_wikipedia(self) -> None:
+        record = sync_goodreads.BookRecord(
+            row_number=2,
+            book_id="1",
+            title="Dune",
+            author_name="Frank Herbert",
+            original_author_name="Frank Herbert",
+            isbn="",
+            isbn13="",
+            rating=0,
+            read_count=0,
+            date_added="",
+            date_read="",
+            language="English",
+            pages=0,
+            binding="Paperback",
+            format_tag="physical",
+            exclusive_shelf="read",
+            bookshelves=["science fiction"],
+            review="",
+            publisher="Ace",
+            row_context="row 2",
+        )
+        order: list[str] = []
+        with patch.object(sync_goodreads, "fetch_open_library_cover_url", side_effect=lambda *_: (order.append("open") or ("", []))), patch.object(
+            sync_goodreads, "fetch_google_books_cover_url", side_effect=lambda *_: (order.append("google") or ("", []))
+        ), patch.object(
+            sync_goodreads, "fetch_wikimedia_commons_cover_url", side_effect=lambda *_: (order.append("commons") or ("", []))
+        ), patch.object(
+            sync_goodreads, "fetch_wikipedia_cover_url", side_effect=lambda *_: (order.append("wikipedia") or ("https://example.com/final-cover.jpg", []))
+        ):
+            url, errors = sync_goodreads.fetch_cover_url_with_fallbacks(requests.Session(), record)
+        self.assertEqual(url, "https://example.com/final-cover.jpg")
+        self.assertEqual(errors, [])
+        self.assertEqual(order, ["open", "google", "commons", "wikipedia"])
+
+    def test_build_playwright_cover_query_includes_book(self) -> None:
+        record = sync_goodreads.BookRecord(
+            row_number=2,
+            book_id="1",
+            title="Dune",
+            author_name="Frank Herbert",
+            original_author_name="Frank Herbert",
+            isbn="",
+            isbn13="",
+            rating=0,
+            read_count=0,
+            date_added="",
+            date_read="",
+            language="English",
+            pages=0,
+            binding="Paperback",
+            format_tag="physical",
+            exclusive_shelf="read",
+            bookshelves=["science fiction"],
+            review="",
+            publisher="Ace",
+            row_context="row 2",
+        )
+        self.assertEqual(sync_goodreads.build_playwright_cover_query(record), "Dune Frank Herbert book cover")
+        self.assertIn("book%20cover", sync_goodreads.build_playwright_cover_search_url(record))
+
+    def test_playwright_runner_prefers_npx_cmd_on_windows(self) -> None:
+        runner = sync_goodreads.PlaywrightRunner()
+        with patch.object(sync_goodreads, "os") as os_mock, patch.object(sync_goodreads.shutil, "which") as which_mock, patch.object(sync_goodreads.Path, "home", return_value=Path("C:/Users/test")):
+            os_mock.name = "nt"
+            os_mock.environ = {}
+            which_mock.side_effect = lambda name: "C:/Program Files/nodejs/npx.cmd" if name == "npx.cmd" else None
+            command = runner._base_command()
+        self.assertEqual(command[0], "C:/Program Files/nodejs/npx.cmd")
+        self.assertIn("playwright-cli", command)
+
+    def test_fetch_playwright_cover_url_returns_first_scraped_url(self) -> None:
+        record = sync_goodreads.BookRecord(
+            row_number=2,
+            book_id="1",
+            title="Dune",
+            author_name="Frank Herbert",
+            original_author_name="Frank Herbert",
+            isbn="",
+            isbn13="",
+            rating=0,
+            read_count=0,
+            date_added="",
+            date_read="",
+            language="English",
+            pages=0,
+            binding="Paperback",
+            format_tag="physical",
+            exclusive_shelf="read",
+            bookshelves=["science fiction"],
+            review="",
+            publisher="Ace",
+            row_context="row 2",
+        )
+        with patch.object(
+            sync_goodreads.PlaywrightRunner,
+            "run",
+            side_effect=[
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout='{"candidates": ["https://images.example/dune.jpg"], "imageCount": 12, "title": "Dune", "url": "https://www.bing.com/images/search?q=dune"}', stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+            ],
+        ) as run_mock:
+            url, errors = sync_goodreads.fetch_playwright_cover_url(requests.Session(), record)
+        self.assertEqual(url, "https://images.example/dune.jpg")
+        self.assertEqual(errors, [])
+        self.assertEqual(run_mock.call_args_list[0].args[0][0], "open")
+        self.assertEqual(run_mock.call_args_list[0].args[0][1], "https://www.bing.com/")
+        self.assertIn("Dune Frank Herbert book cover", run_mock.call_args_list[1].args[0][1])
+        self.assertIn("URLSearchParams", run_mock.call_args_list[1].args[0][1])
+
+    def test_fetch_playwright_cover_url_reports_page_diagnostics_when_empty(self) -> None:
+        record = sync_goodreads.BookRecord(
+            row_number=3,
+            book_id="2",
+            title="El Aleph",
+            author_name="Jorge Luis Borges",
+            original_author_name="Jorge Luis Borges",
+            isbn="",
+            isbn13="",
+            rating=0,
+            read_count=0,
+            date_added="",
+            date_read="",
+            language="Spanish",
+            pages=0,
+            binding="Paperback",
+            format_tag="physical",
+            exclusive_shelf="read",
+            bookshelves=["fiction"],
+            review="",
+            publisher="Emece",
+            row_context="row 3",
+        )
+        with patch.object(
+            sync_goodreads.PlaywrightRunner,
+            "run",
+            side_effect=[
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout='{"candidates": [], "imageCount": 0, "title": "Bing Images", "url": "https://www.bing.com/?q=aleph"}', stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout='{"title":"Bing Images","url":"https://www.bing.com/?q=aleph","imageCount":0}', stderr="", returncode=0),
+                sync_goodreads.PlaywrightResult(stdout="", stderr="", returncode=0),
+            ],
+        ):
+            url, errors = sync_goodreads.fetch_playwright_cover_url(requests.Session(), record)
+        self.assertEqual(url, "")
+        self.assertEqual(len(errors), 1)
+        self.assertIn("no usable images", errors[0])
+        self.assertIn("Bing Images", errors[0])
+    def test_chekhov_record_materializes_under_normalized_author(self) -> None:
+        base = make_case_dir("chekhov_fix")
+        csv_path = base / "goodreads.csv"
+        vault_root = base / "library_v2"
+        write_csv(csv_path, [{
+            "Book Id": "1", "Title": "Cuentos", "Author": "Anton Chekhov", "Author l-f": "Chekhov, Anton",
+            "Additional Authors": "", "ISBN": "", "ISBN13": "", "My Rating": "4", "Average Rating": "",
+            "Publisher": "Porr?a", "Binding": "Paperback", "Number of Pages": "300", "Year Published": "2000",
+            "Original Publication Year": "1900", "Date Read": "2026-01-01", "Date Added": "2026-01-01",
+            "Bookshelves": "cuentos,clasicos", "Bookshelves with positions": "", "Exclusive Shelf": "read",
+            "My Review": "", "Spoiler": "", "Private Notes": "", "Read Count": "1", "Owned Copies": "1",
+        }])
+        with patch.object(sync_goodreads, "fetch_cover_url_with_fallbacks", return_value=("", [])), patch.object(
+            sync_goodreads, "generate_author_metadata_via_codex", return_value=(sync_goodreads.AuthorMetadataResult(biography="Anton Chekhov was a Russian writer.", country="Russia", birth_year="1860", death_year="1904"), [])
+        ):
+            sync_goodreads.run_sync(csv_path, vault_root)
+        _, expected_author = sync_goodreads.apply_manual_record_fixes("Cuentos", "Anton Chekhov")
+        self.assertTrue((vault_root / "Authors" / expected_author / f"{expected_author}.md").exists())
+        self.assertTrue((vault_root / "Authors" / expected_author / "Books" / "Cuentos Chejov.md").exists())
+        self.assertFalse((vault_root / "Authors" / "Anton Chekhov").exists())
+
     def test_migrate_yaml_normalizes_status_bookshelves_tags_country_and_new_fields(self) -> None:
         base = make_case_dir("migrate")
         vault_root = base / "library_v2"
@@ -445,3 +657,4 @@ tags:
 
 if __name__ == "__main__":
     unittest.main()
+

@@ -13,9 +13,9 @@ pages: 163
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)

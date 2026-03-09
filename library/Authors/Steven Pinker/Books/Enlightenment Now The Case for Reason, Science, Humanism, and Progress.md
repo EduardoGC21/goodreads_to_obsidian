@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Steven Pinker - Enlightenment Now The Case for Reas
 bookshelves:
   - "[[filosofía]]"
   - "[[progreso]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Enlightenment Now: The Case for Reason, Science, Humanism, and Progress

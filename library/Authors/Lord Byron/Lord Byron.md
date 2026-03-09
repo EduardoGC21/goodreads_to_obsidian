@@ -1,6 +1,6 @@
 ---
 name: "Lord Byron"
-country: "[[United Kingdom]]"
+country: "[[England]]"
 birth_year: "1788"
 death_year: "1824"
 tags:
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-George Gordon Byron (1788–1824), known as Lord Byron, was a leading figure of the Romantic movement and one of the most celebrated poets in the English language. Born in London to a troubled aristocratic family, he inherited the title of Baron Byron at a young age and grew up with a sense of both privilege and instability. A clubfoot shaped his self-image and sensitivity, yet he cultivated a charismatic and rebellious persona at Harrow and Cambridge, quickly gaining a reputation for wit, beauty, and excess.
+George Gordon Byron, known as Lord Byron (1788–1824), was a British poet and leading figure of the Romantic movement, famed as much for his turbulent life as for his literary achievements. Born into an aristocratic but financially troubled family, he inherited the title "Lord" at age ten and was educated at Harrow and Cambridge. A clubfoot shaped his self-image and fed the brooding self-consciousness that later became a hallmark of the Byronic hero—proud, defiant, and haunted by secret guilt. His early success with "Childe Harold’s Pilgrimage" made him a literary celebrity across Europe and brought him into the highest social circles of Regency London.
 
-Byron’s poetry, including dramatic works like "Manfred" and "Sardanapalus" and long narrative poems such as "Don Juan," combined emotional intensity, satire, and political engagement, helping define the Byronic hero—proud, haunted, and defiant. His relationships were famously complex and scandalous, involving affairs with married women, possible same-sex attachments, and a deeply controversial relationship with his half-sister Augusta Leigh. Public outrage over his private life contributed to his self-imposed exile from Britain in 1816.
-
-On the Continent he lived among artists and intellectuals, forming a close association with Percy Bysshe Shelley and others around Lake Geneva, and later settling in Italy, where he continued to write prolifically. In the final phase of his life, Byron joined the Greek struggle for independence from the Ottoman Empire, using his fortune and status to support the cause and commanding troops despite limited military experience. He died of illness at Missolonghi in 1824, becoming a national hero in Greece and leaving a legacy as both a revolutionary poet and a symbol of romantic individualism and defiance.
+Byron’s personal life was marked by scandal, intense love affairs, and restless wandering. A brief and unhappy marriage to Annabella Milbanke, rumors of incest with his half-sister Augusta Leigh, and mounting public censure pushed him into voluntary exile from Britain in 1816. He spent his remaining years moving through Switzerland, Italy, and ultimately Greece, writing major works such as "Don Juan" and dramatic poems like "Manfred" that crystallized his image as a rebellious, passionate outsider. In his final years he devoted himself to the Greek War of Independence against the Ottoman Empire, using his wealth and prestige to support the cause. He died of illness in Missolonghi in 1824, becoming a national hero in Greece and leaving a powerful legacy that influenced European literature, political radicalism, and the enduring archetype of the Romantic, doomed genius.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

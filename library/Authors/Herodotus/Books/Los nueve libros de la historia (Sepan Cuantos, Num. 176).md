@@ -13,9 +13,9 @@ pages: 533
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los nueve libros de la historia (Sepan Cuantos, Num. 176)

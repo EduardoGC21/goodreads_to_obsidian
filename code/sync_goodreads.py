@@ -1,7 +1,8 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -45,6 +46,7 @@ import yaml
 
 OPEN_LIBRARY_SEARCH_API = "https://openlibrary.org/search.json"
 GOOGLE_BOOKS_API = "https://www.googleapis.com/books/v1/volumes"
+WIKIMEDIA_COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 WIKIPEDIA_SUMMARY_API = "https://en.wikipedia.org/api/rest_v1/page/summary/{title}"
 REVIEW_NOTE_NAME = "Missing Metadata.md"
 EXPECTED_COLUMNS = [
@@ -109,12 +111,12 @@ MANUAL_REVIEW_SECTIONS = [
     "API Errors",
     "Parse Issues",
 ]
-MOJIBAKE_MARKERS = ("Ã", "Â", "â", "ð", "Ð", "Ñ", "�")
+MOJIBAKE_MARKERS = ("Ãƒ", "Ã‚", "Ã¢", "Ã°", "Ã", "Ã‘", "ï¿½")
 GENERATED_HUB_NOTE_NAMES = ("Library.md",)
 CODEX_TIMEOUT_SECONDS = 90
 CODEX_MODEL = "gpt-5.1"
-CODEX_REASONING_EFFORT = "medium"
-AUTHOR_BIO_CONCURRENCY = 5
+CODEX_REASONING_EFFORT = "low"
+AUTHOR_BIO_CONCURRENCY = 10
 HTTP_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 GoodreadsToObsidian/1.0"
@@ -123,8 +125,11 @@ HTTP_ACCEPT_HEADER = (
     "application/json,text/html,application/xhtml+xml,application/xml;q=0.9,"
     "image/avif,image/webp,*/*;q=0.8"
 )
-IMAGE_PROVIDER_MIN_INTERVALS = {"google_books": 1.0, "wikipedia": 1.0}
+IMAGE_PROVIDER_MIN_INTERVALS = {"google_books": 1.0, "wikimedia_commons": 1.0, "wikipedia": 1.0}
 IMAGE_PROVIDER_MAX_RETRIES = 3
+PLAYWRIGHT_TIMEOUT_SECONDS = 45
+PLAYWRIGHT_OUTPUT_DIRNAME = "output/playwright"
+BING_IMAGES_URL = "https://www.bing.com/images/search?q={query}&form=HDRSC2"
 
 
 @dataclass
@@ -186,6 +191,13 @@ class CodexResult:
     stderr: str
     returncode: int
     duration_ms: int = 0
+
+
+@dataclass
+class PlaywrightResult:
+    stdout: str
+    stderr: str
+    returncode: int
 
 
 @dataclass
@@ -617,6 +629,13 @@ def normalize_author_name(author_name: str) -> str:
     return "Anonymous" if is_anonymous_author(author_name) else repair_text_value(author_name)
 
 
+def apply_manual_record_fixes(title: str, author_name: str) -> tuple[str, str]:
+    normalized_title = sanitize_obsidian_text(title).casefold()
+    normalized_author = repair_text_value(author_name).casefold()
+    if normalized_title == "cuentos" and any(token in normalized_author for token in ("chekhov", "chejov", "ch?jov")):
+        return "Cuentos Chejov", "AntÃ³n ChÃ©jov"
+    return title, author_name
+
 def classify_format(binding: str) -> str:
     value = repair_text_value(binding).casefold()
     if any(term in value for term in ("kindle", "ebook", "e-book", "digital")):
@@ -647,7 +666,7 @@ def detect_primary_language(title: str, publisher: str) -> str:
                     return "Spanish"
 
     lowered = f" {sample.casefold()} "
-    spanish_markers = [" el ", " la ", " los ", " las ", " una ", " para ", "ción", "ñ", "á", "é", "í", "ó", "ú"]
+    spanish_markers = [" el ", " la ", " los ", " las ", " una ", " para ", "ciÃ³n", "Ã±", "Ã¡", "Ã©", "Ã­", "Ã³", "Ãº"]
     english_markers = [" the ", " and ", " of ", "with ", "edition", "press"]
     spanish_score = sum(marker in lowered for marker in spanish_markers)
     english_score = sum(marker in lowered for marker in english_markers)
@@ -681,6 +700,7 @@ def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
         title = row_map.get("Title", "") or "Untitled"
         raw_author = row_map.get("Author", "")
         author_name = normalize_author_name(raw_author)
+        title, author_name = apply_manual_record_fixes(title, author_name)
         bookshelves = parse_bookshelves(row_map.get("Bookshelves", ""))
         format_tag = classify_format(row_map.get("Binding", ""))
         record = BookRecord(
@@ -1070,6 +1090,77 @@ def provider_get(
     assert last_error is not None
     raise last_error
 
+
+class PlaywrightRunner:
+    def __init__(self, timeout_s: int = PLAYWRIGHT_TIMEOUT_SECONDS) -> None:
+        self.timeout_s = timeout_s
+
+    def _base_command(self) -> list[str]:
+        npx_cmd = shutil.which("npx.cmd") or shutil.which("npx")
+        if os.name == "nt" and npx_cmd:
+            return [npx_cmd, "--yes", "--package", "@playwright/cli", "playwright-cli"]
+
+        codex_home = Path(os.environ.get("CODEX_HOME", str(Path.home() / ".codex")))
+        wrapper = codex_home / "skills" / "playwright" / "scripts" / "playwright_cli.sh"
+        bash_candidates = [
+            shutil.which("bash"),
+            str(Path("C:/Program Files/Git/bin/bash.exe")) if Path("C:/Program Files/Git/bin/bash.exe").exists() else "",
+        ]
+        for bash in bash_candidates:
+            if bash and wrapper.exists():
+                return [bash, str(wrapper).replace(chr(92), "/")]
+        if npx_cmd:
+            return [npx_cmd, "--yes", "--package", "@playwright/cli", "playwright-cli"]
+        raise RuntimeError("Playwright CLI unavailable: install Node.js/npm or make the Playwright skill wrapper executable.")
+
+    def run(self, args: list[str], *, workdir: Path, session_name: str) -> PlaywrightResult:
+        workdir.mkdir(parents=True, exist_ok=True)
+        command = self._base_command() + ["--session", session_name] + args
+        completed = subprocess.run(
+            command,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            timeout=self.timeout_s,
+            check=False,
+            cwd=workdir,
+        )
+        return PlaywrightResult(stdout=completed.stdout or "", stderr=completed.stderr or "", returncode=completed.returncode)
+
+
+def build_playwright_cover_query(record: BookRecord) -> str:
+    return f"{record.display_title()} {record.author_name} book cover"
+
+
+def build_playwright_cover_search_url(record: BookRecord) -> str:
+    query = requests.utils.quote(build_playwright_cover_query(record), safe="")
+    return BING_IMAGES_URL.format(query=query)
+
+
+def build_playwright_session_name(record: BookRecord) -> str:
+    digest = hashlib.sha1(f"{record.author_name}|{record.display_title()}".encode("utf-8")).hexdigest()[:12]
+    return f"cover-{digest}"
+
+
+def extract_first_http_url(text: str) -> str:
+    match = re.search(r"https?://[^\s\"'<>]+", text)
+    return match.group(0) if match else ""
+
+
+def score_wikimedia_page(page: dict[str, Any], record: BookRecord) -> int:
+    title = clean_value(page.get("title", "")).casefold()
+    score = 0
+    if "cover" in title:
+        score += 5
+    for token in re.findall(r"\w+", record.display_title().casefold())[:4]:
+        if token in title:
+            score += 2
+    for token in re.findall(r"\w+", record.author_name.casefold())[:3]:
+        if token in title:
+            score += 1
+    return score
+
 def fetch_open_library_cover_url(
     session: requests.Session,
     record: BookRecord,
@@ -1132,6 +1223,42 @@ def fetch_google_books_cover_url(session: requests.Session, record: BookRecord) 
     return "", last_errors
 
 
+def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    query = f'{record.display_title()} {record.author_name}'
+    try:
+        response = provider_get(
+            session,
+            "wikimedia_commons",
+            WIKIMEDIA_COMMONS_API,
+            params={
+                "action": "query",
+                "format": "json",
+                "generator": "search",
+                "gsrnamespace": 6,
+                "gsrsearch": query,
+                "gsrlimit": 5,
+                "prop": "imageinfo",
+                "iiprop": "url",
+            },
+            timeout=20,
+            retry_statuses=(429, 503),
+        )
+        payload = response.json()
+    except requests.RequestException as exc:
+        return "", [f"Wikimedia Commons search failed for {record.display_title()}: {exc}"]
+    pages = list(((payload.get("query") or {}).get("pages") or {}).values())
+    if not pages:
+        return "", []
+    for page in sorted(pages, key=lambda current: score_wikimedia_page(current, record), reverse=True):
+        imageinfo = page.get("imageinfo") or []
+        if not imageinfo:
+            continue
+        url = clean_value((imageinfo[0] or {}).get("url", ""))
+        if url:
+            return url.replace("http://", "https://"), []
+    return "", []
+
+
 def fetch_wikipedia_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
     title = requests.utils.quote(record.title.replace(" ", "_"), safe="()_,-")
     try:
@@ -1150,9 +1277,197 @@ def fetch_wikipedia_cover_url(session: requests.Session, record: BookRecord) -> 
     return (url, []) if url else ("", [])
 
 
+def fetch_playwright_cover_url(_session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    runner = PlaywrightRunner()
+    session_name = build_playwright_session_name(record)
+    workdir = Path.cwd() / PLAYWRIGHT_OUTPUT_DIRNAME / session_name
+    query_text = build_playwright_cover_query(record)
+    goto_script = (
+        "const q = " + json.dumps(query_text) + ";"
+        "const parts = new URLSearchParams({ q, form: 'HDRSC2' });"
+        "await page.goto('https://www.bing.com/images/search?' + parts.toString(), { waitUntil: 'domcontentloaded' });"
+    )
+    wait_script = (
+        "await page.waitForLoadState('networkidle').catch(() => null);"
+        "await page.waitForTimeout(1800);"
+        "await page.mouse.wheel(0, 1800).catch(() => null);"
+        "await page.waitForTimeout(1200);"
+        "await page.mouse.wheel(0, -1800).catch(() => null);"
+        "await page.waitForTimeout(600);"
+    )
+    extract_script = r'''JSON.stringify((() => {
+const candidates = [];
+const seen = new Set();
+const noisePattern = /logo|icon|avatar|sprite|badge|emoji|placeholder/i;
+const imageLikePattern = /\.(?:jpe?g|png|webp|gif|bmp)(?:[?#].*)?$/i;
+const encodedParamKeys = ['imgurl', 'mediaurl', 'murl', 'uddg', 'u', 'url'];
+const normalize = (value) => {
+  if (!value) {
+    return '';
+  }
+  let text = String(value).trim();
+  if (!text) {
+    return '';
+  }
+  text = text.split(',')[0].trim().split(/\s+/)[0];
+  if (text.startsWith('//')) {
+    return 'https:' + text;
+  }
+  return text;
+};
+const push = (value, meta = '') => {
+  const candidate = normalize(value);
+  if (!candidate || candidate.startsWith('data:')) {
+    return;
+  }
+  if (!/^https?:/i.test(candidate)) {
+    return;
+  }
+  const haystack = (candidate + ' ' + meta).toLowerCase();
+  if (noisePattern.test(haystack)) {
+    return;
+  }
+  if (!imageLikePattern.test(candidate) && !/image|cover|thumb|media|img|book|novel|edition/i.test(haystack)) {
+    return;
+  }
+  if (seen.has(candidate)) {
+    return;
+  }
+  seen.add(candidate);
+  candidates.push(candidate);
+};
+for (const img of Array.from(document.images)) {
+  const meta = [img.alt || '', img.getAttribute('class') || '', img.getAttribute('aria-label') || '', img.getAttribute('data-bm') || ''].join(' ');
+  push(img.currentSrc, meta);
+  push(img.src, meta);
+  push(img.getAttribute('data-src'), meta);
+  push(img.getAttribute('data-lazy-src'), meta);
+  push(img.getAttribute('data-original'), meta);
+  push(img.getAttribute('data-src-hq'), meta);
+  const srcset = img.getAttribute('srcset') || img.getAttribute('data-srcset') || '';
+  if (srcset) {
+    for (const entry of srcset.split(',')) {
+      push(entry, meta);
+    }
+  }
+}
+for (const node of Array.from(document.querySelectorAll('[m], [data-m]'))) {
+  const raw = node.getAttribute('m') || node.getAttribute('data-m') || '';
+  const meta = [node.getAttribute('class') || '', node.textContent || ''].join(' ');
+  try {
+    const parsed = JSON.parse(raw);
+    if (parsed && typeof parsed === 'object') {
+      for (const key of encodedParamKeys) {
+        if (parsed[key]) {
+          push(parsed[key], meta);
+        }
+      }
+    }
+  } catch (error) {
+    const matches = raw.match(/https?:[^\s"'\\]+/g) || [];
+    for (const match of matches) {
+      push(match, meta);
+    }
+  }
+}
+for (const anchor of Array.from(document.querySelectorAll('a[href]'))) {
+  const href = anchor.href || '';
+  const meta = [anchor.textContent || '', anchor.getAttribute('aria-label') || '', anchor.getAttribute('class') || ''].join(' ');
+  if (imageLikePattern.test(href)) {
+    push(href, meta);
+    continue;
+  }
+  try {
+    const parsed = new URL(href);
+    for (const key of encodedParamKeys) {
+      const value = parsed.searchParams.get(key);
+      if (value) {
+        push(decodeURIComponent(value), meta);
+      }
+    }
+  } catch (error) {
+  }
+}
+for (const node of Array.from(document.querySelectorAll('[style*="background-image"]'))) {
+  const style = node.getAttribute('style') || '';
+  const match = style.match(/background-image\s*:\s*url\((["']?)([^)"']+)\1\)/i);
+  if (match) {
+    push(match[2], node.getAttribute('class') || '');
+  }
+}
+return {
+  candidates: candidates.slice(0, 12),
+  imageCount: document.images.length,
+  title: document.title,
+  url: location.href,
+};
+})())'''
+    debug_script = r'''JSON.stringify({
+  title: document.title,
+  url: location.href,
+  imageCount: document.images.length,
+  firstImages: Array.from(document.images).slice(0, 8).map((img) => ({
+    currentSrc: img.currentSrc || '',
+    src: img.src || '',
+    dataSrc: img.getAttribute('data-src') || '',
+    dataLazySrc: img.getAttribute('data-lazy-src') || '',
+    alt: img.alt || '',
+    className: img.className || '',
+  })),
+  firstAnchors: Array.from(document.querySelectorAll('a[href]')).slice(0, 8).map((anchor) => ({
+    href: anchor.href || '',
+    text: (anchor.textContent || '').trim().slice(0, 80),
+    className: anchor.className || '',
+  })),
+})'''
+    try:
+        opened = runner.run(["open", "https://www.bing.com/"], workdir=workdir, session_name=session_name)
+        if opened.returncode != 0:
+            detail = clean_generated_biography(opened.stderr or opened.stdout)
+            return "", [f"Playwright cover search failed for {record.display_title()}: {detail or 'open command failed.'}"]
+        navigated = runner.run(["run-code", goto_script], workdir=workdir, session_name=session_name)
+        if navigated.returncode != 0:
+            detail = clean_generated_biography(navigated.stderr or navigated.stdout)
+            return "", [f"Playwright cover search failed for {record.display_title()}: {detail or 'navigation command failed.'}"]
+        runner.run(["run-code", wait_script], workdir=workdir, session_name=session_name)
+        extracted = runner.run(["eval", extract_script], workdir=workdir, session_name=session_name)
+        if extracted.returncode != 0:
+            detail = clean_generated_biography(extracted.stderr or extracted.stdout)
+            return "", [f"Playwright cover extraction failed for {record.display_title()}: {detail or 'eval command failed.'}"]
+        payload = extracted.stdout.strip()
+        url = ""
+        try:
+            extracted_payload = json.loads(payload) if payload else {}
+        except json.JSONDecodeError:
+            extracted_payload = {}
+            url = extract_first_http_url(payload)
+        else:
+            candidates = extracted_payload.get("candidates") if isinstance(extracted_payload, dict) else []
+            if isinstance(candidates, list):
+                for candidate in candidates:
+                    if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
+                        url = candidate
+                        break
+        if url:
+            return url.replace("http://", "https://"), []
+        debug_result = runner.run(["eval", debug_script], workdir=workdir, session_name=session_name)
+        detail = clean_generated_biography(debug_result.stdout or debug_result.stderr)
+        return "", [f"Playwright cover search found no usable images for {record.display_title()}: {detail or 'no image URL returned.'}"]
+    except (RuntimeError, subprocess.SubprocessError, OSError) as exc:
+        return "", [f"Playwright cover search failed for {record.display_title()}: {exc}"]
+    finally:
+        try:
+            runner.run(["close"], workdir=workdir, session_name=session_name)
+        except Exception:
+            pass
 def fetch_cover_url_with_fallbacks(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
     errors: list[str] = []
-    for fetcher in (fetch_open_library_cover_url, fetch_google_books_cover_url, fetch_wikipedia_cover_url):
+    for fetcher in (
+        fetch_open_library_cover_url,
+        fetch_google_books_cover_url,
+        fetch_wikimedia_commons_cover_url,
+        fetch_wikipedia_cover_url,
+    ):
         url, fetch_errors = fetcher(session, record)
         errors.extend(fetch_errors)
         if url:
@@ -1232,7 +1547,7 @@ def biography_output_looks_invalid(text: str) -> bool:
     invalid_markers = [
         "i can't",
         "i cannot",
-        "i’m sorry",
+        "iâ€™m sorry",
         "i???m sorry",
         "i am sorry",
         "unable to",
@@ -1829,3 +2144,5 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+

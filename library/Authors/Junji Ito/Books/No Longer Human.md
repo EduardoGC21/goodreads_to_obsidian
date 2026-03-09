@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Junji Ito - No Longer Human.jpg]]"
 bookshelves:
   - "[[manga]]"
   - "[[miedo]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # No Longer Human

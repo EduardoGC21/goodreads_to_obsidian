@@ -13,9 +13,9 @@ pages: 513
 format: "physical"
 cover: "[[Attachments/Covers/Adrian Goldsworthy - Pax Romana.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pax Romana

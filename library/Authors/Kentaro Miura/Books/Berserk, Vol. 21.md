@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Kentaro Miura - Berserk, Vol. 21.jpg]]"
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 21

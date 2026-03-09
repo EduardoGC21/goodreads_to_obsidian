@@ -13,9 +13,9 @@ pages: 1456
 format: "physical"
 cover: "[[Attachments/Covers/Jan Swafford - Beethoven.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Beethoven

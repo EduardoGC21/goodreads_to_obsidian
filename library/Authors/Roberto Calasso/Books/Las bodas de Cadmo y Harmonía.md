@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las bodas de Cadmo y Harmonía

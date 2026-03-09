@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Hayao Miyazaki - Art of the Wind Rises.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Art of the Wind Rises

@@ -13,9 +13,9 @@ pages: 776
 format: "physical"
 cover: "[[Attachments/Covers/Fyodor Dostoevsky - El idiota.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El idiota

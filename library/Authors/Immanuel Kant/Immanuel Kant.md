@@ -1,8 +1,8 @@
 ---
 name: "Immanuel Kant"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Prussia]]"
+birth_year: "1724"
+death_year: "1804"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Immanuel Kant (1724–1804) was a German philosopher born in Königsberg, in the then Kingdom of Prussia, who became one of the central figures of modern Western thought. He spent nearly his entire life in his hometown, first as a student and then as a professor at the University of Königsberg, living a famously disciplined and regular life. Despite rarely traveling, his intellectual influence ranged widely, reshaping metaphysics, epistemology, ethics, aesthetics, and political philosophy.
+Immanuel Kant (1724–1804) was a German philosopher from Königsberg in East Prussia whose work reshaped modern thought in metaphysics, epistemology, ethics, and aesthetics. Born into a modest, deeply religious family, he spent nearly his entire life in his native city, first as a student and then as a professor at the University of Königsberg. His early years were marked by rigorous schooling and a strong Pietist influence, but he gradually moved toward an independent critical rationalism that placed human reason and its limits at the center of philosophy.
 
-Kant’s most important works, including the "Critique of Pure Reason," revolutionized philosophy by arguing that human experience is shaped jointly by the world and by the structures of the mind. In moral philosophy, he developed a deontological framework centered on duty, autonomy, and the categorical imperative, emphasizing the inherent dignity of rational beings. His reflections on aesthetics and the sublime, and his writings on history and politics, such as his essay on perpetual peace, helped lay foundations for later debates about beauty, moral progress, cosmopolitanism, and international order.
+Kant’s mature work, especially the "Critique of Pure Reason" (to which editions such as "Crítica de la Razón Pura" belong), introduced the idea that our knowledge results from the interplay between sensory experience and the mind’s own a priori structures. This revolutionized debates about what we can know and how we can know it. In moral philosophy, he argued that truly moral actions are guided by duty and universalizable principles rather than by consequences or personal inclination, formulating these ideas in his account of the categorical imperative. His reflections on aesthetics and the sublime, echoed in works on the beautiful and the sublime, connected our experience of beauty to our rational and moral capacities.
 
-Kant never married and led a relatively private life focused on teaching, writing, and a close circle of friends and colleagues. Nevertheless, his systematic approach and insistence on reason as the basis of morality and knowledge profoundly influenced subsequent philosophers, political theorists, and even modern conceptions of human rights and international law. His work continues to serve as a reference point for discussions of freedom, rationality, and the limits of human understanding.
+Although he never married and led an outwardly quiet, almost routine-bound life, Kant was deeply engaged with the intellectual and political developments of his age, including questions of religion, autonomy, and international order—issues that appear in his writings on perpetual peace and the conditions for a just global community. His thought influenced generations of philosophers, from German Idealists to contemporary analytic and continental traditions, and he is widely regarded as one of the central figures of Enlightenment philosophy and of Western thought as a whole.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

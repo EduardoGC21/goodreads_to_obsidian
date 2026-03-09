@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Mircea Eliade - El mito del eterno retorno.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El mito del eterno retorno

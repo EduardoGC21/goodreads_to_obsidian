@@ -13,9 +13,9 @@ pages: 216
 format: "physical"
 cover: "[[Attachments/Covers/Emil M. Cioran - En las cimas de la desesperación.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # En las cimas de la desesperación

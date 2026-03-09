@@ -18,9 +18,9 @@ bookshelves:
   - "[[novelas]]"
   - "[[favoritos]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las mil y una noches

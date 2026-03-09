@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[poesía]]"
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Endymion

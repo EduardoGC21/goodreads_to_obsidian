@@ -13,9 +13,9 @@ pages: 664
 format: "physical"
 cover: "[[Attachments/Covers/Diogenes Laertius - Vidas y opiniones de los filósofos ilustres.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Vidas y opiniones de los filósofos ilustres

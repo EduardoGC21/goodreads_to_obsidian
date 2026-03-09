@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 5.jpg]]"
 bookshelves:
   - "[[manga]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Goodnight Punpun Omnibus, Vol. 5

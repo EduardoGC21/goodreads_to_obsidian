@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2022-12-28"
 date_read: "2023-01-05"
-language: "Spanish"
+language: "Unknown"
 isbn: "8494291874"
 isbn13: "9788494291876"
 pages: 252
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Edgar Allan Poe - Narración de Arthur Gordon Pym.j
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Narración de Arthur Gordon Pym

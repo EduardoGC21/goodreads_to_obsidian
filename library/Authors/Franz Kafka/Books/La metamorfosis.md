@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Franz Kafka - La metamorfosis.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[existencialista]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La metamorfosis

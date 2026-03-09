@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los ojos del hermano eterno

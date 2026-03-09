@@ -1,8 +1,8 @@
 ---
 name: "Augusto Monterroso"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Guatemala]]"
+birth_year: "1921"
+death_year: "2003"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Augusto Monterroso (1921–2003) was a Honduran-born Guatemalan writer best known for his mastery of the short short story and for a concise, ironic prose style that influenced generations of Latin American authors. Born in Tegucigalpa, he moved with his family to Guatemala as a child and is usually associated with Guatemalan literary and political life. Early on, he became involved in intellectual circles and journalism, developing a sharp satirical voice that he would use to critique authoritarianism, cultural pretension, and human vanity.
+Augusto Monterroso (1921–2003) was a Guatemalan-born writer and one of the masters of the Latin American short story and microfiction. Growing up amid political instability in Guatemala, he became involved in opposition movements and eventually went into exile, first in Mexico in the 1940s and later more permanently after the 1954 U.S.-backed coup. This experience of displacement, censorship, and authoritarianism helped shape his sharp, understated irony and his preference for brief, allegorical narratives that question power, morality, and human vanity.
 
-Because of his opposition to the Guatemalan dictatorship, Monterroso spent long periods in exile, notably in Mexico, which became his adopted home and the main base of his literary career. Despite living outside his country of origin, his work remained deeply rooted in Central American realities while also drawing on universal, often philosophical, themes. Collections such as “El paraíso imperfecto: Antología tímida” helped consolidate his reputation as a key figure of microfiction, showcasing his ability to compress complex ideas into brief, humorous, and often paradoxical narratives. His story “El dinosaurio” is among the most famous very short stories in world literature, frequently cited as a paradigmatic example of how minimal text can carry maximal meaning.
+Monterroso’s work is renowned for its extreme concision, intertextual play, and philosophical humor; his micro-story “El dinosaurio” is famously one of the shortest and most discussed in Spanish literature. Collections such as “Obras completas (y otros cuentos)” and later anthologies like “El paraíso imperfecto: Antología tímida” consolidated his reputation as a writer who could compress complex ideas into a few lines without losing depth. He was also an important figure in the Mexican and Central American literary scenes, maintaining close relationships with other writers and critics, mentoring younger authors, and contributing essays that reflected on literature and society.
 
-Monterroso received major literary honors in the Spanish-speaking world, including the Juan Rulfo Prize and the Prince of Asturias Award for Literature, confirming his status as one of the most original and influential stylists in twentieth-century Latin American prose. He maintained close relationships with other Latin American writers and was a respected mentor and essayist, reflecting on literature, irony, and ethics. His legacy endures in the ongoing popularity of flash fiction and in the work of authors who seek, as he did, to distill wit, skepticism, and human insight into the shortest possible form.
+Over his career, Monterroso received several prestigious honors, including the Juan Rulfo Prize for Latin American and Caribbean Literature, which underscored his influence beyond national borders. His blend of fable, parody, and moral reflection has made him a key reference point for later generations interested in the possibilities of short and very short narrative forms. Monterroso spent most of his adult life in Mexico, where he continued to write and teach until his death in 2003.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Pedro Calderón de la Barca - El gran teatro del mu
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El gran teatro del mundo / El gran mercado del mundo

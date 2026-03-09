@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-05-03"
 date_read: "2020-07-06"
-language: "Spanish"
+language: "Unknown"
 isbn: "9700750272"
 isbn13: "9789700750279"
 pages: 225
@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Así hablaba Zaratustra

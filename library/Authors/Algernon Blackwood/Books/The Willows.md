@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Algernon Blackwood - The Willows.jpg]]"
 bookshelves:
   - "[[miedo]]"
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Willows

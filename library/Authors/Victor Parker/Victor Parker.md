@@ -1,11 +1,10 @@
 ---
 name: "Victor Parker"
 country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Victor Parker
@@ -13,11 +12,9 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Victor Parker is a contemporary historian and classicist specializing in ancient Greek, Roman, and Near Eastern history. Based at the University of Canterbury in Christchurch, New Zealand, where he serves as Associate Professor of Classics, he has built a reputation for combining detailed engagement with ancient sources and archaeological evidence with clear, accessible narrative. Over the course of his academic career he has published around fifty specialized articles, reflecting wide-ranging interests across the ancient Mediterranean world.
+Victor Parker is a classical historian and academic specializing in the political and intellectual history of the ancient Mediterranean world. Based at the University of Canterbury in Christchurch, New Zealand, he serves as an Associate Professor of Classics, where he teaches Greek and Roman history and mentors students in ancient history and historiography. His scholarly work ranges across Greek, Roman, and Near Eastern history, reflecting a broad command of the interconnected cultures of antiquity.
 
-Parker’s most widely known monograph, *A History of Greece, 1300 to 30 BC*, situates the political development of Greece from the late Bronze Age through the Hellenistic period within its broader social and cultural context. His work often emphasizes careful reading of texts such as Linear B tablets, inscriptions, papyri, and coins, and he is also recognized for his commentary on the Greek historian Ephorus, which contributes to modern understanding of how ancient historians constructed narratives about the past.
-
-Although many details of his personal life and early education remain outside the public record, Parker’s scholarly output and long-standing position at a major university mark him as a significant contributor to the study of ancient Mediterranean history in the late twentieth and early twenty-first centuries.
+Parker has published around fifty specialized articles, along with a major commentary on the fourth‑century BCE historian Ephorus, underscoring his interest in how ancient historians selected and used their sources. His synthetic volume "A History of Greece, 1300 to 30 BC" situates Greek political developments from the late Bronze Age through the Hellenistic period within their wider Mediterranean context, and has been used in university courses as an accessible yet scholarly introduction to Greek history. Through these writings and his long-standing teaching career in New Zealand, he has contributed significantly to contemporary understanding of Greek historiography and the broader narrative of ancient Greece within the classical world.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Geraldine Pinch - Egyptian Mythology A Guide to the
 bookshelves:
   - "[[mitología]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt

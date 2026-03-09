@@ -13,9 +13,9 @@ pages: 510
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Orientalismo

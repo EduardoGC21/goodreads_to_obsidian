@@ -16,9 +16,9 @@ bookshelves:
   - "[[economía]]"
   - "[[filosofía]]"
   - "[[política]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Capital. Libro segundo: El proceso de circulación del capital

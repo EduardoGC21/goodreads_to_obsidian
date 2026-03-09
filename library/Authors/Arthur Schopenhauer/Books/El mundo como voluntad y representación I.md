@@ -16,9 +16,9 @@ bookshelves:
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El mundo como voluntad y representación I

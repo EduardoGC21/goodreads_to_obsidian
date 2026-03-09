@@ -1,6 +1,6 @@
 ---
 name: "Isaac Asimov"
-country: "[[United States]]"
+country: "[[Russia]]"
 birth_year: "1920"
 death_year: "1992"
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Isaac Asimov (1920–1992) was a Russian-born American writer, biochemist, and public intellectual whose work helped define modern science fiction and popular science. Born in Petrovichi in what was then the Russian SFSR, he emigrated with his family to the United States as a child and grew up in Brooklyn, New York. A precocious reader, he absorbed early pulp magazines and soon began selling stories to editor John W. Campbell, becoming a central figure in the so‑called Golden Age of Science Fiction. Trained as a scientist, he earned a Ph.D. in biochemistry and later taught at Boston University, but it was his fiction and essays that made him world‑famous.
+Isaac Asimov (1920–1992) was a prolific science fiction and popular science author whose work helped define modern speculative literature. Born in Petrovichi in what was then the Russian SFSR, he emigrated to the United States as a small child and grew up in Brooklyn, New York. Trained as a biochemist, Asimov earned a PhD and spent years teaching at Boston University, but his enduring fame comes from his writing, which combined clear, logical prose with a deep fascination for science, history, and the future of humanity.
 
-Asimov’s Foundation novels, including later entries such as "Foundation’s Edge" and "Foundation and Earth," elevated science fiction by blending grand historical speculation with rigorous, quasi-scientific thinking about society and the future. Alongside his robot stories, which introduced the famous Three Laws of Robotics, these works influenced generations of writers, scientists, and technologists and helped shape popular conceptions of artificial intelligence and galactic civilization. Prolific to an almost unmatched degree, he wrote or edited hundreds of books across fields from chemistry and physics to the Bible and Shakespeare, bringing complex ideas to general audiences with clarity and charm. His life and career also reflected the 20th‑century immigrant experience in the United States: a Jewish child fleeing poverty and instability who became one of the most widely read authors in the English language, known for his rationalism, humanism, and faith in scientific progress.
+Asimov became one of the central figures of the mid‑20th‑century science fiction "Golden Age," alongside contemporaries such as Robert A. Heinlein and Arthur C. Clarke. His Foundation novels—including works like "Second Foundation," "Foundation's Edge," "Foundation and Earth," "Prelude to Foundation," and "Forward the Foundation"—are especially influential for their grand, historically minded vision of galactic civilization, the idea of psychohistory, and their exploration of political power, decay, and renewal. He also made major contributions with his robot stories, formulating the famous Three Laws of Robotics, which shaped cultural and philosophical discussions about artificial intelligence and ethics.
+
+Across hundreds of books and essays, Asimov sought to make complex ideas accessible, writing extensively on physics, astronomy, chemistry, history, and the Bible. His approachable style and enthusiasm for knowledge made him a key public intellectual who helped normalize scientific thinking in everyday culture. Personally, he was known for his intense work habits, his wide circle of correspondents and collaborators in science fiction fandom, and his role as a mentor and organizer within the community, leaving a legacy that spans both literature and the public understanding of science.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

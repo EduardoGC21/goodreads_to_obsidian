@@ -1,8 +1,8 @@
 ---
 name: "Thomas More"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[England]]"
+birth_year: "1478"
+death_year: "1535"
 tags:
   - "author"
 ---
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Thomas More (1478–1535) was an English lawyer, humanist scholar, statesman, and writer whose life bridged the late medieval and early modern worlds. Trained in law at Lincoln’s Inn, he rose through royal service to become one of the most powerful officials in England, ultimately serving as Lord Chancellor under King Henry VIII. A devout Catholic and admirer of classical learning, he moved in the same humanist circles as Erasmus of Rotterdam, with whom he maintained a close intellectual friendship. His most famous work, commonly known as *Utopia*, used the fictional account of an ideal commonwealth to reflect critically on the political, social, and religious conditions of his time.
+Thomas More (1478–1535) was an English lawyer, humanist scholar, statesman, and devout Catholic who rose to prominence under King Henry VIII. Born in London, he was educated at Oxford and trained in law at Lincoln’s Inn, developing a reputation for integrity, sharp intellect, and wit. Deeply influenced by Christian humanism and friendships with figures like Erasmus of Rotterdam, More combined a life of public service with serious scholarly work.
 
-More’s significance lies not only in his literary achievement but also in his conscience-driven resistance to the king. When Henry VIII broke with the papacy and declared himself Supreme Head of the Church of England, More refused to endorse the royal supremacy or acknowledge the annulment of the king’s first marriage. His refusal, grounded in his religious convictions and his understanding of law and authority, led to charges of treason. He was imprisoned in the Tower of London and executed in 1535. Remembered as a martyr by Catholics and as a symbol of integrity in public life more broadly, he was later canonized by the Roman Catholic Church, and his life continues to provoke discussion about the conflict between loyalty to the state and loyalty to conscience.
+More’s most famous literary achievement is *Utopia* (1516), a Latin dialogue describing an imaginary commonwealth used to critique social injustice, religious intolerance, and the abuses of power in contemporary Europe. His political career advanced steadily: he served as a member of Parliament, became a trusted royal counselor, and was appointed Lord Chancellor in 1529—the first layman to hold that office. However, More’s conscience brought him into conflict with Henry VIII when the king sought to annul his marriage and establish royal supremacy over the Church in England. Refusing to endorse the king’s break with Rome or to swear the Oath of Supremacy, More resigned from office and was eventually imprisoned in the Tower of London. He was tried for treason and executed in 1535, later revered by many as a martyr of conscience and canonized by the Catholic Church in 1935.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

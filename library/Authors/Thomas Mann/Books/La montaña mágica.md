@@ -13,9 +13,9 @@ pages: 1056
 format: "physical"
 cover: "[[Attachments/Covers/Thomas Mann - La montaña mágica.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La montaña mágica

@@ -13,9 +13,9 @@ pages: 790
 format: "physical"
 cover: "[[Attachments/Covers/Robert M. Sapolsky - Behave The Biology of Humans at Our Best and Worst.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Behave: The Biology of Humans at Our Best and Worst

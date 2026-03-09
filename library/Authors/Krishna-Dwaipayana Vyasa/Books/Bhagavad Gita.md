@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-08-09"
-language: "Spanish"
+language: "Unknown"
 isbn: "8491059768"
 isbn13: "9788491059769"
 pages: 352
@@ -17,9 +17,9 @@ bookshelves:
   - "[[oriental]]"
   - "[[filosofía]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Bhagavad Gita

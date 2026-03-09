@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Liu Cixin - Death's End (Remembrance of Earth’s P
 bookshelves:
   - "[[novelas]]"
   - "[[ciencia-ficción]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Death's End (Remembrance of Earth’s Past, Num. 3)

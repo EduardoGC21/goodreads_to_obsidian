@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[historia-arte]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Art of the Boy and the Heron

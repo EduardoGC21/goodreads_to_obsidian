@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Isaac Asimov - Forward the Foundation (Foundation, 
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Forward the Foundation (Foundation, Num. 7)

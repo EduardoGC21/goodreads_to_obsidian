@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2024-07-02"
 date_read: "2024-07-11"
-language: "Spanish"
+language: "Unknown"
 isbn: "8490655774"
 isbn13: "9788490655771"
 pages: 352
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Nikolai Gogol - Mírgorod.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mírgorod

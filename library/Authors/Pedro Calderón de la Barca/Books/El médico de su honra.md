@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Pedro Calderón de la Barca - El médico de su honr
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El médico de su honra

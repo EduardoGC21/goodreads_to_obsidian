@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Immanuel Kant - Crítica de la Razón Pura (Sepan Cuantos, Num. 203).jpg]]"
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Crítica de la Razón Pura (Sepan Cuantos, Num. 203)

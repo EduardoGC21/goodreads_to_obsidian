@@ -13,9 +13,9 @@ pages: 653
 format: "physical"
 cover: "[[Attachments/Covers/Junji Ito - Uzumaki.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Uzumaki

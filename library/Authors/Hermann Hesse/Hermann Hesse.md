@@ -1,8 +1,8 @@
 ---
 name: "Hermann Hesse"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Germany]]"
+birth_year: "1877"
+death_year: "1962"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Hermann Hesse (1877–1962) was a German-born novelist, poet, and essayist whose work explored the tension between individual inner life and the demands of society. Raised in a family of Christian missionaries and scholars, he grew up amid both strict religious expectations and rich literary culture, experiences that later shaped his recurring themes of spiritual quest, rebellion, and self-discovery. After apprenticeships in the book trade and early struggles with formal education, he devoted himself to writing, gaining recognition with novels such as "Peter Camenzind" and "Demian".
+Hermann Hesse (1877–1962) was a German-born novelist, poet, and essayist whose work explored the inner life of the individual, spiritual searching, and the tension between social duty and personal authenticity. Born in Calw in the Kingdom of Württemberg to a family of Protestant missionaries and publishers, he grew up amid strong religious expectations that he later questioned and reworked in his fiction. After a difficult youth marked by conflicts with school and bouts of depression, Hesse apprenticed in bookshops, where his lifelong engagement with literature, philosophy, and Eastern religions deepened.
 
-Hesse’s significance lies in his blending of Western narrative forms with Eastern philosophical ideas, particularly in works like "Siddhartha," where he dramatized a personal search for enlightenment and authenticity rather than adherence to dogma. His books resonated deeply with readers disillusioned by modernity and war, and he became an important literary voice for several generations, especially in the mid-20th century. Awarded the Nobel Prize in Literature in 1946, Hesse spent much of his later life in Switzerland, maintaining a reclusive existence while corresponding widely, painting, and refining his reflections on the inner journey, friendship, and the complex relationship between the artist and society.
+Hesse’s major novels, including "Siddhartha," "Demian," "Steppenwolf," and "The Glass Bead Game," made him one of the most widely read European authors of the 20th century. "Siddhartha" in particular reflects his engagement with Indian philosophy and the search for enlightenment, themes that resonated globally and later influenced countercultural and spiritual movements. Awarded the Nobel Prize in Literature in 1946, Hesse was also notable for his criticism of militarism and nationalism during both World Wars, positions that complicated his relationship with his homeland but strengthened his reputation as an independent moral voice.
+
+Throughout his life, Hesse struggled with mental health, underwent psychoanalysis influenced by Jungian ideas, and experienced multiple marriages and intense friendships that fed into his portrayals of inner conflict and self-discovery. Later becoming a Swiss citizen, he lived much of his adult life in self-imposed semi-seclusion in Switzerland, where he continued to write, paint, and correspond widely. By the time of his death in 1962, Hesse had become an emblematic figure for readers seeking psychological depth, spiritual meaning, and resistance to conformist pressures.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

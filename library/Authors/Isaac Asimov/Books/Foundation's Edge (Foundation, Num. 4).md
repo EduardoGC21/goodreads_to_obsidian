@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Isaac Asimov - Foundation's Edge (Foundation, Num. 
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Foundation's Edge (Foundation, Num. 4)

@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Fernando Vallejo - La puta de Babilonia.jpg]]"
 bookshelves:
   - "[[history]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La puta de Babilonia

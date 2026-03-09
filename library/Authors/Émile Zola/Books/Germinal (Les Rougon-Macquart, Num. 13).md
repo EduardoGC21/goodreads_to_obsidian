@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Émile Zola - Germinal (Les Rougon-Macquart, Num. 1
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-francesa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Germinal (Les Rougon-Macquart, Num. 13)

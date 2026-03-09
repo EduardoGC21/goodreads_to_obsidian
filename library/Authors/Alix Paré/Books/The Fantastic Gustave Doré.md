@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2025-10-03"
 date_read: "2025-11-15"
-language: "Unknown"
+language: "English"
 isbn: "3791379631"
 isbn13: "9783791379630"
 pages: 480
@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[historia-arte]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Fantastic Gustave Doré

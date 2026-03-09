@@ -13,9 +13,9 @@ pages: 511
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)

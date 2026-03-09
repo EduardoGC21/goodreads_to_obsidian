@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/George R.R. Martin - The World of Ice & Fire The Untold History of Westeros and the Game of Thrones.jpg]]"
 bookshelves:
   - "[[game-of-thrones]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones

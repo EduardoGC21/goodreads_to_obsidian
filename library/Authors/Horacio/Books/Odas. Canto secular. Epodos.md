@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Horacio - Odas. Canto secular. Epodos.jpg]]"
 bookshelves:
   - "[[poesía]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Odas. Canto secular. Epodos

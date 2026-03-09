@@ -1,8 +1,8 @@
 ---
 name: "Madeleine K. Albright"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United States]]"
+birth_year: "1937"
+death_year: "2022"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Madeleine Albright (1937–2022) was a Czech-born American diplomat and political leader who became the first female United States Secretary of State, serving from 1997 to 2001 under President Bill Clinton. Born Marie Jana Körbelová in Prague, Czechoslovakia, she fled with her family from Nazi persecution and later from communist rule, experiences that shaped her lifelong commitment to democracy, human rights, and multilateral cooperation. After emigrating to the United States, she became a naturalized citizen, studied at Wellesley College and Columbia University, and built a career as a foreign policy scholar and advisor before rising to the highest ranks of American diplomacy.
+Madeleine K. Albright (1937–2022) was a Czech-born American diplomat, political scientist, and public servant who became the first female United States Secretary of State. Born Marie Jana Körbelová in Prague to a diplomat father, her Jewish family fled first the Nazis and later the Communists, eventually settling in the United States after World War II. She was naturalized as a U.S. citizen in 1957, studied at Wellesley College, and earned a Ph.D. from Columbia University, developing a reputation as a sharp analyst of international relations and Eastern European politics.
 
-As U.S. Ambassador to the United Nations (1993–1997) and then Secretary of State, Albright played a central role in post–Cold War foreign policy, including NATO expansion, responses to conflicts in the Balkans, and efforts to strengthen international institutions. She was known for her assertive advocacy of American engagement abroad and for her symbolic use of jewelry—particularly brooches—to signal diplomatic messages. In later years she taught, advised political leaders, and wrote influential books such as "Fascism: A Warning," which drew on her personal history and professional experience to examine the resurgence of authoritarianism. Her life and work made her a prominent figure in the struggle against totalitarianism and a trailblazer for women in international politics.
+Albright served as a foreign policy adviser to Democratic politicians, most notably Senator Edmund Muskie and later President Bill Clinton. Under Clinton she was appointed U.S. Ambassador to the United Nations (1993–1997), where she was known for her forthright advocacy of American interests and humanitarian intervention. In 1997 she became Secretary of State, playing a central role in NATO expansion, diplomacy in the Balkans, and U.S. engagement with post–Cold War Europe, Russia, and emerging global institutions. After leaving office, she founded a global strategy firm, taught at Georgetown University, and wrote influential books, including "Fascism: A Warning," which drew on her life experience under totalitarian regimes to analyze contemporary threats to democracy.
+
+Throughout her life Albright was a prominent voice for human rights, democracy promotion, and multilateral cooperation. She often highlighted the responsibilities of the United States as a global leader, and her personal history as a refugee shaped her views on genocide, ethnic conflict, and the protection of vulnerable populations. Her legacy includes breaking gender barriers in American foreign policy, mentoring generations of diplomats and policymakers, and leaving a substantial body of work on the dangers of authoritarianism and the importance of principled, engaged diplomacy.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

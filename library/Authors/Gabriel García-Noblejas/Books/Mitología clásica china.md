@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2025-12-07"
 date_read: "2025-12-19"
-language: "Spanish"
+language: "Unknown"
 isbn: "8481646032"
 isbn13: "9788481646030"
 pages: 344
@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitología clásica china

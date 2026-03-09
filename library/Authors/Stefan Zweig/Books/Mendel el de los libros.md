@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Stefan Zweig - Mendel el de los libros.jpg]]"
 bookshelves:
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mendel el de los libros

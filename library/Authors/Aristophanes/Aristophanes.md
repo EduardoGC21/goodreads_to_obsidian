@@ -1,8 +1,8 @@
 ---
 name: "Aristophanes"
 country: "[[Greece]]"
-birth_year: "0446"
-death_year: "0386"
+birth_year: ""
+death_year: ""
 tags:
   - "author"
 ---
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Aristophanes (c. 446–c. 386 BCE) was an Athenian comic playwright and the foremost representative of Old Comedy in classical Athens. Likely born into a property-owning family from the deme of Kydathenaion, he spent much of his life writing for the great dramatic festivals such as the City Dionysia and the Lenaia, where his plays regularly competed for and won prizes. Although details of his private life are scarce, his works reveal a keen observer of Athenian society, politics, and intellectual trends during and after the Peloponnesian War, with a sharp eye for the follies of demagogues, philosophers, and ordinary citizens alike.
+Aristophanes was an ancient Athenian comic playwright, active during the late 5th and early 4th centuries BCE and often called the “Father of Old Comedy.” Living through the Peloponnesian War and its turbulent aftermath, he used the comic stage to comment on war, politics, and the cultural life of democratic Athens, famously mocking public figures, intellectual fashions, and the Athenian Assembly itself. His plays combined sharp satire, lyrical choral songs, bold fantasy, and earthy humor, giving audiences both laughter and pointed political reflection.
 
-Across more than forty plays, of which eleven survive complete, Aristophanes developed a distinctive blend of exuberant fantasy, coarse humor, lyrical choral passages, and fearless political satire. He is especially known for attacking influential figures—most famously the demagogue Cleon and the philosopher Socrates—and for imagining outrageous solutions to war and civic dysfunction. A play such as Lysistrata, in which women organize a sex strike to force an end to the war, exemplifies his ability to combine bold comic invention with serious reflections on conflict, gender roles, and the responsibilities of citizens. Aristophanes’ work shaped the development of Western comedy and satire, leaving a lasting legacy as one of antiquity’s most inventive and influential dramatists.
+Works such as “Lysistrata,” in which women leverage a sex-strike to force an end to war, and other comedies like “The Clouds,” “The Wasps,” “Peace,” and “The Birds” show his preoccupation with peace, justice, and the health of the polis. Aristophanes’ relationship with his audience was unusually direct: he appealed to ordinary Athenian citizens while simultaneously engaging with elite debates about philosophy and education, even staging biting caricatures of thinkers such as Socrates. Across his surviving plays, Aristophanes offers one of the richest, most vivid portraits of everyday life, politics, and social tensions in classical Athens, making him a central witness to—and critic of—the world of classical Greek democracy.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
-language: "Spanish"
+language: "Unknown"
 isbn: "9700768864"
 isbn13: "9789700768861"
 pages: 213
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Evangelios Apócrifos (Sepan Cuantos, Num. 602)

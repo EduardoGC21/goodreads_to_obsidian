@@ -1,11 +1,10 @@
 ---
 name: "Apolodoro"
 country: "[[Greece]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Apolodoro
@@ -13,11 +12,9 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Apollodorus of Athens (c. 180–after 120 BCE) was an ancient Greek scholar and grammarian, best known in later tradition as the presumed author of the mythographic work commonly called the *Bibliotheca* (“Library”). Born in Athens and active during the Hellenistic period, he was a pupil of Aristarchus of Samothrace and worked within the learned milieu surrounding the Library of Alexandria, where scholars collected, edited, and commented on Greek poetry, history, and myth. His education and scholarly environment shaped him into a meticulous compiler of traditional lore.
+Apollodorus of Athens was an ancient Greek scholar and mythographer traditionally credited with the authorship of the *Bibliotheca*, a comprehensive handbook of Greek myths and heroic genealogies. Active in the Hellenistic period, he is thought to have lived sometime between the 2nd and 1st centuries BCE, though the exact dates of his life remain uncertain and the attribution of the *Bibliotheca* to him is debated. Despite these uncertainties, the work associated with his name became one of the most important surviving attempts to systematize the vast and often contradictory traditions of Greek mythology.
 
-Although modern scholars dispute whether Apollodorus himself wrote the surviving *Bibliotheca*, the work is closely associated with his name and intellectual legacy. The *Bibliotheca* offers a systematic, prose handbook of Greek mythology—from the primordial gods and heroes to the Trojan War and its aftermath—preserving countless variants and genealogies that might otherwise have been lost. Its clear organization and sober style made it a practical reference for later readers, and it remains one of the most important sources for reconstructing classical myth.
-
-Apollodorus’s significance lies less in original literary creativity than in his role as a transmitter, organizer, and rationalizer of the mythic tradition. By gathering diverse strands of earlier poetry, local legends, and scholarly commentary into a coherent narrative framework, he provided a bridge between archaic and classical mythic materials and later antiquity. His work shaped how Greek myths were understood in the Roman world and, through Renaissance and modern translations such as the Spanish *Biblioteca*, has continued to influence the study and popular reception of Greek mythology down to the present.
+The *Bibliotheca* (referred to in modern editions such as “Biblioteca (Biblioteca Clásica Gredos nº 85)”) is valued less as a work of literary style than as an ordered, almost encyclopedic synthesis of earlier poets, tragedians, and local mythic traditions. Through this text, Apollodorus (or the anonymous compiler writing under his name) preserved countless mythological variants, family trees of gods and heroes, and narrative links between famous epics and local legends. The work has been indispensable for later scholars, writers, and artists seeking a coherent map of Greek myth, giving Apollodorus a lasting significance as a transmitter and organizer of classical tradition, even though details of his personal life, relationships, and historical circumstances are largely lost to time.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

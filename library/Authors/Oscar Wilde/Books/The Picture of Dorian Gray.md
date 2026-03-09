@@ -13,9 +13,9 @@ pages: 253
 format: "physical"
 cover: "[[Attachments/Covers/Oscar Wilde - The Picture of Dorian Gray.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Picture of Dorian Gray

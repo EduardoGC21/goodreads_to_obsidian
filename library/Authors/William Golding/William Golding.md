@@ -1,6 +1,6 @@
 ---
 name: "William Golding"
-country: "[[England]]"
+country: "[[United Kingdom]]"
 birth_year: "1911"
 death_year: "1993"
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-William Gerald Golding (1911–1993) was an English novelist, schoolteacher, and essayist whose work probed the darker aspects of human nature and the fragility of civilization. Born in Newquay, Cornwall, and raised in a household steeped in rationalism and education—his father was a schoolmaster and his mother an active suffragist—Golding studied at Brasenose College, Oxford, first focusing on science before turning to English literature. He worked in theatre and teaching, but his life and worldview were profoundly reshaped by his service in the Royal Navy during World War II, where he participated in the D-Day landings and witnessed firsthand the violence and moral collapse of war. These experiences convinced him that the potential for evil is inherent in ordinary people, not just political systems or particular nations.
+William Golding (1911–1993) was an English novelist, playwright, and schoolteacher whose work explored the darker side of human nature, the fragility of civilization, and the ease with which order collapses into chaos. Born in Cornwall, he was educated at Oxford, where he first studied science before turning to English literature, a shift that informed his lifelong interest in both rational inquiry and the irrational impulses of human behavior. His experiences as a naval officer during World War II, particularly witnessing the brutality and moral breakdown of war, profoundly shaped his vision of humanity and later became a central influence on his fiction.
 
-After the war Golding returned to teaching while writing fiction, eventually achieving lasting fame with the publication of "Lord of the Flies" ("El Señor de las Moscas") in 1954. The novel’s portrayal of schoolboys descending into brutality on a deserted island made him a central figure in postwar literature and a major voice in debates about human nature, education, and authority. Over subsequent decades he produced a diverse body of novels, including "The Inheritors," "Pincher Martin," and the seafaring trilogy beginning with "Rites of Passage," which won the Booker Prize in 1980. Golding’s work is marked by moral seriousness, symbolic richness, and a constant concern with the thin veneer of order that masks inner chaos. Knighted in 1988 and awarded the Nobel Prize in Literature in 1983 for his novels’ illumination of the human condition, he spent his later years in Cornwall with his family, continuing to write until his death in 1993.
+Golding achieved international fame with his novel “Lord of the Flies” (known in Spanish as “El Señor de las Moscas”), in which a group of stranded schoolboys descend into violence and tribalism, revealing the thin veneer of social order. The book became a modern classic, widely taught and debated for its bleak but powerful portrait of power, fear, and moral responsibility. Over his career he wrote numerous other novels, often allegorical and experimental, that examined themes of guilt, faith, and the search for meaning.
+
+Recognized as one of the most significant British writers of the twentieth century, Golding was awarded the Nobel Prize in Literature in 1983 for his novels, which the Swedish Academy praised for illuminating "the human condition in the world of today." He was knighted in 1988, and his work has continued to influence literature, education, and discussions of politics and ethics long after his death.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2021-07-06"
 date_read: ""
-language: "Unknown"
+language: "English"
 isbn: "8484287459"
 isbn13: ""
 pages: 658
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Novelas cortas (Clásica Maior) (Spanish Edition)

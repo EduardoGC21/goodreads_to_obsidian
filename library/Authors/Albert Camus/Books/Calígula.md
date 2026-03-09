@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2022-07-17"
 date_read: "2022-07-18"
-language: "Spanish"
+language: "Unknown"
 isbn: "8420676578"
 isbn13: "9788420676579"
 pages: 146
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Albert Camus - Calígula.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Calígula

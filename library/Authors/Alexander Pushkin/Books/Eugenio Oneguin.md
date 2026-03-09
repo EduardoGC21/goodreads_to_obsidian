@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Alexander Pushkin - Eugenio Oneguin.jpg]]"
 bookshelves:
   - "[[literatura-rusa]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Eugenio Oneguin

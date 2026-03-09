@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-08-29"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437623499"
 isbn13: "9788437623498"
 pages: 1168
@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Decamerón

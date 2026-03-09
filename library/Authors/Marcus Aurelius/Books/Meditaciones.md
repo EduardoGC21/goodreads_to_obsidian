@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Marcus Aurelius - Meditaciones.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Meditaciones

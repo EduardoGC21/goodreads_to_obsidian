@@ -1,8 +1,8 @@
 ---
 name: "Giovanni Boccaccio"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Italy]]"
+birth_year: "1313"
+death_year: "1375"
 tags:
   - "author"
 ---
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Giovanni Boccaccio (1313–1375) was an Italian writer, humanist, and one of the key figures of early Renaissance literature. Born to a merchant family, likely in Certaldo or Florence, he spent part of his youth in Naples, where exposure to courtly life, classical culture, and scholarly circles shaped his literary ambitions. Boccaccio eventually abandoned a mercantile career for letters, producing poetry and prose in both Latin and the vernacular at a time when Italian was still emerging as a prestigious literary language.
+Giovanni Boccaccio (1313–1375) was an Italian writer, humanist, and scholar whose life bridged the late Middle Ages and the dawn of the Renaissance. Born in Certaldo or possibly Florence, he was the illegitimate son of a Tuscan merchant connected to the powerful Bardi banking house. As a young man he was sent to Naples, where he studied commerce and canon law but was drawn instead to literature and the vibrant court culture surrounding King Robert of Anjou. This Neapolitan period exposed him to Provençal poetry, classical learning, and the cosmopolitan aristocracy that would later shape the social and intellectual worlds depicted in his fiction.
 
-Boccaccio’s most famous work, the "Decameron," is a collection of one hundred tales framed by a group of young Florentines who flee the Black Death and entertain one another with stories of love, wit, fortune, and morality. This book not only offers a vivid portrait of fourteenth‑century society but also helped establish narrative prose as a serious artistic form, influencing writers across Europe for centuries. Boccaccio was also a close friend and admirer of Petrarch; together they helped shape humanism by reviving interest in classical authors, collecting manuscripts, and writing in a way that linked ancient culture with contemporary life. In his later years, Boccaccio devoted himself increasingly to scholarly and religious studies, but his blend of realism, psychological insight, and humane irony secured his reputation as one of the founders of modern European narrative.
+Boccaccio is best known for the "Decameron," a collection of one hundred tales framed by a group of young Florentines who flee the Black Death—an epidemic Boccaccio himself witnessed in Florence in 1348. The work’s blend of tragic, comic, and erotic stories, its vivid portraits of merchants, clergy, and ordinary people, and its flexible use of the Tuscan vernacular made it foundational for later European prose narrative. Boccaccio maintained a long and formative friendship with Petrarch, through whom he deepened his engagement with classical authors and the emerging ideals of humanism. In his later years he devoted himself increasingly to scholarship, lecturing on Dante in Florence, compiling biographies of famous women, and helping to preserve and transmit Greek and Latin texts. He died in 1375 in his native Tuscany, respected as one of the key figures who helped transform medieval literary culture and prepare the ground for the Italian Renaissance.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

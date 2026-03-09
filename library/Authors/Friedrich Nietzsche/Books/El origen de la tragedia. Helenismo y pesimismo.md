@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[filosofía]]"
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El origen de la tragedia. Helenismo y pesimismo

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Arthur C. Clarke - Rendezvous with Rama (Rama, Num.
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Rendezvous with Rama (Rama, Num. 1)

@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[filosofía]]"
   - "[[biográfico]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Confesiones (Sepan Cuantos, Num. 470)

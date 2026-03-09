@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2024-01-12"
 date_read: ""
-language: "Spanish"
+language: "English"
 isbn: ""
 isbn13: ""
 pages: 880
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos filosóficos (Spanish Edition)

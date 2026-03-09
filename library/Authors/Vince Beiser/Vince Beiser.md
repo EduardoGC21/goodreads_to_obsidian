@@ -1,6 +1,6 @@
 ---
 name: "Vince Beiser"
-country: "[[United States/Canada]]"
+country: "[[United States]]"
 birth_year: "1965"
 death_year: ""
 tags:
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Vince Beiser (1965–) is an American-Canadian journalist and author best known for explaining how overlooked materials like sand and critical metals underpin modern civilization and shape geopolitics. Born in New York City in 1965, he studied Middle Eastern Studies at the University of California, Berkeley, graduating summa cum laude, and went on to report from dozens of countries on criminal justice, conflict, environmental crises, and social issues for outlets such as Wired, The Atlantic, The Guardian, Mother Jones, Rolling Stone, The Economist, and major North American newspapers. His work has been repeatedly honored by leading journalism organizations and graduate schools of journalism, and he has shared in multiple National Magazine Awards and an Emmy. ⌰cite⍀turn0search0⍀turn0search12⌱
+Vince Beiser (born 1965) is an American‑Canadian journalist and author known for transforming overlooked raw materials into urgent global stories. Raised partly in a family steeped in public service and academia, he studied Middle Eastern Studies at the University of California, Berkeley, graduating with highest honors before embarking on a career that has taken him to more than a hundred countries, conflict zones, prisons, and disaster areas. His reporting has appeared in outlets such as Wired, The Atlantic, The New York Times, Mother Jones, and many others, and he has been recognized by Investigative Reporters and Editors, the Society of Professional Journalists, several graduate schools of journalism, and multiple National Magazine Awards and an Emmy for his contributions.
 
-Beiser’s first book, "The World in a Grain: The Story of Sand and How It Transformed Civilization," established him as a major voice on the hidden infrastructure of the modern world, tracing how sand extraction fuels construction booms, corruption, and violence. He later broadened this lens in "Power Metal: The Race for the Resources That Will Shape the Future," investigating how the metals required for digital technologies and renewable energy are driving new forms of environmental damage and political tension. Now based in Vancouver, he continues to combine deep on-the-ground reporting with clear, accessible storytelling, appearing frequently on television, radio, and conference stages to illuminate the human stakes of our material-intensive way of life. ⌰cite⍀turn0search1⍀turn0search2⍀turn0search9⌱
+Beiser’s first book, “The World in a Grain: The Story of Sand and How It Transformed Civilization,” grew out of his interest in the hidden infrastructure of modern life and established him as a leading voice on the environmental and human costs of material extraction. He has since expanded that lens in later work on the metals that power digital technology and renewable energy, connecting the lives of miners, entrepreneurs, and communities to global systems of consumption and power. Now based in Vancouver with his family, Beiser is also a sought‑after speaker, known for making complex environmental and policy issues accessible through narrative, on‑the‑ground reporting, and a focus on the people whose lives are shaped by these vast resource economies.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

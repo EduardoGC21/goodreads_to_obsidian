@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los jinetes del Apocalipsis: Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition)

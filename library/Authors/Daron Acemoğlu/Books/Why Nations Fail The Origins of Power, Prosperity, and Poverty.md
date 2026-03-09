@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Daron Acemoğlu - Why Nations Fail The Origins of P
 bookshelves:
   - "[[economía]]"
   - "[[política]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Why Nations Fail: The Origins of Power, Prosperity, and Poverty

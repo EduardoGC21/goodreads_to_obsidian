@@ -1,7 +1,7 @@
 ---
 name: "Witi Ihimaera"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[New Zealand]]"
+birth_year: "1944"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Witi Tame Ihimaera-Smiler (born 7 February 1944 in Waituhi near Gisborne) is a pioneering Māori novelist, short story writer, editor, and academic from Aotearoa New Zealand. Raised in a close-knit Māori community and affiliated with iwi including Te Aitanga-a-Māhaki, Te Whānau-a-Kai, Rongowhakaata and Ngāti Porou, he decided as a teenager to write because he found that Māori people and experiences were largely absent or distorted in the literature he read. After early work as a journalist and postal worker, he completed a BA at Victoria University of Wellington and embarked on a diplomatic career, becoming one of New Zealand’s first Māori diplomats and serving in postings such as Canberra, New York, and Washington, D.C.
+Witi Ihimaera (born 1944) is a Māori novelist, short story writer, and editor from New Zealand, widely recognized as one of the first Māori authors to publish English‑language fiction depicting contemporary Māori life from an insider perspective. Raised in a close-knit family in Gisborne and of Te Aitanga-a-Māhaki, Ngāti Porou, and Rongowhakaata descent, his upbringing in rural and small-town Aotearoa deeply shaped his work, which often explores whakapapa (genealogy), land, community, and the tensions and possibilities of bicultural New Zealand. He studied and later worked in diplomacy and broadcasting before committing more fully to literature and academia, where he has mentored many younger Māori and Pasifika writers.
 
-Ihimaera is widely regarded as the first Māori writer to publish both a collection of short stories and a novel in English, with "Pounamu, Pounamu" (1972) and "Tangi" (1973), and he has since produced a large body of fiction, drama, and librettos that explore Māori life, mythology, and the legacies of colonisation. Works such as "The Matriarch", "Bulibasha", and "The Whale Rider"—the last adapted into an internationally acclaimed 2002 film—have made him a central figure in New Zealand and Indigenous world literature. His writing often interweaves family relationships, tribal history, and contemporary social issues, including sexuality; for example, "Nights in the Gardens of Spain" and later novels draw on his own experience of coming out as a gay man after marriage and fatherhood. As an editor and anthologist he has helped shape a canon of Māori writing in English, curating influential collections and mentoring younger writers.
+Ihimaera’s breakthrough came with early works such as "Tangi" and "Whanau", but he is best known internationally for "The Whale Rider", adapted into an acclaimed film that brought Māori stories and language to a global audience. Across his novels, short stories, and edited collections—including collaborative projects such as "Pūrākau: Māori Myths Retold by Māori Writers"—he has helped reframe traditional narratives and mythologies in contemporary forms, insisting on Māori perspectives within national and global conversations. Over decades he has been an influential cultural figure, recognized with major literary awards and national honours, and has played a prominent role in New Zealand’s literary institutions, festivals, and universities.
 
-Alongside his literary work, Ihimaera has had a significant academic and public role, serving for many years as Professor of English and Distinguished Creative Fellow in Māori Literature at the University of Auckland and later as an emeritus professor and literary elder. He has received numerous honours, including major New Zealand book awards, the Queen’s Service Medal, appointment as a Distinguished Companion of the New Zealand Order of Merit, and international recognition such as the French Ordre des Arts et des Lettres. In recent memoirs like "Māori Boy" and "Native Son" and in collaborative projects such as "Pūrākau: Māori Myths Retold by Māori Writers", he continues to reinterpret Māori narratives for contemporary readers, positioning himself as both a guardian and innovator of his culture’s stories.
+Beyond his published work, Ihimaera’s significance lies in how he has used his career to open doors for others: advocating for Māori representation, supporting emerging writers, and engaging in public debates about identity, history, and sovereignty. His writing often foregrounds intergenerational relationships—between elders and youth, tradition and modernity—mirroring his own role as a bridge between earlier generations of Māori activists and today’s diverse literary voices.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

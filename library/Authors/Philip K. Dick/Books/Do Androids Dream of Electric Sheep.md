@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Philip K. Dick - Do Androids Dream of Electric Shee
 bookshelves:
   - "[[novelas]]"
   - "[[ciencia-ficción]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Do Androids Dream of Electric Sheep?

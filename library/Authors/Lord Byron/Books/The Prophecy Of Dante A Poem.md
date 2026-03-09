@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Prophecy Of Dante: A Poem

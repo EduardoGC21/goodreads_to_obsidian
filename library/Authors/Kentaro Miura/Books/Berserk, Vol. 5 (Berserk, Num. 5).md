@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Kentaro Miura - Berserk, Vol. 5 (Berserk, Num. 5).j
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 5 (Berserk, Num. 5)

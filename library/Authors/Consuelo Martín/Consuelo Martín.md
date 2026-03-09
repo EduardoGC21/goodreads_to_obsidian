@@ -1,11 +1,10 @@
 ---
 name: "Consuelo Martín"
 country: "[[Spain]]"
+birth_year: "1940"
+death_year: "2023"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Consuelo Martín
@@ -13,11 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Consuelo Martín is a Spanish philosopher and contemplative teacher from Madrid, where she earned a doctorate in philosophy with highest honors from the Complutense University in 1981 for a thesis on knowledge and reality.([librotea.eldiario.es](https://librotea.eldiario.es/libros/el-arte-de-la-contemplacion?utm_source=openai)) Known in academic and spiritual circles as a leading specialist in Advaita Vedanta and in the so‑called perennial philosophy, she has sought to bring Eastern and Western thought into dialogue through work in epistemology, psychology, and the philosophy of science, as well as through seminars on Indian non‑dual metaphysics at her alma mater.([elcorteingles.pt](https://www.elcorteingles.pt/bio/consuelo-martin/?utm_source=openai))
+Consuelo Martín (1940–2023) was a Spanish philosopher and contemplative teacher whose work bridged Indian Advaita Vedānta and Western philosophical traditions. Trained at the Complutense University of Madrid, where she earned her PhD in Philosophy and later taught in the Department of Metaphysics, she also collaborated with thinkers such as J. D. García Bacca while exploring epistemology, psychology, and philosophy of science in dialogue with non-dual spirituality. Her intellectual formation was complemented by deep engagement with modern spiritual figures like Nisargadatta Maharaj and J. Krishnamurti, which helped shape her distinctive, experience-centered approach to non-duality.
 
-Beyond the university, Martín has devoted her life to an experiential investigation of wisdom, combining rigorous study with contemplative practice. She has directed the journal "Viveka," a long‑running publication dedicated to non‑dual insight, and has guided retreats and seminars aimed at fostering lucid awareness and inner transformation, giving rise to a contemporary contemplative school rooted in direct realization rather than mere theory.([librotea.eldiario.es](https://librotea.eldiario.es/libros/el-arte-de-la-contemplacion?utm_source=openai)) Her teaching emphasizes the practical implications of non‑duality for everyday life, framing philosophical inquiry as a path to freedom from separation and attachment.
+Recognized as a specialist in Vedānta Advaita and “perennial philosophy”, Martín devoted her life to what she saw as the core of all traditions: human realization. She directed the contemplative journal "Viveka" for decades and led numerous retreats and seminars in silence and inquiry, emphasizing practical realization over mere theory. Alongside her many original works on contemplation, inner freedom, and lucidity, she produced influential studies and translations of key Advaita texts, including the "Bhagavad Gītā: con los comentarios advaita de Šankara", which helped introduce and contextualize Śaṅkara’s non-dual vision for Spanish-speaking readers.
 
-Martín’s written work has significantly shaped the reception of Advaita in the Spanish‑speaking world. Alongside studies such as "Conciencia y realidad. Estudio sobre la metafísica advaita," she has produced influential editions of foundational Hindu texts—including the Brahma‑Sutras, the Upanisads, and the Gran Upanisad del Bosque—accompanied by the classical Advaita commentaries of Śaṅkara.([iberlibro.com](https://www.iberlibro.com/9788498796773/Bhagavad-Gita-comentarios-advaita-Sankara-8498796776/plp?utm_source=openai)) Her Spanish edition of the Bhagavad Gītā with Śaṅkara’s non‑dual commentary, for example, makes a central scripture of the Indian tradition accessible to a broad readership while highlighting its unifying vision of reality, consolidating her role as a bridge between scholarly exegesis and living spiritual practice.
+Through more than a dozen books and an enduring teaching legacy, Consuelo Martín became a central reference in the Spanish-speaking world for the contemplative path and the lived understanding of non-duality. Her work continues to influence students of yoga, meditation, and philosophy who seek an integration of rigorous thought with direct inner experience.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

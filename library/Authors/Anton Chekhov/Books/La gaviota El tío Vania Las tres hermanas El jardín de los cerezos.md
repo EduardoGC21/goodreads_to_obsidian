@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Anton Chekhov - La gaviota El tío Vania Las tres h
 bookshelves:
   - "[[literatura-rusa]]"
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La gaviota / El tío Vania / Las tres hermanas / El jardín de los cerezos

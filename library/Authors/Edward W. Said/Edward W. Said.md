@@ -1,10 +1,10 @@
 ---
-name: Edward W. Said
-country: "[[United States]]"
+name: "Edward W. Said"
+country: "[[Palestine]]"
 birth_year: "1935"
 death_year: "2003"
 tags:
-  - author
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edward W. Said
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Edward W. Said (1935–2003) was a Palestinian‑American literary critic, comparatist, and public intellectual, born in Jerusalem and raised between Jerusalem and Cairo before later moving to the United States. Educated at Princeton and Harvard, he spent most of his academic career at Columbia University, where he became a leading figure in literary theory and cultural studies. His landmark book "Orientalism" (1978) reshaped the study of the Middle East and colonial discourse by arguing that Western representations of the "Orient" were bound up with power, empire, and domination, making him one of the foundational voices of postcolonial studies.
+Edward W. Said (1935–2003) was a Palestinian-American literary critic, public intellectual, and cultural theorist whose work reshaped the humanities in the late 20th century. Born in Jerusalem and raised between Cairo and Jerusalem in a Christian Palestinian family, he later moved to the United States for his education, studying at Princeton and Harvard. He spent most of his academic career as a professor of English and Comparative Literature at Columbia University, where he became known as a charismatic teacher and an incisive critic of literature, culture, and politics.
 
-Beyond the academy, Said was deeply engaged in politics and culture, serving as an articulate advocate for Palestinian self‑determination and a critic of both Israeli occupation and Arab authoritarianism. He briefly served on the Palestinian National Council and later became known for his independence from any official political faction. He also cultivated important intellectual and artistic collaborations, most notably with the Israeli‑Argentinian conductor Daniel Barenboim, co‑founding the West‑Eastern Divan Orchestra to bring together young Arab and Israeli musicians as a model of dialogue. Battling leukemia for the last decade of his life, Said continued to write essays, books, and commentaries that influenced debates on literature, music, politics, and the ethics of representation until his death in New York City.
+Said’s most influential book, *Orientalism*, introduced the concept of “orientalism” as a critical framework for understanding how Western scholarship, art, and media constructed stereotyped images of the Middle East and Asia, and how those representations supported imperial power. This work helped give rise to postcolonial studies and had a profound impact across disciplines, from literature and history to anthropology and political science. Beyond his academic writing, Said was an articulate advocate for Palestinian rights, a frequent commentator on Middle Eastern politics, and a musician and music critic who wrote on classical music and co-authored a book with conductor Daniel Barenboim. His life and work combined rigorous scholarship with public engagement, making him one of the most significant intellectuals of his generation.
+
+Throughout his career, Said navigated and reflected on experiences of displacement and exile, themes he explored in his memoir *Out of Place*. He forged relationships across cultural and political divides, notably through his collaboration with Barenboim in founding the West–Eastern Divan Orchestra, which brought together young musicians from Israel, Palestine, and other Arab countries. His writings, lectures, and activism left a lasting legacy in debates about culture and power, the representation of the Middle East, and the role of the intellectual in public life.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

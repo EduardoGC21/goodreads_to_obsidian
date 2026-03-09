@@ -1,8 +1,8 @@
 ---
 name: "William L. Shirer"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United States]]"
+birth_year: "1904"
+death_year: "1993"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-William L. Shirer (1904–1993) was an American journalist, foreign correspondent, and historian best known for his eyewitness reporting from Nazi Germany and his later synthesis of that experience in major works of history. Born in the United States, he began his career as a newspaper reporter in Europe during the 1920s, observing firsthand the political and social upheavals that followed World War I. In the 1930s he joined CBS and became one of the pioneering radio correspondents, working closely with Edward R. Murrow and the so‑called “Murrow Boys,” whose live broadcasts brought the rise of Adolf Hitler and the approach of World War II into American homes.
+William Lawrence Shirer (1904–1993) was an American journalist, war correspondent, and historian whose career traced the major convulsions of the twentieth century. Born in Chicago and raised largely in Cedar Rapids, Iowa, he worked his way to Europe after graduating from Coe College in 1925 and spent about fifteen years as a foreign correspondent based in Paris, Berlin, and other capitals. Reporting for the Chicago Tribune and later as one of Edward R. Murrow’s first CBS radio correspondents, he covered crises such as the rise of Adolf Hitler, the Anschluss, the dismemberment of Czechoslovakia, and the opening months of the Second World War. His Berlin dispatches—later collected in “Berlin Diary”—brought home to American audiences both the immediacy of events and the atmosphere of fear under Nazi rule.
 
-Stationed in Berlin, Shirer covered key events such as the remilitarization of Germany, the annexations and early aggressions of the Nazi regime, and the early years of the war itself, until censorship and harassment by the authorities forced him to leave in 1941. Drawing on his extensive diaries, documents, and firsthand observations, he later wrote "The Rise and Fall of the Third Reich: A History of Nazi Germany," which became a landmark work in 20th‑century historiography and shaped popular understanding of the Nazi era for generations. Over his long career he produced memoirs, historical studies, and commentaries that combined personal testimony with archival research, securing his reputation as a significant interpreter of modern European history and as a bridge between frontline journalism and narrative history.
+Shirer’s most influential work, “The Rise and Fall of the Third Reich: A History of Nazi Germany,” drew on his eyewitness reporting, extensive personal diaries, and access to captured German documents. Published in 1960, it quickly became a landmark popular history of the Nazi regime, shaping public and scholarly understanding for decades and earning him a National Book Award. Beyond Nazi Germany, he wrote major studies of France between the wars and produced a three-volume memoir, “Twentieth-Century Journey,” reflecting on the political upheavals he witnessed and his own intellectual and moral responses.
+
+In his personal life, Shirer married Austrian photographer Theresa “Tess” Stiberitz in 1931, with whom he had two daughters; the marriage ended in divorce in 1970, and he later remarried. After being blacklisted in the early Cold War years, he relied on lecturing and then on his books for his livelihood, eventually settling in Massachusetts. From his home in Lenox he continued to write into old age, remembered as a meticulous chronicler whose blend of frontline observation and documentary research helped millions of readers grapple with the nature of totalitarianism and war.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

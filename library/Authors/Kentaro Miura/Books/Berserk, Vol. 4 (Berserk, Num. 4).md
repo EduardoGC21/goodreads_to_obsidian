@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Kentaro Miura - Berserk, Vol. 4 (Berserk, Num. 4).j
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 4 (Berserk, Num. 4)

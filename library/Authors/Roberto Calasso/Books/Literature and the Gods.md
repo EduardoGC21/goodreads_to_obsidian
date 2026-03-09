@@ -13,9 +13,9 @@ pages: 224
 format: "physical"
 cover: "[[Attachments/Covers/Roberto Calasso - Literature and the Gods.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Literature and the Gods

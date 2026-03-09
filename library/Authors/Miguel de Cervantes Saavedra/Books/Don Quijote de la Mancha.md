@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Miguel de Cervantes Saavedra - Don Quijote de la Ma
 bookshelves:
   - "[[novelas]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Don Quijote de la Mancha

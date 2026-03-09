@@ -1,7 +1,7 @@
 ---
 name: "Gareth Hinds"
 country: "[[United States]]"
-birth_year: "1971"
+birth_year: ""
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Gareth Hinds (b. 1971) is an American illustrator and graphic novelist renowned for his adaptations of classic literature into richly researched, visually sophisticated comics. Raised in small-town Vermont, he was a self-described “nerdy kid” who drew constantly, created homemade comics, and contributed illustrations and comics to his high school newspaper and literary magazine. He went on to study illustration at Rochester Institute of Technology and Parsons School of Design, then spent more than a decade in the video game industry creating characters, environments, and animations before turning full time to books.
+Gareth Hinds is an American graphic novelist and illustrator best known for adapting classic literature into visually rich, accessible works for young readers and teens. Growing up, he was drawn to both art and storytelling, interests that eventually converged in a career focused on reimagining foundational texts such as Beowulf, The Odyssey, The Iliad, and Shakespeare’s plays Macbeth, Romeo and Juliet, King Lear, and The Merchant of Venice. His adaptation of Edgar Allan Poe’s tales and poems, as well as later projects like the graphic novel version of Graceling, showcase his range across genres from epic poetry to gothic horror and contemporary fantasy.
 
-Beginning with self-published projects and later partnering with major publishers, Hinds built a distinguished body of graphic novels that bring canonical texts to new audiences, especially teens and classroom readers. His adaptations of Beowulf, King Lear, The Merchant of Venice, The Odyssey, Macbeth, Romeo and Juliet, The Iliad, and Poe’s stories and poems have been widely praised for their historical detail, visual storytelling, and fidelity to the originals while remaining accessible to modern readers. His work is frequently used in schools, has appeared in museum exhibitions and at the Society of Illustrators, and has earned honors such as the Boston Public Library’s “Literary Lights for Children” award.
+Hinds has become a significant figure in the world of educational and young adult publishing, with his books widely used in classrooms as a bridge between traditional texts and visual learners. His work is recognized for careful research, respect for the original authors’ voices, and dynamic watercolor and mixed‑media artwork that clarifies complex narratives and large casts of characters. Over the years he has received critical acclaim, starred reviews, and honors such as the Boston Public Library’s “Literary Lights for Children” award, and his illustrations have been exhibited in venues including the Society of Illustrators and the New York Historical Society.
 
-Hinds has also taught and spoken extensively about comics, art, and adaptation, sharing his process with students, educators, and fellow creators. Now based in the Washington, D.C. area, he continues to produce graphic novels that reinterpret myth, drama, and classic prose for contemporary readers, helping to bridge the gap between traditional literature curricula and visual storytelling.
+In addition to book work, Hinds has contributed art to video games and frequently speaks with students, teachers, and librarians about the craft of adaptation and comics storytelling. He lives in the United States, where he continues to create new graphic novels that interpret canonical works for modern readers, including young adults encountering these classics for the first time.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

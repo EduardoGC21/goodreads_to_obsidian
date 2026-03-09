@@ -1,7 +1,7 @@
 ---
 name: "Noam Chomsky"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United States]]"
+birth_year: "1928"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Noam Chomsky (born 1928) is an American linguist, philosopher, cognitive scientist, historian, and political activist, widely regarded as one of the most influential intellectuals of the 20th and 21st centuries. Born in Philadelphia, Pennsylvania, to Jewish immigrants from Eastern Europe, he developed an early interest in language, politics, and anti‑authoritarian ideas. After studying at the University of Pennsylvania, he joined the Massachusetts Institute of Technology (MIT), where he revolutionized linguistics by founding the generative grammar framework, arguing that humans possess an innate "language faculty" and helping to establish modern cognitive science.
+Noam Chomsky (born 1928) is an American linguist, philosopher, cognitive scientist, historian, and political activist whose work reshaped modern linguistics and influenced a wide range of disciplines. Raised in a Jewish working‑class family in Philadelphia, he studied at the University of Pennsylvania and went on to spend most of his academic career at the Massachusetts Institute of Technology (MIT). In the 1950s he developed generative grammar, arguing that humans possess an innate linguistic faculty; this view challenged behaviorist accounts of language and made him one of the central figures in cognitive science.
 
-Beyond linguistics, Chomsky became internationally known for his critiques of U.S. foreign policy, state power, and mainstream media. His political writings and activism, especially from the Vietnam War era onward, present a sustained analysis of how economic and political elites shape public opinion and global events; works like "Media Control: The Spectacular Achievements of Propaganda" draw on this perspective to examine the role of propaganda in nominally democratic societies. Over his long career he has authored dozens of books, engaged in prominent public debates, and influenced fields ranging from psychology and philosophy to communication studies and international relations.
+Beyond linguistics, Chomsky became widely known for his criticism of U.S. foreign policy, state power, and mainstream media. His political writings and lectures, including analyses of how media systems shape public opinion as seen in works like “Media Control,” positioned him as a leading left‑wing public intellectual. Over decades he cultivated collaborations and debates with scholars, activists, and students worldwide, influencing movements opposed to war, imperialism, and economic injustice.
 
-Chomsky’s work has earned him numerous honorary degrees and global recognition, though he has often remained critical of institutions that honor him, consistent with his broader skepticism of concentrated power. He has collaborated with and influenced a wide circle of scholars, activists, and journalists, becoming a reference point for both academic research and grassroots political movements. His life and work are marked by a commitment to rigorous inquiry, opposition to oppression, and the belief that ordinary people can understand and shape the forces that govern their lives.
+Chomsky has received numerous honorary degrees and awards, and his ideas continue to provoke discussion and controversy. His life’s work bridges rigorous formal theory with engaged political critique, making him one of the most cited and recognizable scholars of the late 20th and early 21st centuries.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

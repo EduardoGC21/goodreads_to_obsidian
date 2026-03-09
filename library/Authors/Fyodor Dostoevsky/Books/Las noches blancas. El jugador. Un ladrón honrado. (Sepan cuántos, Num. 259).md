@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Fyodor Dostoevsky - Las noches blancas. El jugador.
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259)

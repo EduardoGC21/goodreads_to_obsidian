@@ -13,9 +13,9 @@ pages: 288
 format: "physical"
 cover: "[[Attachments/Covers/Maria Brosius - A History of Ancient Persia The Achaemenid Empire (Blackwell History of the Ancient World).jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Ancient Persia: The Achaemenid Empire (Blackwell History of the Ancient World)

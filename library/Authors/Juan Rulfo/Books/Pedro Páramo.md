@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-08-01"
 date_read: "2020-08-02"
-language: "Spanish"
+language: "Unknown"
 isbn: "8493442607"
 isbn13: "9788493442606"
 pages: 132
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Juan Rulfo - Pedro Páramo.jpg]]"
 bookshelves:
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pedro Páramo

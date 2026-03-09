@@ -1,8 +1,8 @@
 ---
 name: "José Saramago"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Portugal]]"
+birth_year: "1922"
+death_year: "2010"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-José Saramago (1922–2010) was a Portuguese novelist, essayist, and journalist whose work brought international attention to contemporary Portuguese literature. Born into a poor rural family in Azinhaga, Portugal, he spent part of his youth as a mechanic and civil servant before turning fully to writing in midlife. His experiences under António de Oliveira Salazar’s dictatorship and his long-standing commitment to leftist and communist politics deeply shaped his worldview, leading him to explore themes of power, injustice, religion, and human solidarity with a distinctive blend of irony, allegory, and moral seriousness. Only in his fifties did he gain wide recognition, making him a notable example of a late-blooming literary figure.
+José Saramago (1922–2010) was a Portuguese novelist, essayist, and journalist who rose from a childhood of rural poverty to become the first writer in the Portuguese language to receive the Nobel Prize in Literature. Born in the small village of Azinhaga to landless peasants, he moved with his family to Lisbon as a child, left formal schooling early for financial reasons, and worked as a mechanic, clerk, and publishing employee before establishing himself in literary and journalistic circles. His long apprenticeship in life and letters, including years as a translator and newspaper editor, shaped his sensitivity to social injustice and to the lives of workers and the poor.
 
-Saramago’s international breakthrough came with novels such as “Baltasar and Blimunda,” “The Year of the Death of Ricardo Reis,” and later “Blindness” (“Ensayo sobre la ceguera”), whose harrowing allegory of a society struck by sudden mass blindness cemented his reputation as a major political and ethical voice in world fiction. Often controversial in predominantly Catholic Portugal—especially for works like “The Gospel According to Jesus Christ”—he spent much of his later life on the Spanish island of Lanzarote with his wife, the journalist and translator Pilar del Río. In 1998 he was awarded the Nobel Prize in Literature, recognized for his imaginative, often fantastical narratives that interrogate authority and affirm the dignity and responsibility of ordinary people, making him one of the most significant European writers of the late twentieth century.
+Politically committed and a lifelong member of the Portuguese Communist Party, Saramago often clashed with authorities; after the Portuguese Revolution he briefly served as a newspaper director before an anticommunist backlash cost him his post. Only in middle age did he find the narrative voice that made him internationally renowned, in novels that blend allegory, history, and a distinctive, flowing prose style. Works such as “Baltasar and Blimunda,” “The Year of the Death of Ricardo Reis,” and “Blindness” (“Ensayo sobre la ceguera”) use fantastical premises and reimagined history to interrogate power, faith, and human responsibility, earning him the 1998 Nobel Prize for literature.
+
+Saramago’s personal life was marked by enduring partnerships and close intellectual collaboration. He had one daughter from his first marriage and later shared a long relationship with writer Isabel da Nóbrega before marrying the Spanish journalist and translator Pilar del Río, who became his principal interlocutor and promoter in the Spanish-speaking world. In protest after one of his novels was effectively censored in Portugal, he settled in Lanzarote in Spain’s Canary Islands, from where he continued to write until his death. His life and work made him a central figure in late-20th-century European literature and a symbol of engaged, socially conscious fiction.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

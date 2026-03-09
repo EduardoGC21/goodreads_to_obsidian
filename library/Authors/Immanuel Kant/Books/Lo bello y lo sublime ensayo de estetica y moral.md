@@ -6,7 +6,7 @@ rating: 4
 read_count: 1
 date_added: "2020-08-29"
 date_read: "2020-08-29"
-language: "Spanish"
+language: "Unknown"
 isbn: ""
 isbn13: ""
 pages: 65
@@ -14,9 +14,9 @@ format: "virtual"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lo bello y lo sublime ensayo de estetica y moral

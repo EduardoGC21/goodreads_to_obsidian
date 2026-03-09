@@ -1,11 +1,10 @@
 ---
 name: "Ctesias de Cnido"
 country: "[[Greece]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ctesias de Cnido
@@ -13,9 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Ctesias of Cnidus (fl. late 5th–early 4th century BCE) was a Greek physician and historian from the city of Cnidus in Caria, on the coast of Asia Minor. Trained in the strong medical tradition of his hometown, he entered the service of the Achaemenid Persian court and became personal physician to King Artaxerxes II. His long residence at court, especially around the time of the rebellion of Cyrus the Younger and the Battle of Cunaxa, placed him in close contact with the inner circle of the Great King, royal women, and high-ranking officials, giving him privileged access to political and dynastic information rarely available to other Greek writers of his time.
+Ctesias of Cnidus was a Greek physician and historian from the city of Cnidus in Caria, active in the late fifth and early fourth centuries BCE. Trained in the medical traditions of his city, he entered the service of the Persian king Artaxerxes II as a court physician, which gave him rare, direct access to the inner workings of the Achaemenid court. This unique position shaped his later reputation, as he claimed to rely on Persian royal archives and eyewitness experience rather than purely Greek reports.
 
-Drawing on court records, royal oral traditions, and his own observations, Ctesias composed the multi‑book "Persika" (Persian Histories) and the "Indika" (On India), presenting an alternative to the narratives of Herodotus. Though later critics accused him of exaggeration and credulity, his works were highly influential in shaping Greek and Roman images of the Near East, Persia, and India, preserving court gossip, royal genealogies, and vivid anecdotes about rulers and their households. Even in fragmentary form, his writings remain a key witness to the interaction between Greek intellectuals and the Achaemenid Empire, illustrating how a Greek outsider embedded within the Persian elite interpreted and re‑told the history and marvels of the East for a Greek audience.
+During his years at court, Ctesias witnessed major political events, including the conflict between Artaxerxes II and his brother Cyrus the Younger, and he is reported to have treated Artaxerxes after the Battle of Cunaxa. Drawing on this experience, he composed historical works such as the multi-book "Persica" (often referred to as "Persiká"), which narrated the history and customs of the Assyrians and Persians from their legendary past to his own time, and an "Indica" describing India as he understood it from Persian sources. Although later historians criticized him for exaggerations and fantastical elements, his writings deeply influenced Greek and later Western conceptions of the Near East and India.
+
+Ctesias’ works survive only in fragments and later summaries, but they remain significant for illustrating how a Greek intellectual at the Persian court interpreted and reshaped imperial traditions for a Greek audience. His position between Greek and Persian worlds, as both a healer and a storyteller, made him an important—if controversial—mediator of cross-cultural knowledge in classical antiquity.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

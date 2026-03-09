@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-10-27"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437606772"
 isbn13: "9788437606774"
 pages: 448
@@ -16,9 +16,9 @@ bookshelves:
   - "[[teatral-dramático]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Fausto

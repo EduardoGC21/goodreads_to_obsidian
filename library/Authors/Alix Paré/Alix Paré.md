@@ -1,11 +1,10 @@
 ---
 name: "Alix Paré"
-country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[France]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alix Paré
@@ -13,9 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Alix Paré is a 21st‑century art historian and lecturer specializing in seventeenth‑ to twentieth‑century Western painting, whose career has been closely associated with leading French cultural institutions, including the Louvre Museum in Paris and the Château de Versailles.([bookshop.org](https://bookshop.org/p/books/the-fantastic-gustave-dore-valerie-sueur-hermel/18722841?utm_source=openai)) Her teaching and museum work focus on helping audiences understand the development of European painting across the early modern and modern periods, situating artworks within their historical, social, and visual contexts.
+Alix Paré is a French art historian and lecturer specializing in Western painting from the 17th through the 20th centuries. Her career has been closely tied to France’s most prestigious cultural institutions: she has held posts at the Louvre Museum in Paris and at the Château de Versailles, where she deepened her expertise in the artistic traditions and visual cultures that shaped early modern and modern Europe. In these roles she has worked at the intersection of scholarship, curation, and public education, helping to interpret major collections for both specialized and general audiences.
 
-Among her publications is "The Fantastic Gustave Doré," a substantial study of the nineteenth‑century illustrator’s prints and paintings that traces Doré’s career across media and examines how his images shaped the visual culture of classic literature.([penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/720843/the-fantastic-gustave-dore-by-alix-pare/?utm_source=openai)) Through this work and her broader scholarship, Paré contributes to preserving and interpreting the European artistic heritage for contemporary readers, often in collaboration with other museum professionals such as co‑author and curator Valérie Sueur‑Hermel.([search.worldcat.org](https://search.worldcat.org/oclc/1373398235?utm_source=openai))
+Paré’s published work reflects a sustained interest in how images mediate history, literature, and spiritual or imaginative experience. In "The Fantastic Gustave Doré," she offers a comprehensive study of the celebrated 19th‑century illustrator’s prints, paintings, and sculptures, situating Doré within the broader evolution of European art and visual storytelling. Her subsequent book "Supernatural: A Compendium of Esoteric and Occult Art" extends this inquiry into darker strands of Romanticism, Symbolism, and related movements, foregrounding the ways art gives form to the uncanny and the transcendent. Through these projects, Paré has emerged as a significant contemporary voice in the study of 19th‑century visual culture, bridging rigorous historical research with an accessible narrative style.
+
+Although detailed information about her private life is not widely publicized, Paré’s professional trajectory suggests longstanding collaborations with curators, archivists, and fellow historians across major European museums and publishers. Her work exemplifies a generation of scholars who bring museum experience, academic training, and editorial practice together to make complex art-historical material available to a broad international readership.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

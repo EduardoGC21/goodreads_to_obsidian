@@ -1,6 +1,6 @@
 ---
 name: "Epicurus"
-country: "[[Unknown]]"
+country: "[[Greece]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Epicurus (c. 341–270 BCE) was an ancient Greek philosopher who founded the school of thought now known as Epicureanism. Born on the island of Samos to Athenian parents, he later established his own school, the Garden, in Athens, remarkable for welcoming women and enslaved people alongside free male citizens. In a period marked by political upheaval following the conquests of Alexander the Great, Epicurus proposed a way of life centered on the pursuit of ataraxia (tranquility of mind) and aponia (absence of bodily pain), achieved through modest pleasures, friendship, and philosophical reflection rather than luxury or public power.
+Epicurus (341–270 BCE) was an ancient Greek philosopher and the founder of Epicureanism, a school that taught that the highest good is a life of tranquil pleasure achieved through modest living, intellectual inquiry, and the cultivation of friendships. Born on the island of Samos to Athenian parents, he began studying philosophy as a youth and was influenced by Democritean atomism. After teaching in various cities, he settled in Athens and founded his own school, known as "The Garden," which became a small, close-knit community of students and friends who lived and studied together.
 
-Epicurus developed a materialist worldview, teaching that everything consists of atoms and void, and that the gods, if they exist, do not intervene in human affairs. This framework underpinned his effort to free people from fear of death and divine punishment, making his philosophy both consoling and controversial in the ancient world. Although most of his original writings have been lost, his ideas were preserved by followers such as Lucretius and later compiled into modern collections of his surviving letters, doctrines, and sayings, which continue to influence ethics, theology, and the philosophy of happiness.
+Epicurus’ philosophy emphasized the removal of fear—especially fear of the gods and of death—arguing that the gods, if they exist, are indifferent to human affairs and that death is simply the end of sensation. He saw moral and psychological well-being as grounded in prudence, justice, and mutual respect, and he welcomed women and enslaved people into his school, which was unusual in his time. Although most of his works are lost and survive only in fragments and later reports, his ideas deeply influenced Hellenistic and Roman thought and resurfaced with force in early modern Europe, shaping modern discussions of happiness, secular ethics, and the nature of the universe.
+
+Collections such as "Obras completas" typically gather remaining letters, principal doctrines, and sayings attributed to Epicurus, which together offer a partial but powerful window into his ethical ideals, conception of pleasure, and vision of a fear-free, reflective life among friends.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

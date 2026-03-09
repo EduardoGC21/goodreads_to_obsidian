@@ -1,7 +1,7 @@
 ---
 name: "Jordan B. Peterson"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Canada]]"
+birth_year: "1962"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Jordan Bernt Peterson (born 1962) is a Canadian clinical psychologist, professor, and public intellectual whose work bridges psychology, religion, mythology, and politics. Raised in Fairview, Alberta, he grew up in a small-town, middle‑class family; his mother was a librarian and his father a schoolteacher of Norwegian descent. Early exposure to writers such as George Orwell, Aldous Huxley, Aleksandr Solzhenitsyn, and Ayn Rand, combined with his experiences during the Cold War, shaped his enduring interest in ideology, totalitarianism, and the fragility of social order.
+Jordan Bernt Peterson (born 1962) is a Canadian clinical psychologist, author, and media figure whose work bridges academic psychology, religion, politics, and popular self-help. Raised in the small town of Fairview, Alberta, he grew up in a working- and middle-class environment shaped by his mother’s work as a librarian and his father’s as a teacher. Early exposure to dystopian and dissident literature, along with a brief period of left-wing political activism in adolescence, sparked his lifelong preoccupation with ideology, totalitarianism, and the conditions under which individuals find or lose meaning.
 
-Peterson studied political science and psychology at the University of Alberta before completing a PhD in clinical psychology at McGill University. After postdoctoral research on alcoholism and aggression, he joined Harvard University as an assistant and then associate professor, where his lectures developed a devoted following. Returning to Canada in 1998, he became a professor of psychology at the University of Toronto, focusing on personality, belief systems, and the psychology of religion. His first major book, “Maps of Meaning,” and later the widely translated “12 Rules for Life: An Antidote to Chaos,” established him as a prominent and polarizing voice in contemporary culture, attracting large global audiences to his lectures, podcast, and media appearances. The Spanish edition of that work, “12 reglas para vivir: Un antídoto al caos,” helped extend his influence across the Spanish‑speaking world.
+After earning degrees in political science and psychology at the University of Alberta and completing a PhD in clinical psychology at McGill University, Peterson taught and conducted research at McGill, Harvard University, and then the University of Toronto, eventually becoming a full professor and later professor emeritus. His academic work examined personality, belief systems, and aggression, and he published more than a hundred scientific papers. Parallel to this, he developed a broader theoretical synthesis of mythology, neuroscience, and psychology in his book “Maps of Meaning,” and later reached a global audience with the bestseller “12 Rules for Life: An Antidote to Chaos,” which presented his ideas on responsibility, order, and individual struggle in a more accessible form.
 
-From the mid‑2010s onward, Peterson became internationally known for his critiques of identity politics, compelled speech, and aspects of contemporary academic culture, which positioned him at the center of debates about free expression and social change. His personal life has included periods of significant health struggle, particularly related to medication dependence and subsequent treatments, which he and his family have discussed publicly. Married to Tammy Roberts since 1989, he has two children and maintains close intellectual and personal ties with collaborators and former students, while continuing to write, lecture, and serve as a widely discussed figure in 21st‑century psychological and cultural discourse.
+Beginning in the 2010s, Peterson’s public profile expanded dramatically through lecture recordings, podcasts, and media appearances, especially after his outspoken criticism of Canadian Bill C‑16 and of what he describes as political correctness and radical identity politics. Admired by many as a forthright defender of free speech, traditional virtues, and personal responsibility, and criticized by others as a polarizing conservative culture warrior, he became one of the most visible public intellectuals of his generation. His personal life has included long-standing clinical practice, extensive lecture tours with his wife Tammy, and periods of serious illness that temporarily removed him from public view but also became part of his narrative about vulnerability, dependence, and recovery.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

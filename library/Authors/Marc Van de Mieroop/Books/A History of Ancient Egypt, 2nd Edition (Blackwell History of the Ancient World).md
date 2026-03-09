@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Marc Van de Mieroop - A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World).jpg]]"
 bookshelves:
   - "[[history]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World)

@@ -13,9 +13,9 @@ pages: 500
 format: "physical"
 cover: "[[Attachments/Covers/Dan Simmons - Hyperion (Hyperion Cantos, Num. 1).jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Hyperion (Hyperion Cantos, Num. 1)

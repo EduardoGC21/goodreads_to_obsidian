@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Franz Kafka - Un artista del hambre.jpg]]"
 bookshelves:
   - "[[existencialista]]"
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Un artista del hambre

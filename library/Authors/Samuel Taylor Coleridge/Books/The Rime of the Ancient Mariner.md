@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Samuel Taylor Coleridge - The Rime of the Ancient Mariner.jpg]]"
 bookshelves:
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Rime of the Ancient Mariner

@@ -1,8 +1,8 @@
 ---
 name: "Edith Hamilton"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United States]]"
+birth_year: "1867"
+death_year: "1963"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Edith Hamilton (1867–1963) was an American educator and classicist whose lucid retellings of Greek and Roman literature helped define how generations of English-speaking readers encountered the ancient world. Born in Dresden, Germany, to American parents and raised in Fort Wayne, Indiana, she was educated at home before attending Miss Porter’s School and then Bryn Mawr College, where she earned both B.A. and M.A. degrees in Greek and Latin. Further studies at the universities of Leipzig and Munich made her one of the first women to attend classes there, signaling both her scholarly ambition and her willingness to challenge the academic norms of her time.
+Edith Hamilton (1867–1963) was an American classicist, educator, and author best known for bringing the literature, mythology, and thought of ancient Greece and Rome to a broad English‑speaking audience. Born in Dresden, Germany, to American parents and raised in Fort Wayne, Indiana, she developed an early love of Greek and Latin that led her to advanced study in the United States and Europe at a time when higher education for women was still limited. She became headmistress of the Bryn Mawr School in Baltimore, where for decades she shaped a rigorous curriculum and mentored young women, earning a reputation as a demanding but inspiring teacher.
 
-Hamilton spent the first part of her career as an educator, organizing and then leading the Bryn Mawr School for girls in Baltimore from 1896 to 1922. As headmistress, she became known for insisting on rigorous classical training for young women and for treating them as serious intellectuals at a time when higher education for women was still contested. After retiring from school leadership, she embarked on a remarkably successful second career as a writer and public interpreter of the ancient world. Beginning with "The Greek Way" (1930) and followed by works such as "The Roman Way" and "Mythology: Timeless Tales of Gods and Heroes," she presented Greek myth, drama, and philosophy in a vivid, accessible style that connected ancient ideas to modern moral and political concerns, making her a key figure in popularizing classical culture in the mid‑twentieth century.
+After retiring from school leadership, Hamilton turned to writing for the general public, distilling complex classical texts into clear, engaging prose that emphasized their human and moral dimensions. "Mythology: Timeless Tales of Gods and Heroes" became her most famous work, presenting Greek, Roman, and Norse myths in a narrative style that influenced generations of students, writers, and general readers. Her other books on Greek culture and tragedy further argued that classical civilization offered enduring insights into ethics, freedom, and the individual.
 
-In her later life Hamilton shared a long domestic and intellectual partnership with Doris Fielding Reid, with whom she also helped raise a nephew, and she remained active as a lecturer and commentator from homes in New York, Washington, D.C., and Maine. Her achievements were recognized with honorary degrees, election to major American arts and letters academies, a National Achievement Award, and, in 1957, honorary citizenship of Athens, an acknowledgment by modern Greece of her role in communicating its ancient heritage to the wider world. She died in Washington, D.C., leaving a legacy as one of the most influential classicists and cultural mediators of her era.
+Hamilton’s work made her a prominent public intellectual in mid‑20th‑century America; she lectured widely and received numerous honors, including recognition from the Greek government in her old age. She lived for many years with her companion Doris Fielding Reid, who also helped manage her literary affairs. By making the ancient world accessible without sacrificing seriousness, Hamilton became one of the most influential popular interpreters of classical antiquity in modern times.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

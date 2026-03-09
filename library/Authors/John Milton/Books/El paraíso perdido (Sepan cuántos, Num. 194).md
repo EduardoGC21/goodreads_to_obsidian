@@ -16,9 +16,9 @@ bookshelves:
   - "[[epopeyas]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El paraíso perdido (Sepan cuántos, Num. 194)

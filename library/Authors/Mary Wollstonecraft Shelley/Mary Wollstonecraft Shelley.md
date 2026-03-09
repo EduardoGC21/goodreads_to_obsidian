@@ -1,6 +1,6 @@
 ---
 name: "Mary Wollstonecraft Shelley"
-country: "[[England]]"
+country: "[[United Kingdom]]"
 birth_year: "1797"
 death_year: "1851"
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Mary Wollstonecraft Shelley (1797–1851) was an English novelist and intellectual born in London to two prominent radical thinkers: the philosopher William Godwin and the pioneering feminist writer Mary Wollstonecraft, who died shortly after Mary’s birth. Raised in an environment steeped in political and literary debate, she received an unconventional education that combined formal learning with exposure to leading writers and reformers of her day.
+Mary Wollstonecraft Shelley (1797–1851) was an English novelist and intellectual born into a radical literary household in London. She was the daughter of feminist philosopher Mary Wollstonecraft and political thinker William Godwin, though her mother died shortly after her birth. Raised among writers, reformers, and thinkers, Shelley received an unconventional education that emphasized independent thought and literature rather than formal schooling. Her elopement as a teenager with the Romantic poet Percy Bysshe Shelley scandalized polite society and marked the beginning of a life shaped by love, exile, and frequent personal tragedy, including the deaths of several of her children and, later, her husband.
 
-In 1814 she began a relationship with the Romantic poet Percy Bysshe Shelley, eloping with him to the Continent and living a life marked by financial insecurity, social scandal, and repeated personal tragedies, including the deaths of several of their children. During a stay near Geneva in 1816 with Percy Shelley and Lord Byron, she conceived the idea for "Frankenstein; or, The Modern Prometheus," published in 1818, a groundbreaking work that fused Gothic horror with philosophical questions about creation, responsibility, and the limits of scientific ambition.
+During a stay near Lake Geneva with Percy Shelley, Lord Byron, and others in 1816, Mary conceived the idea for "Frankenstein; or, The Modern Prometheus," published in 1818, a work that would become foundational for both Gothic and science fiction traditions. The novel reflects her engagement with contemporary debates about science, creation, responsibility, and the human condition, and it secured her lasting literary significance. After Percy Shelley’s death in 1822, Mary returned to England, supporting herself and her surviving son through her writing and editorial work.
 
-After Percy Shelley’s death in 1822, Mary Shelley supported herself and her surviving son largely through her writing and editorial work, producing additional novels, travel writings, biographies, and an influential edition of Percy’s poems that helped secure his posthumous reputation. She navigated the constraints placed on women writers in the 19th century while maintaining a wide network of literary and political connections, and today is recognized as a major figure in Romantic and early science fiction literature, as well as an important voice in the history of women’s authorship.
+In later years she published additional novels, short stories, travel writing, and biographies, while also preserving and promoting Percy Shelley’s poetic legacy by editing his works and shaping his posthumous reputation. Living as a widowed woman writer in a society that offered limited avenues for female independence, she navigated financial insecurity and social constraints with resilience. Mary Shelley’s life and career have come to symbolize both the challenges and possibilities facing women in the literary world of the 19th century, and her influence endures through the enduring power and interpretive richness of "Frankenstein."
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

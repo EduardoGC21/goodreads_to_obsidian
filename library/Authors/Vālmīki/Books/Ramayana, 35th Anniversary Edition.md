@@ -17,9 +17,9 @@ bookshelves:
   - "[[mitología]]"
   - "[[novelas]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ramayana, 35th Anniversary Edition

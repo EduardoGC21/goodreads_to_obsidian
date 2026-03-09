@@ -1,8 +1,8 @@
 ---
 name: "Ovidio"
-country: "[[Italy]]"
+country: "[[Roman Empire]]"
 birth_year: "0043"
-death_year: ""
+death_year: "0017"
 tags:
   - "author"
 ---
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Publius Ovidius Naso (43 BCE – 17/18 CE), known in English as Ovid, was a Roman poet of the Augustan age, born in Sulmo (modern Sulmona) in central Italy. Coming from an affluent equestrian family, he was educated in rhetoric at Rome with the expectation that he would pursue a legal or political career. Instead, he gravitated toward literature and the vibrant poetic circles of the capital, becoming a leading voice in Roman elegiac and narrative poetry alongside figures like Propertius and Tibullus.
+Ovid (Publius Ovidius Naso, 43 BC–17/18 AD) was a Roman poet born in Sulmo, in central Italy, into an equestrian family. Trained for a public career in law and politics, he instead gravitated toward literature and became one of the most admired poets in Augustan Rome. His early fame came from witty and sophisticated love poetry, including works that explored desire, seduction, and the complexities of romantic relationships, which helped secure his reputation among Rome’s cultural elite.
 
-Ovid’s early fame came from his witty love elegies and didactic works on love, but his enduring masterpiece is the epic "Metamorphoses," a sweeping mythological poem that retells Greek and Roman stories through the lens of transformation. This work deeply influenced later European literature, art, and mythology, shaping how generations understood classical myths. His sophisticated style, psychological insight, and playful, sometimes subversive treatment of traditional stories made him both admired and controversial.
-
-In 8 CE, at the height of his success, Ovid was suddenly exiled by Emperor Augustus to Tomis on the Black Sea (in present-day Romania), a punishment he famously attributed to “a poem and a mistake,” likely referring in part to his erotic writings and some unknown involvement in court affairs. He spent his final years far from Rome, writing elegiac laments that describe isolation, homesickness, and his continued devotion to poetry. Despite exile, Ovid’s works survived and became central to the Western canon, profoundly shaping medieval and Renaissance authors, painters, and thinkers.
+His most influential work is the epic poem commonly known as the Metamorphoses, a sweeping mythological narrative that weaves together countless stories of transformation from Greek and Roman tradition. This work shaped how later generations in Europe understood classical myth and had a profound impact on literature, visual art, and drama from the Middle Ages through the Renaissance and beyond. Despite his success, Ovid’s life was marked by a dramatic fall from favor: Emperor Augustus exiled him to Tomis on the Black Sea for reasons Ovid cryptically described as “a poem and a mistake.” He spent his final years far from Rome, continuing to write and appealing unsuccessfully for recall, leaving a legacy as one of antiquity’s most imaginative and influential poets.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

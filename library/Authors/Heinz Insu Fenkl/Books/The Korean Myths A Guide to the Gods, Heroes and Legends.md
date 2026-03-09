@@ -13,9 +13,9 @@ pages: 256
 format: "physical"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Korean Myths: A Guide to the Gods, Heroes and Legends

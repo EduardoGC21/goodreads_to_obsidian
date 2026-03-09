@@ -1,8 +1,8 @@
 ---
 name: "Adolf Hitler"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Austria]]"
+birth_year: "1889"
+death_year: "1945"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Adolf Hitler (1889–1945) was an Austrian-born German politician and dictator who led the National Socialist German Workers’ Party (Nazi Party) and became Chancellor of Germany in 1933 and Führer from 1934. Born in Braunau am Inn, in what was then Austria-Hungary, he spent his youth in Austria and later moved to Germany, serving as a soldier in World War I. After the war he became active in far-right politics, using propaganda, mass rallies, and violent paramilitary groups to expand his influence.
+Adolf Hitler (1889–1945) was an Austrian-born German politician who became leader of the National Socialist German Workers’ Party (Nazi Party) and dictator of Germany. Raised in Austria and later moving to Germany, he served as a soldier in World War I before entering politics in the turbulent postwar period. Exploiting economic crisis, nationalism, and antisemitic conspiracy theories, he rose to power and was appointed chancellor of Germany in 1933, quickly dismantling democratic institutions and establishing a totalitarian regime centered on his cult of personality.
 
-Hitler’s rise culminated in the creation of a totalitarian regime in Germany that dismantled democratic institutions, persecuted political opponents, and enacted virulently antisemitic and racist policies. His ideology, set out in works such as *Mein Kampf* (known in Spanish as *Mi lucha*), promoted notions of Aryan racial supremacy, aggressive expansionism, and elimination of those he deemed “undesirable.” Under his leadership, Germany’s invasion of Poland in 1939 triggered World War II, and his regime orchestrated the Holocaust, the systematic genocide of six million Jews and millions of other victims.
+As Führer of Nazi Germany, Hitler initiated World War II with the invasion of Poland in 1939 and directed a vast system of state violence and genocide, including the Holocaust, in which six million Jews and millions of other victims were murdered. His regime’s aggressive expansionism and racial ideology devastated much of Europe and led to tens of millions of deaths. His book "Mein Kampf" (also known in Spanish as "Mi lucha"), written during his imprisonment in the 1920s, set out his political goals and virulently racist worldview, which later guided Nazi policies.
 
-Hitler maintained close relationships with a small inner circle of Nazi leaders and relied on a cult of personality, rigid party loyalty, and widespread terror to maintain control. As Allied forces closed in on Berlin in the final days of the war, he retreated to a bunker, where he died by suicide in April 1945. His rule left tens of millions dead, much of Europe devastated, and his name has since become synonymous with dictatorship, extreme racism, and mass atrocity.
+Hitler’s personal relationships were relatively limited and tightly controlled; he maintained close ties with key Nazi figures such as Heinrich Himmler, Joseph Goebbels, and Hermann Göring, and lived a largely secluded private life, especially during the war, with his long-time companion and brief wife Eva Braun. Facing imminent defeat of Germany, he died by suicide in his Berlin bunker in April 1945. Hitler’s life and rule are widely studied as a central example of the dangers of totalitarianism, extreme nationalism, and racist ideology, and his legacy is overwhelmingly associated with unprecedented destruction and crimes against humanity.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

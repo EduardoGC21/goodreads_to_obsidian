@@ -13,9 +13,9 @@ pages: 120
 format: "physical"
 cover: "[[Attachments/Covers/Leo Tolstoy - El cupón falso.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cupón falso

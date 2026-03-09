@@ -17,9 +17,9 @@ bookshelves:
   - "[[poesía]]"
   - "[[favoritos]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las Metamorfosis. (Sepan Cuantos, Num. 316)

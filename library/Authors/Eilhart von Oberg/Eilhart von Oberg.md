@@ -1,11 +1,10 @@
 ---
 name: "Eilhart von Oberg"
 country: "[[Germany]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Eilhart von Oberg
@@ -13,11 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Eilhart von Oberg (also Oberge) was a German poet who flourished in the late 12th century and is known almost exclusively for his Middle High German verse romance *Tristrant* (often referred to as *Tristrant und Isalde*), one of the earliest complete versions of the Tristan and Isolde legend. Very little is securely documented about his life, and even his exact identity remains debated, but he is commonly associated with the ministerial nobility connected to the courtly world of northern German princes in the Saxon and Brunswick regions.
+Eilhart von Oberg (also spelled Eilhart von Oberge) was a Middle High German poet active in the second half of the 12th century. Little is known about his life, but his name suggests origins in or near Oberge in present‑day Lower Saxony, within the Holy Roman Empire. He appears to have been associated with the noble courts of northern Germany, where romance literature in the French style was beginning to take hold. His surviving work places him among the early adopters who helped transplant and adapt these narrative traditions into the German‑speaking world.
 
-Composed around 1170–1185, Eilhart’s *Tristrant* brought a popular French narrative about tragic, adulterous love into German literature, standing at the beginning of the German courtly epic tradition that would soon include poets such as Heinrich von Veldeke and, later, Gottfried von Strassburg. Drawing on now-lost or fragmentary Old French sources, he produced a relatively straightforward, action‑oriented retelling whose literary style is often judged less refined than Gottfried’s later *Tristan*, but whose completeness makes it crucial for understanding how the legend evolved in the High Middle Ages. Through this work he helped transmit key themes of feudal loyalty, dynastic conflict, and the tensions between social duty and passionate love to German-speaking audiences.
+Eilhart’s chief claim to significance is his German verse romance about the tragic lovers Tristan and Isolde, often referred to as “Tristrant” or “Tristán e Isolda” in later translations. Composed before the more famous Tristan version by Gottfried von Strassburg, it represents one of the earliest substantial treatments of the Tristan legend in German. Although stylistically more straightforward and less refined than later courtly masterpieces, Eilhart’s work was widely read and transmitted, influencing the development of German courtly romance and helping to establish the Tristan story as a central narrative of medieval European literature.
 
-Although his personal relationships, exact birth and death years, and broader oeuvre remain unknown, Eilhart’s name has long been linked to the cultural orbit of Henry the Lion and his son Otto IV of Brunswick, suggesting close ties to high aristocratic patronage. His importance lies not in a rich biographical record but in his position as an early mediator between French romance traditions and German courtly culture, giving later writers—and modern scholars—a vital witness to one of medieval Europe’s most influential love stories, including the tradition represented in works such as *Tristán e Isolda*.
+Because documentation from the period is sparse, almost nothing can be said with certainty about Eilhart’s personal relationships, education, or patronage beyond what can be inferred from his noble milieu and the courtly audience for whom he wrote. Nonetheless, his adaptation of a major legendary cycle for a German courtly readership marks him as an important intermediary between the French romance tradition and the emerging canon of Middle High German literature. His work provides valuable insight into the tastes, values, and literary experimentation of the late 12th‑century aristocratic courts in northern Germany.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

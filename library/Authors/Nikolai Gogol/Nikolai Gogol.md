@@ -1,6 +1,6 @@
 ---
 name: "Nikolai Gogol"
-country: "[[Ukraine]]"
+country: "[[Unknown]]"
 birth_year: "1809"
 death_year: "1852"
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Nikolai Gogol (1809–1852) was a Ukrainian-born writer who became one of the most influential figures in Russian-language literature. Born in Sorochyntsi in the Poltava region (then part of the Russian Empire, now Ukraine), he grew up in a minor landowning family steeped in Ukrainian folklore, Orthodox piety, and rural traditions. After studying in Nizhyn, he moved to St. Petersburg, where he worked in minor government posts while trying to establish himself as a writer. His early tales drew heavily on Ukrainian settings and legends, blending the supernatural, the grotesque, and the comic in a way that was new to Russian readers.
+Nikolai Gogol (1809–1852) was a seminal prose writer of the 19th century whose work bridged satire, the grotesque, and psychological insight. Born into a provincial landowning family in the Poltava region of the Russian Empire, he grew up amid Ukrainian folklore, religious traditions, and the bureaucratic realities of imperial life. Moving to Saint Petersburg as a young man, he struggled at first before gaining recognition through his vivid tales of provincial towns, civil servants, and minor officials, whose absurdities he portrayed with both cruelty and compassion.
 
-Gogol’s later work turned toward the bureaucracy, social hypocrisy, and spiritual emptiness of imperial Russian life, using satire and surreal distortion to expose the moral failures of individuals and institutions. Stories such as “The Nose” and “The Overcoat,” along with collections like “Mirgorod,” profoundly influenced later Russian authors including Dostoevsky, Turgenev, and Bulgakov, who saw in Gogol a precursor of both psychological realism and modernist absurdism. Personally, he was marked by intense religious anxiety, bouts of depression, and a sense of estrangement from both his Ukrainian roots and the Russian literary establishment. His final years were overshadowed by asceticism and self-doubt, culminating in the burning of part of his own manuscript for the second volume of “Dead Souls” shortly before his death in Moscow in 1852.
+Gogol became a central figure in the development of Russian-language literature, influencing later giants such as Dostoevsky, Turgenev, and Bulgakov. His stories—often centered on petty clerks, haunted objects, and corrupt institutions—exposed the moral and spiritual emptiness he perceived in society, while hinting at deep religious and metaphysical concerns. Although works like "The Overcoat" and stories from the "Mirgorod" cycle cemented his reputation, Gogol’s later years were marked by intense religious anxiety, self-criticism, and bouts of illness. He burned parts of his own manuscripts and died relatively young in Moscow, leaving behind a compact but extraordinarily influential body of work that reshaped the possibilities of narrative prose.
+
+Gogol’s relationships with contemporaries and patrons were often ambivalent: admired as a genius yet criticized for his increasingly moralistic and religious tone, he struggled to reconcile his satirical gift with his spiritual aspirations. This tension between worldly observation and otherworldly longing lies at the heart of his legacy, making him a foundational figure not only in Russian-language literature but also in the broader canon of modern European fiction.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

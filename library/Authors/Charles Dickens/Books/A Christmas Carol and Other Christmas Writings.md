@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A Christmas Carol and Other Christmas Writings

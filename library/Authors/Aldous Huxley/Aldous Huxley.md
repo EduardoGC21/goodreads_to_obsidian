@@ -1,6 +1,6 @@
 ---
 name: "Aldous Huxley"
-country: "[[England]]"
+country: "[[United Kingdom]]"
 birth_year: "1894"
 death_year: "1963"
 tags:
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Aldous Huxley (1894–1963) was an English novelist, essayist, and critic born in Godalming, Surrey, into a distinguished intellectual family. His grandfather was the renowned biologist T. H. Huxley, his brother Julian Huxley became a leading evolutionary biologist and first director-general of UNESCO, and he was related to the poet and critic Matthew Arnold. A serious eye disease in adolescence left him partially blind and ended his early hopes for a career in science, pushing him toward literature and sharpening his interest in perception, consciousness, and the workings of society. He studied at Oxford and quickly became known in London literary circles for his wit, satire, and penetrating social observation.
+Aldous Huxley (1894–1963) was an English novelist, essayist, and intellectual born into a distinguished family of scientists and writers in England; his grandfather was the biologist T. H. Huxley and his brother the biologist Julian Huxley. Partially blinded by illness as a teenager, he abandoned plans for a scientific career and turned to literature, studying at Oxford before becoming a teacher, editor, and writer. His sharp social observation and wide-ranging interests in philosophy, science, and religion made him one of the most prominent men of letters of the early 20th century.
 
-Huxley achieved international fame with "Brave New World" (1932), a dystopian novel that explores the dangers of technological control, consumerism, and the sacrifice of freedom for comfort. Over time he shifted from cool satire toward a more spiritual and philosophical outlook, reflected in later works such as "Island" (1962), which imagines a more humane, cooperative society as a counterpoint to his earlier dystopia. He wrote prolifically across genres—novels, essays, travel writing, and cultural criticism—and became an influential public intellectual engaging with questions of pacifism, mysticism, and the potential of psychedelics to expand human consciousness.
-
-Huxley spent much of his later life in the United States, particularly in California, where he moved in artistic and intellectual circles and developed close relationships with figures interested in religion, psychology, and alternative ways of living. His explorations of spirituality and altered states of mind, notably in works like "The Doors of Perception," helped shape mid-20th-century debates about religion, science, and human potential. He died in Los Angeles in 1963, remembered as one of the most incisive and visionary writers of the modern era, whose work continues to frame discussions about technology, freedom, and the future of society.
+Huxley is best known for the dystopian novel "Brave New World," in which he explored themes of technological control, consumerism, and the loss of individuality, helping to define the modern dystopian tradition. Later in life he became increasingly preoccupied with spirituality, pacifism, and consciousness, interests that shaped works like "Island" ("La isla"), his utopian counterpoint to the earlier dystopia, and his essays on mysticism and psychedelic experience. Having emigrated to the United States, he spent his final decades in California, moving in artistic and intellectual circles, and remained an influential voice in debates about science, society, and the possibilities of human consciousness until his death in 1963.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

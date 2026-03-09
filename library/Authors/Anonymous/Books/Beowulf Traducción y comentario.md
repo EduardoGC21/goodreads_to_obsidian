@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2023-07-01"
 date_read: "2023-07-05"
-language: "Spanish"
+language: "Unknown"
 isbn: "8445002600"
 isbn13: "9788445002605"
 pages: 384
@@ -16,9 +16,9 @@ bookshelves:
   - "[[epopeyas]]"
   - "[[mitología]]"
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Beowulf: Traducción y comentario

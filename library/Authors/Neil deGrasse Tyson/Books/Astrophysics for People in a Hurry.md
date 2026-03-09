@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Neil deGrasse Tyson - Astrophysics for People in a Hurry.jpg]]"
 bookshelves:
   - "[[ciencia]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Astrophysics for People in a Hurry

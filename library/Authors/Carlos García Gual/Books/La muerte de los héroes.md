@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Carlos García Gual - La muerte de los héroes.jpg]
 bookshelves:
   - "[[antología]]"
   - "[[mitología]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La muerte de los héroes

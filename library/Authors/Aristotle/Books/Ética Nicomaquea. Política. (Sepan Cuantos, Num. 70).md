@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-05-08"
 date_read: "2020-05-24"
-language: "Spanish"
+language: "Unknown"
 isbn: "9700752321"
 isbn13: "9789700752327"
 pages: 421
@@ -16,9 +16,9 @@ bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70)

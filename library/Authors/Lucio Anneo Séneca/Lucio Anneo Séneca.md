@@ -1,7 +1,7 @@
 ---
 name: "Lucio Anneo Séneca"
-country: "[[Roman Empire]]"
-birth_year: ""
+country: "[[Spain]]"
+birth_year: "0004"
 death_year: "0065"
 tags:
   - "author"
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Lucius Annaeus Seneca (c. 4 BCE–65 CE), commonly known as Seneca the Younger, was a Roman Stoic philosopher, statesman, dramatist, and moral essayist. Born in Corduba in the Roman province of Hispania Baetica and raised in Rome, he was educated in rhetoric and philosophy and became one of the leading intellectual figures of his age. Seneca served as tutor and later chief adviser to the emperor Nero, which placed him at the center of imperial politics and exposed him to both immense influence and grave danger. His life was marked by periods of exile, recall, and high office, reflecting the volatility of Roman imperial power.
+Lucius Annaeus Seneca (often called Seneca the Younger) was a Roman statesman, philosopher, dramatist, and essayist, born in Corduba in Roman Hispania around 4 BCE and educated in Rome. Trained in rhetoric and philosophy, he became one of the most prominent Stoic thinkers of the early Roman Empire, articulating a practical ethic centered on self-mastery, reason, and moral resilience amid political uncertainty. His writings, including philosophical letters, essays, and tragedies, explore themes such as the brevity of life, the proper use of time, and the cultivation of inner freedom under external constraints.
 
-Seneca’s philosophical writings—especially his Letters to Lucilius and his essays on ethics, emotions, and the good life—became foundational texts of Roman Stoicism and have shaped Western thought on virtue, resilience, and rational self-mastery. His tragedies are among the most important surviving Latin dramas and deeply influenced Renaissance and early modern theater. Accused of involvement in the Pisonian conspiracy against Nero, he was ordered to take his own life in 65 CE, which he did in a manner later interpreted as a Stoic exemplar of courage and composure in the face of death. Seneca’s blend of practical moral counsel, personal reflection, and engagement with political power continues to make him a significant figure in both philosophy and cultural history.
+Seneca rose to high political influence as an advisor and tutor to the future emperor Nero, later serving as one of the key figures in Nero’s early reign. This close relationship brought immense power and wealth but also embroiled him in court intrigues, accusations of hypocrisy, and conflicts between his Stoic ideals and the realities of imperial politics. Eventually implicated—likely unjustly—in the Pisonian conspiracy against Nero, he was ordered to take his own life in 65 CE, an event that later generations interpreted as a consciously Stoic death.
+
+Seneca’s legacy has been unusually long-lived: Christian thinkers, early modern moralists, and contemporary philosophers alike have drawn on his works for guidance on ethics, leadership, and the conduct of daily life. Collections such as modern anthologies or series devoted to major thinkers have helped keep his reflections on virtue, adversity, and the examined life in wide circulation, reinforcing his reputation as one of antiquity’s most accessible and psychologically insightful moral philosophers.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

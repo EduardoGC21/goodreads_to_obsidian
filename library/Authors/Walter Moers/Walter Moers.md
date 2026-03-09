@@ -1,7 +1,7 @@
 ---
 name: "Walter Moers"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Germany]]"
+birth_year: "1957"
 death_year: ""
 tags:
   - "author"
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Walter Moers (born 1957) is a German comic artist, illustrator, and novelist best known for blending anarchic satire with richly imagined fantasy. Raised in Mönchengladbach in what was then West Germany, he left school early and supported himself through odd jobs, including small illustration commissions, teaching himself to draw rather than following a formal art education. In the 1980s and 1990s he became notorious in German-speaking countries for provocative, often politically incorrect comics in satire magazines, creating characters such as the foul‑mouthed “Kleines Arschloch” and the children’s TV figure Käpt’n Blaubär, which later earned him prestigious awards and a broad popular audience.
+Walter Moers (born 1957) is a German comic artist, illustrator, and novelist whose eccentric imagination has made him one of Europe’s best-known contemporary fantasy authors. Largely self-taught as an artist, he left school early, supported himself with odd jobs, and began taking on small illustration and writing commissions, including bedtime stories for children’s television. He first achieved wide recognition in Germany with sharply satirical and often provocative comic figures, especially the foul-mouthed antihero of the “Kleines Arschloch” series, and later with the children’s character Captain Bluebear, who became a staple of German popular culture through books and television.
 
-From the late 1990s onward Moers turned increasingly to prose, becoming an international bestseller with his Zamonia novels, including “The City of Dreaming Books,” which showcases his fascination with literature, intertextuality, and the book trade itself. These works, which he writes and illustrates, are notable for grotesque humor, dense wordplay, and elaborate world-building that appeals to both adult and younger readers. Despite his success, Moers is famously reclusive: he avoids public appearances, rarely grants interviews except by e‑mail, and allows few photographs, cultivating a “phantom” persona that contrasts with the exuberant inventiveness of his fictional worlds.
+From the late 1990s Moers shifted his focus toward expansive fantasy novels set on the fictional continent of Zamonia, beginning with “The 13½ Lives of Captain Bluebear” and followed by works such as “The City of Dreaming Books,” which deepened his reputation for elaborate world-building, literary allusions, and playful metafiction. Though his books are accessible to younger readers, they are primarily aimed at adults and are known for blending grotesque humor with affectionate parody of classic literature and genre conventions. Personally, Moers is famously reclusive: he avoids public appearances, rarely gives interviews except by email, and allows only a few photographs or recordings of himself to circulate, a cultivated absence that has become part of his mystique.
 
-Moers has lived in Hamburg since the early 1990s and is married. Over several decades he has significantly shaped contemporary German popular culture, from television and comics to modern fantasy literature. His work has been honored with multiple prizes, including the Max und Moritz Prize and the Grimme Prize, and has inspired exhibitions dedicated to his creations and to the fictional continent of Zamonia that forms the backbone of his mature literary oeuvre.
+Moers has lived in Hamburg since the early 1990s and continues to expand the Zamonia cycle, influencing a generation of German readers and writers with his mixture of visual artistry and narrative invention. His work bridges comics, children’s entertainment, and sophisticated fantasy, making him a singular figure in modern German-language literature.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

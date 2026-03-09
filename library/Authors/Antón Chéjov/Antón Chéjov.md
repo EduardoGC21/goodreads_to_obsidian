@@ -1,8 +1,8 @@
 ---
 name: "Antón Chéjov"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Russia]]"
+birth_year: "1860"
+death_year: "1904"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Anton Chekhov (1860–1904) was a Russian playwright, short-story writer, and practicing physician who became one of the central figures of modern literature. Born in Taganrog in southern Russia to a modest merchant family, he financed his medical studies in Moscow by writing humorous sketches and stories for newspapers and magazines. Chekhov balanced his medical career with an increasingly serious literary vocation, famously saying that medicine was his lawful wife and literature his mistress. His early experiences of provincial life, poverty, and illness—both his own and that of his patients—informed his nuanced, compassionate depictions of ordinary people.
+Anton Chekhov (1860–1904) was a Russian playwright and short-story writer whose work transformed modern literature and drama. Born in Taganrog, in the Russian Empire, into a struggling merchant family, he helped support his parents and siblings from a young age by writing humorous sketches and short pieces for magazines while studying medicine in Moscow. He practiced as a physician for much of his life, famously saying that medicine was his lawful wife and literature his mistress, and his medical work, especially in impoverished communities and during cholera outbreaks, deepened his compassionate, unsentimental view of human suffering.
 
-Chekhov’s innovation lay in his subtle, psychologically rich narratives and in his rejection of melodrama in favor of everyday tragedy and quiet irony. In short fiction and novellas, later gathered into collections such as the Spanish-language volume “Cinco novelas cortas,” he experimented with open endings, atmospheric detail, and characters whose inner lives are revealed more by silence and gesture than by plot twists. As a playwright, with works like “The Seagull,” “Uncle Vanya,” “Three Sisters,” and “The Cherry Orchard,” he transformed theater by emphasizing subtext and ensemble over heroic leads. His long struggle with tuberculosis, his marriage to actress Olga Knipper late in life, and his collaboration with the Moscow Art Theatre shaped his final years. Chekhov died in Badenweiler, Germany, but his legacy profoundly influenced 20th-century fiction and drama worldwide.
+Chekhov’s stories and plays are marked by psychological subtlety, irony, and an acute portrayal of everyday life, influencing generations of writers and dramatists around the world. Collections such as those containing his novellas and short novels (for example, volumes like *Cinco novelas cortas* in Spanish translation) helped cement his international reputation by showcasing his mastery of character and mood over conventional plot. His major plays, including *The Seagull*, *Uncle Vanya*, *Three Sisters*, and *The Cherry Orchard*, reshaped theatre by emphasizing subtext, silence, and the inner lives of ordinary people.
+
+Throughout his life Chekhov maintained close relationships with his family and with key figures of the Russian cultural world, notably the actress Olga Knipper, whom he married, and the Moscow Art Theatre, which became the primary home for his plays. Despite chronic illness from tuberculosis, he continued to write and travel, spending his final years between Moscow and Yalta in search of better health. He died in Badenweiler, Germany, leaving a body of work that remains central to world literature and modern drama.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Steven H. Strogatz - Infinite Powers How Calculus R
 bookshelves:
   - "[[math]]"
   - "[[ciencia]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Infinite Powers: How Calculus Reveals the Secrets of the Universe

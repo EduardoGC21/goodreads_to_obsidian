@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Martin Heidegger - Carta sobre el Humanismo.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[epistolas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Carta sobre el Humanismo

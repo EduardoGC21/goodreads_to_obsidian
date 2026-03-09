@@ -1,7 +1,7 @@
 ---
 name: "Richard Dawkins"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1941"
 death_year: ""
 tags:
   - "author"
@@ -12,9 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Richard Dawkins (1941– ) is a British evolutionary biologist, ethologist, and writer whose work has profoundly shaped modern public understanding of evolution and gene-centered biology. Born in Nairobi, then British Kenya, to English parents, he grew up in both Africa and England before studying zoology at the University of Oxford under the influential ethologist Nikolaas Tinbergen. Dawkins’ early scientific career focused on animal behavior and evolutionary theory, but he became internationally known with the publication of "The Selfish Gene" (1976), which popularized the idea that natural selection acts primarily at the level of genes. That book also introduced the concept of the “meme” as a cultural analogue of the gene, linking biological evolution to cultural transmission in a way that resonated far beyond biology.
+Richard Dawkins (born 1941) is a British evolutionary biologist, ethologist, and science writer whose work has profoundly shaped modern public understanding of evolution and genetics. Born in Nairobi, Kenya, to British parents and raised partly in England, he studied zoology at the University of Oxford under the renowned ethologist Nikolaas Tinbergen, an experience that grounded his lifelong focus on animal behavior and natural selection. Dawkins went on to spend most of his academic career at Oxford, eventually becoming the Simonyi Professor for the Public Understanding of Science, a role that formalized his dual commitment to research and science communication.
 
-Throughout his career, Dawkins has been a prominent public intellectual, holding academic posts at Oxford, including the Charles Simonyi Professorship for the Public Understanding of Science. He has written a series of influential books on evolution, science, and religion, and has been an outspoken critic of creationism and religious fundamentalism, advocating instead for secularism, skepticism, and scientific literacy. His work has earned him numerous awards and honors, as well as significant controversy, positioning him as one of the most recognizable—and debated—science communicators of his generation.
+Dawkins rose to international prominence with "The Selfish Gene," which popularized a gene-centered view of evolution and introduced the influential concept of memes as cultural replicators. Across his books and lectures, he has emphasized the power of Darwinian natural selection to explain complex biological and social phenomena, becoming one of the most recognizable advocates of evolutionary theory worldwide. He is also widely known for his outspoken criticism of religion and advocacy of secularism, which has made him both a celebrated and controversial figure. Throughout his career, Dawkins has been deeply engaged in public debates about science, reason, and education, shaping how generations think about the relationship between science and society.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

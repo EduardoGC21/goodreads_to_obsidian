@@ -1,6 +1,6 @@
 ---
 name: "Homer"
-country: "[[Unknown]]"
+country: "[[Greece]]"
 birth_year: ""
 death_year: ""
 tags:
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Homer is the name traditionally given to the ancient Greek poet credited with composing the epic poems the Iliad and the Odyssey, generally dated to around the 8th century BCE. Very little is known with certainty about his life, and ancient sources already disagreed about when and where he lived, with cities such as Smyrna, Chios, and others claiming him. Some ancient writers imagined him as a blind bard who traveled and recited heroic tales, but these details are considered legendary rather than historical fact.
+Homer is the name traditionally given to the ancient Greek poet credited with composing the epic poems the Iliad and the Odyssey, foundational works of Western literature. Very little is known with certainty about his life: ancient sources disagree about his birthplace, suggesting cities such as Smyrna, Chios, or others in the Greek world, and some even doubted whether he was a single historical person at all. Despite this uncertainty, Homer has been regarded for millennia as a towering figure whose poetry preserved memories of the Mycenaean age and shaped Greek cultural identity.
 
-Despite the obscurity of his biography, Homer’s significance in the history of literature and culture is immense. The Iliad and the Odyssey became foundational texts for Greek education, religion, and identity, shaping ideas about heroism, honor, fate, and the relationship between humans and the gods. Through these epics, Homer influenced not only later Greek and Roman writers but also the entire Western literary tradition, inspiring countless reinterpretations, translations, and artistic works across millennia. Discussions about Homer’s authorship—the so‑called “Homeric Question,” which asks whether a single poet or an oral tradition produced the epics—continue to be a central topic in classical studies.
+The Iliad and the Odyssey (known in Spanish as La Ilíada and La Odisea) were central to education and public life in classical Greece and later Rome, serving as touchstones for ideas of heroism, honor, fate, and the relationships between humans and the gods. These epics influenced not only later Greek poets and dramatists, but also philosophers, historians, and artists throughout antiquity and into the modern era. Homer’s language, formulaic style, and use of oral storytelling techniques have been intensively studied, making him a key figure for understanding the transition from oral to written literature.
+
+Over centuries, the so‑called "Homeric Question"—who Homer was, whether he existed as an individual author, and how the poems were composed—has occupied scholars and inspired many theories. Some see Homer as a master poet who synthesized a long oral tradition into unified epics; others argue that the texts are the result of generations of singers whose work was later written down and edited. Regardless of the precise historical reality, Homer stands as a symbolic and cultural ancestor for later European literature, embodying the power of epic narrative to convey collective memory and shared values.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

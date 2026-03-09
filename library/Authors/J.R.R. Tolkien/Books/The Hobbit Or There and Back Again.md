@@ -16,9 +16,9 @@ bookshelves:
   - "[[mitología]]"
   - "[[novelas]]"
   - "[[fantasía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Hobbit: Or There and Back Again

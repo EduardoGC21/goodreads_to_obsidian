@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2026-01-17"
 date_read: "2026-01-17"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437604508"
 isbn13: "9788437604503"
 pages: 192
@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Molière - Tartufo.jpg]]"
 bookshelves:
   - "[[literatura-francesa]]"
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Tartufo

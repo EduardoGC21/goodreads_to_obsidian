@@ -13,9 +13,9 @@ pages: 336
 format: "physical"
 cover: "[[Attachments/Covers/Michel Onfray - Las sabidurías de la antigüedad Contrahistoria de la filosofía, I.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las sabidurías de la antigüedad: Contrahistoria de la filosofía, I

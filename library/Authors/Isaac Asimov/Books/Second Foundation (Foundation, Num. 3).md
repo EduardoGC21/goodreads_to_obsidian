@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Isaac Asimov - Second Foundation (Foundation, Num. 
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Second Foundation (Foundation, Num. 3)

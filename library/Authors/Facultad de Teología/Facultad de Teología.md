@@ -1,11 +1,10 @@
 ---
 name: "Facultad de Teología"
 country: "[[Spain]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Facultad de Teología
@@ -13,11 +12,9 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Facultad de Teología is the Faculty of Theology of a Spanish Catholic university, recognized for its scholarly work in biblical studies, dogmatic and moral theology, and the intellectual tradition of the Catholic Church. As an academic institution rather than an individual author, it brings together professors, researchers, and clergy dedicated to the rigorous study and teaching of Christian theology.
+Facultad de Teología is the Faculty of Theology of the University of Navarra, a Catholic academic institution dedicated to advanced study and teaching in theology and related disciplines. As an institutional author, it brings together scholars, clergy, and lay experts who collaborate in research on Scripture, doctrine, Church history, moral theology, and spirituality, with a strong emphasis on fidelity to the Catholic tradition and engagement with contemporary intellectual life.
 
-The faculty’s significance lies in its contribution to contemporary Catholic thought, its formation of priests and lay experts, and its role in bridging scripture scholarship with pastoral and cultural life. Through collaborative projects such as annotated editions of the Bible, it has sought to make exegetical and theological research accessible to students, pastors, and educated readers. Works like the "Sagrada Biblia: Universidad de Navarra" reflect this collective effort, presenting the biblical text alongside commentary shaped by the faculty’s academic and ecclesial orientation.
-
-Closely connected to the wider Catholic intellectual community, the Facultad de Teología maintains relationships with other theological faculties, bishops’ conferences, and ecclesial institutions, helping shape the education of generations of theologians and pastors in Spain and beyond.
+The faculty’s work on the "Sagrada Biblia: Universidad de Navarra (Spanish Edition)" reflects its broader mission: to provide rigorous, well-documented, and pastorally useful resources for students, clergy, and lay readers. Through projects like this annotated Bible, the Facultad de Teología has played a significant role in Spanish-language theological scholarship, helping to shape biblical studies and theological education within Spain and the wider Spanish-speaking Catholic world.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

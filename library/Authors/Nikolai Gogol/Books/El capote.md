@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Nikolai Gogol - El capote.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-rusa]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El capote

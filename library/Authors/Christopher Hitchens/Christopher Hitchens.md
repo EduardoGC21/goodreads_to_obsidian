@@ -1,8 +1,8 @@
 ---
 name: "Christopher Hitchens"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1949"
+death_year: "2011"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Christopher Hitchens (1949–2011) was a British-born writer, polemicist, and public intellectual known for his sharp wit, adversarial style, and prolific output across journalism, essays, and books. Educated at Balliol College, Oxford, he began his career on the political left, writing for outlets such as the New Statesman, before becoming a transatlantic commentator based in the United States. Over time, his politics evolved in complex ways: he remained a steadfast critic of authoritarianism and religious power, while taking controversial positions in support of certain Western military interventions.
+Christopher Eric Hitchens (1949–2011) was a British-born writer, journalist, and public intellectual whose polemical style and wide-ranging erudition made him one of the most prominent essayists of his generation. Raised in a nominally Christian household and educated at The Leys School and Balliol College, Oxford, he gravitated early toward the political left, joining Trotskyist circles and opposing the Vietnam War, nuclear weapons, and authoritarianism. His peripatetic childhood as the son of a Royal Navy officer, combined with his mother’s ambitions for his education, helped shape the cosmopolitan and combative sensibility that defined his work.
 
-Hitchens achieved global prominence as one of the most visible contemporary critics of religion and organized faith, frequently debating clergy and apologists on morality, evidence, and free inquiry. He was part of the so‑called “Four Horsemen” of New Atheism, whose conversations and writings—published and translated widely, including in works like the Spanish collection about science, faith, religion, and atheism—helped popularize rigorous public debate on belief and secularism. His broader body of work also included harsh reassessments of revered figures and institutions, arguing that intellectual honesty required challenging even the most sacrosanct reputations.
+Hitchens built his reputation in Britain at outlets like the New Statesman before relocating to the United States, where he became a fixture in magazines such as The Nation, Vanity Fair, The Atlantic, and Slate. He was renowned for his literary criticism, reportage, and especially for his unsparing examinations of revered figures and institutions, including religious leaders, political dynasties, and Western foreign policy. As one of the so‑called “Four Horsemen” of New Atheism, he argued that religion was not only false but socially harmful, a stance that underpinned works like his Spanish-translated conversations on atheism alongside fellow skeptics. His friendships and quarrels with writers and thinkers such as Martin Amis, Salman Rushdie, and Richard Dawkins played out both privately and in public debate, reinforcing his image as a gifted, often controversial polemicist.
 
-Beyond his public persona as a debater, Hitchens was deeply shaped by personal relationships and historical context: his experiences in postwar Britain, the Cold War, and later American political life all informed his skepticism of ideology and his defense of free expression. Friendships and rivalries with fellow writers, politicians, and thinkers were central to his life; he often wrote about them with a mix of affection and unsparing criticism. Even in his final years, after a cancer diagnosis, he continued writing and debating, viewing the confrontation with mortality as another occasion to examine belief, dignity, and truth in public.
+Later in life Hitchens supported certain Western military interventions, a shift that strained many of his earlier alliances on the left but that he defended as a consistent opposition to totalitarianism and what he called “fascism with an Islamic face.” He became an American citizen in 2007 while retaining his British citizenship. Even after being diagnosed with esophageal cancer in 2010, he continued to write and speak, reflecting candidly on mortality, illness, and unbelief. He died in Houston, Texas, in 2011, leaving behind a substantial body of essays, books, and debates that continue to influence discussions on politics, religion, and free expression.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

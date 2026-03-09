@@ -1,6 +1,6 @@
 ---
 name: "Gisèle Halimi"
-country: "[[France]]"
+country: "[[Tunisia]]"
 birth_year: "1927"
 death_year: "2020"
 tags:
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Gisèle Halimi (1927–2020) was a Tunisian-born French lawyer, feminist, and political activist whose work profoundly shaped debates on women’s rights and decolonization in the Francophone world. Born Zeiza Gisèle Élise Taïeb into a modest Jewish family in La Goulette, near Tunis, she experienced early both patriarchal constraints and colonial discrimination, which fueled her lifelong commitment to justice and equality. After studying law in Paris, she became one of the rare women lawyers of her generation and quickly gained prominence through high-profile political and feminist cases.
+Gisèle Halimi (born Zeiza Gisèle Élise Taïeb, 1927–2020) was a Tunisian‑French lawyer, feminist, and essayist whose life was defined by an intolerance for injustice and a determination to transform the status of women. Raised in a poor, conservative Jewish family in La Goulette, Tunisia, she rebelled early against gender inequalities in her home and community. After excelling at a French lycée in Tunis, she studied law and philosophy in Paris, then qualified as a lawyer in 1948, initially practicing at the Tunis bar before moving to Paris in 1956.
 
-Halimi first drew international attention in the 1960s for defending Algerian nationalists during the Algerian War of Independence, challenging torture and abuses by French authorities and helping to expose the moral and legal crisis of colonialism. In the 1970s she became a central figure in the French women’s liberation movement. Her defense in landmark trials—especially the 1972 Bobigny abortion trial—helped shift public opinion and paved the way for legalizing abortion in France; her written and oral arguments on abortion, echoed in works such as “Plaidoirie pour l’avortement,” framed reproductive rights as a matter of fundamental human dignity and equality. She co-founded the feminist association “Choisir la cause des femmes,” collaborated with leading intellectuals like Simone de Beauvoir, and consistently linked women’s rights to broader struggles against social and political oppression.
+Halimi first gained prominence by defending members of the Algerian National Liberation Front, notably Djamila Boupacha, an Algerian activist tortured and raped by French soldiers. Her work on this case, including a book co‑written with Simone de Beauvoir, made her a central figure of anti‑colonial and human‑rights advocacy. In France she later became one of the leading voices of second‑wave feminism: as a signatory of the 1971 Manifesto of 343 and co‑founder of the association Choisir, she defended emblematic abortion and rape cases such as the Bobigny trial, helping to build the momentum that led to the decriminalisation of abortion. A close ally and friend of figures like Simone de Beauvoir and Jean‑Paul Sartre, she also served as a Socialist member of the National Assembly and as France’s delegate to UNESCO.
 
-Throughout her career, Halimi served as a member of the French National Assembly and as a diplomat, using institutional roles to advance causes ranging from gender equality and family law reform to international human rights. She remained publicly engaged well into old age, speaking and writing on feminism, secularism, and justice. Remembered as a brilliant orator and a tenacious advocate, Gisèle Halimi left a lasting legacy as one of the key architects of modern feminist legal strategy in France and as a symbol of resistance against both patriarchy and colonial domination.
+Throughout her career Halimi combined courtroom advocacy, political work, and writing—authoring essays and memoirs including reflections on cases like the struggle for abortion rights, later echoed in works such as “Plaidoirie pour l'avortement.” She was decorated with honours such as the Légion d'honneur and remained active in feminist and social‑justice causes into old age. She died in Paris one day after her 93rd birthday, leaving a legacy as one of the most influential French feminist lawyers of the 20th century.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

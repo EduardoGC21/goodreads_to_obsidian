@@ -1,8 +1,8 @@
 ---
 name: "Juan Rivano"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[Chile]]"
+birth_year: "1926"
+death_year: "2015"
 tags:
   - "author"
 ---
@@ -12,11 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Juan Rivano Sandoval (1926–2015) was a Chilean philosopher and logician whose work helped redefine academic philosophy in Chile during the second half of the twentieth century. Born in Santiago on June 24, 1926, he spent part of his childhood in Cauquenes before moving permanently to the capital in the early 1940s. He trained as a philosopher at the Universidad de Chile, qualifying as a professor of philosophy in 1955, and soon became an influential teacher and public intellectual, combining rigorous logical training with literary sensitivity and a strong interest in social criticism.
+Juan Rivano Sandoval (1926–2015) was a Chilean philosopher and logician whose work bridged formal rigor and radical social critique. Trained at the University of Chile, where he qualified as a professor of philosophy in 1955, he taught at the University of Concepción and the University of Chile, becoming a central figure in courses on logic, epistemology, and introduction to philosophy. As director of philosophy departments in both institutions during the 1960s, he helped shape a generation of Chilean intellectuals and emerged as a leading voice in the University Reform movement, insisting that philosophy confront the concrete miseries and forms of servitude in Latin American societies rather than remain an academic exercise detached from reality.
 
-Rivano taught at the Universidad de Concepción and later at the Universidad de Chile, where he directed philosophy departments and played a visible role in the university reform movement of the 1960s and early 1970s. In his courses and books he introduced Chilean students to both Hegelian and materialist dialectics, and later critically distanced himself from orthodox Marxism while maintaining a materialist and emancipatory perspective. Across works that include studies of misery, servitude, technology, myth, and communication, as well as writings on figures such as Diogenes and the Cynic tradition, he developed an original Latin American philosophy attentive to power, marginality, and the critical function of thought.
+Rivano’s writings develop a distinctive strand of Latin American Marxist and liberationist thought, combining his mathematical training with a sharp, often ironic prose. In books such as “El punto de vista de la miseria,” “Cultura de la servidumbre,” and his critical readings of Hegel, Marx, and McLuhan, he denounced the ideological uses of knowledge and the subservience of educational institutions to power. His interest in figures like Diogenes of Sinope, reflected in works such as “Diogenes: Los temas del cinismo,” allowed him to explore philosophical cynicism as a radical ethical and political stance, using ancient examples to illuminate contemporary domination and the possibility of freer forms of life.
 
-After the 1973 military coup in Chile, Rivano was removed from his university positions, arrested by the security services in 1975, and imprisoned in several detention centers before being forced into exile. He eventually settled in Sweden, particularly in Lund, where he continued writing, researching, and reflecting on his experiences of dictatorship, exile, and return, including in his later diaries. Remembered by students and colleagues as a “maestro de maestros,” he exerted a lasting influence on Chilean and Latin American philosophy through his teaching, his extensive and stylistically varied written work, and his example as an intellectually rigorous and politically engaged thinker.
+After the 1973 coup in Chile, Rivano was arrested by the DINA and passed through several detention centers before leaving the country into exile, first in Israel and later in Sweden, where he settled in Lund. These years, along with his eventual visits back to Chile, are recorded in his extensive diaries, published posthumously, which portray not only the brutality of dictatorship and the experience of exile but also his intimate relationships, intellectual friendships, and relentless self-scrutiny. Remembered by students and colleagues as a “maestro de maestros,” Rivano’s legacy lies in his uncompromising attempt to make philosophy an instrument of emancipation rather than conformity, and in the example of a life that joined theoretical rigor, personal austerity, and moral courage.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

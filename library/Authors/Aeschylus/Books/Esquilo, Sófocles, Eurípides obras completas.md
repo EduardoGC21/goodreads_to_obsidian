@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2022-05-05"
-language: "Spanish"
+language: "Unknown"
 isbn: "8437630150"
 isbn13: "9788437630151"
 pages: 1568
@@ -18,9 +18,9 @@ bookshelves:
   - "[[favoritos]]"
   - "[[poesía]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Esquilo, Sófocles, Eurípides obras completas

@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Lao Tzu - Tao Te Ching.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[oriental]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Tao Te Ching

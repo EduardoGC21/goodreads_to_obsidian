@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-06-06"
 date_read: "2020-07-01"
-language: "Spanish"
+language: "Unknown"
 isbn: ""
 isbn13: "9789700774862"
 pages: 302
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Manuel García Morente - Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164).jpg]]"
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164)

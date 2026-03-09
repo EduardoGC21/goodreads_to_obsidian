@@ -6,7 +6,7 @@ rating: 4
 read_count: 1
 date_added: "2020-05-24"
 date_read: "2020-05-25"
-language: "Spanish"
+language: "Unknown"
 isbn: "8446027895"
 isbn13: "9788446027898"
 pages: 96
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/René Descartes - El discurso del método (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El discurso del método (Spanish Edition)

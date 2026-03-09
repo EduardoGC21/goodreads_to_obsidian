@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-08-31"
 date_read: "2020-09-20"
-language: "Spanish"
+language: "Unknown"
 isbn: "9700772470"
 isbn13: "9789700772479"
 pages: 1104
@@ -21,9 +21,9 @@ bookshelves:
   - "[[política]]"
   - "[[history]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Diálogos (Sepan Cuantos, Num. 13)

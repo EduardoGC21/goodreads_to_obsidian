@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430)

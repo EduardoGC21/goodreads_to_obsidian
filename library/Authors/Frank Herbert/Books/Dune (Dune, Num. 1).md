@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Frank Herbert - Dune (Dune, Num. 1).jpg]]"
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Dune (Dune, Num. 1)

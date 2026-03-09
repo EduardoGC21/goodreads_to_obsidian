@@ -13,9 +13,9 @@ pages: 696
 format: "physical"
 cover: "[[Attachments/Covers/Stendhal - Rojo y negro.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Rojo y negro

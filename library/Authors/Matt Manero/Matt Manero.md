@@ -1,11 +1,10 @@
 ---
 name: "Matt Manero"
 country: "[[United States]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Matt Manero
@@ -13,11 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Matt Manero is an American entrepreneur, author, and speaker best known for his work in commercial fleet financing and personal finance education. In 1995 he founded Commercial Fleet Financing, Inc. (CFF) in Dallas, Texas, starting humbly with a folding table, a phone, and a single trucking client. Over the following decades he built CFF into one of the largest independently owned transportation equipment finance companies in the United States, funding more than a billion dollars’ worth of trucks and related equipment and earning repeated recognition on Inc. magazine’s lists of the fastest-growing private companies.
+Matt Manero is an American entrepreneur, author, and financial commentator best known for his blunt, blue‑collar approach to wealth-building and business culture. In 1995 he launched Commercial Fleet Financing, Inc. (CFF) from a small apartment with little more than a folding table, a phone, and a single trucking client, gradually turning it into one of the largest independently owned transportation finance companies in the United States. Under his leadership, CFF has repeatedly appeared on lists of America’s fastest-growing companies, reflecting his focus on sales, hustle, and serving the needs of independent truckers and fleet operators.
 
-As CEO of multiple companies, Manero has focused on helping blue‑collar entrepreneurs and small business owners gain access to capital and develop the mindset required to build substantial, enduring wealth. His financial philosophy, shaped in part by family tragedy and by his own early struggles with money, emphasizes personal responsibility, clear long‑term goals, and aggressive income growth. These themes are central to his book "You Need More Money: Wake Up and Solve Your Financial Problems Once And For All," in which he urges readers to confront financial realities directly and design a lifestyle supported by significant savings and income.
+Beyond his work as a founder and CEO, Manero has built a public platform as a speaker, radio host, and author. His books, including “The Grit” and “You Need More Money: Wake Up and Solve Your Financial Problems Once And For All,” extend his message that complacency is dangerous and that financial security is a duty to one’s family. Much of his motivation was sharpened by the sudden death of his brother‑in‑law, which reinforced his belief that too many people leave their loved ones unprotected. Drawing on that experience, he challenges audiences to pursue greater income not for status or luxury, but for freedom, options, and the ability to provide.
 
-Beyond his businesses and writing, Manero has hosted a syndicated radio show and podcast, spoken to audiences across the United States, and contributed articles and commentary on entrepreneurship, attitude, and success. Often describing himself as a proud husband and father, he grounds his message about wealth in the desire to provide security and opportunity for one’s family, positioning money as a tool for freedom rather than for mere consumption.
+Manero is also known for his emphasis on company culture and leadership transformation. After realizing that early success had made him a harsh and overly driven boss, he “torched” and rebuilt his organization around gratitude, empowerment, and shared values, even at the cost of losing top performers. He frequently speaks at conferences, on podcasts, and in executive groups about entrepreneurship, leadership, and personal responsibility, positioning himself as both a hard-driving businessman and an advocate for using financial success to positively impact employees, families, and communities.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

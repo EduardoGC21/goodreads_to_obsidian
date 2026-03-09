@@ -16,9 +16,9 @@ bookshelves:
   - "[[literatura-rusa]]"
   - "[[antología]]"
   - "[[cuentos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Relatos (Minus nº 79) (Spanish Edition)

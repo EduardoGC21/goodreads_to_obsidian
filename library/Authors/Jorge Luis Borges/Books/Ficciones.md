@@ -16,9 +16,9 @@ bookshelves:
   - "[[cuentos]]"
   - "[[borgiano]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ficciones

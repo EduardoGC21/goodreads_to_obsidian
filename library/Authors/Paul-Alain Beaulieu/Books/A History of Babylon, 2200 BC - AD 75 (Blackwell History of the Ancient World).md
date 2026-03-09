@@ -13,9 +13,9 @@ pages: 302
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World)

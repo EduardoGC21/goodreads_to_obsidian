@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Arthur Schopenhauer - Sobre la cuádruple raíz del
 bookshelves:
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sobre la cuádruple raíz del principio de razón suficiente

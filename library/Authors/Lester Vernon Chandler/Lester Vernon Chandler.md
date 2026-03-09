@@ -1,8 +1,8 @@
 ---
 name: "Lester Vernon Chandler"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United States]]"
+birth_year: "1905"
+death_year: "2000"
 tags:
   - "author"
 ---
@@ -12,11 +12,9 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Lester Vernon Chandler (1905–1988) was an influential American economist and monetary scholar whose work helped shape mid‑twentieth‑century understanding of money, banking, and macroeconomic policy. After earning his B.A. from the University of Missouri, he completed a Ph.D. in economics at Yale University, where he developed a lasting interest in central banking and the behavior of financial institutions. Chandler went on to teach at Dartmouth College and Amherst College before joining Princeton University, where he became the Gordon S. Rentschler Memorial Professor of Economics and trained generations of students in monetary theory and policy.
+Lester Vernon Chandler (1905–2000) was an American economist and influential academic known for his work on monetary economics and macroeconomic policy. Educated at the University of Missouri and Yale University, he went on to teach at several institutions, most notably Princeton University, where he helped shape generations of economists and policymakers. Chandler’s research and writing focused on money, banking, and the role of monetary policy in stabilizing the economy, and he became a respected voice in debates over how central banks should respond to business cycles and inflation.
 
-Chandler was widely known for his clear, empirically grounded analyses of monetary institutions and their role in economic stability. His major works, including textbooks on money and banking and studies such as his biographies of Federal Reserve leader Benjamin Strong and his analyses of American monetary policy between the wars, established him as a leading interpreter of how central banks shape credit conditions, the business cycle, and long‑run growth. His writings, including Spanish‑language editions like "Introduccion A La Teoria Monetaria," brought sophisticated monetary theory to a broader audience and influenced academic debate and policy discussion across multiple countries.
-
-Beyond academia, Chandler served as an adviser to the U.S. federal government during World War II, contributing his expertise to wartime financial and economic planning. His career thus bridged scholarship and public service, and his work remains part of the foundation of modern monetary economics, especially in the areas of central banking, financial intermediation, and the historical study of the Great Depression and interwar monetary regimes.
+Chandler contributed significantly to clarifying and systematizing monetary theory for both scholars and students. Works such as his treatments of monetary theory, including texts like "Introduccion A La Teoria Monetaria" in translation, presented complex ideas in a rigorous but accessible way, extending his influence well beyond the United States. Throughout his career he engaged with contemporary economic controversies, emphasizing empirical analysis and policy relevance. His legacy lies in his role as a bridge between theoretical monetary economics and practical policy, as well as in his impact as a teacher, writer, and participant in mid‑twentieth‑century economic discourse.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

@@ -1,11 +1,10 @@
 ---
 name: "Maria Brosius"
 country: "[[Germany]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Maria Brosius
@@ -13,11 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Maria Brosius is a German ancient historian specializing in the history of the Achaemenid Persian Empire and the wider pre‑Islamic Iranian world. After studying history in Germany, she completed her doctorate at the University of Oxford with a thesis later published as *Women in Ancient Persia, 559–331 BC* (1996), a pioneering study of gender and court life in the Achaemenid period. Her academic career has taken her to leading institutions in the United Kingdom, including teaching posts in Ancient History at Queens' College, University of Cambridge, and at Newcastle University.
+Maria Brosius is a German ancient historian whose work has significantly shaped modern understanding of the Achaemenid Persian Empire and its interactions with the wider ancient world. Trained in ancient history at the University of Münster, she completed her doctorate at the University of Oxford in 1996 with a landmark study on women in ancient Persia, which helped open up the social and gender history of the empire beyond traditional political narratives. Her scholarship is marked by a close engagement with cuneiform documents, Greek literary sources, and material evidence, allowing her to reconstruct how imperial power, local elites, and family networks operated across a vast and culturally diverse empire.
 
-Brosius’s scholarship focuses on the political and cultural connections between the ancient Near East and the Greek and Roman worlds, with particular attention to how documentary and archival practices shaped the transmission of knowledge. She has edited and authored important works on ancient archives and record‑keeping, as well as broad syntheses such as *The Persians* and *A History of Ancient Persia: The Achaemenid Empire*, which present accessible overviews of pre‑Islamic Iranian history to both specialists and students. Her work on women, court society, and archives has significantly influenced how historians understand power, communication, and daily life within the Persian Empire.
+Over her career, Brosius has held academic posts in the United Kingdom, Germany, and Canada, including positions at Queens’ College, Cambridge, Newcastle University, the Free University of Berlin, and the University of Toronto. She has been especially influential in the study of ancient record-keeping and archives, editing major collective volumes on archival traditions in the ancient world and showing how administrative documents shaped the transmission of knowledge. Her synthetic works on the Achaemenid Empire, including her history of ancient Persia, bring together political, social, and cultural perspectives and have become standard references for students and scholars.
 
-Over the course of her career, Brosius has held visiting and research positions at Oxford colleges and at institutions in Berlin, and from 2013 she served as Associate Professor of Near and Middle Eastern Civilizations at the University of Toronto. Through her teaching, publications, and supervision of graduate research, she has helped train a generation of scholars in Achaemenid and Near Eastern studies and has contributed to integrating the history of ancient Persia more fully into the broader narrative of the ancient Mediterranean and Near Eastern worlds.
+Brosius’s research often highlights the roles of women, families, and local elites within imperial structures, emphasizing the lived experience of subjects as well as rulers. Through collaborations, fellowships, and editorial projects, she has helped integrate Near Eastern evidence more fully into classical scholarship, challenging older, Greece-centered narratives of antiquity. Her work continues to inform debates on empire, identity, and cultural exchange in the ancient Mediterranean and Near East.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

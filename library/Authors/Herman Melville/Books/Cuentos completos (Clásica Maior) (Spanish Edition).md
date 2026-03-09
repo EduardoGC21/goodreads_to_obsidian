@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2021-07-06"
 date_read: ""
-language: "Unknown"
+language: "English"
 isbn: "8484287769"
 isbn13: "9788484287766"
 pages: 390
 format: "virtual"
 cover: ""
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos completos (Clásica Maior) (Spanish Edition)

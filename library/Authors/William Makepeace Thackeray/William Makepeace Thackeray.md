@@ -1,8 +1,8 @@
 ---
 name: "William Makepeace Thackeray"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1811"
+death_year: "1863"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-William Makepeace Thackeray (1811–1863) was an English novelist and satirist, born in Calcutta, British India, to a family connected with the British East India Company. Sent to England for his education, he attended Charterhouse School and briefly Trinity College, Cambridge, before drifting through studies, travel, gambling, and journalism. Financial losses, including the collapse of his inheritance in an Indian bank failure, pushed him toward professional writing, where he developed a sharp eye for social nuance and moral hypocrisy in Victorian society.
+William Makepeace Thackeray (1811–1863) was an English novelist and satirist best known for his sharp, ironic portraits of nineteenth‑century British society. Born in Calcutta to British parents in the service of the East India Company, he was sent to England as a child for his education, attending Charterhouse School and later Trinity College, Cambridge, which he left without taking a degree. After losing much of his inheritance through bad investments and gambling, he turned to journalism and illustration to support himself, gradually building a reputation in London’s literary world.
 
-Thackeray became one of the most important novelists of the 19th century, best known for “Vanity Fair” (also known in Spanish as “La feria de las vanidades”), whose panoramic portrayal of ambition and social climbing secured his reputation alongside Charles Dickens as a leading voice of his era. Much of his work blends irony, realism, and moral commentary, often exposing the pretensions of the middle and upper classes. His personal life was marked by difficulty—most notably his wife Isabella’s severe mental illness, which left him effectively a single parent and deeply affected his emotional world. Despite these burdens, he maintained a prolific output as a novelist, essayist, and lecturer, and his influence can be seen in later traditions of social and psychological realism in English literature.
+Thackeray achieved lasting fame with “Vanity Fair” (known in Spanish as “La feria de las vanidades”), serialized from 1847 to 1848, whose morally complex characters and panoramic view of social ambition made it one of the great Victorian novels. His work is marked by a blend of realism, irony, and moral scrutiny, often exposing hypocrisy in the upper and middle classes. Though sometimes overshadowed by his contemporary Charles Dickens, Thackeray was regarded in his own time as a major literary figure and even rival to Dickens, and he later served as editor of the influential Cornhill Magazine.
+
+His personal life was touched by tragedy: his wife Isabella suffered severe mental illness, leading to their permanent separation and leaving Thackeray to raise their daughters largely on his own. These experiences, along with his own social observations and travels in Europe, informed his nuanced depictions of family, class, and ambition. He died in London in 1863, remembered as one of the key architects of the Victorian social novel and a master of satiric narrative voice.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

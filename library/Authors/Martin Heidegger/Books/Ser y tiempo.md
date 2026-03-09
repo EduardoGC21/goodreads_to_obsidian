@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Martin Heidegger - Ser y tiempo.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ser y tiempo

@@ -1,11 +1,10 @@
 ---
 name: "Diogenes Laertius"
 country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Diogenes Laertius
@@ -13,11 +12,10 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Diogenes Laertius was an ancient Greek biographical and doxographical writer, active probably in the first few centuries CE, whose exact dates, place of birth, and personal life remain largely unknown. Almost nothing is recorded about his education, travels, or social connections, and he is known to us almost entirely through his surviving work rather than independent testimonies. His name suggests a connection either to the town of Laerte in Cilicia or possibly to the city of Nicaea, but ancient sources do not confirm this, and no secure biographical tradition developed around him.
+Diogenes Laertius was an ancient biographer of Greek philosophy, best known as the author of *Lives and Opinions of Eminent Philosophers*, a crucial source for the history of early Greek thought. Almost nothing certain is known about his life, including his dates or exact birthplace, and he remains a largely shadowy figure whose identity is reconstructed almost entirely from his own writing and later references. He likely lived sometime between the 2nd and 3rd centuries CE, writing in Greek under the Roman Empire.
 
-His principal and virtually sole known work, *Lives and Opinions of Eminent Philosophers* (in Spanish, *Vidas y opiniones de los filósofos ilustres*), is a sprawling collection of biographies and doctrines of Greek philosophers from the Presocratics to the early Hellenistic schools. In it, Diogenes Laertius preserves anecdotes, wills, letters, epigrams, and doctrinal summaries, often quoting earlier sources that have otherwise been lost. While his critical standards and accuracy have sometimes been questioned, the work is invaluable for reconstructing the lives and teachings of figures such as Heraclitus, Democritus, Epicurus, and the Stoics.
-
-Diogenes Laertius’s significance lies less in philosophical originality than in his role as a compiler and transmitter of the Greek philosophical heritage. His book became a central reference for later scholars, humanists, and historians of philosophy, serving as a bridge between the classical and modern worlds. Because his own life is almost entirely obscured by time, his enduring legacy is the detailed, sometimes vivid, and often unique testimony he left about the philosophers who shaped ancient intellectual history.
+Despite the obscurity of his personal life, Diogenes Laertius is of enormous significance because his work preserves countless anecdotes, doxographical reports, successions of teachers and pupils, and fragments of texts from earlier philosophers that might otherwise have been lost. His approach combines biographical storytelling with summaries of doctrines, giving insight not only into what philosophers taught but also how they were remembered and judged in later antiquity. Although modern scholars sometimes criticize his lack of philosophical depth or critical scrutiny, his compilation remains indispensable for reconstructing the lives, lineages, and reputations of many ancient thinkers.
+Lives and Opinions of Eminent Philosophers* also reflects the cultural and intellectual context of the Roman imperial period, in which Greek philosophical schools were already centuries old and often mediated through doxographical and biographical traditions. Diogenes’ selection of material, the moralizing tone of many anecdotes, and his interest in character and conduct show how philosophy was understood as a way of life as much as a set of theories. Through his work, Diogenes Laertius inadvertently shaped the later reception of figures like Plato, Epicurus, and the Stoics, making him a key intermediary between classical philosophy and subsequent eras.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

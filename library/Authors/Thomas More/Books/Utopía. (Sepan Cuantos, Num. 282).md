@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2020-04-20"
 date_read: "2020-04-22"
-language: "Spanish"
+language: "Unknown"
 isbn: "970073028X"
 isbn13: "9789700730288"
 pages: 85
@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Utopía. (Sepan Cuantos, Num. 282)

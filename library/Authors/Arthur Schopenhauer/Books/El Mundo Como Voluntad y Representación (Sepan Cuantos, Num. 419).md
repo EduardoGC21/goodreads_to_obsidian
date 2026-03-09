@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Arthur Schopenhauer - El Mundo Como Voluntad y Repr
 bookshelves:
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419)

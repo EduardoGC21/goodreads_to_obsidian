@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Baruch Spinoza - Ética demostrada según el orden 
 bookshelves:
   - "[[filosofía]]"
   - "[[favoritos]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ética demostrada según el orden geométrico

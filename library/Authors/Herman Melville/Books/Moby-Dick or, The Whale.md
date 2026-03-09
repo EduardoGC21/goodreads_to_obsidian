@@ -13,9 +13,9 @@ pages: 720
 format: "physical"
 cover: "[[Attachments/Covers/Herman Melville - Moby-Dick or, The Whale.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Moby-Dick or, The Whale

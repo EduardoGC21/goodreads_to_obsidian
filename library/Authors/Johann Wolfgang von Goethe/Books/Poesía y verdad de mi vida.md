@@ -6,16 +6,16 @@ rating: 0
 read_count: 0
 date_added: "2022-07-26"
 date_read: ""
-language: "Spanish"
+language: "Unknown"
 isbn: "8489846545"
 isbn13: "9788489846548"
 pages: 898
 format: "physical"
 cover: "[[Attachments/Covers/Johann Wolfgang von Goethe - Poesía y verdad de mi vida.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poesía y verdad: de mi vida

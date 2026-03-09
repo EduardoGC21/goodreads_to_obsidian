@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Jorge Luis Borges - Historia universal de la infami
 bookshelves:
   - "[[cuentos]]"
   - "[[borgiano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Historia universal de la infamia

@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Pedro Calderón de la Barca - El alcalde de Zalamea.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El alcalde de Zalamea

@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2021-08-09"
 date_read: "2021-08-11"
-language: "Spanish"
+language: "Unknown"
 isbn: "8433962345"
 isbn13: "9788433962348"
 pages: 256
@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Michel Onfray - Tratado de ateología.jpg]]"
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Tratado de ateología

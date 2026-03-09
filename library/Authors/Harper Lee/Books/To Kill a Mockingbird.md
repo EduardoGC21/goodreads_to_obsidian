@@ -13,9 +13,9 @@ pages: 323
 format: "physical"
 cover: "[[Attachments/Covers/Harper Lee - To Kill a Mockingbird.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # To Kill a Mockingbird

@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[economía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Capitalism without Capital: The Rise of the Intangible Economy

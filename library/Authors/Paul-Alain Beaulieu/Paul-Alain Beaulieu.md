@@ -1,11 +1,10 @@
 ---
 name: "Paul-Alain Beaulieu"
 country: "[[Canada]]"
-tags:
-  - "author"
-bookshelves: []
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Paul-Alain Beaulieu
@@ -13,11 +12,11 @@ death_year: ""
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Paul-Alain Beaulieu is a Canadian Assyriologist and leading historian of ancient Mesopotamia, particularly Babylonia in the first millennium BC. A native of Montreal, he first studied Law and Ancient History at the Université de Montréal before turning fully to Assyriology. He completed his PhD in Assyriology at Yale University in 1985, then spent more than a decade as a research scholar and lecturer in the Yale Babylonian Collection, working closely with cuneiform tablets and developing a deep expertise in Babylonian archives and administration.
+Paul-Alain Beaulieu is a Canadian Assyriologist whose work has helped reshape modern understanding of ancient Mesopotamia, especially Babylonia in the first millennium BC. Raised in Quebec, he first trained in Law and History at the Université de Montréal before turning fully to the ancient Near East, completing advanced study in Assyriology at Yale University. There he earned his PhD in 1985 and remained for several years as a postdoctoral researcher, scholar, and lecturer, working closely with the Yale Babylonian Collection and its rich cuneiform archives.
 
-In 1997 Beaulieu joined Harvard University as Assistant and later Associate Professor of Near Eastern Languages and Civilizations, and in 2000–2001 he was a member of the Institute for Advanced Study in Princeton. After a year as Visiting Professor at the University of Notre Dame, he moved in 2006 to the University of Toronto, where he has served as Professor of Assyriology in the Department of Near and Middle Eastern Civilizations. Across these appointments he has trained generations of students in cuneiform studies and ancient Near Eastern history, emphasizing close engagement with primary sources.
+Beaulieu went on to hold faculty positions at Harvard University and the University of Notre Dame before joining the University of Toronto in 2006, where he is Professor of Assyriology and has served as Chair and Graduate Chair of the Department of Near and Middle Eastern Civilizations. His research explores Babylonian history, religion, intellectual life, and cuneiform archives, with influential monographs on the reign of Nabonidus and the pantheon of Uruk that have become standard references for the field. His synthetic volume *A History of Babylon, 2200 BC – AD 75* situates the city’s long trajectory within broader Mesopotamian and Near Eastern history, reflecting his commitment to integrating detailed philological work with historical interpretation.
 
-Beaulieu’s scholarship centers on the political, religious, and social history of late Babylonian society. He is the author of influential monographs such as *The Reign of Nabonidus, King of Babylon, 556–539 BC* and *The Pantheon of Uruk During the Neo-Babylonian Period*, as well as numerous studies of temple archives and economic documents. His later synthetic work *A History of Babylon, 2200 BC – AD 75* situates Babylon’s long history within a broader Near Eastern context, reflecting his dual commitment to rigorous philological analysis and accessible historical narrative. Through his research, teaching, and reconstruction of Babylonian cuneiform archives, Beaulieu has become a central figure in modern Assyriology, illuminating how imperial power, religion, and local elites interacted in the final centuries of Mesopotamian civilization.
+Over several decades of teaching and supervision in North America and abroad, Beaulieu has helped train a generation of Assyriologists and historians of the ancient Near East. Elected a Fellow of the Royal Society of Canada, he is active in international scholarly organizations and has held visiting appointments at institutions such as the Institute for Advanced Study in Princeton and Peking University. His career exemplifies a multidisciplinary, source-driven approach that connects the local realities recorded in clay tablets to larger questions about economy, politics, religion, and historical thought in ancient Mesopotamia.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

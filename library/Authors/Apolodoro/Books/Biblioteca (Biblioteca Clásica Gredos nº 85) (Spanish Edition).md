@@ -6,7 +6,7 @@ rating: 5
 read_count: 1
 date_added: "2023-04-30"
 date_read: "2023-05-01"
-language: "Unknown"
+language: "English"
 isbn: "8424929446"
 isbn13: "9788424929442"
 pages: 237
@@ -15,9 +15,9 @@ cover: ""
 bookshelves:
   - "[[mitología]]"
   - "[[grecorromano]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition)

@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Robert J. Shiller - Narrative Economics How Stories Go Viral and Drive Major Economic Events.jpg]]"
 bookshelves:
   - "[[economía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Narrative Economics: How Stories Go Viral and Drive Major Economic Events

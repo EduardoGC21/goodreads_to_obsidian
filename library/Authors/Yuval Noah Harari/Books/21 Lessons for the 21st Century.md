@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Yuval Noah Harari - 21 Lessons for the 21st Century.jpg]]"
 bookshelves:
   - "[[filosofía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # 21 Lessons for the 21st Century

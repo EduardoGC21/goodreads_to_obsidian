@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Lord Byron - Selected Poems.jpg]]"
 bookshelves:
   - "[[poesía]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Selected Poems

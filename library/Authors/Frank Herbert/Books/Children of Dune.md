@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Frank Herbert - Children of Dune.jpg]]"
 bookshelves:
   - "[[ciencia-ficción]]"
   - "[[novelas]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Children of Dune

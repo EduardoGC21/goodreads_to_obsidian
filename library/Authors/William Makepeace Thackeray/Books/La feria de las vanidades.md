@@ -13,9 +13,9 @@ pages: 1000
 format: "physical"
 cover: "[[Attachments/Covers/William Makepeace Thackeray - La feria de las vanidades.jpg]]"
 bookshelves: []
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La feria de las vanidades

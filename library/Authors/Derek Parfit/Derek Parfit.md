@@ -1,8 +1,8 @@
 ---
 name: "Derek Parfit"
-country: "[[Unknown]]"
-birth_year: ""
-death_year: ""
+country: "[[United Kingdom]]"
+birth_year: "1942"
+death_year: "2017"
 tags:
   - "author"
 ---
@@ -12,9 +12,11 @@ tags:
 
 <!-- GENERATED:AUTHOR_BIO START -->
 ## Biography
-Derek Parfit (1942–2017) was a British philosopher widely regarded as one of the most important moral philosophers of the late 20th and early 21st centuries. Born in Chengdu, China, to British medical missionary parents, he grew up in England and was educated at Eton College and Balliol College, Oxford. After graduating, he became a fellow at All Souls College, Oxford, a position he held for most of his life, and also held visiting positions at institutions such as Harvard, NYU, and Rutgers. Parfit was known for an intense, almost monastic dedication to philosophy, structuring his life around research and writing rather than conventional academic administration or public life.
+Derek Parfit (1942–2017) was a British analytic philosopher best known for his work on personal identity, rationality, and ethics. Educated at Eton and Balliol College, Oxford, he spent most of his career at Oxford’s All Souls College, where he was a Research Fellow and later Senior Research Fellow. Parfit was famously reclusive and intensely devoted to philosophy, often revising his work for decades before publication. His style combined rigorous argument with imaginative thought experiments, influencing how later philosophers approached questions of who we are over time and what matters in survival.
 
-Parfit’s work transformed debates in personal identity, rationality, and ethics. His book "Reasons and Persons" (Spanish: "Razones y personas") reoriented discussions of what matters in survival, challenging traditional views of the self and arguing that identity over time is less important than psychological continuity and connectedness. In later work, especially "On What Matters", he defended an ambitious attempt to reconcile leading moral theories—Kantian ethics, consequentialism, and contractualism—into a unified framework. Parfit’s ideas became foundational for many contemporary moral philosophers and deeply influenced movements such as effective altruism. He was long partnered with, and later married, the philosopher Janet Radcliffe Richards, and he spent his final years continuing to refine his ethical system, leaving a legacy of rigorous, imaginative argument that reshaped modern moral philosophy.
+Parfit’s book *Reasons and Persons* (translated into Spanish as *Razones y personas*) fundamentally reshaped debates about personal identity, moral responsibility, and decision theory, arguing that identity over time is often less important than psychological continuity and connectedness. He later turned to questions in moral philosophy and normative ethics in *On What Matters*, defending a sophisticated form of moral realism and attempting to reconcile competing ethical theories. Parfit’s work deeply influenced contemporary moral and political philosophy, and he maintained close intellectual relationships with leading philosophers such as T.M. Scanlon and Thomas Nagel, engaging them in long-running, meticulous exchanges that shaped the field.
+
+Parfit’s life was characterized by a single-minded focus on philosophical problems rather than academic status or public prominence. He received numerous honors, including fellowships and prizes, but he cared most about whether his arguments were correct and could help clarify what we have reason to do. His combination of originality, argumentative precision, and moral seriousness secured him a lasting place as one of the most important moral philosophers of the late twentieth and early twenty-first centuries.
 <!-- GENERATED:AUTHOR_BIO END -->
 
 <!-- GENERATED:AUTHOR_BOOKS START -->

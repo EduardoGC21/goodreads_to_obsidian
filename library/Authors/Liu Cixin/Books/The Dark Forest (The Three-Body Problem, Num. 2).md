@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Liu Cixin - The Dark Forest (The Three-Body Problem
 bookshelves:
   - "[[novelas]]"
   - "[[ciencia-ficción]]"
+reread_dates: []
 tags:
   - "book"
-reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Dark Forest (The Three-Body Problem, Num. 2)
