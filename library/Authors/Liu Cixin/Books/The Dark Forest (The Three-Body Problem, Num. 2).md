@@ -1,0 +1,29 @@
+---
+title: "The Dark Forest (The Three-Body Problem, Num. 2)"
+author: "[[Authors/Liu Cixin/Liu Cixin|Liu Cixin]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2020-01-23"
+date_read: "2020-02-03"
+language: "English"
+isbn: "076537708X"
+isbn13: "9780765377081"
+pages: 512
+format: "physical"
+cover: "[[Attachments/Covers/Liu Cixin - The Dark Forest (The Three-Body Problem, Num. 2).jpg]]"
+bookshelves:
+  - "[[novelas]]"
+  - "[[ciencia-ficción]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# The Dark Forest (The Three-Body Problem, Num. 2)
+
+![|200]([[Attachments/Covers/Liu Cixin - The Dark Forest (The Three-Body Problem, Num. 2).jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

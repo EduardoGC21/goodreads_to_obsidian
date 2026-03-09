@@ -1,0 +1,287 @@
+# Missing Metadata
+
+Review these items manually after the sync run.
+
+## Missing Covers
+- [[Authors/Adam Smith/Books/La Riqueza De Las Naciones (Spanish Edition)|La Riqueza De Las Naciones (Spanish Edition)]]: Cover image not found (row 5)
+- [[Authors/Adolf Hitler/Books/Mi lucha|Mi lucha]]: Cover image not found (row 401)
+- [[Authors/Adrian Goldsworthy/Books/César; la biografía definitiva|César; la biografía definitiva]]: Cover image not found (row 342)
+- [[Authors/Albert Camus/Books/El extranjero|El extranjero]]: Cover image not found (row 75)
+- [[Authors/Albert Camus/Books/The Myth of Sisyphus|The Myth of Sisyphus]]: Cover image not found (row 393)
+- [[Authors/Aldous Huxley/Books/La isla|La isla]]: Cover image not found (row 418)
+- [[Authors/Alejandro Jodorowsky/Books/The Incal|The Incal]]: Cover image not found (row 42)
+- [[Authors/Alexander Pushkin/Books/Narraciones completas|Narraciones completas]]: Cover image not found (row 184)
+- [[Authors/Alexandre Dumas/Books/El conde de Montecristo|El conde de Montecristo]]: Cover image not found (row 88)
+- [[Authors/Alfred W. Pollard/Books/El Rey Arturo y los caballeros de la Tabla Redonda|El Rey Arturo y los caballeros de la Tabla Redonda]]: Cover image not found (row 149)
+- [[Authors/Alix Paré/Books/The Fantastic Gustave Doré|The Fantastic Gustave Doré]]: Cover image not found (row 58)
+- [[Authors/Anonymous/Books/El cantar de los Nibelungos (Sepan Cuantos, Num. 285)|El cantar de los Nibelungos (Sepan Cuantos, Num. 285)]]: Cover image not found (row 268)
+- [[Authors/Anonymous/Books/Evangelios Apócrifos (Sepan Cuantos, Num. 602)|Evangelios Apócrifos (Sepan Cuantos, Num. 602)]]: Cover image not found (row 344)
+- [[Authors/Anonymous/Books/La epopeya de Gilgamesh|La epopeya de Gilgamesh]]: Cover image not found (row 351)
+- [[Authors/Antoine de Saint-Exupéry/Books/El Principito (Sepan Cuantos, Num. 299)|El Principito (Sepan Cuantos, Num. 299)]]: Cover image not found (row 95)
+- [[Authors/Anton Chekhov/Books/La estepa En el barranco|La estepa / En el barranco]]: Cover image not found (row 47)
+- [[Authors/Apolodoro/Books/Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition)|Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition)]]: Cover image not found (row 89)
+- [[Authors/Aristophanes/Books/Comedias I. Los acarnienses. Los caballeros. Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition)|Comedias I. Los acarnienses. Los caballeros.: Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition)]]: Cover image not found (row 35)
+- [[Authors/Aristophanes/Books/Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition)|Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition)]]: Cover image not found (row 34)
+- [[Authors/Aristophanes/Books/Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition)|Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition)]]: Cover image not found (row 33)
+- [[Authors/Aristotle/Books/Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition)|Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition)]]: Cover image not found (row 113)
+- [[Authors/Aristotle/Books/Metafísica (Sepan Cuantos, Num. 120)|Metafísica (Sepan Cuantos, Num. 120)]]: Cover image not found (row 120)
+- [[Authors/Aristotle/Books/Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70)|Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70)]]: Cover image not found (row 123)
+- [[Authors/Arrian/Books/Equiridion, o manual de Epicteto (Spanish Edition)|Equiridion, o manual de Epicteto (Spanish Edition)]]: Cover image not found (row 119)
+- [[Authors/Arthur Schopenhauer/Books/Correspondencia escogida (1799-1860)|Correspondencia escogida (1799-1860)]]: Cover image not found (row 217)
+- [[Authors/Arthur Schopenhauer/Books/Dialectica eristica o el arte de tener razon (Spanish Edition)|Dialectica eristica o el arte de tener razon (Spanish Edition)]]: Cover image not found (row 267)
+- [[Authors/Arthur Schopenhauer/Books/El mundo como voluntad y representación I|El mundo como voluntad y representación I]]: Cover image not found (row 171)
+- [[Authors/Arthur Schopenhauer/Books/Parerga y paralipómena I|Parerga y paralipómena I]]: Cover image not found (row 266)
+- [[Authors/Augusto Monterroso/Books/El paraíso imperfecto Antología tímida|El paraíso imperfecto: Antología tímida]]: Cover image not found (row 377)
+- [[Authors/Barbara Morden/Books/John Martin Apocalypse Now!|John Martin: Apocalypse Now!]]: Cover image not found (row 262)
+- [[Authors/Byung-Chul Han/Books/La sociedad del cansancio|La sociedad del cansancio]]: Cover image not found (row 398)
+- [[Authors/Charles Dickens/Books/A Christmas Carol and Other Christmas Writings|A Christmas Carol and Other Christmas Writings]]: Cover image not found (row 218)
+- [[Authors/Christopher Hitchens/Books/Los jinetes del Apocalipsis Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition)|Los jinetes del Apocalipsis: Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition)]]: Cover image not found (row 405)
+- [[Authors/Confucius/Books/Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)|Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)]]: Cover image not found (row 176)
+- [[Authors/Ctesias de Cnido/Books/Historias de Persia (Persiká)|Historias de Persia: (Persiká)]]: Cover image not found (row 155)
+- [[Authors/Dante Alighieri/Books/La divina comedia|La divina comedia]]: Cover image not found (row 126)
+- [[Authors/David Hernández de la Fuente/Books/Oraculos griegos|Oraculos griegos]]: Cover image not found (row 148)
+- [[Authors/Derek Parfit/Books/Razones y personas|Razones y personas]]: Cover image not found (row 411)
+- [[Authors/Edward W. Said/Books/Orientalismo|Orientalismo]]: Cover image not found (row 276)
+- [[Authors/Facultad de Teología/Books/Sagrada Biblia Universidad de Navarra (Spanish Edition)|Sagrada Biblia: Universidad de Navarra (Spanish Edition)]]: Cover image not found (row 99)
+- [[Authors/Federico García Lorca/Books/Poemas escogidos (Spanish Edition)|Poemas escogidos (Spanish Edition)]]: Cover image not found (row 233)
+- [[Authors/Franz Kafka/Books/Carta al padre|Carta al padre]]: Cover image not found (row 4)
+- [[Authors/Franz Kafka/Books/El castillo|El castillo]]: Cover image not found (row 68)
+- [[Authors/Franz Kafka/Books/El desaparecido|El desaparecido]]: Cover image not found (row 86)
+- [[Authors/Franz Kafka/Books/El proceso|El proceso]]: Cover image not found (row 69)
+- [[Authors/Françoise Bonardel/Books/La vía hermética Introducción a la filosofía de Hermes (Spanish Edition)|La vía hermética: Introducción a la filosofía de Hermes (Spanish Edition)]]: Cover image not found (row 146)
+- [[Authors/Friedrich Nietzsche/Books/Así hablaba Zaratustra|Así hablaba Zaratustra]]: Cover image not found (row 11)
+- [[Authors/Friedrich Nietzsche/Books/El Anticristo|El Anticristo]]: Cover image not found (row 412)
+- [[Authors/Friedrich Nietzsche/Books/El origen de la tragedia. Helenismo y pesimismo|El origen de la tragedia. Helenismo y pesimismo]]: Cover image not found (row 378)
+- [[Authors/Friedrich Nietzsche/Books/Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430)|Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430)]]: Cover image not found (row 240)
+- [[Authors/Fyodor Dostoevsky/Books/Crime and Punishment|Crime and Punishment]]: Cover image not found (row 382)
+- [[Authors/Fyodor Dostoevsky/Books/Notes from the Underground (AmazonClassics Edition)|Notes from the Underground (AmazonClassics Edition)]]: Cover image not found (row 381)
+- [[Authors/Fyodor Dostoevsky/Books/Pobre gente|Pobre gente]]: Cover image not found (row 360)
+- [[Authors/Fyodor Dostoevsky/Books/The Brothers Karamazov|The Brothers Karamazov]]: Cover image not found (row 370)
+- [[Authors/Gabriel García-Noblejas/Books/Mitología clásica china|Mitología clásica china]]: Cover image not found (row 49)
+- [[Authors/Giovanni Boccaccio/Books/Decamerón|Decamerón]]: Cover image not found (row 345)
+- [[Authors/Gisèle Halimi/Books/Plaidoirie pour l'avortement|Plaidoirie pour l'avortement]]: Cover image not found (row 152)
+- [[Authors/H.P. Lovecraft/Books/La llamada de Chtulhu|La llamada de Chtulhu]]: Cover image not found (row 108)
+- [[Authors/H.P. Lovecraft/Books/Necronomicon The Best Weird Tales|Necronomicon: The Best Weird Tales]]: Cover image not found (row 374)
+- [[Authors/Harding Grant/Books/Lord Byron's Cain, a Mystery|Lord Byron's Cain, a Mystery]]: Cover image not found (row 183)
+- [[Authors/Harlan Ellison/Books/I Have No Mouth & I Must Scream|I Have No Mouth & I Must Scream]]: Cover image not found (row 93)
+- [[Authors/Hayao Miyazaki/Books/Art of the Boy and the Heron|Art of the Boy and the Heron]]: Cover image not found (row 24)
+- [[Authors/Heinz Insu Fenkl/Books/The Korean Myths A Guide to the Gods, Heroes and Legends|The Korean Myths: A Guide to the Gods, Heroes and Legends]]: Cover image not found (row 139)
+- [[Authors/Herman Melville/Books/Cuentos completos (Clásica Maior) (Spanish Edition)|Cuentos completos (Clásica Maior) (Spanish Edition)]]: Cover image not found (row 357)
+- [[Authors/Hermann Hesse/Books/Siddhartha (Spanish Edition)|Siddhartha (Spanish Edition)]]: Cover image not found (row 347)
+- [[Authors/Herodotus/Books/Los nueve libros de la historia (Sepan Cuantos, Num. 176)|Los nueve libros de la historia (Sepan Cuantos, Num. 176)]]: Cover image not found (row 333)
+- [[Authors/Homer/Books/La Ilíada (Sepan Cuantos, Num. 2)|La Ilíada (Sepan Cuantos, Num. 2)]]: Cover image not found (row 125)
+- [[Authors/Honoré de Balzac/Books/Cuentos filosóficos (Spanish Edition)|Cuentos filosóficos (Spanish Edition)]]: Cover image not found (row 203)
+- [[Authors/Immanuel Kant/Books/Lo bello y lo sublime ensayo de estetica y moral|Lo bello y lo sublime ensayo de estetica y moral]]: Cover image not found (row 409)
+- [[Authors/Isaac Asimov/Books/Prelude to Foundation (Foundation, Num. 6)|Prelude to Foundation (Foundation, Num. 6)]]: Cover image not found (row 53)
+- [[Authors/Ivan Turgenev/Books/Novelas cortas (Clásica Maior) (Spanish Edition)|Novelas cortas (Clásica Maior) (Spanish Edition)]]: Cover image not found (row 356)
+- [[Authors/J.R.R. Tolkien/Books/Las dos torres (El señor de los anillos, Num. 2)|Las dos torres (El señor de los anillos, Num. 2)]]: Cover image not found (row 158)
+- [[Authors/J.R.R. Tolkien/Books/The Hobbit Or There and Back Again|The Hobbit: Or There and Back Again]]: Cover image not found (row 80)
+- [[Authors/Jackson Crawford/Books/The Poetic Edda Stories of the Norse Gods and Heroes|The Poetic Edda: Stories of the Norse Gods and Heroes]]: Cover image not found (row 329)
+- [[Authors/Jacob Grimm/Books/Grimm's Fairy Tales|Grimm's Fairy Tales]]: Cover image not found (row 160)
+- [[Authors/Jean-Jacques Rousseau/Books/Confesiones (Sepan Cuantos, Num. 470)|Confesiones (Sepan Cuantos, Num. 470)]]: Cover image not found (row 115)
+- [[Authors/Jean-Jacques Rousseau/Books/El contrato social o Principios de derecho político|El contrato social o Principios de derecho político]]: Cover image not found (row 421)
+- [[Authors/Jean-Jacques Rousseau/Books/Emilio o De la Educación. (Sepan Cuantos, Num. 159)|Emilio o De la Educación. (Sepan Cuantos, Num. 159)]]: Cover image not found (row 408)
+- [[Authors/Jean-Paul Sartre/Books/El existencialismo es un humanismo|El existencialismo es un humanismo]]: Cover image not found (row 394)
+- [[Authors/Jean-Paul Sartre/Books/Las palabras|Las palabras]]: Cover image not found (row 389)
+- [[Authors/Jean-Paul Sartre/Books/Nausea|Nausea]]: Cover image not found (row 74)
+- [[Authors/Johannes Grave/Books/Caspar David Friedrich|Caspar David Friedrich]]: Cover image not found (row 261)
+- [[Authors/John Keats/Books/Endymion|Endymion]]: Cover image not found (row 225)
+- [[Authors/John Keats/Books/Otho the Great|Otho the Great]]: Cover image not found (row 205)
+- [[Authors/John Stuart Mill/Books/On Liberty|On Liberty]]: Cover image not found (row 407)
+- [[Authors/Jonathan Haskel/Books/Capitalism without Capital The Rise of the Intangible Economy|Capitalism without Capital: The Rise of the Intangible Economy]]: Cover image not found (row 365)
+- [[Authors/Jonathan M. Hall/Books/A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)|A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)]]: Cover image not found (row 188)
+- [[Authors/Jordan B. Peterson/Books/12 reglas para vivir Un antídoto al caos|12 reglas para vivir: Un antídoto al caos]]: Cover image not found (row 404)
+- [[Authors/Jorge Luis Borges/Books/El Aleph|El Aleph]]: Cover image not found (row 3)
+- [[Authors/Jorge Luis Borges/Books/Poesía completa|Poesía completa]]: Cover image not found (row 107)
+- [[Authors/Joseph Campbell/Books/El héroe de las mil caras|El héroe de las mil caras]]: Cover image not found (row 222)
+- [[Authors/Joshua Frydman/Books/Los mitos japoneses Una guía de sus dioses, héroes y espíritus|Los mitos japoneses: Una guía de sus dioses, héroes y espíritus]]: Cover image not found (row 144)
+- [[Authors/José Gaos/Books/Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition)|Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition)]]: Cover image not found (row 388)
+- [[Authors/José Vasconcelos/Books/La Raza Cosmica|La Raza Cosmica]]: Cover image not found (row 250)
+- [[Authors/Juan Miguel de Mora/Books/Rig Veda|Rig Veda]]: Cover image not found (row 242)
+- [[Authors/Juan Rivano/Books/Diogenes Los temas del cinismo (Spanish Edition)|Diogenes: Los temas del cinismo (Spanish Edition)]]: Cover image not found (row 406)
+- [[Authors/Juan Rulfo/Books/El gallo de oro y otros relatos|El gallo de oro y otros relatos]]: Cover image not found (row 368)
+- [[Authors/Junji Ito/Books/地獄星 レミナ Jiigokusei Remina|地獄星 レミナ [Jiigokusei Remina]]]: Cover image not found (row 32)
+- [[Authors/Karl Marx/Books/Tesis sobre Feuerbach (Spanish Edition)|Tesis sobre Feuerbach (Spanish Edition)]]: Cover image not found (row 384)
+- [[Authors/Kentaro Miura/Books/Berserk Volume 41|Berserk Volume 41]]: Cover image not found (row 73)
+- [[Authors/Kentaro Miura/Books/Berserk, Vol. 3 (Berserk, Num. 3)|Berserk, Vol. 3 (Berserk, Num. 3)]]: Cover image not found (row 322)
+- [[Authors/Krishna-Dwaipayana Vyasa/Books/Bhagavad Gita|Bhagavad Gita]]: Cover image not found (row 97)
+- [[Authors/Leo Tolstoy/Books/Guerra y paz|Guerra y paz]]: Cover image not found (row 278)
+- [[Authors/Leo Tolstoy/Books/Relatos (Minus nº 79) (Spanish Edition)|Relatos (Minus nº 79) (Spanish Edition)]]: Cover image not found (row 279)
+- [[Authors/Leo Tolstoy/Books/Relatos de Sevastópol|Relatos de Sevastópol]]: Cover image not found (row 100)
+- [[Authors/Lester Vernon Chandler/Books/Introduccion A La Teoria Monetaria|Introduccion A La Teoria Monetaria]]: Cover image not found (row 419)
+- [[Authors/Lewis Carroll/Books/Alice's Adventures in Wonderland ( Amazon Classics Edition ) |Alice's Adventures in Wonderland : ( Amazon Classics Edition ) ...]]: Cover image not found (row 238)
+- [[Authors/Liu Cixin/Books/The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)|The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)]]: Cover image not found (row 135)
+- [[Authors/Lord Byron/Books/Sardanapalus A Tragedy|Sardanapalus: A Tragedy]]: Cover image not found (row 200)
+- [[Authors/Lord Byron/Books/The Prophecy Of Dante A Poem|The Prophecy Of Dante: A Poem]]: Cover image not found (row 254)
+- [[Authors/Lucio Anneo Séneca/Books/Séneca (Biblioteca Grandes Pensadores nº 32) (Spanish Edition)|Séneca (Biblioteca Grandes Pensadores nº 32) (Spanish Edition)]]: Cover image not found (row 185)
+- [[Authors/Mao Zedong/Books/El Libro Rojo de Mao|El Libro Rojo de Mao]]: Cover image not found (row 112)
+- [[Authors/Marc Lichtenfeld/Books/You Don't Have to Drive an Uber in Retirement How to Maintain Your Lifestyle without Getting a Job or Cutting Corners|You Don't Have to Drive an Uber in Retirement: How to Maintain Your Lifestyle without Getting a Job or Cutting Corners]]: Cover image not found (row 402)
+- [[Authors/Mariana Mazzucato/Books/The Value of Everything Making and Taking in the Global Economy|The Value of Everything: Making and Taking in the Global Economy]]: Cover image not found (row 434)
+- [[Authors/Martin Heidegger/Books/Camino de campo Der Feldweg (Spanish Edition)|Camino de campo: Der Feldweg (Spanish Edition)]]: Cover image not found (row 60)
+- [[Authors/Martin Heidegger/Books/¿Qué es la filosofía (Spanish Edition)|¿Qué es la filosofía? (Spanish Edition)]]: Cover image not found (row 387)
+- [[Authors/Mary Beard/Books/SPQR Una historia de la antigua Roma|SPQR: Una historia de la antigua Roma]]: Cover image not found (row 416)
+- [[Authors/Mary Wollstonecraft Shelley/Books/Frankenstein|Frankenstein]]: Cover image not found (row 103)
+- [[Authors/Masato Tanaka/Books/Gran historia visual de la filosofía|Gran historia visual de la filosofía]]: Cover image not found (row 277)
+- [[Authors/Matt Manero/Books/You Need More Money Wake Up and Solve Your Financial Problems Once And For All|You Need More Money: Wake Up and Solve Your Financial Problems Once And For All]]: Cover image not found (row 70)
+- [[Authors/Niccolò Machiavelli/Books/El Príncipe|El Príncipe]]: Cover image not found (row 12)
+- [[Authors/Ovidio/Books/Las Metamorfosis. (Sepan Cuantos, Num. 316)|Las Metamorfosis. (Sepan Cuantos, Num. 316)]]: Cover image not found (row 106)
+- [[Authors/Paul-Alain Beaulieu/Books/A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World)|A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World)]]: Cover image not found (row 190)
+- [[Authors/Paul-Henri Thiry d'Holbach/Books/El cristianismo al descubierto (Los ilustrados, Num. 2)|El cristianismo al descubierto (Los ilustrados, Num. 2)]]: Cover image not found (row 29)
+- [[Authors/Pedro Calderón de la Barca/Books/La vida es sueño|La vida es sueño]]: Cover image not found (row 367)
+- [[Authors/Percy Bysshe Shelley/Books/Prometheus Unbound A Lyrical Drama in Four Acts|Prometheus Unbound: A Lyrical Drama in Four Acts]]: Cover image not found (row 182)
+- [[Authors/Percy Bysshe Shelley/Books/Selected Poems and Prose (Penguin Classics)|Selected Poems and Prose (Penguin Classics)]]: Cover image not found (row 180)
+- [[Authors/Percy Bysshe Shelley/Books/The Cenci A Tragedy in Five Acts An Authoritative Text Based on the 1819 Edition|The Cenci: A Tragedy in Five Acts: An Authoritative Text Based on the 1819 Edition]]: Cover image not found (row 181)
+- [[Authors/Platón/Books/Diálogos (Sepan Cuantos, Num. 13)|Diálogos (Sepan Cuantos, Num. 13)]]: Cover image not found (row 116)
+- [[Authors/Richard Dawkins/Books/The Selfish Gene|The Selfish Gene]]: Cover image not found (row 413)
+- [[Authors/Robert Malcolm Errington/Books/A History of the Hellenistic World 323 - 30 BC (Blackwell History of the Ancient World Book 16)|A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16)]]: Cover image not found (row 187)
+- [[Authors/Roberto Calasso/Books/Las bodas de Cadmo y Harmonía|Las bodas de Cadmo y Harmonía]]: Cover image not found (row 270)
+- [[Authors/Robin Lane Fox/Books/Alejandro Magno Conquistador del mundo|Alejandro Magno: Conquistador del mundo]]: Cover image not found (row 20)
+- [[Authors/Robin Lane Fox/Books/Homer and His Iliad|Homer and His Iliad]]: Cover image not found (row 43)
+- [[Authors/Rudyard Kipling/Books/Los libros de la selva (Alba Maior) (Spanish Edition)|Los libros de la selva (Alba Maior) (Spanish Edition)]]: Cover image not found (row 376)
+- [[Authors/Sappho/Books/No creo poder tocar el cielo con las manos|No creo poder tocar el cielo con las manos]]: Cover image not found (row 317)
+- [[Authors/Seneca/Books/De la brevedad de la vida y otras cartas filosóficas (Spanish Edition)|De la brevedad de la vida: y otras cartas filosóficas (Spanish Edition)]]: Cover image not found (row 118)
+- [[Authors/Stefan Zweig/Books/Los ojos del hermano eterno|Los ojos del hermano eterno]]: Cover image not found (row 81)
+- [[Authors/T.W. Rolleston/Books/Mitos y leyendas Celtas|Mitos y leyendas Celtas]]: Cover image not found (row 23)
+- [[Authors/Tao Tao Liu/Books/Los mitos chinos Una guía de sus dioses y leyendas|Los mitos chinos: Una guía de sus dioses y leyendas]]: Cover image not found (row 143)
+- [[Authors/Thomas Malory/Books/La muerte de Arturo|La muerte de Arturo]]: Cover image not found (row 142)
+- [[Authors/Thomas More/Books/Utopía. (Sepan Cuantos, Num. 282)|Utopía. (Sepan Cuantos, Num. 282)]]: Cover image not found (row 422)
+- [[Authors/Various/Books/El libro de la mitología|El libro de la mitología]]: Cover image not found (row 162)
+- [[Authors/Victor Parker/Books/A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)|A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)]]: Cover image not found (row 189)
+- [[Authors/Vince Beiser/Books/The World in a Grain The Story of Sand and How It Transformed Civilization|The World in a Grain: The Story of Sand and How It Transformed Civilization]]: Cover image not found (row 137)
+- [[Authors/Virgil/Books/Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147)|Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147)]]: Cover image not found (row 48)
+- [[Authors/Vālmīki/Books/Ramayana, 35th Anniversary Edition|Ramayana, 35th Anniversary Edition]]: Cover image not found (row 282)
+- [[Authors/Walter F. Otto/Books/Dioniso Mito y culto (Spanish Edition)|Dioniso: Mito y culto (Spanish Edition)]]: Cover image not found (row 145)
+- [[Authors/Wilhelm Gwinner/Books/Arthur Schopenhauer presentado desde el trato personal Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)|Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)]]: Cover image not found (row 264)
+- [[Authors/William Shakespeare/Books/Coriolano|Coriolano]]: Cover image not found (row 84)
+- [[Authors/William Shakespeare/Books/El rey Lear (edición ilustrada y bilingüe)|El rey Lear (edición ilustrada y bilingüe)]]: Cover image not found (row 211)
+- [[Authors/William Shakespeare/Books/Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86)|Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86)]]: Cover image not found (row 102)
+- [[Authors/William Shakespeare/Books/Tito Andronico|Tito Andronico]]: Cover image not found (row 82)
+- [[Authors/Witi Ihimaera/Books/Pūrākau Māori Myths Retold by Māori Writers|Pūrākau: Māori Myths Retold by Māori Writers]]: Cover image not found (row 385)
+- [[Authors/Yuji Oniki/Books/The Art of Howl's Moving Castle|The Art of Howl's Moving Castle]]: Cover image not found (row 38)
+
+## Failed Author Biographies
+- Kayoko Takagi: Codex biography generation timed out for Kayoko Takagi.
+- Tao Tao Liu: Codex biography generation timed out for Tao Tao Liu.
+
+## Broken Book Materialization
+- None.
+
+## Missing Bookshelves
+- None.
+
+## Missing ISBN / ISBN13
+- [[Authors/Albert Camus/Books/El extranjero|El extranjero]]: No ISBN or ISBN13 found (row 75)
+- [[Authors/Albert Camus/Books/La peste|La peste]]: No ISBN or ISBN13 found (row 76)
+- [[Authors/Algernon Blackwood/Books/The Wendigo|The Wendigo]]: No ISBN or ISBN13 found (row 64)
+- [[Authors/Anton Chekhov/Books/La estepa En el barranco|La estepa / En el barranco]]: No ISBN or ISBN13 found (row 47)
+- [[Authors/Arthur C. Clarke/Books/Childhood’s End|Childhood’s End]]: No ISBN or ISBN13 found (row 27)
+- [[Authors/Arthur C. Clarke/Books/The City and the Stars|The City and the Stars]]: No ISBN or ISBN13 found (row 26)
+- [[Authors/Byung-Chul Han/Books/La sociedad del cansancio|La sociedad del cansancio]]: No ISBN or ISBN13 found (row 398)
+- [[Authors/Charles Dickens/Books/A Christmas Carol and Other Christmas Writings|A Christmas Carol and Other Christmas Writings]]: No ISBN or ISBN13 found (row 218)
+- [[Authors/Confucius/Books/Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)|Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)]]: No ISBN or ISBN13 found (row 176)
+- [[Authors/Daniel Defoe/Books/Robinson Crusoe|Robinson Crusoe]]: No ISBN or ISBN13 found (row 141)
+- [[Authors/Edward W. Said/Books/Orientalismo|Orientalismo]]: No ISBN or ISBN13 found (row 276)
+- [[Authors/Facultad de Teología/Books/Sagrada Biblia Universidad de Navarra (Spanish Edition)|Sagrada Biblia: Universidad de Navarra (Spanish Edition)]]: No ISBN or ISBN13 found (row 99)
+- [[Authors/Federico García Lorca/Books/Poemas escogidos (Spanish Edition)|Poemas escogidos (Spanish Edition)]]: No ISBN or ISBN13 found (row 233)
+- [[Authors/Franz Kafka/Books/Contemplación|Contemplación]]: No ISBN or ISBN13 found (row 391)
+- [[Authors/Franz Kafka/Books/Un artista del hambre|Un artista del hambre]]: No ISBN or ISBN13 found (row 109)
+- [[Authors/George Orwell/Books/1984|1984]]: No ISBN or ISBN13 found (row 132)
+- [[Authors/Gustav Meyrink/Books/El golem|El golem]]: No ISBN or ISBN13 found (row 202)
+- [[Authors/Harper Lee/Books/To Kill a Mockingbird|To Kill a Mockingbird]]: No ISBN or ISBN13 found (row 151)
+- [[Authors/Honoré de Balzac/Books/Cuentos filosóficos (Spanish Edition)|Cuentos filosóficos (Spanish Edition)]]: No ISBN or ISBN13 found (row 203)
+- [[Authors/Immanuel Kant/Books/Lo bello y lo sublime ensayo de estetica y moral|Lo bello y lo sublime ensayo de estetica y moral]]: No ISBN or ISBN13 found (row 409)
+- [[Authors/Isaac Asimov/Books/Prelude to Foundation (Foundation, Num. 6)|Prelude to Foundation (Foundation, Num. 6)]]: No ISBN or ISBN13 found (row 53)
+- [[Authors/J.R.R. Tolkien/Books/Las dos torres (El señor de los anillos, Num. 2)|Las dos torres (El señor de los anillos, Num. 2)]]: No ISBN or ISBN13 found (row 158)
+- [[Authors/J.R.R. Tolkien/Books/The Hobbit Or There and Back Again|The Hobbit: Or There and Back Again]]: No ISBN or ISBN13 found (row 80)
+- [[Authors/Jack Weatherford/Books/Genghis Khan and the Making of the Modern World|Genghis Khan and the Making of the Modern World]]: No ISBN or ISBN13 found (row 21)
+- [[Authors/Jacob Grimm/Books/Grimm's Fairy Tales|Grimm's Fairy Tales]]: No ISBN or ISBN13 found (row 160)
+- [[Authors/James Baldwin/Books/Giovanni’s Room|Giovanni’s Room]]: No ISBN or ISBN13 found (row 154)
+- [[Authors/Jean-Paul Sartre/Books/Nausea|Nausea]]: No ISBN or ISBN13 found (row 74)
+- [[Authors/Jonathan M. Hall/Books/A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)|A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)]]: No ISBN or ISBN13 found (row 188)
+- [[Authors/José Saramago/Books/Ensayo sobre la ceguera|Ensayo sobre la ceguera]]: No ISBN or ISBN13 found (row 355)
+- [[Authors/Juan Rivano/Books/Diogenes Los temas del cinismo (Spanish Edition)|Diogenes: Los temas del cinismo (Spanish Edition)]]: No ISBN or ISBN13 found (row 406)
+- [[Authors/Karl Marx/Books/Tesis sobre Feuerbach (Spanish Edition)|Tesis sobre Feuerbach (Spanish Edition)]]: No ISBN or ISBN13 found (row 384)
+- [[Authors/Leo Tolstoy/Books/La Muerte de Iván Ilich|La Muerte de Iván Ilich]]: No ISBN or ISBN13 found (row 273)
+- [[Authors/Lester Vernon Chandler/Books/Introduccion A La Teoria Monetaria|Introduccion A La Teoria Monetaria]]: No ISBN or ISBN13 found (row 419)
+- [[Authors/Lewis Carroll/Books/Alice's Adventures in Wonderland ( Amazon Classics Edition ) |Alice's Adventures in Wonderland : ( Amazon Classics Edition ) ...]]: No ISBN or ISBN13 found (row 238)
+- [[Authors/Liu Cixin/Books/The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)|The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)]]: No ISBN or ISBN13 found (row 135)
+- [[Authors/Nikolai Gogol/Books/La Nariz|La Nariz]]: No ISBN or ISBN13 found (row 138)
+- [[Authors/Philip K. Dick/Books/Do Androids Dream of Electric Sheep|Do Androids Dream of Electric Sheep?]]: No ISBN or ISBN13 found (row 326)
+- [[Authors/Ray Bradbury/Books/Fahrenheit 451|Fahrenheit 451]]: No ISBN or ISBN13 found (row 133)
+- [[Authors/Raúl Prebisch/Books/Introducción a Keynes|Introducción a Keynes]]: No ISBN or ISBN13 found (row 420)
+- [[Authors/Robert Malcolm Errington/Books/A History of the Hellenistic World 323 - 30 BC (Blackwell History of the Ancient World Book 16)|A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16)]]: No ISBN or ISBN13 found (row 187)
+- [[Authors/T.W. Rolleston/Books/Mitos y leyendas Celtas|Mitos y leyendas Celtas]]: No ISBN or ISBN13 found (row 23)
+- [[Authors/Victor Parker/Books/A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)|A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)]]: No ISBN or ISBN13 found (row 189)
+- [[Authors/W.W. Jacobs/Books/La pata de mono|La pata de mono]]: No ISBN or ISBN13 found (row 328)
+- [[Authors/Wilhelm Gwinner/Books/Arthur Schopenhauer presentado desde el trato personal Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)|Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)]]: No ISBN or ISBN13 found (row 264)
+
+## Missing Authors
+- [[Authors/Anonymous/Books/Beowulf Traducción y comentario|Beowulf: Traducción y comentario]]: Author missing or anonymous; linked to Anonymous (row 237)
+- [[Authors/Anonymous/Books/Dhammapada|Dhammapada]]: Author missing or anonymous; linked to Anonymous (row 348)
+- [[Authors/Anonymous/Books/El cantar de los Nibelungos (Sepan Cuantos, Num. 285)|El cantar de los Nibelungos (Sepan Cuantos, Num. 285)]]: Author missing or anonymous; linked to Anonymous (row 268)
+- [[Authors/Anonymous/Books/El libro de Enoc (Spanish Edition)|El libro de Enoc (Spanish Edition)]]: Author missing or anonymous; linked to Anonymous (row 206)
+- [[Authors/Anonymous/Books/Evangelios Apócrifos (Sepan Cuantos, Num. 602)|Evangelios Apócrifos (Sepan Cuantos, Num. 602)]]: Author missing or anonymous; linked to Anonymous (row 344)
+- [[Authors/Anonymous/Books/La epopeya de Gilgamesh|La epopeya de Gilgamesh]]: Author missing or anonymous; linked to Anonymous (row 351)
+- [[Authors/Anonymous/Books/Las mil y una noches|Las mil y una noches]]: Author missing or anonymous; linked to Anonymous (row 104)
+- [[Authors/Anonymous/Books/Mahabharata|Mahabharata]]: Author missing or anonymous; linked to Anonymous (row 281)
+- [[Authors/Anonymous/Books/Myths from Mesopotamia Creation, the Flood, Gilgamesh, and Others|Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others]]: Author missing or anonymous; linked to Anonymous (row 71)
+- [[Authors/Anonymous/Books/Popol Vuh|Popol Vuh]]: Author missing or anonymous; linked to Anonymous (row 331)
+- [[Authors/Anonymous/Books/The Egyptian Book of the Dead The Book of Going Forth by Day The Complete Papyrus of Ani|The Egyptian Book of the Dead: The Book of Going Forth by Day: The Complete Papyrus of Ani]]: Author missing or anonymous; linked to Anonymous (row 173)
+- [[Authors/Anonymous/Books/The Qur'an|The Qur'an]]: Author missing or anonymous; linked to Anonymous (row 79)
+- [[Authors/Anonymous/Books/The Táin From the Irish Epic Táin Bó Cúailnge|The Táin: From the Irish Epic Táin Bó Cúailnge]]: Author missing or anonymous; linked to Anonymous (row 339)
+- [[Authors/Anonymous/Books/Upanisads|Upanisads]]: Author missing or anonymous; linked to Anonymous (row 209)
+
+## API Errors
+- Google Books search failed for A Christmas Carol and Other Christmas Writings: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22A+Christmas+Carol+and+Other+Christmas+Writings%22%2Binauthor%3A%22Charles+Dickens%22&maxResults=1
+- Google Books search failed for A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22A+History+of+Greece%2C+1300+to+30+BC+%28Blackwell+History+of+the+Ancient+World%29%22%2Binauthor%3A%22Victor+Parker%22&maxResults=1
+- Google Books search failed for A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22A+History+of+the+Archaic+Greek+World%2C+ca.+1200-479+BCE+%28Blackwell+History+of+the+Ancient+World%29%22%2Binauthor%3A%22Jonathan+M.+Hall%22&maxResults=1
+- Google Books search failed for A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22A+History+of+the+Hellenistic+World%3A+323+-+30+BC+%28Blackwell+History+of+the+Ancient+World+Book+16%29%22%2Binauthor%3A%22Robert+Malcolm+Errington%22&maxResults=1
+- Google Books search failed for Alice's Adventures in Wonderland : ( Amazon Classics Edition ) ...: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Alice%27s+Adventures+in+Wonderland+%3A+%28+Amazon+Classics+Edition+%29+...%22%2Binauthor%3A%22Lewis+Carroll%22&maxResults=1
+- Google Books search failed for Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Arthur+Schopenhauer+presentado+desde+el+trato+personal%3A+Una+mirada+a+su+vida%2C+su+car%C3%A1cter+y+su+pensamiento+%28Spanish+Edition%29%22%2Binauthor%3A%22Wilhelm+Gwinner%22&maxResults=1
+- Google Books search failed for Cuentos filosóficos (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Cuentos+filos%C3%B3ficos+%28Spanish+Edition%29%22%2Binauthor%3A%22Honor%C3%A9+de+Balzac%22&maxResults=1
+- Google Books search failed for Diogenes: Los temas del cinismo (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Diogenes%3A+Los+temas+del+cinismo+%28Spanish+Edition%29%22%2Binauthor%3A%22Juan+Rivano%22&maxResults=1
+- Google Books search failed for El extranjero: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22El+extranjero%22%2Binauthor%3A%22Albert+Camus%22&maxResults=1
+- Google Books search failed for Grimm's Fairy Tales: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Grimm%27s+Fairy+Tales%22%2Binauthor%3A%22Jacob+Grimm%22&maxResults=1
+- Google Books search failed for Introduccion A La Teoria Monetaria: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Introduccion+A+La+Teoria+Monetaria%22%2Binauthor%3A%22Lester+Vernon+Chandler%22&maxResults=1
+- Google Books search failed for La estepa / En el barranco: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22La+estepa+%2F+En+el+barranco%22%2Binauthor%3A%22Anton+Chekhov%22&maxResults=1
+- Google Books search failed for La sociedad del cansancio: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22La+sociedad+del+cansancio%22%2Binauthor%3A%22Byung-Chul+Han%22&maxResults=1
+- Google Books search failed for Las dos torres (El señor de los anillos, Num. 2): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Las+dos+torres+%28El+se%C3%B1or+de+los+anillos%2C+%232%29%22%2Binauthor%3A%22J.R.R.+Tolkien%22&maxResults=1
+- Google Books search failed for Lo bello y lo sublime ensayo de estetica y moral: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Lo+bello+y+lo+sublime+ensayo+de+estetica+y+moral%22%2Binauthor%3A%22Immanuel+Kant%22&maxResults=1
+- Google Books search failed for Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Los+Cuatro+Libros+De+Confucio%2C+Confucio+y+Mencio%3B+Colecci%C3%B3n+La+Cr%C3%ADtica+Literaria+por+el+c%C3%A9lebre+cr%C3%ADtico+literario+Juan+Bautista+Bergua%2C+Ediciones+Ib%C3%A9ricas+%28Spanish+Edition%29%22%2Binauthor%3A%22Confucius%22&maxResults=1
+- Google Books search failed for Mitos y leyendas Celtas: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Mitos+y+leyendas+Celtas%22%2Binauthor%3A%22T.W.+Rolleston%22&maxResults=1
+- Google Books search failed for Nausea: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Nausea%22%2Binauthor%3A%22Jean-Paul+Sartre%22&maxResults=1
+- Google Books search failed for Orientalismo: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Orientalismo%22%2Binauthor%3A%22Edward+W.+Said%22&maxResults=1
+- Google Books search failed for Poemas escogidos (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Poemas+escogidos+%28Spanish+Edition%29%22%2Binauthor%3A%22Federico+Garc%C3%ADa+Lorca%22&maxResults=1
+- Google Books search failed for Prelude to Foundation (Foundation, Num. 6): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Prelude+to+Foundation+%28Foundation%2C+%236%29%22%2Binauthor%3A%22Isaac+Asimov%22&maxResults=1
+- Google Books search failed for Sagrada Biblia: Universidad de Navarra (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Sagrada+Biblia%3A+Universidad+de+Navarra+%28Spanish+Edition%29%22%2Binauthor%3A%22Facultad+de+Teolog%C3%ADa%22&maxResults=1
+- Google Books search failed for Tesis sobre Feuerbach (Spanish Edition): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22Tesis+sobre+Feuerbach+%28Spanish+Edition%29%22%2Binauthor%3A%22Karl+Marx%22&maxResults=1
+- Google Books search failed for The Hobbit: Or There and Back Again: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22The+Hobbit%3A+Or+There+and+Back+Again%22%2Binauthor%3A%22J.R.R.+Tolkien%22&maxResults=1
+- Google Books search failed for The Three-Body Problem (Remembrance of Earth’s Past, Num. 1): 429 Client Error: Too Many Requests for url: https://www.googleapis.com/books/v1/volumes?q=intitle%3A%22The+Three-Body+Problem+%28Remembrance+of+Earth%E2%80%99s+Past%2C+%231%29%22%2Binauthor%3A%22Liu+Cixin%22&maxResults=1
+- Wikipedia search failed for A Christmas Carol and Other Christmas Writings: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/A_Christmas_Carol_and_Other_Christmas_Writings
+- Wikipedia search failed for A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/A_History_of_Greece,_1300_to_30_BC_(Blackwell_History_of_the_Ancient_World)
+- Wikipedia search failed for A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/A_History_of_the_Archaic_Greek_World,_ca._1200-479_BCE_(Blackwell_History_of_the_Ancient_World)
+- Wikipedia search failed for A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/A_History_of_the_Hellenistic_World%3A_323_-_30_BC_(Blackwell_History_of_the_Ancient_World_Book_16)
+- Wikipedia search failed for Alice's Adventures in Wonderland : ( Amazon Classics Edition ) ...: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Alice%27s_Adventures_in_Wonderland_%3A_(_Amazon_Classics_Edition_)_...
+- Wikipedia search failed for Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Arthur_Schopenhauer_presentado_desde_el_trato_personal%3A_Una_mirada_a_su_vida,_su_car%C3%A1cter_y_su_pensamiento_(Spanish_Edition)
+- Wikipedia search failed for Cuentos filosóficos (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Cuentos_filos%C3%B3ficos_(Spanish_Edition)
+- Wikipedia search failed for Diogenes: Los temas del cinismo (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Diogenes%3A_Los_temas_del_cinismo_(Spanish_Edition)
+- Wikipedia search failed for El extranjero: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/El_extranjero
+- Wikipedia search failed for Grimm's Fairy Tales: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Grimm%27s_Fairy_Tales
+- Wikipedia search failed for Introduccion A La Teoria Monetaria: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Introduccion_A_La_Teoria_Monetaria
+- Wikipedia search failed for La estepa / En el barranco: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/La_estepa_%2F_En_el_barranco
+- Wikipedia search failed for La sociedad del cansancio: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/La_sociedad_del_cansancio
+- Wikipedia search failed for Las dos torres (El señor de los anillos, Num. 2): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Las_dos_torres_(El_se%C3%B1or_de_los_anillos,_%232)
+- Wikipedia search failed for Lo bello y lo sublime ensayo de estetica y moral: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Lo_bello_y_lo_sublime_ensayo_de_estetica_y_moral
+- Wikipedia search failed for Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Los_Cuatro_Libros_De_Confucio,_Confucio_y_Mencio%3B_Colecci%C3%B3n_La_Cr%C3%ADtica_Literaria_por_el_c%C3%A9lebre_cr%C3%ADtico_literario_Juan_Bautista_Bergua,_Ediciones_Ib%C3%A9ricas_(Spanish_Edition)
+- Wikipedia search failed for Mitos y leyendas Celtas: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Mitos_y_leyendas_Celtas
+- Wikipedia search failed for Nausea: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Nausea
+- Wikipedia search failed for Orientalismo: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Orientalismo
+- Wikipedia search failed for Poemas escogidos (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Poemas_escogidos_(Spanish_Edition)
+- Wikipedia search failed for Prelude to Foundation (Foundation, Num. 6): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Prelude_to_Foundation_(Foundation,_%236)
+- Wikipedia search failed for Sagrada Biblia: Universidad de Navarra (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Sagrada_Biblia%3A_Universidad_de_Navarra_(Spanish_Edition)
+- Wikipedia search failed for Tesis sobre Feuerbach (Spanish Edition): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Tesis_sobre_Feuerbach_(Spanish_Edition)
+- Wikipedia search failed for The Hobbit: Or There and Back Again: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/The_Hobbit%3A_Or_There_and_Back_Again
+- Wikipedia search failed for The Three-Body Problem (Remembrance of Earth’s Past, Num. 1): 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/The_Three-Body_Problem_(Remembrance_of_Earth%E2%80%99s_Past,_%231)
+
+## Parse Issues
+- None.

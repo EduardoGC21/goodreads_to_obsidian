@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.tmp_test/
+Thumbs.db
+Desktop.ini
+*.png
+*.jpg
+*.jpeg

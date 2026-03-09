@@ -1,0 +1,29 @@
+---
+title: "Los reyes"
+author: "[[Authors/Julio Cortázar/Julio Cortázar|Julio Cortázar]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2023-07-09"
+date_read: "2023-07-09"
+language: "Spanish"
+isbn: "9505112300"
+isbn13: "9789505112302"
+pages: 88
+format: "physical"
+cover: "[[Attachments/Covers/Julio Cortázar - Los reyes.jpg]]"
+bookshelves:
+  - "[[mitología]]"
+  - "[[poesía]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# Los reyes
+
+![|200]([[Attachments/Covers/Julio Cortázar - Los reyes.jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

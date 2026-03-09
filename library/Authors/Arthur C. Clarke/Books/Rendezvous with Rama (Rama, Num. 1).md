@@ -1,0 +1,29 @@
+---
+title: "Rendezvous with Rama (Rama, Num. 1)"
+author: "[[Authors/Arthur C. Clarke/Arthur C. Clarke|Arthur C. Clarke]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2022-06-01"
+date_read: "2022-06-09"
+language: "English"
+isbn: "1857231589"
+isbn13: "9781857231588"
+pages: 243
+format: "physical"
+cover: "[[Attachments/Covers/Arthur C. Clarke - Rendezvous with Rama (Rama, Num. 1).jpg]]"
+bookshelves:
+  - "[[ciencia-ficción]]"
+  - "[[novelas]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# Rendezvous with Rama (Rama, Num. 1)
+
+![|200]([[Attachments/Covers/Arthur C. Clarke - Rendezvous with Rama (Rama, Num. 1).jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

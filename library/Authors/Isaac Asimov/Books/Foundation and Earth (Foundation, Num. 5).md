@@ -1,0 +1,29 @@
+---
+title: "Foundation and Earth (Foundation, Num. 5)"
+author: "[[Authors/Isaac Asimov/Isaac Asimov|Isaac Asimov]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2025-11-16"
+date_read: "2025-11-24"
+language: "English"
+isbn: "0553587579"
+isbn13: "9780553587579"
+pages: 499
+format: "physical"
+cover: "[[Attachments/Covers/Isaac Asimov - Foundation and Earth (Foundation, Num. 5).jpg]]"
+bookshelves:
+  - "[[ciencia-ficción]]"
+  - "[[novelas]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# Foundation and Earth (Foundation, Num. 5)
+
+![|200]([[Attachments/Covers/Isaac Asimov - Foundation and Earth (Foundation, Num. 5).jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

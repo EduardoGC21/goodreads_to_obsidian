@@ -1,0 +1,29 @@
+---
+title: "No Longer Human"
+author: "[[Authors/Junji Ito/Junji Ito|Junji Ito]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2025-09-11"
+date_read: "2025-09-12"
+language: "Unknown"
+isbn: "1974707091"
+isbn13: "9781974707096"
+pages: 616
+format: "physical"
+cover: "[[Attachments/Covers/Junji Ito - No Longer Human.jpg]]"
+bookshelves:
+  - "[[manga]]"
+  - "[[miedo]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# No Longer Human
+
+![|200]([[Attachments/Covers/Junji Ito - No Longer Human.jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

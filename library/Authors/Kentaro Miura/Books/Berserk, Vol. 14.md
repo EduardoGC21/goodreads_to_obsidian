@@ -1,0 +1,29 @@
+---
+title: "Berserk, Vol. 14"
+author: "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2021-11-14"
+date_read: "2021-11-29"
+language: "Unknown"
+isbn: "1593075014"
+isbn13: "9781593075019"
+pages: 240
+format: "physical"
+cover: "[[Attachments/Covers/Kentaro Miura - Berserk, Vol. 14.jpg]]"
+bookshelves:
+  - "[[berserk]]"
+  - "[[manga]]"
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# Berserk, Vol. 14
+
+![|200]([[Attachments/Covers/Kentaro Miura - Berserk, Vol. 14.jpg]])
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->
