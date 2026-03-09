@@ -1,11 +1,10 @@
 ---
 name: "Virgil"
 country: "[[Italy]]"
+birth_year: "0070"
+death_year: "0019"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Virgil

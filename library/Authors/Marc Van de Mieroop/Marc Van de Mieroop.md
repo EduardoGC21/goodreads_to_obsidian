@@ -1,11 +1,10 @@
 ---
 name: "Marc Van de Mieroop"
 country: "[[Belgium]]"
+birth_year: "1956"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marc Van de Mieroop

@@ -1,11 +1,10 @@
 ---
 name: "Johann Wolfgang von Goethe"
 country: "[[Germany]]"
+birth_year: "1749"
+death_year: "1832"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Johann Wolfgang von Goethe

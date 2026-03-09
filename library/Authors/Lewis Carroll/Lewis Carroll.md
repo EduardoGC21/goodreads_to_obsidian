@@ -1,11 +1,10 @@
 ---
 name: "Lewis Carroll"
 country: "[[England]]"
+birth_year: "1832"
+death_year: "1898"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lewis Carroll

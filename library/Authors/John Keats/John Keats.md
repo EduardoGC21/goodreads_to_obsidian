@@ -1,11 +1,10 @@
 ---
 name: "John Keats"
 country: "[[England]]"
+birth_year: "1795"
+death_year: "1821"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # John Keats

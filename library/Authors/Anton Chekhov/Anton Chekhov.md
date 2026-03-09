@@ -1,11 +1,10 @@
 ---
 name: "Anton Chekhov"
 country: "[[Russia]]"
+birth_year: "1860"
+death_year: "1904"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Anton Chekhov
@@ -22,7 +21,7 @@ Despite chronic illness—especially tuberculosis, which ultimately caused his e
 
 <!-- GENERATED:AUTHOR_BOOKS START -->
 ## Books Linked
-- [[cuentos|Cuentos Chejov]]
+- [[Authors/Anton Chekhov/Books/Cuentos|Cuentos]]
 - [[Authors/Anton Chekhov/Books/La estepa En el barranco|La estepa / En el barranco]]
 - [[Authors/Anton Chekhov/Books/La gaviota El tío Vania Las tres hermanas El jardín de los cerezos|La gaviota / El tío Vania / Las tres hermanas / El jardín de los cerezos]]
 <!-- GENERATED:AUTHOR_BOOKS END -->

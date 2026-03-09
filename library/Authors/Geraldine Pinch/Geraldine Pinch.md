@@ -1,11 +1,10 @@
 ---
 name: "Geraldine Pinch"
 country: "[[United Kingdom]]"
+birth_year: "1951"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Geraldine Pinch

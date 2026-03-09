@@ -1,11 +1,10 @@
 ---
 name: "H.P. Lovecraft"
 country: "[[United States]]"
+birth_year: "1890"
+death_year: "1937"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # H.P. Lovecraft

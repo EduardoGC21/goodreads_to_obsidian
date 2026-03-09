@@ -1,11 +1,10 @@
 ---
 name: "Frank Herbert"
 country: "[[United States]]"
+birth_year: "1920"
+death_year: "1986"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Frank Herbert

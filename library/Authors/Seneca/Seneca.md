@@ -1,11 +1,10 @@
 ---
 name: "Seneca"
 country: "[[Spain]]"
+birth_year: ""
+death_year: "0065"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Seneca

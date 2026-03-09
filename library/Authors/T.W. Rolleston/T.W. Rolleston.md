@@ -1,11 +1,10 @@
 ---
 name: "T.W. Rolleston"
 country: "[[Ireland]]"
+birth_year: "1857"
+death_year: "1920"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # T.W. Rolleston

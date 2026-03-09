@@ -1,11 +1,10 @@
 ---
 name: "Gisèle Halimi"
-country: "[[Tunisia]]"
+country: "[[France]]"
+birth_year: "1927"
+death_year: "2020"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gisèle Halimi

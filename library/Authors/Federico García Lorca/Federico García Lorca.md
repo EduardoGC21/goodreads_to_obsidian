@@ -1,11 +1,10 @@
 ---
 name: "Federico García Lorca"
 country: "[[Spain]]"
+birth_year: "1898"
+death_year: "1936"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Federico García Lorca

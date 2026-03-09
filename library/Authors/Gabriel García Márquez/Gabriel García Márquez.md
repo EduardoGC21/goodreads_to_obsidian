@@ -1,11 +1,10 @@
 ---
 name: "Gabriel García Márquez"
 country: "[[Colombia]]"
+birth_year: "1927"
+death_year: "2014"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gabriel García Márquez

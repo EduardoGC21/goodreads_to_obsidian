@@ -1,11 +1,10 @@
 ---
 name: "Emil M. Cioran"
-country: "[[Romania]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Emil M. Cioran

@@ -1,11 +1,10 @@
 ---
 name: "Vince Beiser"
-country: "[[United States]]"
+country: "[[United States/Canada]]"
+birth_year: "1965"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Vince Beiser

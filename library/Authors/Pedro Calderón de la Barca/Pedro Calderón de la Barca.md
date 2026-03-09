@@ -1,11 +1,10 @@
 ---
 name: "Pedro Calderón de la Barca"
 country: "[[Spain]]"
+birth_year: "1600"
+death_year: "1681"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Pedro Calderón de la Barca

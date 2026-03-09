@@ -1,11 +1,10 @@
 ---
 name: "Erik Hornung"
-country: "[[Latvia]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Erik Hornung

@@ -1,11 +1,10 @@
 ---
 name: "Adam Smith"
 country: "[[Scotland]]"
+birth_year: "1723"
+death_year: "1790"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Adam Smith

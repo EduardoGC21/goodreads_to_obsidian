@@ -1,11 +1,10 @@
 ---
 name: "Johannes Grave"
 country: "[[Germany]]"
+birth_year: "1976"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Johannes Grave

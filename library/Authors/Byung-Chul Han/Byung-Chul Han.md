@@ -1,11 +1,10 @@
 ---
 name: "Byung-Chul Han"
-country: "[[South Korea]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Byung-Chul Han

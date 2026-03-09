@@ -1,11 +1,10 @@
 ---
 name: "José Vasconcelos"
 country: "[[Mexico]]"
+birth_year: "1882"
+death_year: "1959"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Vasconcelos

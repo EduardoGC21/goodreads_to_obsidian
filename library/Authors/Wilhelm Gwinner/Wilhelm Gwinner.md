@@ -1,11 +1,10 @@
 ---
 name: "Wilhelm Gwinner"
 country: "[[Germany]]"
+birth_year: "1825"
+death_year: "1917"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Wilhelm Gwinner

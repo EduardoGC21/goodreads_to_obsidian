@@ -1,11 +1,10 @@
 ---
 name: "Robert J. Shiller"
-country: "[[United States]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert J. Shiller

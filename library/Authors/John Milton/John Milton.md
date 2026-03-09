@@ -1,11 +1,10 @@
 ---
 name: "John Milton"
 country: "[[England]]"
+birth_year: "1608"
+death_year: "1674"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # John Milton

@@ -1,11 +1,10 @@
 ---
 name: "Thomas Mann"
 country: "[[Germany]]"
+birth_year: "1875"
+death_year: "1955"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas Mann

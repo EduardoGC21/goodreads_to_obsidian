@@ -1,11 +1,10 @@
 ---
 name: "Mariana Mazzucato"
-country: "[[Italy]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mariana Mazzucato

@@ -1,11 +1,10 @@
 ---
 name: "Samuel Taylor Coleridge"
 country: "[[England]]"
+birth_year: "1772"
+death_year: "1834"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Samuel Taylor Coleridge

@@ -1,11 +1,10 @@
 ---
 name: "Robert E. Howard"
 country: "[[United States]]"
+birth_year: "1906"
+death_year: "1936"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert E. Howard

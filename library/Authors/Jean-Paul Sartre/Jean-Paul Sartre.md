@@ -1,11 +1,10 @@
 ---
 name: "Jean-Paul Sartre"
 country: "[[France]]"
+birth_year: "1905"
+death_year: "1980"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jean-Paul Sartre

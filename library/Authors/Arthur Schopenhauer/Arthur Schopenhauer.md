@@ -1,11 +1,10 @@
 ---
 name: "Arthur Schopenhauer"
 country: "[[Germany]]"
+birth_year: "1788"
+death_year: "1860"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arthur Schopenhauer

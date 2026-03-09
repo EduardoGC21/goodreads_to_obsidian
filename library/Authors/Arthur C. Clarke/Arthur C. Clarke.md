@@ -1,11 +1,10 @@
 ---
 name: "Arthur C. Clarke"
 country: "[[United Kingdom]]"
+birth_year: "1917"
+death_year: "2008"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arthur C. Clarke

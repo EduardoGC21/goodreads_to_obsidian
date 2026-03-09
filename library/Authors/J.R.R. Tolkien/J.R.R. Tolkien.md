@@ -1,11 +1,10 @@
 ---
 name: "J.R.R. Tolkien"
 country: "[[United Kingdom]]"
+birth_year: "1892"
+death_year: "1973"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # J.R.R. Tolkien

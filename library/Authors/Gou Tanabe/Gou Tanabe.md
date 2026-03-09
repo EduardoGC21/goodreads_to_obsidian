@@ -1,11 +1,10 @@
 ---
 name: "Gou Tanabe"
 country: "[[Japan]]"
+birth_year: "1975"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gou Tanabe

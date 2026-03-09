@@ -1,11 +1,10 @@
 ---
 name: "Carlos García Gual"
 country: "[[Spain]]"
+birth_year: "1943"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Carlos García Gual

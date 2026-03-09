@@ -1,11 +1,10 @@
 ---
 name: "Edgar Allan Poe"
 country: "[[United States]]"
+birth_year: "1809"
+death_year: "1849"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edgar Allan Poe

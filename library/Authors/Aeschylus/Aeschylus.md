@@ -1,11 +1,10 @@
 ---
 name: "Aeschylus"
 country: "[[Greece]]"
+birth_year: "0525"
+death_year: "0456"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aeschylus

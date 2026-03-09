@@ -1,11 +1,10 @@
 ---
 name: "Mircea Eliade"
 country: "[[Romania]]"
+birth_year: "1907"
+death_year: "1986"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mircea Eliade

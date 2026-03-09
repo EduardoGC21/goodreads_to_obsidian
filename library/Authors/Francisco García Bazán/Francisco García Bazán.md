@@ -1,11 +1,10 @@
 ---
 name: "Francisco García Bazán"
 country: "[[Argentina]]"
+birth_year: "1940"
+death_year: "2025"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Francisco García Bazán

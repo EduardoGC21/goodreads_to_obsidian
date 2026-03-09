@@ -1,11 +1,10 @@
 ---
 name: "Steven Levitsky"
-country: "[[United States]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Steven Levitsky

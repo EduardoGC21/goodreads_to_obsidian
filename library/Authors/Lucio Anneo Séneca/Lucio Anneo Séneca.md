@@ -1,11 +1,10 @@
 ---
 name: "Lucio Anneo Séneca"
-country: "[[Spain]]"
+country: "[[Roman Empire]]"
+birth_year: ""
+death_year: "0065"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lucio Anneo Séneca

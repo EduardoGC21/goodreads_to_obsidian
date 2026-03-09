@@ -1,11 +1,10 @@
 ---
 name: "Robert Malcolm Errington"
 country: "[[United Kingdom]]"
+birth_year: "1939"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert Malcolm Errington

@@ -1,11 +1,10 @@
 ---
 name: "Herman Melville"
 country: "[[United States]]"
+birth_year: "1819"
+death_year: "1891"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Herman Melville

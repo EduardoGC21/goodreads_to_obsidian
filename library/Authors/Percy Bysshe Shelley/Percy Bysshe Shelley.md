@@ -1,11 +1,10 @@
 ---
 name: "Percy Bysshe Shelley"
 country: "[[England]]"
+birth_year: "1792"
+death_year: "1822"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Percy Bysshe Shelley

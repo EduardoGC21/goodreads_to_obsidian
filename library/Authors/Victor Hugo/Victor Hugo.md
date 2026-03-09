@@ -1,11 +1,10 @@
 ---
 name: "Victor Hugo"
 country: "[[France]]"
+birth_year: "1802"
+death_year: "1885"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Victor Hugo

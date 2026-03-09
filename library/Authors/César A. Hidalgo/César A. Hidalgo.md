@@ -1,11 +1,10 @@
 ---
 name: "César A.  Hidalgo"
-country: "[[Chile]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # César A.  Hidalgo

@@ -1,11 +1,10 @@
 ---
 name: "Franz Kafka"
-country: "[[Czech Republic]]"
+country: "[[Austria-Hungary]]"
+birth_year: "1883"
+death_year: "1924"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Franz Kafka

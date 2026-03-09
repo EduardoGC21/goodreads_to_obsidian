@@ -1,11 +1,10 @@
 ---
 name: "Stefan Zweig"
 country: "[[Austria]]"
+birth_year: "1881"
+death_year: "1942"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stefan Zweig

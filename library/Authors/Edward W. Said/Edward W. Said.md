@@ -1,11 +1,10 @@
 ---
 name: "Edward W. Said"
-country: "[[Palestine]]"
+country: "[[Palestine, United States]]"
+birth_year: "1935"
+death_year: "2003"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edward W. Said

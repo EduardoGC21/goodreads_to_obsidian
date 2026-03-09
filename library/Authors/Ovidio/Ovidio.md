@@ -1,11 +1,10 @@
 ---
 name: "Ovidio"
 country: "[[Italy]]"
+birth_year: "0043"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ovidio

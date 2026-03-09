@@ -1,11 +1,10 @@
 ---
 name: "George Orwell"
 country: "[[United Kingdom]]"
+birth_year: "1903"
+death_year: "1950"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # George Orwell

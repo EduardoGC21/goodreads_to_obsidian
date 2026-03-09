@@ -1,11 +1,10 @@
 ---
 name: "Aldous Huxley"
-country: "[[United Kingdom]]"
+country: "[[England]]"
+birth_year: "1894"
+death_year: "1963"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aldous Huxley

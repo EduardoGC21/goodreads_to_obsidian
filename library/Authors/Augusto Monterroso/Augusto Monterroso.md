@@ -1,11 +1,10 @@
 ---
 name: "Augusto Monterroso"
-country: "[[Honduras]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Augusto Monterroso

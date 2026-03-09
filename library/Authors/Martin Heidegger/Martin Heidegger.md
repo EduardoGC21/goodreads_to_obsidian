@@ -1,11 +1,10 @@
 ---
 name: "Martin Heidegger"
 country: "[[Germany]]"
+birth_year: "1889"
+death_year: "1976"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Martin Heidegger

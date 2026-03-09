@@ -1,11 +1,10 @@
 ---
 name: "Roberto Calasso"
 country: "[[Italy]]"
+birth_year: "1941"
+death_year: "2021"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Roberto Calasso

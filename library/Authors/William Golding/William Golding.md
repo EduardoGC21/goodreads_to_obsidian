@@ -1,11 +1,10 @@
 ---
 name: "William Golding"
-country: "[[United Kingdom]]"
+country: "[[England]]"
+birth_year: "1911"
+death_year: "1993"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William Golding

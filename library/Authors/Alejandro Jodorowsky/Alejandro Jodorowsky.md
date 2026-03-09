@@ -1,11 +1,10 @@
 ---
 name: "Alejandro Jodorowsky"
-country: "[[Chile]]"
+country: "[[Chile, France]]"
+birth_year: "1929"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alejandro Jodorowsky

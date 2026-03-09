@@ -1,11 +1,10 @@
 ---
 name: "Jorge Luis Borges"
 country: "[[Argentina]]"
+birth_year: "1899"
+death_year: "1986"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jorge Luis Borges

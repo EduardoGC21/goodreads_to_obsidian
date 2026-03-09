@@ -1,11 +1,10 @@
 ---
 name: "Aristotle"
 country: "[[Greece]]"
+birth_year: "0384"
+death_year: "0322"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aristotle

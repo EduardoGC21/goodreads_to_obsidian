@@ -1,11 +1,10 @@
 ---
 name: "Mika Waltari"
 country: "[[Finland]]"
+birth_year: "1908"
+death_year: "1979"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mika Waltari

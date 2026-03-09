@@ -1,11 +1,10 @@
 ---
 name: "Leo Tolstoy"
 country: "[[Russia]]"
+birth_year: "1828"
+death_year: "1910"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Leo Tolstoy

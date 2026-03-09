@@ -1,11 +1,10 @@
 ---
 name: "Confucius"
 country: "[[China]]"
+birth_year: "0551"
+death_year: "0479"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Confucius

@@ -1,11 +1,10 @@
 ---
 name: "Voltaire"
 country: "[[France]]"
+birth_year: "1694"
+death_year: "1778"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Voltaire

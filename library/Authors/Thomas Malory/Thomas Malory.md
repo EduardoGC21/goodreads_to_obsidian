@@ -1,11 +1,10 @@
 ---
 name: "Thomas Malory"
 country: "[[England]]"
+birth_year: "1415"
+death_year: "1471"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas Malory

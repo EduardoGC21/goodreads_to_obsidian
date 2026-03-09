@@ -1,11 +1,10 @@
 ---
 name: "Molière"
 country: "[[France]]"
+birth_year: "1622"
+death_year: "1673"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Molière

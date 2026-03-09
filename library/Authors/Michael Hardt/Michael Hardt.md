@@ -1,11 +1,10 @@
 ---
 name: "Michael Hardt"
 country: "[[United States]]"
+birth_year: "1960"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Michael Hardt

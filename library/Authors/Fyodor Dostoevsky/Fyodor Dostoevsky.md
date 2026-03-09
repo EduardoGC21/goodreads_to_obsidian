@@ -1,11 +1,10 @@
 ---
 name: "Fyodor Dostoevsky"
 country: "[[Russia]]"
+birth_year: "1821"
+death_year: "1881"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Fyodor Dostoevsky

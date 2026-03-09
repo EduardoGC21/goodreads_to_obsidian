@@ -1,11 +1,10 @@
 ---
 name: "Albert Camus"
-country: "[[Algeria]]"
+country: "[[Unknown]]"
+birth_year: "1913"
+death_year: "1960"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Albert Camus

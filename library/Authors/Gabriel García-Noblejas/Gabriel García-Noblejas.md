@@ -1,11 +1,10 @@
 ---
 name: "Gabriel García-Noblejas"
 country: "[[Spain]]"
+birth_year: "1966"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gabriel García-Noblejas

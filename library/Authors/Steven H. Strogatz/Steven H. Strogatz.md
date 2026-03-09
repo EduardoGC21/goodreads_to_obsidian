@@ -1,11 +1,10 @@
 ---
 name: "Steven H. Strogatz"
 country: "[[United States]]"
+birth_year: "1959"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Steven H. Strogatz

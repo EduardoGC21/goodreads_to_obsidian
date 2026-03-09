@@ -1,11 +1,10 @@
 ---
 name: "Émile Zola"
 country: "[[France]]"
+birth_year: "1840"
+death_year: "1902"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Émile Zola

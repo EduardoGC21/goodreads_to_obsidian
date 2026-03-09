@@ -1,11 +1,10 @@
 ---
 name: "Giovanni Boccaccio"
-country: "[[Italy]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Giovanni Boccaccio

@@ -1,11 +1,10 @@
 ---
 name: "Dante Alighieri"
 country: "[[Italy]]"
+birth_year: "1265"
+death_year: "1321"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Dante Alighieri

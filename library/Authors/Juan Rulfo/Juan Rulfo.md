@@ -1,11 +1,10 @@
 ---
 name: "Juan Rulfo"
 country: "[[Mexico]]"
+birth_year: "1917"
+death_year: "1986"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Juan Rulfo

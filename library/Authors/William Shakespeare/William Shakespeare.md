@@ -1,11 +1,10 @@
 ---
 name: "William Shakespeare"
 country: "[[England]]"
+birth_year: "1564"
+death_year: "1616"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William Shakespeare

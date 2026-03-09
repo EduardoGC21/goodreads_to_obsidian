@@ -1,11 +1,10 @@
 ---
 name: "Daniel Defoe"
 country: "[[England]]"
+birth_year: "1660"
+death_year: "1731"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Daniel Defoe

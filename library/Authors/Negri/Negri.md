@@ -1,11 +1,10 @@
 ---
 name: "Negri"
 country: "[[Italy]]"
+birth_year: "1933"
+death_year: "2023"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Negri

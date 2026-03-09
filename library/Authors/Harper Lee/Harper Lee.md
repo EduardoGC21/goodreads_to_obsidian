@@ -1,11 +1,10 @@
 ---
 name: "Harper Lee"
 country: "[[United States]]"
+birth_year: "1926"
+death_year: "2016"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harper Lee

@@ -1,11 +1,10 @@
 ---
 name: "Niccolò Machiavelli"
 country: "[[Italy]]"
+birth_year: "1469"
+death_year: "1527"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Niccolò Machiavelli

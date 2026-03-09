@@ -1,11 +1,10 @@
 ---
 name: "Junji Ito"
 country: "[[Japan]]"
+birth_year: "1963"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Junji Ito

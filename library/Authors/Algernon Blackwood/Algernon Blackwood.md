@@ -1,11 +1,10 @@
 ---
 name: "Algernon Blackwood"
 country: "[[England]]"
+birth_year: "1869"
+death_year: "1951"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Algernon Blackwood

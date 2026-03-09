@@ -1,11 +1,10 @@
 ---
 name: "Baltasar Gracián"
 country: "[[Spain]]"
+birth_year: "1601"
+death_year: "1658"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Baltasar Gracián

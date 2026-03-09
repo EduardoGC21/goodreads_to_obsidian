@@ -1,11 +1,10 @@
 ---
 name: "Alexander Pushkin"
 country: "[[Russia]]"
+birth_year: "1799"
+death_year: "1837"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alexander Pushkin

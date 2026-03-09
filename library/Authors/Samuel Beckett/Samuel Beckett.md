@@ -1,11 +1,10 @@
 ---
 name: "Samuel Beckett"
 country: "[[Ireland]]"
+birth_year: "1906"
+death_year: "1989"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Samuel Beckett

@@ -1,11 +1,10 @@
 ---
 name: "Joseph Campbell"
 country: "[[United States]]"
+birth_year: "1904"
+death_year: "1987"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Joseph Campbell

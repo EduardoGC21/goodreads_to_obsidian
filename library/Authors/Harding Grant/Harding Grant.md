@@ -1,11 +1,10 @@
 ---
 name: "Harding Grant"
-country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[United Kingdom]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harding Grant

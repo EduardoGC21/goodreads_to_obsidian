@@ -1,11 +1,10 @@
 ---
 name: "Oscar Wilde"
 country: "[[Ireland]]"
+birth_year: "1854"
+death_year: "1900"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Oscar Wilde

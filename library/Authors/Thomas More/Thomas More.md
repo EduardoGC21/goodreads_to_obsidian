@@ -1,11 +1,10 @@
 ---
 name: "Thomas More"
-country: "[[England]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas More

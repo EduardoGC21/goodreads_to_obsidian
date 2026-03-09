@@ -1,11 +1,10 @@
 ---
 name: "Marcus Aurelius"
-country: "[[Roman Empire]]"
+country: "[[Italy]]"
+birth_year: "0121"
+death_year: "0180"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marcus Aurelius

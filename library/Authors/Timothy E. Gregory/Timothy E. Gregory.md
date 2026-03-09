@@ -1,11 +1,10 @@
 ---
 name: "Timothy E. Gregory"
 country: "[[United States]]"
+birth_year: "1943"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Timothy E. Gregory

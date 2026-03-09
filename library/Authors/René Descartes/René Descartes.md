@@ -1,11 +1,10 @@
 ---
 name: "René Descartes"
 country: "[[France]]"
+birth_year: "1596"
+death_year: "1650"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # René Descartes

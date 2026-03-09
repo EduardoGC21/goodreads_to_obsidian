@@ -1,11 +1,10 @@
 ---
 name: "Platón"
 country: "[[Greece]]"
+birth_year: "0427"
+death_year: "0347"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Platón

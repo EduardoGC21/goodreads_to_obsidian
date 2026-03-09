@@ -1,11 +1,10 @@
 ---
 name: "Gustav Meyrink"
 country: "[[Austria]]"
+birth_year: "1868"
+death_year: "1932"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gustav Meyrink

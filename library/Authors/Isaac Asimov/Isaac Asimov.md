@@ -1,11 +1,10 @@
 ---
 name: "Isaac Asimov"
-country: "[[Russia]]"
+country: "[[United States]]"
+birth_year: "1920"
+death_year: "1992"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Isaac Asimov

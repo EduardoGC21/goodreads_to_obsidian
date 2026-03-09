@@ -1,11 +1,10 @@
 ---
 name: "Javier Tapia"
 country: "[[Mexico]]"
+birth_year: "1955"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Javier Tapia

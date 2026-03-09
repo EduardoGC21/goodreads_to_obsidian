@@ -1,11 +1,10 @@
 ---
 name: "Antoine de Saint-Exupéry"
 country: "[[France]]"
+birth_year: "1900"
+death_year: "1944"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Antoine de Saint-Exupéry

@@ -1,11 +1,10 @@
 ---
 name: "Robert Graves"
 country: "[[United Kingdom]]"
+birth_year: "1895"
+death_year: "1985"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert Graves

@@ -1,11 +1,10 @@
 ---
 name: "Jean-Jacques Rousseau"
 country: "[[Switzerland]]"
+birth_year: "1712"
+death_year: "1778"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jean-Jacques Rousseau

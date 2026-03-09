@@ -1,11 +1,10 @@
 ---
 name: "Alexandre Dumas"
 country: "[[France]]"
+birth_year: "1802"
+death_year: "1870"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alexandre Dumas

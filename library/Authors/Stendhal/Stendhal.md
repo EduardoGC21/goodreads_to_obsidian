@@ -1,11 +1,10 @@
 ---
 name: "Stendhal"
 country: "[[France]]"
+birth_year: "1783"
+death_year: "1842"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stendhal

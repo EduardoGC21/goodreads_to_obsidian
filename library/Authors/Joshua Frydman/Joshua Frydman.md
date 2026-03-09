@@ -1,11 +1,10 @@
 ---
 name: "Joshua Frydman"
-country: "[[Unknown]]"
-tags:
-  - "author"
-bookshelves: []
+country: "[[United States]]"
 birth_year: ""
 death_year: ""
+tags:
+  - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Joshua Frydman

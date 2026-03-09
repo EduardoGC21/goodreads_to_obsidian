@@ -1,11 +1,10 @@
 ---
 name: "David Hernández de la Fuente"
 country: "[[Spain]]"
+birth_year: "1974"
+death_year: ""
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # David Hernández de la Fuente

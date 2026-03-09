@@ -1,11 +1,10 @@
 ---
 name: "Honoré de Balzac"
 country: "[[France]]"
+birth_year: "1799"
+death_year: "1850"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Honoré de Balzac

@@ -1,11 +1,10 @@
 ---
 name: "Jacob Grimm"
 country: "[[Germany]]"
+birth_year: "1785"
+death_year: "1863"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jacob Grimm

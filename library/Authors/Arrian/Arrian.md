@@ -1,11 +1,10 @@
 ---
 name: "Arrian"
 country: "[[Greece]]"
+birth_year: "0086"
+death_year: "0160"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arrian

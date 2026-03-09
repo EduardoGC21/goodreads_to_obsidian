@@ -1,11 +1,10 @@
 ---
 name: "Wu Cheng'en"
 country: "[[China]]"
+birth_year: "1500"
+death_year: "1582"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Wu Cheng'en

@@ -1,11 +1,10 @@
 ---
 name: "Charles Dickens"
-country: "[[United Kingdom]]"
+country: "[[England]]"
+birth_year: "1812"
+death_year: "1870"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Charles Dickens

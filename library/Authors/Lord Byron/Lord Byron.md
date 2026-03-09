@@ -1,11 +1,10 @@
 ---
 name: "Lord Byron"
 country: "[[United Kingdom]]"
+birth_year: "1788"
+death_year: "1824"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lord Byron

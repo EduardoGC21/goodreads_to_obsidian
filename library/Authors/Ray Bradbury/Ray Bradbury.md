@@ -1,11 +1,10 @@
 ---
 name: "Ray Bradbury"
 country: "[[United States]]"
+birth_year: "1920"
+death_year: "2012"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ray Bradbury

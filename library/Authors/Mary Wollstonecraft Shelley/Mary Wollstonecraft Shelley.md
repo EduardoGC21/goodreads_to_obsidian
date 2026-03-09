@@ -1,11 +1,10 @@
 ---
 name: "Mary Wollstonecraft Shelley"
-country: "[[United Kingdom]]"
+country: "[[England]]"
+birth_year: "1797"
+death_year: "1851"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mary Wollstonecraft Shelley

@@ -1,11 +1,10 @@
 ---
 name: "Friedrich Nietzsche"
 country: "[[Germany]]"
+birth_year: "1844"
+death_year: "1900"
 tags:
   - "author"
-bookshelves: []
-birth_year: ""
-death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Friedrich Nietzsche
