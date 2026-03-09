@@ -12,10 +12,10 @@ isbn13: "9780304352845"
 pages: 412
 format: "physical"
 cover: "[[Attachments/Covers/Adrian Goldsworthy - The Punic Wars.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Punic Wars

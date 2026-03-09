@@ -17,6 +17,7 @@ bookshelves:
   - "[[política]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Utopía. (Sepan Cuantos, Num. 282)

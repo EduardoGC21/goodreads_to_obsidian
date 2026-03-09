@@ -12,10 +12,10 @@ isbn13: "9788410199385"
 pages: 240
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La vía hermética: Introducción a la filosofía de Hermes (Spanish Edition)

@@ -12,10 +12,10 @@ isbn13: "9780297864288"
 pages: 513
 format: "physical"
 cover: "[[Attachments/Covers/Adrian Goldsworthy - Pax Romana.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pax Romana

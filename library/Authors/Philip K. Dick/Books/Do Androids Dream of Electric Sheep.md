@@ -17,6 +17,7 @@ bookshelves:
   - "[[ciencia-ficción]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Do Androids Dream of Electric Sheep?

@@ -3,6 +3,9 @@ name: "Alejandro Ortiz Rescaniere"
 country: "[[Peru]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alejandro Ortiz Rescaniere

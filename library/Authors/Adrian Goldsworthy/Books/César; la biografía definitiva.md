@@ -12,10 +12,10 @@ isbn13: ""
 pages: 792
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # César; la biografía definitiva

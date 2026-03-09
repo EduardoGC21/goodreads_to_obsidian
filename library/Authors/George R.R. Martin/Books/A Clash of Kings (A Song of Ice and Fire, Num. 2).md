@@ -18,6 +18,7 @@ bookshelves:
   - "[[fantasía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A Clash of Kings (A Song of Ice and Fire, Num. 2)

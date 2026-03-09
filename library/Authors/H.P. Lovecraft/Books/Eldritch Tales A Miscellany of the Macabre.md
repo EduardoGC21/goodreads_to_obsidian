@@ -1,16 +1,16 @@
 ---
 title: "Eldritch Tales: A Miscellany of the Macabre"
 author: "[[Authors/H.P. Lovecraft/H.P. Lovecraft|H.P. Lovecraft]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2023-07-14
-date_read: 2023-10-07
-language: English
+date_added: "2023-07-14"
+date_read: "2023-10-07"
+language: "English"
 isbn: "0575099356"
 isbn13: "9780575099357"
 pages: 540
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/H.P. Lovecraft - Eldritch Tales A Miscellany of the Macabre.jpg]]"
 bookshelves:
   - "[[antología]]"
@@ -18,7 +18,8 @@ bookshelves:
   - "[[miedo]]"
   - "[[mitología]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Eldritch Tales: A Miscellany of the Macabre

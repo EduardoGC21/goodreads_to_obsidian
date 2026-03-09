@@ -16,6 +16,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # ¿Qué es la filosofía? (Spanish Edition)

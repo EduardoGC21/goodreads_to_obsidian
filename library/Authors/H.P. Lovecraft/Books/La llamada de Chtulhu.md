@@ -1,22 +1,23 @@
 ---
-title: La llamada de Chtulhu
+title: "La llamada de Chtulhu"
 author: "[[Authors/H.P. Lovecraft/H.P. Lovecraft|H.P. Lovecraft]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2020-12-19
-date_read: 2020-12-20
-language: Spanish
+date_added: "2020-12-19"
+date_read: "2020-12-20"
+language: "Spanish"
 isbn: "8898006438"
 isbn13: "9788898006434"
 pages: 68
-format: virtual
+format: "virtual"
 cover: ""
 bookshelves:
   - "[[miedo]]"
   - "[[cuentos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La llamada de Chtulhu

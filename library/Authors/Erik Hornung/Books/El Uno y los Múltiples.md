@@ -12,10 +12,10 @@ isbn13: "9788498796636"
 pages: 264
 format: "physical"
 cover: "[[Attachments/Covers/Erik Hornung - El Uno y los Múltiples.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Uno y los Múltiples

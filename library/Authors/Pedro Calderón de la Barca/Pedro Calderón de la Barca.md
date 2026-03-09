@@ -3,6 +3,9 @@ name: "Pedro Calderón de la Barca"
 country: "[[Spain]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Pedro Calderón de la Barca

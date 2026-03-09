@@ -1,23 +1,24 @@
 ---
 title: "El paraíso imperfecto: Antología tímida"
 author: "[[Authors/Augusto Monterroso/Augusto Monterroso|Augusto Monterroso]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-06-08
-date_read: 2021-06-17
-language: Spanish
+date_added: "2021-06-08"
+date_read: "2021-06-17"
+language: "Spanish"
 isbn: "9875669075"
 isbn13: "9789875669079"
 pages: 240
-format: physical
+format: "physical"
 cover: ""
 bookshelves:
   - "[[antología]]"
   - "[[cuentos]]"
   - "[[fábula]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El paraíso imperfecto: Antología tímida

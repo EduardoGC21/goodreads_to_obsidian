@@ -3,6 +3,9 @@ name: "Jonathan M. Hall"
 country: "[[Unknown]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jonathan M. Hall

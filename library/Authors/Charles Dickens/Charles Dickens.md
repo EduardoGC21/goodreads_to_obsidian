@@ -3,6 +3,9 @@ name: "Charles Dickens"
 country: "[[United Kingdom]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Charles Dickens

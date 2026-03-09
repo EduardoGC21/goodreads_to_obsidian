@@ -12,10 +12,10 @@ isbn13: ""
 pages: 394
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)

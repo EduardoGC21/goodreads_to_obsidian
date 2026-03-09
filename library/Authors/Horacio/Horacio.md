@@ -3,6 +3,9 @@ name: "Horacio"
 country: "[[Italy]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Horacio

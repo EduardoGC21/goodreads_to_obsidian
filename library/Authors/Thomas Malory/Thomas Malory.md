@@ -3,6 +3,9 @@ name: "Thomas Malory"
 country: "[[England]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas Malory

@@ -12,10 +12,10 @@ isbn13: ""
 pages: 323
 format: "physical"
 cover: "[[Attachments/Covers/Harper Lee - To Kill a Mockingbird.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # To Kill a Mockingbird

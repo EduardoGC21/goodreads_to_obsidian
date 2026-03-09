@@ -3,6 +3,9 @@ name: "Philip K. Dick"
 country: "[[United States]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Philip K. Dick

@@ -1,22 +1,23 @@
 ---
-title: Los ojos del hermano eterno
+title: "Los ojos del hermano eterno"
 author: "[[Authors/Stefan Zweig/Stefan Zweig|Stefan Zweig]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2025-01-20
-date_read: 2025-01-20
-language: Spanish
+date_added: "2025-01-20"
+date_read: "2025-01-20"
+language: "Spanish"
 isbn: "8417902589"
 isbn13: "9788417902582"
 pages: 52
-format: virtual
+format: "virtual"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[oriental]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los ojos del hermano eterno

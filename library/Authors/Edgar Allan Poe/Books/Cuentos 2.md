@@ -1,23 +1,23 @@
 ---
-title: Cuentos 2
+title: "Cuentos 2"
 author: "[[Authors/Edgar Allan Poe/Edgar Allan Poe|Edgar Allan Poe]]"
-status: to-read
+status: "to-read"
 rating: 0
 read_count: 0
-date_added: 2021-09-18
+date_added: "2021-09-18"
 date_read: ""
-language: Unknown
+language: "Unknown"
 isbn: "8420674192"
 isbn13: "9788420674193"
 pages: 547
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Edgar Allan Poe - Cuentos 2.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
-  - "[[to-read]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos 2

@@ -1,23 +1,24 @@
 ---
-title: Cándido / Micromegas / Zadig
+title: "Cándido / Micromegas / Zadig"
 author: "[[Authors/Voltaire/Voltaire|Voltaire]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-09-18
-date_read: 2023-07-08
-language: Spanish
+date_added: "2021-09-18"
+date_read: "2023-07-08"
+language: "Spanish"
 isbn: "8437605415"
 isbn13: "9788437605418"
 pages: 288
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Voltaire - Cándido Micromegas Zadig.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[filosofía]]"
   - "[[literatura-francesa]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cándido / Micromegas / Zadig

@@ -3,6 +3,9 @@ name: "Lazarillo de Tormes"
 country: "[[Spain]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lazarillo de Tormes

@@ -16,6 +16,7 @@ bookshelves:
   - "[[poesía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Selected Poems

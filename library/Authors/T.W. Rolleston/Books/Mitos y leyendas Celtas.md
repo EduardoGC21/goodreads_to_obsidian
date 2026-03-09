@@ -16,6 +16,7 @@ bookshelves:
   - "[[currently-reading]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitos y leyendas Celtas

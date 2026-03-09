@@ -3,6 +3,9 @@ name: "George R.R. Martin"
 country: "[[United States]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # George R.R. Martin

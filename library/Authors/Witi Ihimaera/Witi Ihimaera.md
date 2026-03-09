@@ -3,6 +3,9 @@ name: "Witi Ihimaera"
 country: "[[New Zealand]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Witi Ihimaera

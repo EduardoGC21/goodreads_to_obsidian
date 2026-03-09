@@ -1,16 +1,16 @@
 ---
 title: "Necronomicon: The Best Weird Tales"
 author: "[[Authors/H.P. Lovecraft/H.P. Lovecraft|H.P. Lovecraft]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-02-06
-date_read: 2021-05-21
-language: English
+date_added: "2021-02-06"
+date_read: "2021-05-21"
+language: "English"
 isbn: "0575081562"
 isbn13: "9780575081567"
 pages: 878
-format: physical
+format: "physical"
 cover: ""
 bookshelves:
   - "[[mitología]]"
@@ -22,7 +22,8 @@ bookshelves:
   - "[[existencialista]]"
   - "[[favoritos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Necronomicon: The Best Weird Tales

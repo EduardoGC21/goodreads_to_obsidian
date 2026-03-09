@@ -12,10 +12,10 @@ isbn13: "9780375725432"
 pages: 224
 format: "physical"
 cover: "[[Attachments/Covers/Roberto Calasso - Literature and the Gods.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Literature and the Gods

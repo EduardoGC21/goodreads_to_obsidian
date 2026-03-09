@@ -20,6 +20,7 @@ bookshelves:
   - "[[poesía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Bhagavad Gītā: con los comentarios advaita de Šankara

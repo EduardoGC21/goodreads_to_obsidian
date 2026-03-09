@@ -18,6 +18,7 @@ bookshelves:
   - "[[favoritos]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Determined: A Science of Life without Free Will

@@ -3,6 +3,9 @@ name: "Facultad de Teología"
 country: "[[Spain]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Facultad de Teología

@@ -12,10 +12,10 @@ isbn13: "9788446056201"
 pages: 192
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Historias de Persia: (Persiká)

@@ -1,16 +1,16 @@
 ---
-title: Las mil y una noches
+title: "Las mil y una noches"
 author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-05-29
-date_read: 2021-06-01
-language: Spanish
+date_added: "2021-05-29"
+date_read: "2021-06-01"
+language: "Spanish"
 isbn: "8423352889"
 isbn13: "9788423352883"
 pages: 656
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Anonymous - Las mil y una noches.jpg]]"
 bookshelves:
   - "[[cuentos]]"
@@ -19,7 +19,8 @@ bookshelves:
   - "[[favoritos]]"
   - "[[oriental]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las mil y una noches

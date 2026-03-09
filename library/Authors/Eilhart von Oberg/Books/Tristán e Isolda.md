@@ -12,10 +12,10 @@ isbn13: "9788416465781"
 pages: 496
 format: "physical"
 cover: "[[Attachments/Covers/Eilhart von Oberg - Tristán e Isolda.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Tristán e Isolda

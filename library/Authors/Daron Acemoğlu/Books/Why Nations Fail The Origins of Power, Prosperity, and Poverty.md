@@ -17,6 +17,7 @@ bookshelves:
   - "[[política]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Why Nations Fail: The Origins of Power, Prosperity, and Poverty

@@ -12,10 +12,10 @@ isbn13: "9788420437484"
 pages: 1026
 format: "physical"
 cover: "[[Attachments/Covers/Julio Cortázar - Rayuela.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Rayuela

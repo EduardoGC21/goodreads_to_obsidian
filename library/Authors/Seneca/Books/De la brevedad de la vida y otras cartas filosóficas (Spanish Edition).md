@@ -18,6 +18,7 @@ bookshelves:
   - "[[epistolas]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # De la brevedad de la vida: y otras cartas filosóficas (Spanish Edition)

@@ -17,6 +17,7 @@ bookshelves:
   - "[[favoritos]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt

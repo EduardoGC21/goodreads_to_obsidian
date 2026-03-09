@@ -17,6 +17,7 @@ bookshelves:
   - "[[ciencia]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Infinite Powers: How Calculus Reveals the Secrets of the Universe

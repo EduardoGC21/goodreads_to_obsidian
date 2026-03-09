@@ -3,6 +3,9 @@ name: "Stephen  Mitchell"
 country: "[[United Kingdom]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stephen  Mitchell

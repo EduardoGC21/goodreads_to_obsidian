@@ -1,21 +1,22 @@
 ---
-title: Los libros de la selva (Alba Maior) (Spanish Edition)
+title: "Los libros de la selva (Alba Maior) (Spanish Edition)"
 author: "[[Authors/Rudyard Kipling/Rudyard Kipling|Rudyard Kipling]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-06-17
-date_read: 2021-06-19
-language: Spanish
+date_added: "2021-06-17"
+date_read: "2021-06-19"
+language: "Spanish"
 isbn: "8490651205"
 isbn13: "9788490651209"
 pages: 376
-format: virtual
+format: "virtual"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los libros de la selva (Alba Maior) (Spanish Edition)

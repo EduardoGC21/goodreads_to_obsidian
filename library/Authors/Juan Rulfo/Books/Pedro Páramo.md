@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Juan Rulfo - Pedro Páramo.jpg]]"
 bookshelves:
   - "[[novelas]]"
-  - "[[to-read]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pedro Páramo

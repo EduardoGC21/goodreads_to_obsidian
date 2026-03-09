@@ -16,6 +16,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # 21 Lessons for the 21st Century

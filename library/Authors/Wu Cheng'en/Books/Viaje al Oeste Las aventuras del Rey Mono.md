@@ -12,10 +12,10 @@ isbn13: "9788478447749"
 pages: 2264
 format: "physical"
 cover: "[[Attachments/Covers/Wu Cheng'en - Viaje al Oeste Las aventuras del Rey Mono.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Viaje al Oeste: Las aventuras del Rey Mono

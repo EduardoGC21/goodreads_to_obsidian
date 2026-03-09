@@ -12,10 +12,10 @@ isbn13: "9780631235132"
 pages: 400
 format: "physical"
 cover: "[[Attachments/Covers/Timothy E. Gregory - A History of Byzantium (Blackwell History of the Ancient World).jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Byzantium (Blackwell History of the Ancient World)

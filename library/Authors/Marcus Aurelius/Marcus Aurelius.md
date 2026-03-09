@@ -3,6 +3,9 @@ name: "Marcus Aurelius"
 country: "[[Roman Empire]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marcus Aurelius

@@ -12,10 +12,10 @@ isbn13: "9781841192482"
 pages: 626
 format: "physical"
 cover: "[[Attachments/Covers/Peter Berresford Ellis - The Mammoth Book of Celtic Myths and Legends.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Mammoth Book of Celtic Myths and Legends

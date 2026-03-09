@@ -16,6 +16,7 @@ bookshelves:
   - "[[ciencia-ficción]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Prelude to Foundation (Foundation, Num. 6)

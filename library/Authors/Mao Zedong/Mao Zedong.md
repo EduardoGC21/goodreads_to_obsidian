@@ -3,6 +3,9 @@ name: "Mao Zedong"
 country: "[[China]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mao Zedong

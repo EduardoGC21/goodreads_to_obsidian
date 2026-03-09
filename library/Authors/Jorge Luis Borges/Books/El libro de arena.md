@@ -1,23 +1,24 @@
 ---
-title: El libro de arena
+title: "El libro de arena"
 author: "[[Authors/Jorge Luis Borges/Jorge Luis Borges|Jorge Luis Borges]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-04-07
-date_read: 2021-04-08
-language: Spanish
+date_added: "2021-04-07"
+date_read: "2021-04-08"
+language: "Spanish"
 isbn: "8420633135"
 isbn13: "9788420633138"
 pages: 143
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Jorge Luis Borges - El libro de arena.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[filosofía]]"
   - "[[borgiano]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El libro de arena

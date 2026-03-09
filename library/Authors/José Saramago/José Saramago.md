@@ -3,6 +3,9 @@ name: "José Saramago"
 country: "[[Portugal]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Saramago

@@ -17,6 +17,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition)

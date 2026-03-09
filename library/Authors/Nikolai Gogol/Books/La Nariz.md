@@ -1,22 +1,23 @@
 ---
-title: La Nariz
+title: "La Nariz"
 author: "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2025-08-01
-date_read: 2025-08-02
-language: Spanish
+date_added: "2025-08-01"
+date_read: "2025-08-02"
+language: "Spanish"
 isbn: ""
 isbn13: ""
 pages: 80
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Nikolai Gogol - La Nariz.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-rusa]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La Nariz

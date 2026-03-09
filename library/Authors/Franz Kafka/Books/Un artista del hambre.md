@@ -1,22 +1,23 @@
 ---
-title: Un artista del hambre
+title: "Un artista del hambre"
 author: "[[Authors/Franz Kafka/Franz Kafka|Franz Kafka]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2020-12-18
-date_read: 2020-12-18
-language: Unknown
+date_added: "2020-12-18"
+date_read: "2020-12-18"
+language: "Unknown"
 isbn: ""
 isbn13: ""
 pages: 64
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Franz Kafka - Un artista del hambre.jpg]]"
 bookshelves:
   - "[[existencialista]]"
   - "[[cuentos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Un artista del hambre

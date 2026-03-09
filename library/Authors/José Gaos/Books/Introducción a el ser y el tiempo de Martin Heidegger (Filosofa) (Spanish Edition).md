@@ -16,6 +16,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition)

@@ -16,6 +16,7 @@ bookshelves:
   - "[[history]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # SPQR: Una historia de la antigua Roma

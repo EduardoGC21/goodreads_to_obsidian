@@ -3,6 +3,9 @@ name: "Georg Wilhelm Friedrich Hegel"
 country: "[[Germany]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Georg Wilhelm Friedrich Hegel

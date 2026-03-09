@@ -1,22 +1,23 @@
 ---
-title: Grimm's Fairy Tales
+title: "Grimm's Fairy Tales"
 author: "[[Authors/Jacob Grimm/Jacob Grimm|Jacob Grimm]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-09-18
-date_read: 2025-01-16
-language: Unknown
+date_added: "2021-09-18"
+date_read: "2025-01-16"
+language: "Unknown"
 isbn: ""
 isbn13: ""
 pages: 320
-format: virtual
+format: "virtual"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[mitología]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Grimm's Fairy Tales

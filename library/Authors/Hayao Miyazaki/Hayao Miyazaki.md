@@ -3,6 +3,9 @@ name: "Hayao Miyazaki"
 country: "[[Japan]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Hayao Miyazaki

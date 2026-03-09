@@ -16,6 +16,7 @@ bookshelves:
   - "[[epistolas]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Carta al padre

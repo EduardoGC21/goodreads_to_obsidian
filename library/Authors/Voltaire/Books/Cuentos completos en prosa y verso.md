@@ -1,23 +1,24 @@
 ---
-title: Cuentos completos en prosa y verso
+title: "Cuentos completos en prosa y verso"
 author: "[[Authors/Voltaire/Voltaire|Voltaire]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2024-10-04
-date_read: 2025-12-30
-language: Unknown
+date_added: "2024-10-04"
+date_read: "2025-12-30"
+language: "Unknown"
 isbn: "8416280991"
 isbn13: "9788416280995"
 pages: 925
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Voltaire - Cuentos completos en prosa y verso.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-francesa]]"
   - "[[poesía]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos completos en prosa y verso

@@ -3,6 +3,9 @@ name: "Byung-Chul Han"
 country: "[[South Korea]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Byung-Chul Han

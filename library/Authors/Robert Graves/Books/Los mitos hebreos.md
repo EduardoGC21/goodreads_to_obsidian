@@ -14,9 +14,9 @@ format: "physical"
 cover: "[[Attachments/Covers/Robert Graves - Los mitos hebreos.jpg]]"
 bookshelves:
   - "[[mitología]]"
-  - "[[to-read]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos hebreos

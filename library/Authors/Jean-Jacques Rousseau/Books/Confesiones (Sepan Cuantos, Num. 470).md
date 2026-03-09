@@ -17,6 +17,7 @@ bookshelves:
   - "[[biográfico]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Confesiones (Sepan Cuantos, Num. 470)

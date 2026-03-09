@@ -12,10 +12,10 @@ isbn13: "9780670025329"
 pages: 976
 format: "physical"
 cover: "[[Attachments/Covers/Andrew Roberts - Napoleon A Life.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Napoleon: A Life

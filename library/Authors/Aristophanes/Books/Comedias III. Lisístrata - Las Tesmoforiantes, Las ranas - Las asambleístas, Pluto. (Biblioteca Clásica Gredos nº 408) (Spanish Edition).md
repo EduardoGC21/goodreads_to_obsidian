@@ -12,10 +12,10 @@ isbn13: "9788424930233"
 pages: 640
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition)

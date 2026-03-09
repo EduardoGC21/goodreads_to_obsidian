@@ -3,6 +3,9 @@ name: "Karl Marx"
 country: "[[Germany]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Karl Marx

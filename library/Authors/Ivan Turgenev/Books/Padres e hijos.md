@@ -15,9 +15,9 @@ cover: "[[Attachments/Covers/Ivan Turgenev - Padres e hijos.jpg]]"
 bookshelves:
   - "[[literatura-rusa]]"
   - "[[novelas]]"
-  - "[[to-read]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Padres e hijos

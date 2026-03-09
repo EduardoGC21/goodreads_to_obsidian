@@ -3,6 +3,9 @@ name: "Yuval Noah Harari"
 country: "[[Israel]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Yuval Noah Harari

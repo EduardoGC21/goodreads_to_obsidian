@@ -1,22 +1,23 @@
 ---
-title: Historia universal de la infamia
+title: "Historia universal de la infamia"
 author: "[[Authors/Jorge Luis Borges/Jorge Luis Borges|Jorge Luis Borges]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-04-08
-date_read: 2021-04-09
-language: Spanish
+date_added: "2021-04-08"
+date_read: "2021-04-09"
+language: "Spanish"
 isbn: "8420633143"
 isbn13: "9788420633145"
 pages: 136
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Jorge Luis Borges - Historia universal de la infamia.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[borgiano]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Historia universal de la infamia

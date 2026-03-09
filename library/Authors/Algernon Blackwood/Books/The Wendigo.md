@@ -1,22 +1,23 @@
 ---
-title: The Wendigo
+title: "The Wendigo"
 author: "[[Authors/Algernon Blackwood/Algernon Blackwood|Algernon Blackwood]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2025-10-26
-date_read: 2025-10-27
-language: English
+date_added: "2025-10-26"
+date_read: "2025-10-27"
+language: "English"
 isbn: ""
 isbn13: ""
 pages: 48
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Algernon Blackwood - The Wendigo.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Wendigo

@@ -3,6 +3,9 @@ name: "Krishna-Dwaipayana Vyasa"
 country: "[[India]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Krishna-Dwaipayana Vyasa

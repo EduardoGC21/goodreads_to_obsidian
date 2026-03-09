@@ -16,6 +16,7 @@ bookshelves:
   - "[[game-of-thrones]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones

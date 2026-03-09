@@ -12,10 +12,10 @@ isbn13: ""
 pages: 320
 format: "physical"
 cover: "[[Attachments/Covers/Daniel Defoe - Robinson Crusoe.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Robinson Crusoe

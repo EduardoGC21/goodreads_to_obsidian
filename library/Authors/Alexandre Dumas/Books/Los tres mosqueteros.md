@@ -12,10 +12,10 @@ isbn13: "9788491043201"
 pages: 876
 format: "physical"
 cover: "[[Attachments/Covers/Alexandre Dumas - Los tres mosqueteros.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los tres mosqueteros

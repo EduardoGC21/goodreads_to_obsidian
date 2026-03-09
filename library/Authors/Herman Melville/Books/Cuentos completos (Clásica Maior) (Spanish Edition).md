@@ -12,10 +12,10 @@ isbn13: "9788484287766"
 pages: 390
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos completos (Clásica Maior) (Spanish Edition)

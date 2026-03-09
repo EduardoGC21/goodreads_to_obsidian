@@ -3,6 +3,9 @@ name: "Juan Rivano"
 country: "[[Chile]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Juan Rivano

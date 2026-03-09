@@ -3,6 +3,9 @@ name: "Max Tegmark"
 country: "[[Sweden]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Max Tegmark

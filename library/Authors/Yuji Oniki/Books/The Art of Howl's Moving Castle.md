@@ -16,6 +16,7 @@ bookshelves:
   - "[[historia-arte]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Art of Howl's Moving Castle

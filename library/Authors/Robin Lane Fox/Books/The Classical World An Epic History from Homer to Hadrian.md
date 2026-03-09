@@ -12,10 +12,10 @@ isbn13: "9780465024964"
 pages: 672
 format: "physical"
 cover: "[[Attachments/Covers/Robin Lane Fox - The Classical World An Epic History from Homer to Hadrian.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Classical World: An Epic History from Homer to Hadrian

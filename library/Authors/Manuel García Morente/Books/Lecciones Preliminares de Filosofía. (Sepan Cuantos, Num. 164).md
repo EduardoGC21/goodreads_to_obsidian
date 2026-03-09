@@ -16,6 +16,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lecciones Preliminares de Filosofía. (Sepan Cuantos, Num. 164)

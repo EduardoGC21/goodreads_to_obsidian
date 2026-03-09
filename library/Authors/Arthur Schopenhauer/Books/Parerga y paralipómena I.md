@@ -18,6 +18,7 @@ bookshelves:
   - "[[schopenhueriano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Parerga y paralipómena I

@@ -3,6 +3,9 @@ name: "Dante Alighieri"
 country: "[[Italy]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Dante Alighieri

@@ -17,6 +17,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Equiridion, o manual de Epicteto (Spanish Edition)

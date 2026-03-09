@@ -17,6 +17,7 @@ bookshelves:
   - "[[miedo]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitología H.P. Lovecraft: El ascenso divino del terror

@@ -17,6 +17,7 @@ bookshelves:
   - "[[favoritos]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Don Quijote de la Mancha

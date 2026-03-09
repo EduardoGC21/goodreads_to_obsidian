@@ -17,6 +17,7 @@ bookshelves:
   - "[[schopenhueriano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Correspondencia escogida (1799-1860)

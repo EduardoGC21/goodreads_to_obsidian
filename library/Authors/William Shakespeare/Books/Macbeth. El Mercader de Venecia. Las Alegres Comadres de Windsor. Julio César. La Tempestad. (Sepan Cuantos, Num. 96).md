@@ -17,6 +17,7 @@ bookshelves:
   - "[[poesía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96)

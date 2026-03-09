@@ -1,21 +1,22 @@
 ---
-title: Mendel el de los libros
+title: "Mendel el de los libros"
 author: "[[Authors/Stefan Zweig/Stefan Zweig|Stefan Zweig]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2022-02-11
-date_read: 2022-02-11
-language: Spanish
+date_added: "2022-02-11"
+date_read: "2022-02-11"
+language: "Spanish"
 isbn: "8496834905"
 isbn13: "9788496834903"
 pages: 57
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Stefan Zweig - Mendel el de los libros.jpg]]"
 bookshelves:
   - "[[cuentos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mendel el de los libros

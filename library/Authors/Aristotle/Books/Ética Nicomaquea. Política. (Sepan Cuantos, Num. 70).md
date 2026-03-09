@@ -18,6 +18,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70)

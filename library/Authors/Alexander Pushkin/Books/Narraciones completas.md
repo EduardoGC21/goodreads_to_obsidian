@@ -12,10 +12,10 @@ isbn13: "9788490651179"
 pages: 568
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Narraciones completas

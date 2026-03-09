@@ -3,6 +3,9 @@ name: "Julio Cortázar"
 country: "[[Argentina]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Julio Cortázar

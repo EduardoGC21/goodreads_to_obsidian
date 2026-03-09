@@ -16,6 +16,7 @@ bookshelves:
   - "[[economía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Misbehaving: The Making of Behavioral Economics

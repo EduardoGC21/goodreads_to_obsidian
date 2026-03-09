@@ -16,6 +16,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lo bello y lo sublime ensayo de estetica y moral

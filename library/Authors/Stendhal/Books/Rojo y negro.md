@@ -12,10 +12,10 @@ isbn13: "9788420637389"
 pages: 696
 format: "physical"
 cover: "[[Attachments/Covers/Stendhal - Rojo y negro.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Rojo y negro

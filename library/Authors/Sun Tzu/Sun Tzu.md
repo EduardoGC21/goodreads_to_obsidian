@@ -3,6 +3,9 @@ name: "Sun Tzu"
 country: "[[China]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Sun Tzu

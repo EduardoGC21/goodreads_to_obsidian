@@ -17,6 +17,7 @@ bookshelves:
   - "[[mitología]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # No creo poder tocar el cielo con las manos

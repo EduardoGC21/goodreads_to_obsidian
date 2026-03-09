@@ -12,10 +12,10 @@ isbn13: "9788412712278"
 pages: 248
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos chinos: Una guía de sus dioses y leyendas

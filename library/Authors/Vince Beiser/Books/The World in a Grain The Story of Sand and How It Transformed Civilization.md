@@ -16,6 +16,7 @@ bookshelves:
   - "[[ciencia]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The World in a Grain: The Story of Sand and How It Transformed Civilization

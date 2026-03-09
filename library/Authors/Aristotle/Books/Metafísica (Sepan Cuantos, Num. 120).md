@@ -17,6 +17,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Metafísica (Sepan Cuantos, Num. 120)

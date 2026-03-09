@@ -16,6 +16,7 @@ bookshelves:
   - "[[historia-arte]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # John Martin: Apocalypse Now!

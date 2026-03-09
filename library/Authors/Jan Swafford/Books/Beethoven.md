@@ -12,10 +12,10 @@ isbn13: "9788416748686"
 pages: 1456
 format: "physical"
 cover: "[[Attachments/Covers/Jan Swafford - Beethoven.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Beethoven

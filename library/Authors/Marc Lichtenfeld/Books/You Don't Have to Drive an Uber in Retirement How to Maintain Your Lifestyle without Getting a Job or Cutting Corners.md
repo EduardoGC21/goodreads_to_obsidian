@@ -17,6 +17,7 @@ bookshelves:
   - "[[self-help]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # You Don't Have to Drive an Uber in Retirement: How to Maintain Your Lifestyle without Getting a Job or Cutting Corners

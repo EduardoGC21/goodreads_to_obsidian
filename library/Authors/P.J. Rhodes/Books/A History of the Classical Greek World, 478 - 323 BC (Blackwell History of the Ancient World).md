@@ -12,10 +12,10 @@ isbn13: "9780631225652"
 pages: 424
 format: "physical"
 cover: "[[Attachments/Covers/P.J. Rhodes - A History of the Classical Greek World, 478 - 323 BC (Blackwell History of the Ancient World).jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of the Classical Greek World, 478 - 323 BC (Blackwell History of the Ancient World)

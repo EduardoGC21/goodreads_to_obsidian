@@ -12,10 +12,10 @@ isbn13: "9788446040125"
 pages: 288
 format: "physical"
 cover: "[[Attachments/Covers/Alberto Bernabé Pajares - Mitos hititas Entre Oriente y Occidente.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitos hititas: Entre Oriente y Occidente

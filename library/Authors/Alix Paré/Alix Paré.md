@@ -3,6 +3,9 @@ name: "Alix Paré"
 country: "[[Unknown]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alix Paré

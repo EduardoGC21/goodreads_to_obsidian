@@ -3,6 +3,9 @@ name: "Albert Camus"
 country: "[[Algeria]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Albert Camus

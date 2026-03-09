@@ -12,10 +12,10 @@ isbn13: "9782073025104"
 pages: 76
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Plaidoirie pour l'avortement

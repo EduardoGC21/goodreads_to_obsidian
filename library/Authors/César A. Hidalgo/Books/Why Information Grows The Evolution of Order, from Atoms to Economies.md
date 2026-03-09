@@ -18,6 +18,7 @@ bookshelves:
   - "[[progreso]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Why Information Grows: The Evolution of Order, from Atoms to Economies

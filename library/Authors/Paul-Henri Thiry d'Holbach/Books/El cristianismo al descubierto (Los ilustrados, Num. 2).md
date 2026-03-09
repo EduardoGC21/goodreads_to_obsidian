@@ -12,10 +12,10 @@ isbn13: "9788492422029"
 pages: 168
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cristianismo al descubierto (Los ilustrados, Num. 2)

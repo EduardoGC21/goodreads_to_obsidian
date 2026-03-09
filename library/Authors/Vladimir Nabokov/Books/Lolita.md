@@ -12,10 +12,10 @@ isbn13: "9788433960177"
 pages: 392
 format: "physical"
 cover: "[[Attachments/Covers/Vladimir Nabokov - Lolita.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lolita

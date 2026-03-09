@@ -12,10 +12,10 @@ isbn13: "9788490657300"
 pages: 296
 format: "physical"
 cover: "[[Attachments/Covers/Johann Wolfgang von Goethe - Antología poética.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Antología poética

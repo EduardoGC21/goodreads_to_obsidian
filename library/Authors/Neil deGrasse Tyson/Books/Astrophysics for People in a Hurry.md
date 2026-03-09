@@ -16,6 +16,7 @@ bookshelves:
   - "[[ciencia]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Astrophysics for People in a Hurry

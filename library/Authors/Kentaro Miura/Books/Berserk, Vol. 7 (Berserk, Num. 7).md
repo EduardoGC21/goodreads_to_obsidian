@@ -17,6 +17,7 @@ bookshelves:
   - "[[manga]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 7 (Berserk, Num. 7)

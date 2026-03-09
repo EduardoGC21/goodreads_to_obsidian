@@ -12,10 +12,10 @@ isbn13: "9788420638690"
 pages: 252
 format: "physical"
 cover: "[[Attachments/Covers/Jorge Luis Borges - Libro de sueños.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Libro de sueños

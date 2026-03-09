@@ -12,10 +12,10 @@ isbn13: "9788435018388"
 pages: 1056
 format: "physical"
 cover: "[[Attachments/Covers/Thomas Mann - La montaña mágica.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La montaña mágica

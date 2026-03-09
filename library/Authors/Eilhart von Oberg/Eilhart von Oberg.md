@@ -3,6 +3,9 @@ name: "Eilhart von Oberg"
 country: "[[Germany]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Eilhart von Oberg

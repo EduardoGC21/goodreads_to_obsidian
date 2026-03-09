@@ -18,6 +18,7 @@ bookshelves:
   - "[[favoritos]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poesía completa

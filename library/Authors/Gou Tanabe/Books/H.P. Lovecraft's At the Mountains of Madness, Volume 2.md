@@ -17,6 +17,7 @@ bookshelves:
   - "[[miedo]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # H.P. Lovecraft's At the Mountains of Madness, Volume 2

@@ -3,6 +3,9 @@ name: "Gustav Meyrink"
 country: "[[Austria]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gustav Meyrink

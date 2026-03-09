@@ -12,10 +12,10 @@ isbn13: "9781371434014"
 pages: 450
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lord Byron's Cain, a Mystery

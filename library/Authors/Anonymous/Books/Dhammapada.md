@@ -17,6 +17,7 @@ bookshelves:
   - "[[oriental]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Dhammapada

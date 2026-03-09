@@ -12,10 +12,10 @@ isbn13: "9780241524510"
 pages: 464
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Homer and His Iliad

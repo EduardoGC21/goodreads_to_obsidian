@@ -1,22 +1,23 @@
 ---
-title: Cuentos 1
+title: "Cuentos 1"
 author: "[[Authors/Edgar Allan Poe/Edgar Allan Poe|Edgar Allan Poe]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-09-18
-date_read: 2022-02-10
-language: Unknown
+date_added: "2021-09-18"
+date_read: "2022-02-10"
+language: "Unknown"
 isbn: "8420674184"
 isbn13: "9788420674186"
 pages: 637
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Edgar Allan Poe - Cuentos 1.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[miedo]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos 1

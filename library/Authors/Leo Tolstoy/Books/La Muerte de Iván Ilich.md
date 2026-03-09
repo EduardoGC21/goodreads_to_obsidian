@@ -1,23 +1,24 @@
 ---
-title: La Muerte de Iván Ilich
+title: "La Muerte de Iván Ilich"
 author: "[[Authors/Leo Tolstoy/Leo Tolstoy|Leo Tolstoy]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-06-27
-date_read: 2021-06-27
-language: Spanish
+date_added: "2021-06-27"
+date_read: "2021-06-27"
+language: "Spanish"
 isbn: ""
 isbn13: ""
 pages: 53
-format: virtual
+format: "virtual"
 cover: "[[Attachments/Covers/Leo Tolstoy - La Muerte de Iván Ilich.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[existencialista]]"
   - "[[literatura-rusa]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La Muerte de Iván Ilich

@@ -3,6 +3,9 @@ name: "Walter F. Otto"
 country: "[[Germany]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Walter F. Otto

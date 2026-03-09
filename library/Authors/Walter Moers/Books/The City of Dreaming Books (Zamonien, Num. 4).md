@@ -16,6 +16,7 @@ bookshelves:
   - "[[novelas]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The City of Dreaming Books (Zamonien, Num. 4)

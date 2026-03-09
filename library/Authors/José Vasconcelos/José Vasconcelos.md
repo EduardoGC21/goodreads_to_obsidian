@@ -3,6 +3,9 @@ name: "José Vasconcelos"
 country: "[[Mexico]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Vasconcelos

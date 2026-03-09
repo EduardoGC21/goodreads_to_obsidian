@@ -12,10 +12,10 @@ isbn13: "9788489846548"
 pages: 898
 format: "physical"
 cover: "[[Attachments/Covers/Johann Wolfgang von Goethe - Poesía y verdad de mi vida.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poesía y verdad: de mi vida

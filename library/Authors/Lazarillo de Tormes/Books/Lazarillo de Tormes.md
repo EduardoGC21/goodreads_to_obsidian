@@ -12,10 +12,10 @@ isbn13: "9788437606606"
 pages: 196
 format: "physical"
 cover: "[[Attachments/Covers/Lazarillo de Tormes - Lazarillo de Tormes.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Lazarillo de Tormes

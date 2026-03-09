@@ -16,6 +16,7 @@ bookshelves:
   - "[[self-help]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results

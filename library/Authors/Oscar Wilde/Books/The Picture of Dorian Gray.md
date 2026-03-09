@@ -12,10 +12,10 @@ isbn13: "9780141439570"
 pages: 253
 format: "physical"
 cover: "[[Attachments/Covers/Oscar Wilde - The Picture of Dorian Gray.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Picture of Dorian Gray

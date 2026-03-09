@@ -18,6 +18,7 @@ bookshelves:
   - "[[fantasía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3)

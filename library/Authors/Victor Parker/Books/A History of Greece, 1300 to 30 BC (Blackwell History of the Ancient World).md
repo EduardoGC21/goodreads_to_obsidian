@@ -12,10 +12,10 @@ isbn13: ""
 pages: 505
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)

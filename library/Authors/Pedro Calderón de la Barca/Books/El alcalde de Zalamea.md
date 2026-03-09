@@ -16,6 +16,7 @@ bookshelves:
   - "[[teatral-dramático]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El alcalde de Zalamea

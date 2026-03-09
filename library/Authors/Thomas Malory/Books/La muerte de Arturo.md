@@ -12,10 +12,10 @@ isbn13: "9788498412796"
 pages: 976
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La muerte de Arturo

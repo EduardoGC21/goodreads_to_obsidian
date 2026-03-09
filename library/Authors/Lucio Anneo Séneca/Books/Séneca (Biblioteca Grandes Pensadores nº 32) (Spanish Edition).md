@@ -12,10 +12,10 @@ isbn13: "9788424930356"
 pages: 1133
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Séneca (Biblioteca Grandes Pensadores nº 32) (Spanish Edition)

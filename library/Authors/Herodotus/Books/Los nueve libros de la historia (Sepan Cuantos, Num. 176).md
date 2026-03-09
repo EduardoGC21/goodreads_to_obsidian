@@ -12,10 +12,10 @@ isbn13: "9789700772868"
 pages: 533
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los nueve libros de la historia (Sepan Cuantos, Num. 176)

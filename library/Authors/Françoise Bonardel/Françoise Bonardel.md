@@ -3,6 +3,9 @@ name: "Françoise Bonardel"
 country: "[[France]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Françoise Bonardel

@@ -3,6 +3,9 @@ name: "Heinz Insu Fenkl"
 country: "[[South Korea]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Heinz Insu Fenkl

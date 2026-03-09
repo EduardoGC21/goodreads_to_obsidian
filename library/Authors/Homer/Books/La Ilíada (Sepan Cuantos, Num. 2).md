@@ -21,6 +21,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La Ilíada (Sepan Cuantos, Num. 2)

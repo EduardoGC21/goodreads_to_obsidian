@@ -17,6 +17,7 @@ bookshelves:
   - "[[schopenhueriano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sobre la cuádruple raíz del principio de razón suficiente

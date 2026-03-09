@@ -12,10 +12,10 @@ isbn13: "9788419124654"
 pages: 544
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Rey Arturo y los caballeros de la Tabla Redonda

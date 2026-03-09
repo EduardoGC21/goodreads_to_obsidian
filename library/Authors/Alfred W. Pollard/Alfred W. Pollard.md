@@ -3,6 +3,9 @@ name: "Alfred W. Pollard"
 country: "[[England]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alfred W. Pollard

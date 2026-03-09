@@ -3,6 +3,9 @@ name: "Harding Grant"
 country: "[[Unknown]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harding Grant

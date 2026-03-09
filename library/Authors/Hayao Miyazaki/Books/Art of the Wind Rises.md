@@ -16,6 +16,7 @@ bookshelves:
   - "[[historia-arte]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Art of the Wind Rises

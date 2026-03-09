@@ -12,10 +12,10 @@ isbn13: "9788492422036"
 pages: 680
 format: "physical"
 cover: "[[Attachments/Covers/Paul-Henri Thiry d'Holbach - Sistema de la Naturaleza.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sistema de la Naturaleza

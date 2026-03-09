@@ -12,10 +12,10 @@ isbn13: "9781594205071"
 pages: 790
 format: "physical"
 cover: "[[Attachments/Covers/Robert M. Sapolsky - Behave The Biology of Humans at Our Best and Worst.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Behave: The Biology of Humans at Our Best and Worst

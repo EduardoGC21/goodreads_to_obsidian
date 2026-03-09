@@ -20,6 +20,7 @@ bookshelves:
   - "[[guerra]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Alejandro Magno: Conquistador del mundo

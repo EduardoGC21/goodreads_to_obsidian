@@ -12,10 +12,10 @@ isbn13: "9788437506302"
 pages: 239
 format: "physical"
 cover: "[[Attachments/Covers/Carlos García Gual - Prometeo mito y literatura (Antropologia) (Spanish Edition).jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Prometeo: mito y literatura (Antropologia) (Spanish Edition)

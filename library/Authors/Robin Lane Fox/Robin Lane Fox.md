@@ -3,6 +3,9 @@ name: "Robin Lane Fox"
 country: "[[United Kingdom]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robin Lane Fox

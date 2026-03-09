@@ -18,6 +18,7 @@ bookshelves:
   - "[[poesía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cantar de los Nibelungos (Sepan Cuantos, Num. 285)

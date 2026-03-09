@@ -12,10 +12,10 @@ isbn13: ""
 pages: 416
 format: "virtual"
 cover: "[[Attachments/Covers/José Saramago - Ensayo sobre la ceguera.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ensayo sobre la ceguera

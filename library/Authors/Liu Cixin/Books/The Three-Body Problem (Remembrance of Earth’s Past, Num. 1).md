@@ -17,6 +17,7 @@ bookshelves:
   - "[[ciencia-ficción]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)

@@ -17,6 +17,7 @@ bookshelves:
   - "[[schopenhueriano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419)

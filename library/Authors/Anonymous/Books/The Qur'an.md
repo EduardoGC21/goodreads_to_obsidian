@@ -17,6 +17,7 @@ bookshelves:
   - "[[árabe]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Qur'an

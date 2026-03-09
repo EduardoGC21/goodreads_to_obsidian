@@ -3,6 +3,9 @@ name: "Madeleine K. Albright"
 country: "[[Czechoslovakia]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Madeleine K. Albright

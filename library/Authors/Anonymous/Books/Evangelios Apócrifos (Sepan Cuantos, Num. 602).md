@@ -12,10 +12,10 @@ isbn13: "9789700768861"
 pages: 213
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Evangelios Apócrifos (Sepan Cuantos, Num. 602)

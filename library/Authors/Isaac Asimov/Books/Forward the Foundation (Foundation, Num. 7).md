@@ -17,6 +17,7 @@ bookshelves:
   - "[[novelas]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Forward the Foundation (Foundation, Num. 7)

@@ -12,10 +12,10 @@ isbn13: "9781465482853"
 pages: 352
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El libro de la mitología

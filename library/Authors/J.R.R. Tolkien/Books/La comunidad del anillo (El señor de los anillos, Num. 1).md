@@ -18,6 +18,7 @@ bookshelves:
   - "[[mitología]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La comunidad del anillo (El señor de los anillos, Num. 1)

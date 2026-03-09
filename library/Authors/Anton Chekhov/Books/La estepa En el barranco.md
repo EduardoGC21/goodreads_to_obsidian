@@ -17,6 +17,7 @@ bookshelves:
   - "[[novelas]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La estepa / En el barranco

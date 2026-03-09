@@ -14,9 +14,9 @@ format: "physical"
 cover: ""
 bookshelves:
   - "[[historia-arte]]"
-  - "[[to-read]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Caspar David Friedrich

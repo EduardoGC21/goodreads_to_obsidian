@@ -18,6 +18,7 @@ bookshelves:
   - "[[grecorromano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition)

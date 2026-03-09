@@ -12,10 +12,10 @@ isbn13: "9781421561325"
 pages: 653
 format: "physical"
 cover: "[[Attachments/Covers/Junji Ito - Uzumaki.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Uzumaki

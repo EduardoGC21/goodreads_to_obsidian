@@ -3,6 +3,9 @@ name: "Robert Louis Stevenson"
 country: "[[Scotland]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert Louis Stevenson

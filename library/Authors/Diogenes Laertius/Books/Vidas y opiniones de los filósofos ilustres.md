@@ -12,10 +12,10 @@ isbn13: "9788420676975"
 pages: 664
 format: "physical"
 cover: "[[Attachments/Covers/Diogenes Laertius - Vidas y opiniones de los filósofos ilustres.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Vidas y opiniones de los filósofos ilustres

@@ -3,6 +3,9 @@ name: "Nikolai Gogol"
 country: "[[Ukraine]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Nikolai Gogol

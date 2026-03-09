@@ -1,16 +1,16 @@
 ---
 title: "Poe: Stories and Poems: A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens)"
 author: "[[Authors/Gareth Hinds/Gareth Hinds|Gareth Hinds]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2026-01-02
-date_read: 2026-01-03
-language: English
+date_added: "2026-01-02"
+date_read: "2026-01-03"
+language: "English"
 isbn: "0763695092"
 isbn13: "9780763695095"
 pages: 120
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Gareth Hinds - Poe Stories and Poems A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens).jpg]]"
 bookshelves:
   - "[[cuentos]]"
@@ -18,7 +18,8 @@ bookshelves:
   - "[[novela-grafica]]"
   - "[[poesía]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Poe: Stories and Poems: A Graphic Novel (A Haunting Visual Adaptation and Retelling of Edgar Allan Poe's Chilling Works - For Young Adults and Teens)

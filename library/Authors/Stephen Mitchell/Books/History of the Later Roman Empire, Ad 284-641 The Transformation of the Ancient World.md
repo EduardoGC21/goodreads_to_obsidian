@@ -12,10 +12,10 @@ isbn13: "9781405108560"
 pages: 469
 format: "physical"
 cover: "[[Attachments/Covers/Stephen Mitchell - History of the Later Roman Empire, Ad 284-641 The Transformation of the Ancient World.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # History of the Later Roman Empire, Ad 284-641: The Transformation of the Ancient World

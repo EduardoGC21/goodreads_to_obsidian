@@ -3,6 +3,9 @@ name: "T.W. Rolleston"
 country: "[[Ireland]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # T.W. Rolleston

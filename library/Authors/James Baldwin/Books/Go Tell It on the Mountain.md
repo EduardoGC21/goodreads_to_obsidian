@@ -12,10 +12,10 @@ isbn13: "9780141185910"
 pages: 256
 format: "physical"
 cover: "[[Attachments/Covers/James Baldwin - Go Tell It on the Mountain.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Go Tell It on the Mountain

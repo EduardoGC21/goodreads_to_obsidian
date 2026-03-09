@@ -3,6 +3,9 @@ name: "Fernando Vallejo"
 country: "[[Colombia]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Fernando Vallejo

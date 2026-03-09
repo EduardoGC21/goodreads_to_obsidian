@@ -17,6 +17,7 @@ bookshelves:
   - "[[history]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Sapiens: A Brief History of Humankind

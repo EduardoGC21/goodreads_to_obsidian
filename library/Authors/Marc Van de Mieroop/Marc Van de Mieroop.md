@@ -3,6 +3,9 @@ name: "Marc Van de Mieroop"
 country: "[[Belgium]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marc Van de Mieroop

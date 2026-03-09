@@ -12,10 +12,10 @@ isbn13: "9788424932343"
 pages: 353
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias I. Los acarnienses. Los caballeros.: Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition)

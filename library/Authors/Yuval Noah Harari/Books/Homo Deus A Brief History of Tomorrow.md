@@ -17,6 +17,7 @@ bookshelves:
   - "[[history]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Homo Deus: A Brief History of Tomorrow

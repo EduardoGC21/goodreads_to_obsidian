@@ -12,10 +12,10 @@ isbn13: "9780575077669"
 pages: 927
 format: "physical"
 cover: "[[Attachments/Covers/Robert E. Howard - The Complete Chronicles of Conan.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Complete Chronicles of Conan

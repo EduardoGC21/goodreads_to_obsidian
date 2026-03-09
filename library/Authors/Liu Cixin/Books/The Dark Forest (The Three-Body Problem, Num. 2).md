@@ -17,6 +17,7 @@ bookshelves:
   - "[[ciencia-ficción]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Dark Forest (The Three-Body Problem, Num. 2)

@@ -3,6 +3,9 @@ name: "Javier Tapia"
 country: "[[Mexico]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Javier Tapia

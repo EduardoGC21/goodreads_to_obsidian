@@ -12,10 +12,10 @@ isbn13: "9788424937584"
 pages: 555
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition)

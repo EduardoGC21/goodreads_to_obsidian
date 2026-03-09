@@ -16,6 +16,7 @@ bookshelves:
   - "[[self-help]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # 12 reglas para vivir: Un antídoto al caos

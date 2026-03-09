@@ -3,6 +3,9 @@ name: "Daniel Defoe"
 country: "[[England]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Daniel Defoe

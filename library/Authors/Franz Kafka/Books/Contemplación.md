@@ -1,22 +1,23 @@
 ---
-title: Contemplación
+title: "Contemplación"
 author: "[[Authors/Franz Kafka/Franz Kafka|Franz Kafka]]"
-status: read
+status: "read"
 rating: 4
 read_count: 1
-date_added: 2021-04-04
-date_read: 2021-04-04
-language: Spanish
+date_added: "2021-04-04"
+date_read: "2021-04-04"
+language: "Spanish"
 isbn: ""
 isbn13: ""
 pages: 60
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Franz Kafka - Contemplación.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[existencialista]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Contemplación

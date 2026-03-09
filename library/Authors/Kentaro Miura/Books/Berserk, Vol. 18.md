@@ -17,6 +17,7 @@ bookshelves:
   - "[[manga]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 18

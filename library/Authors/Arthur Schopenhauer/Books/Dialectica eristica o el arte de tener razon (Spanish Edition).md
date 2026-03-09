@@ -19,6 +19,7 @@ bookshelves:
   - "[[schopenhueriano]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Dialectica eristica o el arte de tener razon (Spanish Edition)

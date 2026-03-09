@@ -12,10 +12,10 @@ isbn13: "9788417281120"
 pages: 120
 format: "physical"
 cover: "[[Attachments/Covers/Leo Tolstoy - El cupón falso.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cupón falso

@@ -12,10 +12,10 @@ isbn13: "9789501253368"
 pages: 400
 format: "physical"
 cover: "[[Attachments/Covers/Michael Hardt - Imperio.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Imperio

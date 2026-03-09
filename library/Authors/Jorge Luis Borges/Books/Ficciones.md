@@ -1,23 +1,24 @@
 ---
-title: Ficciones
+title: "Ficciones"
 author: "[[Authors/Jorge Luis Borges/Jorge Luis Borges|Jorge Luis Borges]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2020-09-07
-date_read: 2020-09-23
-language: English
+date_added: "2020-09-07"
+date_read: "2020-09-23"
+language: "English"
 isbn: "0802190731"
 isbn13: ""
 pages: 178
-format: virtual
+format: "virtual"
 cover: "[[Attachments/Covers/Jorge Luis Borges - Ficciones.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[borgiano]]"
   - "[[favoritos]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Ficciones

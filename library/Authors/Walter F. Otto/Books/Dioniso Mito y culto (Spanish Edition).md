@@ -12,10 +12,10 @@ isbn13: "9788425440076"
 pages: 237
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Dioniso: Mito y culto (Spanish Edition)

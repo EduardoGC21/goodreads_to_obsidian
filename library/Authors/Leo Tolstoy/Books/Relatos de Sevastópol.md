@@ -1,16 +1,16 @@
 ---
-title: Relatos de Sevastópol
+title: "Relatos de Sevastópol"
 author: "[[Authors/Leo Tolstoy/Leo Tolstoy|Leo Tolstoy]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-06-28
-date_read: 2021-07-02
-language: Spanish
+date_added: "2021-06-28"
+date_read: "2021-07-02"
+language: "Spanish"
 isbn: "8484289249"
 isbn13: "9788484289241"
 pages: 216
-format: virtual
+format: "virtual"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
@@ -18,7 +18,8 @@ bookshelves:
   - "[[literatura-rusa]]"
   - "[[history]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Relatos de Sevastópol

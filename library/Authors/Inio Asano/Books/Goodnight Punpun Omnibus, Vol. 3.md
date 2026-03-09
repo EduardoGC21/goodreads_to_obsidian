@@ -16,6 +16,7 @@ bookshelves:
   - "[[manga]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Goodnight Punpun Omnibus, Vol. 3

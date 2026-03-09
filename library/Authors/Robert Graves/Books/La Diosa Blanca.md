@@ -12,10 +12,10 @@ isbn13: "9788420619484"
 pages: 512
 format: "physical"
 cover: "[[Attachments/Covers/Robert Graves - La Diosa Blanca.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # La Diosa Blanca

@@ -12,10 +12,10 @@ isbn13: "9780553283686"
 pages: 500
 format: "physical"
 cover: "[[Attachments/Covers/Dan Simmons - Hyperion (Hyperion Cantos, Num. 1).jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Hyperion (Hyperion Cantos, Num. 1)

@@ -12,10 +12,10 @@ isbn13: "9780142437247"
 pages: 720
 format: "physical"
 cover: "[[Attachments/Covers/Herman Melville - Moby-Dick or, The Whale.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Moby-Dick or, The Whale

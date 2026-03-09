@@ -12,10 +12,10 @@ isbn13: "9788490655849"
 pages: 204
 format: "virtual"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Pobre gente

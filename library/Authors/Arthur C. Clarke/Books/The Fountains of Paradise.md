@@ -12,10 +12,10 @@ isbn13: "9780446677943"
 pages: 332
 format: "physical"
 cover: "[[Attachments/Covers/Arthur C. Clarke - The Fountains of Paradise.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Fountains of Paradise

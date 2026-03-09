@@ -1,22 +1,23 @@
 ---
-title: Mírgorod
+title: "Mírgorod"
 author: "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2024-07-02
-date_read: 2024-07-11
-language: Spanish
+date_added: "2024-07-02"
+date_read: "2024-07-11"
+language: "Spanish"
 isbn: "8490655774"
 isbn13: "9788490655771"
 pages: 352
-format: physical
+format: "physical"
 cover: "[[Attachments/Covers/Nikolai Gogol - Mírgorod.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-rusa]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Mírgorod

@@ -17,6 +17,7 @@ bookshelves:
   - "[[literatura-francesa]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los miserables

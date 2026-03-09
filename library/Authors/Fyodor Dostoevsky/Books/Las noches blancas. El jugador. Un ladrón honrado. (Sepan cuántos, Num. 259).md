@@ -17,6 +17,7 @@ bookshelves:
   - "[[literatura-rusa]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259)

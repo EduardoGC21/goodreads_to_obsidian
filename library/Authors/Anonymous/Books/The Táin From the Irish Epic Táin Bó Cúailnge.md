@@ -12,10 +12,10 @@ isbn13: "9780192803733"
 pages: 282
 format: "physical"
 cover: "[[Attachments/Covers/Anonymous - The Táin From the Irish Epic Táin Bó Cúailnge.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Táin: From the Irish Epic Táin Bó Cúailnge

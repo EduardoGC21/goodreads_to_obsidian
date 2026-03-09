@@ -12,10 +12,10 @@ isbn13: "9788420662633"
 pages: 272
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Oraculos griegos

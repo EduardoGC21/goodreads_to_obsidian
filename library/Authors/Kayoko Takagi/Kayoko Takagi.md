@@ -3,6 +3,9 @@ name: "Kayoko Takagi"
 country: "[[Unknown]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Kayoko Takagi

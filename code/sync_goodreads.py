@@ -989,8 +989,7 @@ def author_metadata_is_complete(note: NoteDocument) -> bool:
     return (
         bool(get_existing_biography(note))
         and get_existing_country(note) != "Unknown"
-        and "birth_year" in note.metadata
-        and "death_year" in note.metadata
+        and bool(get_existing_birth_year(note) or get_existing_death_year(note))
     )
 
 

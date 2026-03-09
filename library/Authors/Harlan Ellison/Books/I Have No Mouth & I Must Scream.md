@@ -1,22 +1,23 @@
 ---
-title: I Have No Mouth & I Must Scream
+title: "I Have No Mouth & I Must Scream"
 author: "[[Authors/Harlan Ellison/Harlan Ellison|Harlan Ellison]]"
-status: read
+status: "read"
 rating: 5
 read_count: 1
-date_added: 2021-11-15
-date_read: 2021-11-15
-language: Unknown
+date_added: "2021-11-15"
+date_read: "2021-11-15"
+language: "Unknown"
 isbn: "0441363954"
 isbn13: "9780441363957"
 pages: 134
-format: physical
+format: "physical"
 cover: ""
 bookshelves:
   - "[[cuentos]]"
   - "[[ciencia-ficción]]"
 tags:
-  - book
+  - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # I Have No Mouth & I Must Scream

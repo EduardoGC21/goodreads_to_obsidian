@@ -18,6 +18,7 @@ bookshelves:
   - "[[filosofía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El Capital. Libro tercero: El proceso global de la producción capitalista

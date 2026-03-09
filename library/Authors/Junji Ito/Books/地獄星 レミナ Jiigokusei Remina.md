@@ -17,6 +17,7 @@ bookshelves:
   - "[[manga]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # 地獄星 レミナ [Jiigokusei Remina]

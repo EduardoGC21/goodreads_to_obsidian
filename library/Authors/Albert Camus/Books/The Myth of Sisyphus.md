@@ -17,6 +17,7 @@ bookshelves:
   - "[[existencialista]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Myth of Sisyphus

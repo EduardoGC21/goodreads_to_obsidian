@@ -12,10 +12,10 @@ isbn13: "9788490656075"
 pages: 776
 format: "physical"
 cover: "[[Attachments/Covers/Fyodor Dostoevsky - El idiota.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El idiota

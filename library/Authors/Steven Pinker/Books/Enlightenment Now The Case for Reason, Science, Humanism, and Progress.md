@@ -17,6 +17,7 @@ bookshelves:
   - "[[progreso]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Enlightenment Now: The Case for Reason, Science, Humanism, and Progress

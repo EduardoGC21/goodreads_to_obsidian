@@ -265,6 +265,123 @@ class GoodreadsSyncTests(unittest.TestCase):
         self.assertIn('reread_dates: []', migrated_book)
         self.assertIn('- "book"', migrated_book)
 
+    def test_blank_migrated_years_trigger_author_refresh_on_normal_sync(self) -> None:
+        base = make_case_dir("refresh_blank_years")
+        csv_path = base / "goodreads.csv"
+        vault_root = base / "library_v2"
+        write_csv(csv_path, [{
+            "Book Id": "1", "Title": "Dune", "Author": "Frank Herbert", "Author l-f": "Herbert, Frank",
+            "Additional Authors": "", "ISBN": "0441172717", "ISBN13": "9780441172719", "My Rating": "5",
+            "Average Rating": "", "Publisher": "Ace", "Binding": "Paperback", "Number of Pages": "500",
+            "Year Published": "1965", "Original Publication Year": "1965", "Date Read": "2026-01-01",
+            "Date Added": "2026-01-01", "Bookshelves": "science fiction", "Bookshelves with positions": "",
+            "Exclusive Shelf": "read", "My Review": "", "Spoiler": "", "Private Notes": "",
+            "Read Count": "1", "Owned Copies": "1",
+        }])
+        author_dir = vault_root / "Authors" / "Frank Herbert"
+        books_dir = author_dir / "Books"
+        books_dir.mkdir(parents=True, exist_ok=True)
+        (books_dir / "Dune.md").write_text(
+            '---
+'
+            'title: "Dune"
+'
+            'author: "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"
+'
+            'status: "read"
+'
+            'rating: 5
+'
+            'read_count: 1
+'
+            'date_added: "2026-01-01"
+'
+            'date_read: "2026-01-01"
+'
+            'language: "English"
+'
+            'isbn: "0441172717"
+'
+            'isbn13: "9780441172719"
+'
+            'pages: 500
+'
+            'format: "physical"
+'
+            'cover: ""
+'
+            'bookshelves:
+'
+            '  - "[[science fiction]]"
+'
+            'reread_dates: []
+'
+            'tags:
+'
+            '  - "book"
+'
+            '---
+',
+            encoding="utf-8",
+        )
+        (author_dir / "Frank Herbert.md").write_text(
+            '---
+'
+            'name: "Frank Herbert"
+'
+            'country: "[[United States]]"
+'
+            'birth_year: ""
+'
+            'death_year: ""
+'
+            'tags:
+'
+            '  - "author"
+'
+            '---
+'
+            '<!-- GENERATED:AUTHOR_HEADER START -->
+'
+            '# Frank Herbert
+'
+            '<!-- GENERATED:AUTHOR_HEADER END -->
+
+'
+            '<!-- GENERATED:AUTHOR_BIO START -->
+'
+            '## Biography
+'
+            'Frank Herbert was an American science fiction writer.
+'
+            '<!-- GENERATED:AUTHOR_BIO END -->
+
+'
+            '<!-- GENERATED:AUTHOR_BOOKS START -->
+'
+            '## Books Linked
+'
+            '- [[Authors/Frank Herbert/Books/Dune|Dune]]
+'
+            '<!-- GENERATED:AUTHOR_BOOKS END -->
+',
+            encoding="utf-8",
+        )
+        generated = sync_goodreads.AuthorMetadataResult(
+            biography="Frank Herbert (1920-1986) was an American science fiction writer.",
+            country="United States",
+            birth_year="1920",
+            death_year="1986",
+        )
+        with patch.object(sync_goodreads, "fetch_cover_url_with_fallbacks", return_value=("", [])), patch.object(
+            sync_goodreads, "generate_author_metadata_via_codex", return_value=(generated, [])
+        ) as metadata_mock:
+            sync_goodreads.run_sync(csv_path, vault_root)
+        self.assertEqual(metadata_mock.call_count, 1)
+        author_text = (author_dir / "Frank Herbert.md").read_text(encoding="utf-8")
+        self.assertIn('birth_year: "1920"', author_text)
+        self.assertIn('death_year: "1986"', author_text)
+
     def test_main_subcommands_work_and_to_read_stays_plain(self) -> None:
         base = make_case_dir("main")
         csv_path = base / "goodreads.csv"

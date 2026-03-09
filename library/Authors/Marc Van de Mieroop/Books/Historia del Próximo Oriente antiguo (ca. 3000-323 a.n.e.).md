@@ -12,10 +12,10 @@ isbn13: "9788498798012"
 pages: 468
 format: "physical"
 cover: "[[Attachments/Covers/Marc Van de Mieroop - Historia del Próximo Oriente antiguo (ca. 3000-323 a.n.e.).jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Historia del Próximo Oriente antiguo (ca. 3000-323 a.n.e.)

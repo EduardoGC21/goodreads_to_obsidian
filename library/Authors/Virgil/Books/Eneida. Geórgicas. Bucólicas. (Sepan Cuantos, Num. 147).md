@@ -18,6 +18,7 @@ bookshelves:
   - "[[poesía]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147)

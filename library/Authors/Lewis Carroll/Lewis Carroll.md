@@ -3,6 +3,9 @@ name: "Lewis Carroll"
 country: "[[England]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lewis Carroll

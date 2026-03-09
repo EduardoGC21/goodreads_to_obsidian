@@ -12,10 +12,10 @@ isbn13: "9788433980748"
 pages: 424
 format: "physical"
 cover: "[[Attachments/Covers/Roberto Calasso - El cazador celeste.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # El cazador celeste

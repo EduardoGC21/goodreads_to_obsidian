@@ -12,10 +12,10 @@ isbn13: "9786071650733"
 pages: 216
 format: "physical"
 cover: "[[Attachments/Covers/Martin Heidegger - Heráclito. Seminario del semestre de invierno 1966-1967.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Heráclito. Seminario del semestre de invierno 1966-1967

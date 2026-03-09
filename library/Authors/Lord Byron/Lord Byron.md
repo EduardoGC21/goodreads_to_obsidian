@@ -3,6 +3,9 @@ name: "Lord Byron"
 country: "[[United Kingdom]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lord Byron

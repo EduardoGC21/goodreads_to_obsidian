@@ -12,10 +12,10 @@ isbn13: ""
 pages: 178
 format: "physical"
 cover: "[[Attachments/Covers/James Baldwin - Giovanni’s Room.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Giovanni’s Room

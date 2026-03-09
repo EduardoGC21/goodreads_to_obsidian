@@ -18,6 +18,7 @@ bookshelves:
   - "[[política]]"
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Rebelión en la granja

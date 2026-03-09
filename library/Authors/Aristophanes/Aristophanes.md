@@ -3,6 +3,9 @@ name: "Aristophanes"
 country: "[[Greece]]"
 tags:
   - "author"
+bookshelves: []
+birth_year: ""
+death_year: ""
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aristophanes

@@ -12,10 +12,10 @@ isbn13: "9788412712261"
 pages: 304
 format: "physical"
 cover: ""
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos japoneses: Una guía de sus dioses, héroes y espíritus

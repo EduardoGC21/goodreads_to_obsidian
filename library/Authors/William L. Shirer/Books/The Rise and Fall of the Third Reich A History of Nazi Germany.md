@@ -12,10 +12,10 @@ isbn13: "9780671728687"
 pages: 1147
 format: "physical"
 cover: "[[Attachments/Covers/William L. Shirer - The Rise and Fall of the Third Reich A History of Nazi Germany.jpg]]"
-bookshelves:
-  - "[[to-read]]"
+bookshelves: []
 tags:
   - "book"
+reread_dates: []
 ---
 <!-- GENERATED:BOOK_HEADER START -->
 # The Rise and Fall of the Third Reich: A History of Nazi Germany
