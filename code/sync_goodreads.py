@@ -196,6 +196,7 @@ class AuthorWorkItem:
     book_links: list[str]
     sample_titles: list[str]
     existing_country: str
+    existing_biography: str
 
 
 @dataclass
@@ -312,6 +313,7 @@ def add_common_sync_arguments(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--vault-root", default="library_v2", help="Output vault root.")
     parser.add_argument("--refresh-goodreads", action="store_true", help="Force rewrite Goodreads-derived metadata.")
     parser.add_argument("--refresh-bio", action="store_true", help="Regenerate author biography and country metadata.")
+    parser.add_argument("--infer-author-dates", action="store_true", help="Infer missing author country/birth/death from the existing biography without regenerating the biography text.")
     parser.add_argument("--refresh-images", action="store_true", help="Refetch cover images even if a local cover exists.")
     parser.add_argument("--force-refresh-metadata", action="store_true", help="Legacy alias for refreshing Goodreads metadata, biography/country, and images together.")
 
@@ -1192,6 +1194,21 @@ def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> 
     return json.dumps(payload, ensure_ascii=False)
 
 
+def build_codex_demographics_prompt(author_name: str, biography: str, sample_titles: list[str]) -> str:
+    payload = {
+        "instruction": (
+            "You are AuthorDemographicsAgent. Return strict JSON only with keys country, birth_year, and death_year. "
+            "Use the provided English biography as primary evidence, and use the listed books only as secondary context. "
+            "Do not rewrite or summarize the biography. Country must be in English. birth_year and death_year must be four-digit strings or empty strings when unknown. "
+            "If country is uncertain, return Unknown. No external links."
+        ),
+        "author_name": author_name,
+        "existing_biography": biography,
+        "books_from_library": sample_titles[:5],
+        "required_keys": ["country", "birth_year", "death_year"],
+    }
+    return json.dumps(payload, ensure_ascii=False)
+
 def clean_generated_biography(text: str) -> str:
     cleaned = repair_text_value(text)
     cleaned = re.sub(r"^\s*[-*]\s*", "", cleaned, flags=re.MULTILINE)
@@ -1236,6 +1253,17 @@ class AuthorBiographyAgent(_CodexTextAgent):
         return self._run(prompt, workdir=workdir)
 
 
+class AuthorDemographicsAgent(_CodexTextAgent):
+    agent_name = "AuthorDemographicsAgent"
+
+    def __init__(self, *, runner: CodexRunner | None = None) -> None:
+        super().__init__(runner=runner, model=CODEX_MODEL, reasoning_effort=CODEX_REASONING_EFFORT)
+
+    def run(self, author_name: str, biography: str, sample_titles: list[str], *, workdir: Path) -> CodexResult:
+        prompt = build_codex_demographics_prompt(author_name, biography, sample_titles)
+        return self._run(prompt, workdir=workdir)
+
+
 def generate_author_metadata_via_codex(
     author_name: str,
     sample_titles: list[str],
@@ -1273,6 +1301,43 @@ def generate_author_metadata_via_codex(
         ), [f"Codex biography generation produced unusable output for {author_name}."]
     return metadata, []
 
+
+def generate_author_demographics_via_codex(
+    author_name: str,
+    biography: str,
+    sample_titles: list[str],
+    workdir: Path,
+    agent: AuthorDemographicsAgent | None = None,
+) -> tuple[AuthorMetadataResult, list[str]]:
+    demographics_agent = agent or AuthorDemographicsAgent()
+    try:
+        result = demographics_agent.run(author_name, biography, sample_titles, workdir=workdir)
+    except RuntimeError as exc:
+        message = str(exc)
+        if "not found" in message.casefold():
+            return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex CLI not found while inferring demographics for {author_name}."]
+        detail = clean_generated_biography(message)
+        suffix = f" {detail}" if detail else ""
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
+    except TimeoutError:
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference timed out for {author_name}."]
+
+    if result.returncode != 0:
+        detail = clean_generated_biography(result.stderr)
+        suffix = f" {detail}" if detail else ""
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
+
+    try:
+        metadata = parse_author_metadata_result(result.text)
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference produced unusable output for {author_name}."]
+    return AuthorMetadataResult(
+        biography="",
+        country=metadata.country,
+        birth_year=metadata.birth_year,
+        death_year=metadata.death_year,
+    ), []
+
 def build_author_work_items(
     records: list[BookRecord],
     author_books: dict[str, list[str]],
@@ -1296,6 +1361,7 @@ def build_author_work_items(
                 book_links=sorted(book_links, key=str.casefold),
                 sample_titles=sample_titles_by_author[author_name],
                 existing_country=get_existing_country(load_note(author_record.author_path)),
+                existing_biography=get_existing_biography(load_note(author_record.author_path)),
             )
         )
     return work_items
@@ -1345,13 +1411,14 @@ def classify_biography_result(errors: list[str]) -> str:
 def process_author_biographies(
     work_items: list[AuthorWorkItem],
     refresh_bio: bool,
+    infer_author_dates: bool,
     workdir: Path,
     review_sections: dict[str, list[str]],
     summary: SyncSummary,
 ) -> None:
     total_authors = len(work_items)
     completed_authors = 0
-    pending_queue: deque[AuthorWorkItem] = deque()
+    pending_queue: deque[tuple[AuthorWorkItem, str]] = deque()
     renderer = BiographyStatusRenderer(AUTHOR_BIO_CONCURRENCY)
 
     def finalize_author(
@@ -1388,33 +1455,47 @@ def process_author_biographies(
                 existing_death_year,
                 [],
             )
-        elif author_metadata_is_complete(work_item.current_note) and not refresh_bio:
+        elif refresh_bio:
+            pending_queue.append((work_item, "full"))
+        elif infer_author_dates and existing_bio and (existing_country == "Unknown" or not (existing_birth_year or existing_death_year)):
+            pending_queue.append((work_item, "demographics"))
+        elif author_metadata_is_complete(work_item.current_note):
             finalize_author(work_item, existing_bio, existing_country, existing_birth_year, existing_death_year, [])
         else:
-            pending_queue.append(work_item)
+            pending_queue.append((work_item, "full"))
 
     if not pending_queue:
         renderer.finish()
         return
 
     with ThreadPoolExecutor(max_workers=AUTHOR_BIO_CONCURRENCY) as executor:
-        active_jobs: dict[Future[tuple[AuthorMetadataResult, list[str]]], tuple[int, AuthorWorkItem]] = {}
+        active_jobs: dict[Future[tuple[AuthorMetadataResult, list[str]]], tuple[int, AuthorWorkItem, str]] = {}
         available_slots = deque(range(1, AUTHOR_BIO_CONCURRENCY + 1))
 
         def submit_next(slot_id: int) -> None:
             if not pending_queue:
                 renderer.update(slot_id, "queued")
                 return
-            work_item = pending_queue.popleft()
+            work_item, mode = pending_queue.popleft()
             renderer.update(slot_id, "running", work_item.author_name)
-            future = executor.submit(
-                generate_author_metadata_via_codex,
-                work_item.author_name,
-                work_item.sample_titles,
-                workdir,
-                AuthorBiographyAgent(),
-            )
-            active_jobs[future] = (slot_id, work_item)
+            if mode == "demographics":
+                future = executor.submit(
+                    generate_author_demographics_via_codex,
+                    work_item.author_name,
+                    work_item.existing_biography,
+                    work_item.sample_titles,
+                    workdir,
+                    AuthorDemographicsAgent(),
+                )
+            else:
+                future = executor.submit(
+                    generate_author_metadata_via_codex,
+                    work_item.author_name,
+                    work_item.sample_titles,
+                    workdir,
+                    AuthorBiographyAgent(),
+                )
+            active_jobs[future] = (slot_id, work_item, mode)
 
         while available_slots and pending_queue:
             submit_next(available_slots.popleft())
@@ -1422,13 +1503,14 @@ def process_author_biographies(
         while active_jobs:
             done, _ = wait(active_jobs.keys(), return_when=FIRST_COMPLETED)
             for future in done:
-                slot_id, work_item = active_jobs.pop(future)
+                slot_id, work_item, mode = active_jobs.pop(future)
                 try:
                     metadata, errors = future.result()
                 except Exception as exc:  # pragma: no cover
                     metadata = AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="")
-                    errors = [f"Codex biography generation failed for {work_item.author_name}: {exc}"]
-                biography = metadata.biography or get_existing_biography(work_item.current_note)
+                    label = "demographics inference" if mode == "demographics" else "biography generation"
+                    errors = [f"Codex {label} failed for {work_item.author_name}: {exc}"]
+                biography = work_item.existing_biography if mode == "demographics" else (metadata.biography or get_existing_biography(work_item.current_note))
                 country = metadata.country or get_existing_country(work_item.current_note) or "Unknown"
                 birth_year = metadata.birth_year or get_existing_birth_year(work_item.current_note)
                 death_year = metadata.death_year or get_existing_death_year(work_item.current_note)
@@ -1557,6 +1639,7 @@ def run_sync(
     vault_root: Path,
     refresh_goodreads: bool = False,
     refresh_bio: bool = False,
+    infer_author_dates: bool = False,
     refresh_images: bool = False,
     session: requests.Session | None = None,
     selector: str | None = None,
@@ -1660,6 +1743,7 @@ def run_sync(
         process_author_biographies(
         author_work_items,
         refresh_bio,
+        infer_author_dates,
         Path.cwd(),
         review_sections,
         summary,
@@ -1710,6 +1794,7 @@ def main(argv: list[str] | None = None) -> int:
     legacy_force = getattr(args, "force_refresh_metadata", False)
     refresh_goodreads = getattr(args, "refresh_goodreads", False) or legacy_force
     refresh_bio = getattr(args, "refresh_bio", False) or legacy_force
+    infer_author_dates = getattr(args, "infer_author_dates", False)
     refresh_images = getattr(args, "refresh_images", False) or legacy_force
 
     if args.command == "fetch-images":
@@ -1725,6 +1810,7 @@ def main(argv: list[str] | None = None) -> int:
             vault_root=vault_root,
             refresh_goodreads=refresh_goodreads,
             refresh_bio=refresh_bio,
+            infer_author_dates=infer_author_dates,
             refresh_images=refresh_images,
             selector=args.selector,
         )
@@ -1734,6 +1820,7 @@ def main(argv: list[str] | None = None) -> int:
             vault_root=vault_root,
             refresh_goodreads=refresh_goodreads,
             refresh_bio=refresh_bio,
+            infer_author_dates=infer_author_dates,
             refresh_images=refresh_images,
         )
     print(format_summary(summary, vault_root))
