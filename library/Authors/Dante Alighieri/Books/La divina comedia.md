@@ -1,12 +1,16 @@
 ---
 title: "La divina comedia"
-author: "[[Authors/Dante Alighieri/Dante Alighieri|Dante Alighieri]]"
+author:
+  - "[[Authors/Dante Alighieri/Dante Alighieri|Dante Alighieri]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-03-26"
 date_read: "2020-04-06"
 language: "Spanish"
+publisher: "Grupo Editorial Tomo"
+original_publish_year: 1320
 isbn: "9706668500"
 isbn13: "9789706668509"
 pages: 544
@@ -27,6 +31,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

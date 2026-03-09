@@ -1,12 +1,16 @@
 ---
 title: "Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259)"
-author: "[[Authors/Fyodor Dostoevsky/Fyodor Dostoevsky|Fyodor Dostoevsky]]"
+author:
+  - "[[Authors/Fyodor Dostoevsky/Fyodor Dostoevsky|Fyodor Dostoevsky]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-10-24"
 date_read: "2020-10-28"
 language: "Spanish"
+publisher: "Porrua"
+original_publish_year: 2008
 isbn: "9684324162"
 isbn13: "9789684324169"
 pages: 147
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Fyodor Dostoevsky - Las noches blancas. El jugador. Un ladrón honrado. (Sepan cuántos, Num. 259).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

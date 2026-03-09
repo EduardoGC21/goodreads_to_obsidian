@@ -1,12 +1,16 @@
 ---
 title: "A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16)"
-author: "[[Authors/Robert Malcolm Errington/Robert Malcolm Errington|Robert Malcolm Errington]]"
+author:
+  - "[[Authors/Robert Malcolm Errington/Robert Malcolm Errington|Robert Malcolm Errington]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2024-03-24"
 date_read: ""
 language: "English"
+publisher: "Wiley-Blackwell"
+original_publish_year: 1991
 isbn: ""
 isbn13: ""
 pages: 369
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

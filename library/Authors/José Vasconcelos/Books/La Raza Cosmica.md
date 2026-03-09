@@ -1,12 +1,16 @@
 ---
 title: "La Raza Cosmica"
-author: "[[Authors/José Vasconcelos/José Vasconcelos|José Vasconcelos]]"
+author:
+  - "[[Authors/José Vasconcelos/José Vasconcelos|José Vasconcelos]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-10-14"
 date_read: "2020-10-15"
 language: "Spanish"
+publisher: "Editorial Porrua"
+original_publish_year: 1925
 isbn: "9700757285"
 isbn13: "9789700757285"
 pages: 164
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

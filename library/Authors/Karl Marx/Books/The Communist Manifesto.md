@@ -1,12 +1,16 @@
 ---
 title: "The Communist Manifesto"
-author: "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+author:
+  - "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-02-29"
 date_read: "2020-11-03"
 language: "English"
+publisher: "Penguin Books"
+original_publish_year: 1848
 isbn: "0140447571"
 isbn13: "9780140447576"
 pages: 288
@@ -26,6 +30,10 @@ tags:
 
 ![[Attachments/Covers/Karl Marx - The Communist Manifesto.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

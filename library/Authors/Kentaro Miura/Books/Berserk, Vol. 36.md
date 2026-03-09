@@ -1,12 +1,16 @@
 ---
 title: "Berserk, Vol. 36"
-author: "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+author:
+  - "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-14"
 date_read: "2021-12-10"
 language: "Unknown"
+publisher: "Dark Horse Manga"
+original_publish_year: 2011
 isbn: "1595829423"
 isbn13: "9781595829429"
 pages: 211
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 36.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Beowulf: Traducción y comentario"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-07-01"
 date_read: "2023-07-05"
 language: "Unknown"
+publisher: "Minotauro"
+original_publish_year: 2014
 isbn: "8445002600"
 isbn13: "9788445002605"
 pages: 384
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - Beowulf Traducción y comentario.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

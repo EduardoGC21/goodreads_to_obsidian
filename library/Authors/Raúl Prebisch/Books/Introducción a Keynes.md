@@ -1,12 +1,16 @@
 ---
 title: "Introducción a Keynes"
-author: "[[Authors/Raúl Prebisch/Raúl Prebisch|Raúl Prebisch]]"
+author:
+  - "[[Authors/Raúl Prebisch/Raúl Prebisch|Raúl Prebisch]]"
+translator: []
 status: "read"
 rating: 4
 read_count: 1
 date_added: "2020-06-04"
 date_read: "2020-06-09"
 language: "Unknown"
+publisher: "Fondo de Cultura Económica"
+original_publish_year: 1947
 isbn: ""
 isbn13: ""
 pages: 134
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Raúl Prebisch - Introducción a Keynes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

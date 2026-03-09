@@ -1,12 +1,16 @@
 ---
 title: "El rey Lear (edición ilustrada y bilingüe)"
-author: "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+author:
+  - "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-07-09"
 date_read: "2023-07-11"
 language: "Spanish"
+publisher: "Random House"
+original_publish_year: 1605
 isbn: "8439732171"
 isbn13: "9788439732174"
 pages: 320
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

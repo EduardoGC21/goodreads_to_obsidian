@@ -1,12 +1,16 @@
 ---
 title: "Tratado de ateología"
-author: "[[Authors/Michel Onfray/Michel Onfray|Michel Onfray]]"
+author:
+  - "[[Authors/Michel Onfray/Michel Onfray|Michel Onfray]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-08-09"
 date_read: "2021-08-11"
 language: "Unknown"
+publisher: "Editorial Anagrama"
+original_publish_year: 2005
 isbn: "8433962345"
 isbn13: "9788433962348"
 pages: 256
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Michel Onfray - Tratado de ateología.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

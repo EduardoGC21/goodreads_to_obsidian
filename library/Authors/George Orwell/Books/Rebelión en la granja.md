@@ -1,12 +1,16 @@
 ---
 title: "Rebelión en la granja"
-author: "[[Authors/George Orwell/George Orwell|George Orwell]]"
+author:
+  - "[[Authors/George Orwell/George Orwell|George Orwell]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-04-08"
 date_read: "2020-04-10"
 language: "Spanish"
+publisher: "DeBolsillo"
+original_publish_year: 1945
 isbn: "8499890954"
 isbn13: "9788499890951"
 pages: 140
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/George Orwell - Rebelión en la granja.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

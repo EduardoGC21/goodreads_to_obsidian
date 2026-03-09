@@ -1,12 +1,16 @@
 ---
 title: "Cien años de soledad"
-author: "[[Authors/Gabriel García Márquez/Gabriel García Márquez|Gabriel García Márquez]]"
+author:
+  - "[[Authors/Gabriel García Márquez/Gabriel García Márquez|Gabriel García Márquez]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-06-20"
 date_read: "2022-07-07"
 language: "Unknown"
+publisher: "Literatura Random House"
+original_publish_year: 1967
 isbn: "8439732473"
 isbn13: "9788439732471"
 pages: 400
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Gabriel García Márquez - Cien años de soledad.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

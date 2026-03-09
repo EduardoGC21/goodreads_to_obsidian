@@ -1,12 +1,16 @@
 ---
 title: "Media Control: The Spectacular Achievements of Propaganda"
-author: "[[Authors/Noam Chomsky/Noam Chomsky|Noam Chomsky]]"
+author:
+  - "[[Authors/Noam Chomsky/Noam Chomsky|Noam Chomsky]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2020-08-28"
 date_read: ""
 language: "English"
+publisher: "Seven Stories Press"
+original_publish_year: 1995
 isbn: "1583225366"
 isbn13: "9781583225363"
 pages: 103
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Noam Chomsky - Media Control The Spectacular Achievements of Propaganda.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

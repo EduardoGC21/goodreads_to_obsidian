@@ -1,12 +1,16 @@
 ---
 title: "Un artista del hambre"
-author: "[[Authors/Franz Kafka/Franz Kafka|Franz Kafka]]"
+author:
+  - "[[Authors/Franz Kafka/Franz Kafka|Franz Kafka]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-12-18"
 date_read: "2020-12-18"
 language: "Unknown"
+publisher: "Casimiro"
+original_publish_year: 1924
 isbn: ""
 isbn13: ""
 pages: 64
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Franz Kafka - Un artista del hambre.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

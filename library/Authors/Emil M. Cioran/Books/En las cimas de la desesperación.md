@@ -1,12 +1,16 @@
 ---
 title: "En las cimas de la desesperación"
-author: "[[Authors/Emil M. Cioran/Emil M. Cioran|Emil M. Cioran]]"
+author:
+  - "[[Authors/Emil M. Cioran/Emil M. Cioran|Emil M. Cioran]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2021-07-06"
 date_read: ""
 language: "Spanish"
+publisher: "Tusquets"
+original_publish_year: 1934
 isbn: "8490667764"
 isbn13: "9788490667767"
 pages: 216
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Emil M. Cioran - En las cimas de la desesperación.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

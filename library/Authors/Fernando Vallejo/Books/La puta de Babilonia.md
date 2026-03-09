@@ -1,12 +1,16 @@
 ---
 title: "La puta de Babilonia"
-author: "[[Authors/Fernando Vallejo/Fernando Vallejo|Fernando Vallejo]]"
+author:
+  - "[[Authors/Fernando Vallejo/Fernando Vallejo|Fernando Vallejo]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2026-01-18"
 date_read: "2026-01-30"
 language: "Spanish"
+publisher: "Planeta Publishing"
+original_publish_year: 2005
 isbn: "9703703267"
 isbn13: "9789703703265"
 pages: 317
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Fernando Vallejo - La puta de Babilonia.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

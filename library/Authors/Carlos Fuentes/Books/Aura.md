@@ -1,12 +1,16 @@
 ---
 title: "Aura"
-author: "[[Authors/Carlos Fuentes/Carlos Fuentes|Carlos Fuentes]]"
+author:
+  - "[[Authors/Carlos Fuentes/Carlos Fuentes|Carlos Fuentes]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-12-06"
 date_read: "2025-12-07"
 language: "Unknown"
+publisher: "Norma S A Editorial"
+original_publish_year: 1962
 isbn: "9580469717"
 isbn13: "9789580469711"
 pages: 118
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Carlos Fuentes - Aura.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

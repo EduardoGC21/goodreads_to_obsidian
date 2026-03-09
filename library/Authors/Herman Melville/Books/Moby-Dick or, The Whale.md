@@ -1,12 +1,16 @@
 ---
 title: "Moby-Dick or, The Whale"
-author: "[[Authors/Herman Melville/Herman Melville|Herman Melville]]"
+author:
+  - "[[Authors/Herman Melville/Herman Melville|Herman Melville]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2024-03-24"
 date_read: ""
 language: "English"
+publisher: "Penguin Classics"
+original_publish_year: 1851
 isbn: "0142437247"
 isbn13: "9780142437247"
 pages: 720
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Herman Melville - Moby-Dick or, The Whale.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

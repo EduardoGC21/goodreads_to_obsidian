@@ -1,12 +1,16 @@
 ---
 title: "The Picture of Dorian Gray"
-author: "[[Authors/Oscar Wilde/Oscar Wilde|Oscar Wilde]]"
+author:
+  - "[[Authors/Oscar Wilde/Oscar Wilde|Oscar Wilde]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2023-07-21"
 date_read: ""
 language: "English"
+publisher: "Penguin Classics"
+original_publish_year: 1890
 isbn: "0141439572"
 isbn13: "9780141439570"
 pages: 253
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Oscar Wilde - The Picture of Dorian Gray.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

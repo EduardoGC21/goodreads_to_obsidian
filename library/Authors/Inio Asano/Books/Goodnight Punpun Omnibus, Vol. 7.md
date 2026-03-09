@@ -1,12 +1,16 @@
 ---
 title: "Goodnight Punpun Omnibus, Vol. 7"
-author: "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+author:
+  - "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-10-03"
 date_read: "2024-10-04"
 language: "Unknown"
+publisher: "VIZ Media LLC"
+original_publish_year: 2017
 isbn: "1421586266"
 isbn13: "9781421586267"
 pages: 272
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 7.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

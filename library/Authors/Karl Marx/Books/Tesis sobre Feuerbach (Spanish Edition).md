@@ -1,12 +1,16 @@
 ---
 title: "Tesis sobre Feuerbach (Spanish Edition)"
-author: "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+author:
+  - "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-05-17"
 date_read: "2021-05-17"
 language: "English"
+publisher: ""
+original_publish_year: 1888
 isbn: ""
 isbn13: ""
 pages: 4
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Fahrenheit 451"
-author: "[[Authors/Ray Bradbury/Ray Bradbury|Ray Bradbury]]"
+author:
+  - "[[Authors/Ray Bradbury/Ray Bradbury|Ray Bradbury]]"
+translator: []
 status: "read"
 rating: 4
 read_count: 1
 date_added: "2019-12-04"
 date_read: "2019-12-08"
 language: "Unknown"
+publisher: "Simon & Schuster"
+original_publish_year: 1953
 isbn: ""
 isbn13: ""
 pages: 249
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Ray Bradbury - Fahrenheit 451.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

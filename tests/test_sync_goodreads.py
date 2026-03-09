@@ -75,6 +75,11 @@ def make_case_dir(name: str) -> Path:
 
 
 class GoodreadsSyncTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.author_image_patch = patch.object(sync_goodreads, "fetch_author_image_url", return_value=("", []))
+        self.author_image_patch.start()
+        self.addCleanup(self.author_image_patch.stop)
+
     def test_incremental_sync_updates_existing_book_and_serializes_new_metadata(self) -> None:
         base = make_case_dir("incremental")
         csv_path = base / "goodreads.csv"
@@ -112,14 +117,22 @@ class GoodreadsSyncTests(unittest.TestCase):
         book_text = (vault_root / "Authors" / "Frank Herbert" / "Books" / "Dune.md").read_text(encoding="utf-8")
         author_text = (vault_root / "Authors" / "Frank Herbert" / "Frank Herbert.md").read_text(encoding="utf-8")
         self.assertIn('rating: 5', book_text)
+        self.assertIn('author:\n  - "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"', book_text)
+        self.assertIn('translator: []', book_text)
+        self.assertIn('publisher: "Ace"', book_text)
+        self.assertIn('original_publish_year: 1965', book_text)
         self.assertIn('- "[[desert]]"', book_text)
         self.assertIn('reread_dates: []', book_text)
         self.assertIn('status: "read"', book_text)
+        self.assertIn('## Quotes', book_text)
         self.assertIn('country: "[[United States]]"', author_text)
+        self.assertIn('cover: ""', author_text)
         self.assertIn('birth_year: "1920"', author_text)
         self.assertIn('death_year: "1986"', author_text)
         self.assertIn('- "author"', author_text)
         self.assertTrue((vault_root / "Library.md").exists())
+        self.assertTrue((vault_root / "Templates" / "Book_Template.md").exists())
+        self.assertTrue((vault_root / "Templates" / "Author_Template.md").exists())
 
     def test_add_book_updates_existing_author_links(self) -> None:
         base = make_case_dir("add_book")
@@ -187,6 +200,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         session = sync_goodreads.configure_metadata_session(FakeSession([
@@ -222,6 +236,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         session = sync_goodreads.configure_metadata_session(FakeSession([
@@ -264,6 +279,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         session = sync_goodreads.configure_metadata_session(FakeSession([
@@ -301,6 +317,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         order: list[str] = []
@@ -337,6 +354,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         self.assertEqual(sync_goodreads.build_playwright_cover_query(record), "Dune Frank Herbert book cover")
@@ -373,6 +391,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["science fiction"],
             review="",
             publisher="Ace",
+            original_publish_year="",
             row_context="row 2",
         )
         with patch.object(
@@ -415,6 +434,7 @@ class GoodreadsSyncTests(unittest.TestCase):
             bookshelves=["fiction"],
             review="",
             publisher="Emece",
+            original_publish_year="",
             row_context="row 3",
         )
         with patch.object(
@@ -444,6 +464,49 @@ class GoodreadsSyncTests(unittest.TestCase):
             header,
         )
         self.assertNotIn("![|200](", header)
+
+    def test_template_notes_mirror_new_schema(self) -> None:
+        base = make_case_dir("templates")
+        vault_root = base / "library_v2"
+        sync_goodreads.ensure_directories(vault_root)
+        book_template = (vault_root / "Templates" / "Book_Template.md").read_text(encoding="utf-8")
+        author_template = (vault_root / "Templates" / "Author_Template.md").read_text(encoding="utf-8")
+        self.assertIn('author: []', book_template)
+        self.assertIn('translator: []', book_template)
+        self.assertIn('publisher: ""', book_template)
+        self.assertIn('original_publish_year: ""', book_template)
+        self.assertIn('<!-- GENERATED:BOOK_QUOTES START -->', book_template)
+        self.assertIn('## Quotes', book_template)
+        self.assertIn('cover: ""', author_template)
+        self.assertIn('<!-- GENERATED:AUTHOR_HEADER START -->', author_template)
+
+    def test_author_note_writes_cover_in_yaml_and_header(self) -> None:
+        base = make_case_dir("author_cover")
+        csv_path = base / "goodreads.csv"
+        vault_root = base / "library_v2"
+        write_csv(csv_path, [{
+            "Book Id": "1", "Title": "Dune", "Author": "Frank Herbert", "Author l-f": "Herbert, Frank",
+            "Additional Authors": "", "ISBN": "", "ISBN13": "", "My Rating": "5", "Average Rating": "",
+            "Publisher": "Ace", "Binding": "Paperback", "Number of Pages": "500", "Year Published": "1965",
+            "Original Publication Year": "1965", "Date Read": "2026-01-01", "Date Added": "2026-01-01",
+            "Bookshelves": "science fiction", "Bookshelves with positions": "", "Exclusive Shelf": "read",
+            "My Review": "", "Spoiler": "", "Private Notes": "", "Read Count": "1", "Owned Copies": "1",
+        }])
+        author_metadata = sync_goodreads.AuthorMetadataResult(
+            biography="Frank Herbert (1920-1986) was an American science fiction writer.",
+            country="United States",
+            birth_year="1920",
+            death_year="1986",
+        )
+        with patch.object(sync_goodreads, "fetch_cover_url_with_fallbacks", return_value=("", [])), patch.object(
+            sync_goodreads, "fetch_author_image_url", return_value=("https://images.example/frank-herbert.jpg", [])
+        ), patch.object(sync_goodreads, "download_cover", return_value=True), patch.object(
+            sync_goodreads, "generate_author_metadata_via_codex", return_value=(author_metadata, [])
+        ):
+            sync_goodreads.run_sync(csv_path, vault_root)
+        author_text = (vault_root / "Authors" / "Frank Herbert" / "Frank Herbert.md").read_text(encoding="utf-8")
+        self.assertIn('cover: "[[Attachments/AuthorImages/Frank Herbert.jpg]]"', author_text)
+        self.assertIn('![[Attachments/AuthorImages/Frank Herbert.jpg]]', author_text)
 
     def test_chekhov_record_materializes_under_normalized_author(self) -> None:
         base = make_case_dir("chekhov_fix")
@@ -513,7 +576,7 @@ class GoodreadsSyncTests(unittest.TestCase):
         author_path = vault_root / "Authors" / "Adam Smith" / "Adam Smith.md"
         book_path = book_dir / "The Wealth of Nations.md"
         author_path.write_text('---\nname: "Adam Smith"\ncountry: "Scotland"\n---\n', encoding='utf-8')
-        book_path.write_text('---\ntitle: "The Wealth of Nations"\nstatus: "[[to-read]]"\nbookshelves:\n  - "economics"\n  - "to-read"\n---\n', encoding='utf-8')
+        book_path.write_text('---\ntitle: "The Wealth of Nations"\nauthor: "[[Authors/Adam Smith/Adam Smith|Adam Smith]]"\nstatus: "[[to-read]]"\nbookshelves:\n  - "economics"\n  - "to-read"\n---\n', encoding='utf-8')
         authors, books = sync_goodreads.migrate_yaml(vault_root)
         self.assertEqual((authors, books), (1, 1))
         migrated_author = author_path.read_text(encoding='utf-8')
@@ -524,7 +587,12 @@ class GoodreadsSyncTests(unittest.TestCase):
         self.assertIn('status: "to-read"', migrated_book)
         self.assertIn('- "[[economics]]"', migrated_book)
         self.assertNotIn('[[to-read]]', migrated_book)
+        self.assertIn('author:\n  - "[[Authors/Adam Smith/Adam Smith|Adam Smith]]"', migrated_book)
+        self.assertIn('translator: []', migrated_book)
+        self.assertIn('publisher: ""', migrated_book)
+        self.assertIn('original_publish_year: ""', migrated_book)
         self.assertIn('reread_dates: []', migrated_book)
+        self.assertIn('## Quotes', migrated_book)
         self.assertIn('- "book"', migrated_book)
 
     def test_blank_migrated_years_trigger_author_refresh_on_normal_sync(self) -> None:
@@ -546,7 +614,9 @@ class GoodreadsSyncTests(unittest.TestCase):
         (books_dir / "Dune.md").write_text(
             """---
 title: \"Dune\"
-author: \"[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]\"
+author:
+  - \"[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]\"
+translator: []
 status: \"read\"
 rating: 5
 read_count: 1
@@ -626,7 +696,9 @@ Frank Herbert was an American science fiction writer.
         (books_dir / "Dune.md").write_text(
             """---
 title: "Dune"
-author: "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"
+author:
+  - "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1

@@ -1,12 +1,16 @@
 ---
 title: "Siddhartha (Spanish Edition)"
-author: "[[Authors/Hermann Hesse/Hermann Hesse|Hermann Hesse]]"
+author:
+  - "[[Authors/Hermann Hesse/Hermann Hesse|Hermann Hesse]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-04-09"
 date_read: "2021-04-10"
 language: "English"
+publisher: "DEBOLS!LLO"
+original_publish_year: 1922
 isbn: "8466337342"
 isbn13: "9788466337342"
 pages: 218
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

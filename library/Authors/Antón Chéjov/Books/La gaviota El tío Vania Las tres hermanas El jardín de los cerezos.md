@@ -1,12 +1,16 @@
 ---
 title: "La gaviota / El tío Vania / Las tres hermanas / El jardín de los cerezos"
-author: "[[Authors/Antón Chéjov/Antón Chéjov|Antón Chéjov]]"
+author:
+  - "[[Authors/Antón Chéjov/Antón Chéjov|Antón Chéjov]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-08-21"
 date_read: "2022-07-09"
 language: "Spanish"
+publisher: "Cátedra"
+original_publish_year: 1904
 isbn: "8437612780"
 isbn13: "9788437612782"
 pages: 384
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Antón Chéjov - La gaviota El tío Vania Las tres hermanas El jardín de los cerezos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

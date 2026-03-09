@@ -1,12 +1,16 @@
 ---
 title: "Plaidoirie pour l'avortement"
-author: "[[Authors/Gisèle Halimi/Gisèle Halimi|Gisèle Halimi]]"
+author:
+  - "[[Authors/Gisèle Halimi/Gisèle Halimi|Gisèle Halimi]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-03-31"
 date_read: ""
 language: "English"
+publisher: "Editions Gallimard"
+original_publish_year: ""
 isbn: "2073025102"
 isbn13: "9782073025104"
 pages: 76
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "El retorno del rey (El señor de los anillos, Num. 3)"
-author: "[[Authors/J.R.R. Tolkien/J.R.R. Tolkien|J.R.R. Tolkien]]"
+author:
+  - "[[Authors/J.R.R. Tolkien/J.R.R. Tolkien|J.R.R. Tolkien]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-01-11"
 date_read: "2021-01-15"
 language: "Spanish"
+publisher: "Booket"
+original_publish_year: 1955
 isbn: "8445075756"
 isbn13: "9788445075753"
 pages: 603
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/J.R.R. Tolkien - El retorno del rey (El señor de los anillos, Num. 3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

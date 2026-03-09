@@ -1,12 +1,16 @@
 ---
 title: "Goodnight Punpun Omnibus, Vol. 3"
-author: "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+author:
+  - "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-09-22"
 date_read: "2024-09-23"
 language: "Unknown"
+publisher: "VIZ Media LLC"
+original_publish_year: 2016
 isbn: "1421586223"
 isbn13: "9781421586229"
 pages: 440
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 3.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

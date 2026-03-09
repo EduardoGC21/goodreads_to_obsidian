@@ -1,12 +1,16 @@
 ---
 title: "Don Juan"
-author: "[[Authors/Lord Byron/Lord Byron|Lord Byron]]"
+author:
+  - "[[Authors/Lord Byron/Lord Byron|Lord Byron]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-07-06"
 language: "Unknown"
+publisher: "Penguin Classics"
+original_publish_year: 1819
 isbn: "0140424520"
 isbn13: "9780140424522"
 pages: 759
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Lord Byron - Don Juan.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

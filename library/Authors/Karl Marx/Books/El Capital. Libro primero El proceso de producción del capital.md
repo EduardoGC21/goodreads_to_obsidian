@@ -1,12 +1,16 @@
 ---
 title: "El Capital. Libro primero: El proceso de producción del capital"
-author: "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+author:
+  - "[[Authors/Karl Marx/Karl Marx|Karl Marx]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-02-14"
 date_read: "2021-03-06"
 language: "Spanish"
+publisher: "Siglo XXI"
+original_publish_year: 1887
 isbn: "8432317659"
 isbn13: "9788432317651"
 pages: 999
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Karl Marx - El Capital. Libro primero El proceso de producción del capital.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

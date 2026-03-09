@@ -1,12 +1,16 @@
 ---
 title: "Diálogos (Sepan Cuantos, Num. 13)"
-author: "[[Authors/Platón/Platón|Platón]]"
+author:
+  - "[[Authors/Platón/Platón|Platón]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-08-31"
 date_read: "2020-09-20"
 language: "Unknown"
+publisher: "Porrua"
+original_publish_year: ""
 isbn: "9700772470"
 isbn13: "9789700772479"
 pages: 1104
@@ -30,6 +34,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

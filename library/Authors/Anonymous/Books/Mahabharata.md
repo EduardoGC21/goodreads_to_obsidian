@@ -1,12 +1,16 @@
 ---
 title: "Mahabharata"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2021-09-26"
 language: "English"
+publisher: "University of California Press"
+original_publish_year: 1951
 isbn: "0520273028"
 isbn13: "9780520273023"
 pages: 442
@@ -27,6 +31,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - Mahabharata.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

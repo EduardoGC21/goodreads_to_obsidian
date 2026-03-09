@@ -1,12 +1,16 @@
 ---
 title: "Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition)"
-author: "[[Authors/Aristotle/Aristotle|Aristotle]]"
+author:
+  - "[[Authors/Aristotle/Aristotle|Aristotle]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-10-28"
 date_read: "2020-11-02"
 language: "English"
+publisher: "Porrua"
+original_publish_year: ""
 isbn: "9700758516"
 isbn13: "9789700758510"
 pages: 378
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

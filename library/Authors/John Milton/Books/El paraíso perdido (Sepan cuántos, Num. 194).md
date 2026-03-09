@@ -1,12 +1,16 @@
 ---
 title: "El paraíso perdido (Sepan cuántos, Num. 194)"
-author: "[[Authors/John Milton/John Milton|John Milton]]"
+author:
+  - "[[Authors/John Milton/John Milton|John Milton]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-07-18"
 date_read: "2021-07-21"
 language: "Spanish"
+publisher: "Porrúa"
+original_publish_year: 1667
 isbn: "9700751686"
 isbn13: "9789700751689"
 pages: 257
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/John Milton - El paraíso perdido (Sepan cuántos, Num. 194).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

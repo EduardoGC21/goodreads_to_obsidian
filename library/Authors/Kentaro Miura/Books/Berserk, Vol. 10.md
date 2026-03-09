@@ -1,12 +1,16 @@
 ---
 title: "Berserk, Vol. 10"
-author: "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+author:
+  - "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-14"
 date_read: "2021-11-28"
 language: "Unknown"
+publisher: "Dark Horse Manga"
+original_publish_year: 1995
 isbn: "1593073313"
 isbn13: "9781593073312"
 pages: 237
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 10.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

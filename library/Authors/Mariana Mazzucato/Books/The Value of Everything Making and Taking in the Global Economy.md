@@ -1,12 +1,16 @@
 ---
 title: "The Value of Everything: Making and Taking in the Global Economy"
-author: "[[Authors/Mariana Mazzucato/Mariana Mazzucato|Mariana Mazzucato]]"
+author:
+  - "[[Authors/Mariana Mazzucato/Mariana Mazzucato|Mariana Mazzucato]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2018-10-22"
 date_read: "2019-01-15"
 language: "English"
+publisher: "PublicAffairs"
+original_publish_year: 2018
 isbn: "161039674X"
 isbn13: "9781610396745"
 pages: 384
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

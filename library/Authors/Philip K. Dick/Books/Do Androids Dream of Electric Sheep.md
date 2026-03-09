@@ -1,12 +1,16 @@
 ---
 title: "Do Androids Dream of Electric Sheep?"
-author: "[[Authors/Philip K. Dick/Philip K. Dick|Philip K. Dick]]"
+author:
+  - "[[Authors/Philip K. Dick/Philip K. Dick|Philip K. Dick]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-05"
 date_read: "2021-11-08"
 language: "English"
+publisher: "Ballantine Books"
+original_publish_year: 1968
 isbn: ""
 isbn13: ""
 pages: 258
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Philip K. Dick - Do Androids Dream of Electric Sheep.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

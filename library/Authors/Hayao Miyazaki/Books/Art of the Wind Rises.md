@@ -1,12 +1,16 @@
 ---
 title: "Art of the Wind Rises"
-author: "[[Authors/Hayao Miyazaki/Hayao Miyazaki|Hayao Miyazaki]]"
+author:
+  - "[[Authors/Hayao Miyazaki/Hayao Miyazaki|Hayao Miyazaki]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2026-01-14"
 date_read: "2026-01-16"
 language: "English"
+publisher: "VIZ Media LLC"
+original_publish_year: 2013
 isbn: "1421571757"
 isbn13: "9781421571751"
 pages: 224
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Hayao Miyazaki - Art of the Wind Rises.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

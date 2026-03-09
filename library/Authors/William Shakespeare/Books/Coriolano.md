@@ -1,12 +1,16 @@
 ---
 title: "Coriolano"
-author: "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+author:
+  - "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-01-25"
 date_read: "2025-01-26"
 language: "Unknown"
+publisher: "BUR Biblioteca Univ. Rizzoli"
+original_publish_year: 1608
 isbn: "8817165948"
 isbn13: "9788817165945"
 pages: 304
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

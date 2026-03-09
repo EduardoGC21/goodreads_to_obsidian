@@ -1,12 +1,16 @@
 ---
 title: "Sobre la paz perpetua"
-author: "[[Authors/Immanuel Kant/Immanuel Kant|Immanuel Kant]]"
+author:
+  - "[[Authors/Immanuel Kant/Immanuel Kant|Immanuel Kant]]"
+translator: []
 status: "read"
 rating: 4
 read_count: 1
 date_added: "2020-12-08"
 date_read: "2020-12-10"
 language: "Spanish"
+publisher: "Alianza Editorial"
+original_publish_year: 1795
 isbn: "8420673382"
 isbn13: "9788420673387"
 pages: 112
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Immanuel Kant - Sobre la paz perpetua.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

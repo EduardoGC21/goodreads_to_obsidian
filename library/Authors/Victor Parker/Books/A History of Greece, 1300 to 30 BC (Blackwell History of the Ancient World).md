@@ -1,12 +1,16 @@
 ---
 title: "A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)"
-author: "[[Authors/Victor Parker/Victor Parker|Victor Parker]]"
+author:
+  - "[[Authors/Victor Parker/Victor Parker|Victor Parker]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2024-03-24"
 date_read: ""
 language: "English"
+publisher: "Wiley-Blackwell"
+original_publish_year: 2013
 isbn: ""
 isbn13: ""
 pages: 505
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
-author: "[[Authors/Richard H. Thaler/Richard H. Thaler|Richard H. Thaler]]"
+author:
+  - "[[Authors/Richard H. Thaler/Richard H. Thaler|Richard H. Thaler]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2019-04-11"
 date_read: "2020-01-23"
 language: "English"
+publisher: "Penguin Books"
+original_publish_year: 2008
 isbn: "014311526X"
 isbn13: "9780143115267"
 pages: 260
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Richard H. Thaler - Nudge Improving Decisions About Health, Wealth, and Happiness.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

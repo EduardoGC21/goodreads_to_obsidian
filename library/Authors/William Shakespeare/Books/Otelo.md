@@ -1,12 +1,16 @@
 ---
 title: "Otelo"
-author: "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+author:
+  - "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-07-08"
 date_read: "2023-07-09"
 language: "Unknown"
+publisher: "Penguin Companhia"
+original_publish_year: 1603
 isbn: "858285045X"
 isbn13: "9788582850459"
 pages: 328
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/William Shakespeare - Otelo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Fausto"
-author: "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+author:
+  - "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-10-27"
 language: "Unknown"
+publisher: "Ediciones Cátedra"
+original_publish_year: 1808
 isbn: "8437606772"
 isbn13: "9788437606774"
 pages: 448
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Johann Wolfgang von Goethe - Fausto.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

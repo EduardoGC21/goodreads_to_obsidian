@@ -1,12 +1,16 @@
 ---
 title: "The Egyptian Book of the Dead: The Book of Going Forth by Day: The Complete Papyrus of Ani"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2023-01-05"
 language: "English"
+publisher: "Chronicle Books"
+original_publish_year: 1500
 isbn: "1452144389"
 isbn13: "9781452144382"
 pages: 192
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - The Egyptian Book of the Dead The Book of Going Forth by Day The Complete Papyrus of Ani.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

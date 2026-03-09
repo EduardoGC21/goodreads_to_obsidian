@@ -1,12 +1,16 @@
 ---
 title: "Viaje al Oeste: Las aventuras del Rey Mono"
-author: "[[Authors/Wu Cheng'en/Wu Cheng'en|Wu Cheng'en]]"
+author:
+  - "[[Authors/Wu Cheng'en/Wu Cheng'en|Wu Cheng'en]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2023-07-13"
 date_read: ""
 language: "Spanish"
+publisher: "Ediciones Siruela"
+original_publish_year: 1592
 isbn: ""
 isbn13: "9788478447749"
 pages: 2264
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Wu Cheng'en - Viaje al Oeste Las aventuras del Rey Mono.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Bhagavad Gita"
-author: "[[Authors/Krishna-Dwaipayana Vyasa/Krishna-Dwaipayana Vyasa|Krishna-Dwaipayana Vyasa]]"
+author:
+  - "[[Authors/Krishna-Dwaipayana Vyasa/Krishna-Dwaipayana Vyasa|Krishna-Dwaipayana Vyasa]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-08-09"
 language: "Unknown"
+publisher: "Penguin Clásicos"
+original_publish_year: ""
 isbn: "8491059768"
 isbn13: "9788491059769"
 pages: 352
@@ -26,6 +30,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

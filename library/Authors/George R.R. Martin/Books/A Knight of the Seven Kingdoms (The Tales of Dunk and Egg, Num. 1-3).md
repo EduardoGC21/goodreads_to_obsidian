@@ -1,12 +1,16 @@
 ---
 title: "A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3)"
-author: "[[Authors/George R.R. Martin/George R.R. Martin|George R.R. Martin]]"
+author:
+  - "[[Authors/George R.R. Martin/George R.R. Martin|George R.R. Martin]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2019-11-30"
 date_read: "2020-01-18"
 language: "English"
+publisher: "Bantam Books"
+original_publish_year: 2015
 isbn: "0345533488"
 isbn13: "9780345533487"
 pages: 368
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/George R.R. Martin - A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, Num. 1-3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "La vía hermética: Introducción a la filosofía de Hermes (Spanish Edition)"
-author: "[[Authors/Françoise Bonardel/Françoise Bonardel|Françoise Bonardel]]"
+author:
+  - "[[Authors/Françoise Bonardel/Françoise Bonardel|Françoise Bonardel]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
 language: "Unknown"
+publisher: "Erasmus Ediciones"
+original_publish_year: ""
 isbn: "8410199386"
 isbn13: "9788410199385"
 pages: 240
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

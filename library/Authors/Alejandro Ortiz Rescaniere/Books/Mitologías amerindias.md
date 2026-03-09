@@ -1,12 +1,16 @@
 ---
 title: "Mitologías amerindias"
-author: "[[Authors/Alejandro Ortiz Rescaniere/Alejandro Ortiz Rescaniere|Alejandro Ortiz Rescaniere]]"
+author:
+  - "[[Authors/Alejandro Ortiz Rescaniere/Alejandro Ortiz Rescaniere|Alejandro Ortiz Rescaniere]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-05"
 date_read: "2021-11-16"
 language: "Unknown"
+publisher: "Editorial Trotta"
+original_publish_year: 2006
 isbn: "8481648582"
 isbn13: "9788481648584"
 pages: 424
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Alejandro Ortiz Rescaniere - Mitologías amerindias.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

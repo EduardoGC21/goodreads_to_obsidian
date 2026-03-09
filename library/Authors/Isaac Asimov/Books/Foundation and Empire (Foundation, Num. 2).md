@@ -1,12 +1,16 @@
 ---
 title: "Foundation and Empire (Foundation, Num. 2)"
-author: "[[Authors/Isaac Asimov/Isaac Asimov|Isaac Asimov]]"
+author:
+  - "[[Authors/Isaac Asimov/Isaac Asimov|Isaac Asimov]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-10-31"
 date_read: "2025-11-02"
 language: "English"
+publisher: "Spectra"
+original_publish_year: 1952
 isbn: "0553803727"
 isbn13: "9780553803723"
 pages: 256
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Isaac Asimov - Foundation and Empire (Foundation, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

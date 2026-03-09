@@ -1,12 +1,16 @@
 ---
 title: "Vidas y opiniones de los filósofos ilustres"
-author: "[[Authors/Diogenes Laertius/Diogenes Laertius|Diogenes Laertius]]"
+author:
+  - "[[Authors/Diogenes Laertius/Diogenes Laertius|Diogenes Laertius]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
 language: "Spanish"
+publisher: "Alianza Editorial"
+original_publish_year: ""
 isbn: "8420676977"
 isbn13: "9788420676975"
 pages: 664
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Diogenes Laertius - Vidas y opiniones de los filósofos ilustres.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

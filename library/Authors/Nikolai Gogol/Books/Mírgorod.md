@@ -1,12 +1,16 @@
 ---
 title: "Mírgorod"
-author: "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
+author:
+  - "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-07-02"
 date_read: "2024-07-11"
 language: "Unknown"
+publisher: "Alba"
+original_publish_year: 1835
 isbn: "8490655774"
 isbn13: "9788490655771"
 pages: 352
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Nikolai Gogol - Mírgorod.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

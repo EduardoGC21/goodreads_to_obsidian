@@ -5,6 +5,7 @@ views:
       and:
         - file.inFolder("Authors")
         - file.tags.contains("book")
+        - status == "read"
     order:
       - file.name
       - author

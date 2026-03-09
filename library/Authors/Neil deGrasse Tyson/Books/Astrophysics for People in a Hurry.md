@@ -1,12 +1,16 @@
 ---
 title: "Astrophysics for People in a Hurry"
-author: "[[Authors/Neil deGrasse Tyson/Neil deGrasse Tyson|Neil deGrasse Tyson]]"
+author:
+  - "[[Authors/Neil deGrasse Tyson/Neil deGrasse Tyson|Neil deGrasse Tyson]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2019-12-12"
 date_read: "2019-12-15"
 language: "Unknown"
+publisher: "W. W. Norton & Company"
+original_publish_year: 2017
 isbn: "0393609391"
 isbn13: "9780393609394"
 pages: 223
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Neil deGrasse Tyson - Astrophysics for People in a Hurry.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

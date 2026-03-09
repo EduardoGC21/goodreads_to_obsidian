@@ -1,12 +1,16 @@
 ---
 title: "The Fantastic Gustave Doré"
-author: "[[Authors/Alix Paré/Alix Paré|Alix Paré]]"
+author:
+  - "[[Authors/Alix Paré/Alix Paré|Alix Paré]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-10-03"
 date_read: "2025-11-15"
 language: "English"
+publisher: "Prestel"
+original_publish_year: 2021
 isbn: "3791379631"
 isbn13: "9783791379630"
 pages: 480
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

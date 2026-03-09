@@ -1,12 +1,16 @@
 ---
 title: "Childhood’s End"
-author: "[[Authors/Arthur C. Clarke/Arthur C. Clarke|Arthur C. Clarke]]"
+author:
+  - "[[Authors/Arthur C. Clarke/Arthur C. Clarke|Arthur C. Clarke]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-12-08"
 date_read: "2026-02-04"
 language: "Unknown"
+publisher: "Del Rey Books"
+original_publish_year: 1953
 isbn: ""
 isbn13: ""
 pages: 224
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Arthur C. Clarke - Childhood’s End.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

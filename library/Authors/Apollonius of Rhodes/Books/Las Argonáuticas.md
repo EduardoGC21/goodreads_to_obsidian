@@ -1,12 +1,16 @@
 ---
 title: "Las Argonáuticas"
-author: "[[Authors/Apollonius of Rhodes/Apollonius of Rhodes|Apollonius of Rhodes]]"
+author:
+  - "[[Authors/Apollonius of Rhodes/Apollonius of Rhodes|Apollonius of Rhodes]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-07-18"
 date_read: "2025-08-05"
 language: "Spanish"
+publisher: "Cátedra"
+original_publish_year: ""
 isbn: "8437605814"
 isbn13: "9788437605814"
 pages: 240
@@ -26,6 +30,10 @@ tags:
 
 ![[Attachments/Covers/Apollonius of Rhodes - Las Argonáuticas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

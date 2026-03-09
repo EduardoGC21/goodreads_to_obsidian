@@ -1,12 +1,16 @@
 ---
 title: "The Qur'an"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-12-28"
 date_read: "2025-01-07"
 language: "English"
+publisher: "Oxford University Press"
+original_publish_year: ""
 isbn: "0192805487"
 isbn13: "9780192805485"
 pages: 512
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - The Qur'an.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

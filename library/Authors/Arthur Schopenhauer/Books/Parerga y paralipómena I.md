@@ -1,12 +1,16 @@
 ---
 title: "Parerga y paralipómena I"
-author: "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+author:
+  - "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-09-18"
 language: "Unknown"
+publisher: "Editorial Trotta, S.A."
+original_publish_year: 1851
 isbn: "8481648795"
 isbn13: "9788481648799"
 pages: 510
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World)"
-author: "[[Authors/Marc Van de Mieroop/Marc Van de Mieroop|Marc Van de Mieroop]]"
+author:
+  - "[[Authors/Marc Van de Mieroop/Marc Van de Mieroop|Marc Van de Mieroop]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2022-07-03"
 date_read: ""
 language: "English"
+publisher: "Wiley-Blackwell"
+original_publish_year: 2010
 isbn: "1119620872"
 isbn13: "9781119620877"
 pages: 416
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Marc Van de Mieroop - A History of Ancient Egypt, 2nd Edition (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

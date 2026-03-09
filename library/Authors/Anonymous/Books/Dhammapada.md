@@ -1,12 +1,16 @@
 ---
 title: "Dhammapada"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-04-10"
 date_read: "2021-04-10"
 language: "Unknown"
+publisher: "Penguin"
+original_publish_year: ""
 isbn: "849105071X"
 isbn13: "9788491050711"
 pages: 256
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - Dhammapada.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

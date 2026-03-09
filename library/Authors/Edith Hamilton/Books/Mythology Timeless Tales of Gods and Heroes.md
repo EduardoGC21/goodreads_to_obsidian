@@ -1,12 +1,16 @@
 ---
 title: "Mythology: Timeless Tales of Gods and Heroes"
-author: "[[Authors/Edith Hamilton/Edith Hamilton|Edith Hamilton]]"
+author:
+  - "[[Authors/Edith Hamilton/Edith Hamilton|Edith Hamilton]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-05-21"
 date_read: "2021-05-25"
 language: "English"
+publisher: "Back Bay Books"
+original_publish_year: 1942
 isbn: "0316223336"
 isbn13: "9780316223331"
 pages: 482
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Edith Hamilton - Mythology Timeless Tales of Gods and Heroes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

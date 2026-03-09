@@ -78,12 +78,15 @@ EXPECTED_COLUMNS = [
 BOOK_FRONTMATTER_KEYS = [
     "title",
     "author",
+    "translator",
     "status",
     "rating",
     "read_count",
     "date_added",
     "date_read",
     "language",
+    "publisher",
+    "original_publish_year",
     "isbn",
     "isbn13",
     "pages",
@@ -93,9 +96,10 @@ BOOK_FRONTMATTER_KEYS = [
     "reread_dates",
     "tags",
 ]
-AUTHOR_FRONTMATTER_KEYS = ["name", "country", "birth_year", "death_year", "tags"]
+AUTHOR_FRONTMATTER_KEYS = ["name", "cover", "country", "birth_year", "death_year", "tags"]
 GENERATED_MARKERS = {
     "book_header": ("<!-- GENERATED:BOOK_HEADER START -->", "<!-- GENERATED:BOOK_HEADER END -->"),
+    "book_quotes": ("<!-- GENERATED:BOOK_QUOTES START -->", "<!-- GENERATED:BOOK_QUOTES END -->"),
     "book_review": ("<!-- GENERATED:BOOK_REVIEW START -->", "<!-- GENERATED:BOOK_REVIEW END -->"),
     "author_header": ("<!-- GENERATED:AUTHOR_HEADER START -->", "<!-- GENERATED:AUTHOR_HEADER END -->"),
     "author_bio": ("<!-- GENERATED:AUTHOR_BIO START -->", "<!-- GENERATED:AUTHOR_BIO END -->"),
@@ -153,6 +157,7 @@ class BookRecord:
     bookshelves: list[str]
     review: str
     publisher: str
+    original_publish_year: int | str
     row_context: str
     author_dir: Path | None = None
     author_path: Path | None = None
@@ -160,6 +165,8 @@ class BookRecord:
     book_path: Path | None = None
     cover_path: Path | None = None
     cover_filename: str = ""
+    author_cover_path: Path | None = None
+    author_cover_filename: str = ""
     author_link: str = ""
     book_link: str = ""
 
@@ -367,12 +374,15 @@ def ensure_directories(vault_root: Path) -> dict[str, Path]:
         "root": vault_root,
         "attachments": vault_root / "Attachments",
         "covers": vault_root / "Attachments" / "Covers",
+        "author_images": vault_root / "Attachments" / "AuthorImages",
         "authors": vault_root / "Authors",
         "manual_review": vault_root / "Manual Review",
+        "templates": vault_root / "Templates",
     }
     for path in paths.values():
         path.mkdir(parents=True, exist_ok=True)
     ensure_hub_notes(vault_root)
+    ensure_template_notes(vault_root)
     return paths
 
 
@@ -397,12 +407,15 @@ def ensure_hub_notes(vault_root: Path) -> None:
 def cleanup_generated_vault_content(vault_root: Path) -> None:
     authors_root = vault_root / "Authors"
     covers_root = vault_root / "Attachments" / "Covers"
+    author_images_root = vault_root / "Attachments" / "AuthorImages"
     manual_review_path = vault_root / "Manual Review" / REVIEW_NOTE_NAME
 
     if authors_root.exists():
         shutil.rmtree(authors_root)
     if covers_root.exists():
         shutil.rmtree(covers_root)
+    if author_images_root.exists():
+        shutil.rmtree(author_images_root)
     if manual_review_path.exists():
         manual_review_path.unlink()
 
@@ -567,7 +580,7 @@ def ensure_wikilink(value: str) -> str:
     return f"[[{text}]]"
 
 
-def normalize_bookshelf_links(values: list[str]) -> list[str]:
+def normalize_wikilink_list(values: list[str]) -> list[str]:
     output: list[str] = []
     seen: set[str] = set()
     for value in values:
@@ -580,6 +593,10 @@ def normalize_bookshelf_links(values: list[str]) -> list[str]:
         output.append(link)
         seen.add(key)
     return output
+
+
+def normalize_bookshelf_links(values: list[str]) -> list[str]:
+    return normalize_wikilink_list(values)
 
 
 def normalize_tags(values: list[str]) -> list[str]:
@@ -727,6 +744,7 @@ def dedupe_preserve_order(values: list[str]) -> list[str]:
 def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
     authors_root = vault_root / "Authors"
     covers_root = vault_root / "Attachments" / "Covers"
+    author_images_root = vault_root / "Attachments" / "AuthorImages"
     records: list[BookRecord] = []
     provisional_names: defaultdict[tuple[str, str], list[BookRecord]] = defaultdict(list)
 
@@ -758,6 +776,7 @@ def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
             bookshelves=bookshelves,
             review=repair_text_value(row_map.get("My Review", "")),
             publisher=repair_text_value(row_map.get("Publisher", "")),
+            original_publish_year=normalize_numeric_year_value(row_map.get("Original Publication Year", "")),
             row_context=f"row {row_number}",
         )
         author_folder_name = sanitize_filename(record.author_name, fallback="Anonymous")
@@ -779,6 +798,8 @@ def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
             record.book_path = record.books_dir / f"{unique_name}.md"
             record.cover_filename = f"{sanitize_filename(record.author_name)} - {unique_name}.jpg"
             record.cover_path = covers_root / record.cover_filename
+            record.author_cover_filename = f"{sanitize_filename(record.author_name)}.jpg"
+            record.author_cover_path = author_images_root / record.author_cover_filename
 
     for record in records:
         assert record.author_path is not None
@@ -870,7 +891,7 @@ def normalize_reread_dates(value: Any) -> list[dict[str, str]]:
     return normalized
 
 
-def set_generated_block(body: str, marker_key: str, rendered_block: str) -> str:
+def set_generated_block(body: str, marker_key: str, rendered_block: str, after_marker_key: str | None = None) -> str:
     start_marker, end_marker = GENERATED_MARKERS[marker_key]
     replacement = f"{start_marker}\n{rendered_block.rstrip()}\n{end_marker}"
     pattern = re.compile(re.escape(start_marker) + r".*?" + re.escape(end_marker), re.DOTALL)
@@ -878,6 +899,13 @@ def set_generated_block(body: str, marker_key: str, rendered_block: str) -> str:
         updated = pattern.sub(replacement, body, count=1)
     else:
         stripped = body.rstrip()
+        if after_marker_key is not None:
+            _, after_end_marker = GENERATED_MARKERS[after_marker_key]
+            after_match = re.search(re.escape(after_end_marker), stripped)
+            if after_match:
+                insert_at = after_match.end()
+                updated = f"{stripped[:insert_at]}\n\n{replacement}{stripped[insert_at:]}"
+                return updated.strip() + "\n"
         separator = "\n\n" if stripped else ""
         updated = f"{stripped}{separator}{replacement}"
     return updated.strip() + "\n"
@@ -888,13 +916,19 @@ def render_book_header(title: str, cover_link: str) -> str:
     return f"# {title}\n\n{image_block}"
 
 
+def render_book_quotes(quotes: str) -> str:
+    return f"## Quotes\n{quotes}".rstrip()
+
+
 def render_book_review(review: str) -> str:
     return f"## My Review\n{review}".rstrip()
 
 
-def render_author_header(author_name: str) -> str:
-    return f"# {author_name}"
-
+def render_author_header(author_name: str, cover_link: str) -> str:
+    lines = [f"# {author_name}"]
+    if cover_link.startswith("[[") and cover_link.endswith("]]"):
+        lines.extend(["", f"!{cover_link}"])
+    return "\n".join(lines).rstrip()
 
 def render_author_bio(biography: str) -> str:
     return f"## Biography\n{biography or 'Biography not available yet.'}".rstrip()
@@ -968,13 +1002,16 @@ def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: li
         BOOK_FRONTMATTER_KEYS,
         {
             "title": record.display_title(),
-            "author": record.author_link,
+            "author": normalize_wikilink_list([record.author_link]),
+            "translator": [],
             "status": normalize_plain_status(record.exclusive_shelf),
             "rating": record.rating,
             "read_count": record.read_count,
             "date_added": record.date_added,
             "date_read": record.date_read,
             "language": record.language,
+            "publisher": record.publisher,
+            "original_publish_year": record.original_publish_year,
             "isbn": record.isbn,
             "isbn13": record.isbn13,
             "pages": record.pages,
@@ -986,11 +1023,13 @@ def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: li
         },
     )
 
-def build_author_frontmatter(author_name: str, country: str, birth_year: str, death_year: str) -> dict[str, Any]:
+
+def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str) -> dict[str, Any]:
     return ordered_metadata(
         AUTHOR_FRONTMATTER_KEYS,
         {
             "name": author_name,
+            "cover": cover_link,
             "country": ensure_wikilink(country or "Unknown"),
             "birth_year": normalize_year_value(birth_year),
             "death_year": normalize_year_value(death_year),
@@ -1002,7 +1041,8 @@ def build_author_frontmatter(author_name: str, country: str, birth_year: str, de
 def build_book_document(existing: NoteDocument, record: BookRecord, cover_link: str) -> NoteDocument:
     body = existing.body
     body = set_generated_block(body, "book_header", render_book_header(record.display_title(), cover_link))
-    body = set_generated_block(body, "book_review", render_book_review(record.review))
+    body = set_generated_block(body, "book_quotes", render_book_quotes(get_existing_quotes(existing)), after_marker_key="book_header")
+    body = set_generated_block(body, "book_review", render_book_review(record.review), after_marker_key="book_quotes")
     reread_dates = normalize_reread_dates(existing.metadata.get("reread_dates", []))
     return NoteDocument(metadata=build_book_frontmatter(record, cover_link, reread_dates), body=body)
 
@@ -1015,12 +1055,20 @@ def build_author_document(
     country: str,
     birth_year: str,
     death_year: str,
+    cover_link: str,
 ) -> NoteDocument:
     body = existing.body
-    body = set_generated_block(body, "author_header", render_author_header(author_name))
-    body = set_generated_block(body, "author_bio", render_author_bio(biography))
-    body = set_generated_block(body, "author_books", render_author_books(book_links))
-    return NoteDocument(metadata=build_author_frontmatter(author_name, country, birth_year, death_year), body=body)
+    body = set_generated_block(body, "author_header", render_author_header(author_name, cover_link))
+    body = set_generated_block(body, "author_bio", render_author_bio(biography), after_marker_key="author_header")
+    body = set_generated_block(body, "author_books", render_author_books(book_links), after_marker_key="author_bio")
+    return NoteDocument(metadata=build_author_frontmatter(author_name, cover_link, country, birth_year, death_year), body=body)
+
+
+def get_existing_quotes(note: NoteDocument) -> str:
+    block = extract_generated_block(note.body, "book_quotes")
+    if block.startswith("## Quotes"):
+        return block[len("## Quotes") :].strip()
+    return block
 
 
 def get_existing_biography(note: NoteDocument) -> str:
@@ -1042,6 +1090,68 @@ def get_existing_death_year(note: NoteDocument) -> str:
     return normalize_year_value(note.metadata.get("death_year", ""))
 
 
+def build_book_template_document() -> NoteDocument:
+    body = ""
+    body = set_generated_block(body, "book_header", render_book_header("", ""))
+    body = set_generated_block(body, "book_quotes", render_book_quotes(""), after_marker_key="book_header")
+    body = set_generated_block(body, "book_review", render_book_review(""), after_marker_key="book_quotes")
+    return NoteDocument(
+        metadata=ordered_metadata(
+            BOOK_FRONTMATTER_KEYS,
+            {
+                "title": "",
+                "author": [],
+                "translator": [],
+                "status": "",
+                "rating": "",
+                "read_count": "",
+                "date_added": "",
+                "date_read": "",
+                "language": "",
+                "publisher": "",
+                "original_publish_year": "",
+                "isbn": "",
+                "isbn13": "",
+                "pages": "",
+                "format": "",
+                "cover": "",
+                "bookshelves": [],
+                "reread_dates": [],
+                "tags": normalize_tags(["book"]),
+            },
+        ),
+        body=body,
+    )
+
+
+def build_author_template_document() -> NoteDocument:
+    body = ""
+    body = set_generated_block(body, "author_header", render_author_header("", ""))
+    body = set_generated_block(body, "author_bio", render_author_bio(""), after_marker_key="author_header")
+    body = set_generated_block(body, "author_books", render_author_books([]), after_marker_key="author_bio")
+    return NoteDocument(
+        metadata=ordered_metadata(
+            AUTHOR_FRONTMATTER_KEYS,
+            {
+                "name": "",
+                "cover": "",
+                "country": "",
+                "birth_year": "",
+                "death_year": "",
+                "tags": ["author"],
+            },
+        ),
+        body=body,
+    )
+
+
+def ensure_template_notes(vault_root: Path) -> None:
+    templates_root = vault_root / "Templates"
+    templates_root.mkdir(parents=True, exist_ok=True)
+    (templates_root / "Book_Template.md").write_text(dump_note(build_book_template_document()), encoding="utf-8")
+    (templates_root / "Author_Template.md").write_text(dump_note(build_author_template_document()), encoding="utf-8")
+
+
 def author_metadata_is_complete(note: NoteDocument) -> bool:
     return (
         bool(get_existing_biography(note))
@@ -1056,6 +1166,11 @@ def normalize_year_value(value: Any) -> str:
         return ""
     match = re.search(r"(\d{4})", text)
     return match.group(1) if match else ""
+
+
+def normalize_numeric_year_value(value: Any) -> int | str:
+    year = normalize_year_value(value)
+    return int(year) if year else ""
 
 
 def configure_metadata_session(session: requests.Session) -> requests.Session:
@@ -1510,6 +1625,80 @@ def fetch_cover_url_with_fallbacks(session: requests.Session, record: BookRecord
     return "", errors
 
 
+def score_wikimedia_author_page(page: dict[str, Any], author_name: str) -> int:
+    title = clean_value(page.get("title", "")).casefold()
+    score = 0
+    for token in re.findall(r"\w+", repair_text_value(author_name).casefold())[:4]:
+        if token in title:
+            score += 2
+    if "portrait" in title or "photo" in title or "photograph" in title:
+        score += 2
+    return score
+
+
+def fetch_wikimedia_commons_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    try:
+        response = provider_get(
+            session,
+            "wikimedia_commons",
+            WIKIMEDIA_COMMONS_API,
+            params={
+                "action": "query",
+                "format": "json",
+                "generator": "search",
+                "gsrnamespace": 6,
+                "gsrsearch": repair_text_value(author_name),
+                "gsrlimit": 5,
+                "prop": "imageinfo",
+                "iiprop": "url",
+            },
+            timeout=20,
+            retry_statuses=(429, 503),
+        )
+        payload = response.json()
+    except requests.RequestException as exc:
+        return "", [f"Wikimedia Commons author-image search failed for {author_name}: {exc}"]
+    pages = list(((payload.get("query") or {}).get("pages") or {}).values())
+    if not pages:
+        return "", []
+    for page in sorted(pages, key=lambda current: score_wikimedia_author_page(current, author_name), reverse=True):
+        imageinfo = page.get("imageinfo") or []
+        if not imageinfo:
+            continue
+        url = clean_value((imageinfo[0] or {}).get("url", ""))
+        if url:
+            return url.replace("http://", "https://"), []
+    return "", []
+
+
+def fetch_wikipedia_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    title = requests.utils.quote(repair_text_value(author_name).replace(" ", "_"), safe="()_,-")
+    try:
+        response = provider_get(
+            session,
+            "wikipedia",
+            WIKIPEDIA_SUMMARY_API.format(title=title),
+            timeout=20,
+            retry_statuses=(403, 429),
+        )
+        payload = response.json()
+    except requests.RequestException as exc:
+        return "", [f"Wikipedia author-image search failed for {author_name}: {exc}"]
+    thumbnail = payload.get("originalimage") or payload.get("thumbnail") or {}
+    url = clean_value(thumbnail.get("source", ""))
+    return (url, []) if url else ("", [])
+
+
+def fetch_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    errors: list[str] = []
+    for fetcher in (fetch_wikimedia_commons_author_image_url, fetch_wikipedia_author_image_url):
+        url, fetch_errors = fetcher(session, author_name)
+        errors.extend(fetch_errors)
+        if url:
+            return url, errors
+    return "", errors
+
+
 def download_cover(session: requests.Session, url: str, destination: Path) -> bool:
     if not url:
         return False
@@ -1724,8 +1913,31 @@ def materialize_author_note(
     birth_year: str,
     death_year: str,
     summary: SyncSummary,
+    vault_root: Path,
+    metadata_session: requests.Session,
+    refresh_images: bool,
+    review_sections: dict[str, list[str]],
 ) -> str:
     assert work_item.author_record.author_path is not None
+    assert work_item.author_record.author_cover_path is not None
+
+    existing_cover_filename = extract_existing_cover_filename(work_item.current_note)
+    cover_link = f"[[{existing_cover_filename}]]" if existing_cover_filename else ""
+
+    if work_item.author_name != "Anonymous":
+        if refresh_images or not work_item.author_record.author_cover_path.exists():
+            cover_url, cover_errors = fetch_author_image_url(metadata_session, work_item.author_name)
+            for error in cover_errors:
+                add_review_item(review_sections, "API Errors", f"- {work_item.author_name}: {error}")
+            if cover_url and download_cover(metadata_session, cover_url, work_item.author_record.author_cover_path):
+                cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+            elif work_item.author_record.author_cover_path.exists():
+                cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+            else:
+                cover_link = ""
+        elif work_item.author_record.author_cover_path.exists():
+            cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+
     desired_author = build_author_document(
         work_item.current_note,
         work_item.author_name,
@@ -1734,6 +1946,7 @@ def materialize_author_note(
         country,
         birth_year,
         death_year,
+        cover_link,
     )
     if notes_equal(work_item.current_note, desired_author, AUTHOR_FRONTMATTER_KEYS):
         summary.authors_skipped += 1
@@ -1762,7 +1975,10 @@ def process_author_biographies(
     work_items: list[AuthorWorkItem],
     refresh_bio: bool,
     infer_author_dates: bool,
+    refresh_images: bool,
     workdir: Path,
+    vault_root: Path,
+    metadata_session: requests.Session,
     review_sections: dict[str, list[str]],
     summary: SyncSummary,
 ) -> None:
@@ -1785,7 +2001,18 @@ def process_author_biographies(
             add_review_item(review_sections, "Failed Author Biographies", f"- {work_item.author_name}: {error}")
         if slot_id is not None:
             renderer.update(slot_id, "writing_note", work_item.author_name)
-        author_status = materialize_author_note(work_item, biography, country, birth_year, death_year, summary)
+        author_status = materialize_author_note(
+            work_item,
+            biography,
+            country,
+            birth_year,
+            death_year,
+            summary,
+            vault_root,
+            metadata_session,
+            refresh_images,
+            review_sections,
+        )
         completed_authors += 1
         print_progress("author", completed_authors, total_authors, author_status, work_item.author_name)
         if slot_id is not None:
@@ -1910,9 +2137,10 @@ def select_records_for_add_book(records: list[BookRecord], selector: str) -> lis
     raise RuntimeError(f"No book matched selector: {selector}")
 
 
-def migrate_note_frontmatter(path: Path, is_author: bool) -> bool:
+def migrate_note_frontmatter(vault_root: Path, path: Path, is_author: bool) -> bool:
     note = load_note(path)
     metadata = dict(note.metadata)
+    body = note.body
     changed = False
     status = clean_value(metadata.get("status", ""))
     normalized_status = normalize_plain_status(status)
@@ -1956,7 +2184,39 @@ def migrate_note_frontmatter(path: Path, is_author: bool) -> bool:
         if "death_year" not in metadata:
             metadata["death_year"] = death_year
             changed = True
+        cover = clean_value(metadata.get("cover", ""))
+        if not cover:
+            author_image_path = vault_root / "Attachments" / "AuthorImages" / f"{sanitize_filename(path.stem)}.jpg"
+            desired_cover = vault_wiki_link(vault_root, author_image_path, keep_suffix=True) if author_image_path.exists() else ""
+            if metadata.get("cover", "") != desired_cover:
+                metadata["cover"] = desired_cover
+                changed = True
     else:
+        authors_value = metadata.get("author", [])
+        if isinstance(authors_value, list):
+            author_values = [clean_value(item) for item in authors_value if clean_value(item)]
+        else:
+            author_values = [clean_value(authors_value)] if clean_value(authors_value) else []
+        normalized_authors = normalize_wikilink_list(author_values)
+        if metadata.get("author") != normalized_authors:
+            metadata["author"] = normalized_authors
+            changed = True
+        if "translator" not in metadata or metadata.get("translator") != []:
+            translator_value = metadata.get("translator", [])
+            if isinstance(translator_value, list):
+                normalized_translators = normalize_wikilink_list([clean_value(item) for item in translator_value if clean_value(item)])
+            else:
+                normalized_translators = normalize_wikilink_list([clean_value(translator_value)] if clean_value(translator_value) else [])
+            metadata["translator"] = normalized_translators
+            changed = True
+        publisher = clean_value(metadata.get("publisher", ""))
+        if metadata.get("publisher", "") != publisher:
+            metadata["publisher"] = publisher
+            changed = True
+        original_publish_year = normalize_numeric_year_value(metadata.get("original_publish_year", ""))
+        if metadata.get("original_publish_year", "") != original_publish_year:
+            metadata["original_publish_year"] = original_publish_year
+            changed = True
         reread_dates = normalize_reread_dates(metadata.get("reread_dates", []))
         if metadata.get("reread_dates") != reread_dates:
             metadata["reread_dates"] = reread_dates
@@ -1964,25 +2224,31 @@ def migrate_note_frontmatter(path: Path, is_author: bool) -> bool:
         if "reread_dates" not in metadata:
             metadata["reread_dates"] = reread_dates
             changed = True
+        updated_body = set_generated_block(body, "book_quotes", render_book_quotes(get_existing_quotes(note)), after_marker_key="book_header")
+        if updated_body != body:
+            body = updated_body
+            changed = True
     if changed:
-        path.write_text(dump_note(NoteDocument(metadata=metadata, body=note.body)), encoding="utf-8")
+        metadata = ordered_metadata(AUTHOR_FRONTMATTER_KEYS if is_author else BOOK_FRONTMATTER_KEYS, metadata)
+        path.write_text(dump_note(NoteDocument(metadata=metadata, body=body)), encoding="utf-8")
     return changed
+
 
 def migrate_yaml(vault_root: Path) -> tuple[int, int]:
     authors = 0
     books = 0
+    ensure_directories(vault_root)
     authors_root = vault_root / "Authors"
     if not authors_root.exists():
         return authors, books
     for path in authors_root.rglob("*.md"):
         if path.parent.name == "Books":
-            if migrate_note_frontmatter(path, is_author=False):
+            if migrate_note_frontmatter(vault_root, path, is_author=False):
                 books += 1
         else:
-            if migrate_note_frontmatter(path, is_author=True):
+            if migrate_note_frontmatter(vault_root, path, is_author=True):
                 authors += 1
     return authors, books
-
 
 def merge_known_author_aliases(vault_root: Path) -> None:
     authors_root = vault_root / "Authors"
@@ -2131,12 +2397,15 @@ def run_sync(
     author_work_items = build_author_work_items(records, author_books)
     if not image_only:
         process_author_biographies(
-        author_work_items,
-        refresh_bio,
-        infer_author_dates,
-        Path.cwd(),
-        review_sections,
-        summary,
+            author_work_items,
+            refresh_bio,
+            infer_author_dates,
+            refresh_images,
+            Path.cwd(),
+            vault_root,
+            metadata_session,
+            review_sections,
+            summary,
         )
 
     for record in records:

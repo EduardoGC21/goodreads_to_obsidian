@@ -1,12 +1,16 @@
 ---
 title: "La llamada de Chtulhu"
-author: "[[Authors/H.P. Lovecraft/H.P. Lovecraft|H.P. Lovecraft]]"
+author:
+  - "[[Authors/H.P. Lovecraft/H.P. Lovecraft|H.P. Lovecraft]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-12-19"
 date_read: "2020-12-20"
 language: "Spanish"
+publisher: "Greenbooks Editore"
+original_publish_year: 1928
 isbn: "8898006438"
 isbn13: "9788898006434"
 pages: 68
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

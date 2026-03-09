@@ -1,12 +1,16 @@
 ---
 title: "On Liberty"
-author: "[[Authors/John Stuart Mill/John Stuart Mill|John Stuart Mill]]"
+author:
+  - "[[Authors/John Stuart Mill/John Stuart Mill|John Stuart Mill]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-08-29"
 date_read: "2020-08-30"
 language: "Unknown"
+publisher: "AmazonClassics"
+original_publish_year: 1859
 isbn: "1542099242"
 isbn13: "9781542099240"
 pages: 112
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

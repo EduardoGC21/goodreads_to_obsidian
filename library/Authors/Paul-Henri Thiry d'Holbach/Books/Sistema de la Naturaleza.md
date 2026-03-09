@@ -1,12 +1,16 @@
 ---
 title: "Sistema de la Naturaleza"
-author: "[[Authors/Paul-Henri Thiry d'Holbach/Paul-Henri Thiry d'Holbach|Paul-Henri Thiry d'Holbach]]"
+author:
+  - "[[Authors/Paul-Henri Thiry d'Holbach/Paul-Henri Thiry d'Holbach|Paul-Henri Thiry d'Holbach]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2026-01-30"
 date_read: ""
 language: "Spanish"
+publisher: "Laetoli"
+original_publish_year: 1770
 isbn: "8492422033"
 isbn13: "9788492422036"
 pages: 680
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Paul-Henri Thiry d'Holbach - Sistema de la Naturaleza.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

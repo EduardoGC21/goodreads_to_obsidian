@@ -1,12 +1,16 @@
 ---
 title: "Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147)"
-author: "[[Authors/Virgil/Virgil|Virgil]]"
+author:
+  - "[[Authors/Virgil/Virgil|Virgil]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-03-22"
 date_read: "2021-04-14"
 language: "Unknown"
+publisher: "Porrua"
+original_publish_year: ""
 isbn: "607091161X"
 isbn13: "9786070911613"
 pages: 445
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "La Nariz"
-author: "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
+author:
+  - "[[Authors/Nikolai Gogol/Nikolai Gogol|Nikolai Gogol]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-08-01"
 date_read: "2025-08-02"
 language: "Spanish"
+publisher: "Gadir Editorial"
+original_publish_year: 1836
 isbn: ""
 isbn13: ""
 pages: 80
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Nikolai Gogol - La Nariz.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Washington Black"
-author: "[[Authors/Esi Edugyan/Esi Edugyan|Esi Edugyan]]"
+author:
+  - "[[Authors/Esi Edugyan/Esi Edugyan|Esi Edugyan]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2019-03-24"
 date_read: "2019-05-02"
 language: "Unknown"
+publisher: "Vintage"
+original_publish_year: 2018
 isbn: "0525563245"
 isbn13: "9780525563242"
 pages: 384
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Esi Edugyan - Washington Black.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "The Willows"
-author: "[[Authors/Algernon Blackwood/Algernon Blackwood|Algernon Blackwood]]"
+author:
+  - "[[Authors/Algernon Blackwood/Algernon Blackwood|Algernon Blackwood]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-10-23"
 date_read: "2025-10-26"
 language: "English"
+publisher: "Wildside Press"
+original_publish_year: 1907
 isbn: "1587156520"
 isbn13: "9781587156526"
 pages: 105
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Algernon Blackwood - The Willows.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

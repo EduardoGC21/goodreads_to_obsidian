@@ -1,12 +1,16 @@
 ---
 title: "John Martin: Apocalypse Now!"
-author: "[[Authors/Barbara Morden/Barbara Morden|Barbara Morden]]"
+author:
+  - "[[Authors/Barbara Morden/Barbara Morden|Barbara Morden]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-06-26"
 date_read: "2022-07-02"
 language: "English"
+publisher: "Northumbria University Press"
+original_publish_year: 2011
 isbn: "1904794998"
 isbn13: "9781904794998"
 pages: 136
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

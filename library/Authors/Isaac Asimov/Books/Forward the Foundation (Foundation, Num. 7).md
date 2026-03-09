@@ -1,12 +1,16 @@
 ---
 title: "Forward the Foundation (Foundation, Num. 7)"
-author: "[[Authors/Isaac Asimov/Isaac Asimov|Isaac Asimov]]"
+author:
+  - "[[Authors/Isaac Asimov/Isaac Asimov|Isaac Asimov]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-11-30"
 date_read: "2025-12-06"
 language: "English"
+publisher: "Bantam/Spectra"
+original_publish_year: 1993
 isbn: "0553565079"
 isbn13: "9780553565072"
 pages: 464
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Isaac Asimov - Forward the Foundation (Foundation, Num. 7).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

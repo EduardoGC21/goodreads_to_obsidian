@@ -1,12 +1,16 @@
 ---
 title: "Siete noches"
-author: "[[Authors/Jorge Luis Borges/Jorge Luis Borges|Jorge Luis Borges]]"
+author:
+  - "[[Authors/Jorge Luis Borges/Jorge Luis Borges|Jorge Luis Borges]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-05-10"
 date_read: "2023-05-14"
 language: "Unknown"
+publisher: "Fondo de Cultura Económica USA"
+original_publish_year: 1977
 isbn: "9681664094"
 isbn13: "9789681664091"
 pages: 171
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Jorge Luis Borges - Siete noches.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

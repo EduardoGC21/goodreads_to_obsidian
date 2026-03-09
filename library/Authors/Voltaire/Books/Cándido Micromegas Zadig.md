@@ -1,12 +1,16 @@
 ---
 title: "Cándido / Micromegas / Zadig"
-author: "[[Authors/Voltaire/Voltaire|Voltaire]]"
+author:
+  - "[[Authors/Voltaire/Voltaire|Voltaire]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2023-07-08"
 language: "Unknown"
+publisher: "Ediciones Cátedra"
+original_publish_year: 1759
 isbn: "8437605415"
 isbn13: "9788437605418"
 pages: 288
@@ -25,6 +29,10 @@ tags:
 
 ![[Attachments/Covers/Voltaire - Cándido Micromegas Zadig.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

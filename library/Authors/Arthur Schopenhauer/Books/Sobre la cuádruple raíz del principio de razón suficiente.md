@@ -1,12 +1,16 @@
 ---
 title: "Sobre la cuádruple raíz del principio de razón suficiente"
-author: "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+author:
+  - "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-05-12"
 date_read: "2022-05-19"
 language: "Spanish"
+publisher: "Alianza"
+original_publish_year: 1813
 isbn: "8491815449"
 isbn13: "9788491815440"
 pages: 283
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Arthur Schopenhauer - Sobre la cuádruple raíz del principio de razón suficiente.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

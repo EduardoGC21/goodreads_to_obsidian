@@ -1,12 +1,16 @@
 ---
 title: "Ser y tiempo"
-author: "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+author:
+  - "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-03-03"
 date_read: "2021-05-04"
 language: "Unknown"
+publisher: "Trotta"
+original_publish_year: 1927
 isbn: "8498790476"
 isbn13: "9788498790474"
 pages: 490
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Martin Heidegger - Ser y tiempo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

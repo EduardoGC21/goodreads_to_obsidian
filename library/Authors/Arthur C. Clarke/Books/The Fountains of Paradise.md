@@ -1,12 +1,16 @@
 ---
 title: "The Fountains of Paradise"
-author: "[[Authors/Arthur C. Clarke/Arthur C. Clarke|Arthur C. Clarke]]"
+author:
+  - "[[Authors/Arthur C. Clarke/Arthur C. Clarke|Arthur C. Clarke]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2026-02-04"
 date_read: ""
 language: "English"
+publisher: "Aspect"
+original_publish_year: 1979
 isbn: "0446677949"
 isbn13: "9780446677943"
 pages: 332
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Arthur C. Clarke - The Fountains of Paradise.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

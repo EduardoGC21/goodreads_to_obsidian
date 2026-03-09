@@ -1,18 +1,18 @@
 ﻿# Goodreads to Library Sync
 
-This repository contains a local Python sync that reads a Goodreads CSV export, enriches author notes through the local `codex` CLI, downloads covers when possible, and generates an Obsidian-compatible vault under `library_v2/`.
+This repository contains a local Python sync that reads a Goodreads CSV export, enriches author notes through the local `codex` CLI, downloads book and author images when possible, and generates an Obsidian-compatible vault under a chosen `--vault-root`.
 
 ## Output Layout
 
 A sync creates or updates:
 
-- `library_v2/Library.md` as the single hub note for the generated vault
-- `library_v2/Authors/<Author>/<Author>.md` for author notes
-- `library_v2/Authors/<Author>/Books/<Book>.md` for book notes
-- `library_v2/Attachments/Covers/` for local cover images
-- `library_v2/Manual Review/Missing Metadata.md` for unresolved metadata issues
-
-The old `library/` as the generated output.
+- `<vault-root>/Library.md` as the single hub note for the generated vault
+- `<vault-root>/Authors/<Author>/<Author>.md` for author notes
+- `<vault-root>/Authors/<Author>/Books/<Book>.md` for book notes
+- `<vault-root>/Attachments/Covers/` for local book cover images
+- `<vault-root>/Attachments/AuthorImages/` for local author images
+- `<vault-root>/Templates/Book_Template.md` and `<vault-root>/Templates/Author_Template.md`
+- `<vault-root>/Manual Review/Missing Metadata.md` for unresolved metadata issues
 
 ## Setup
 
@@ -45,6 +45,8 @@ The script expects the standard Goodreads export columns, including:
 - `Book Id`
 - `Title`
 - `Author`
+- `Publisher`
+- `Original Publication Year`
 - `ISBN`
 - `ISBN13`
 - `Binding`
@@ -58,7 +60,7 @@ The script expects the standard Goodreads export columns, including:
 
 ## Main Commands
 
-Incremental monthly sync:
+Incremental sync:
 
 ```powershell
 C:\Users\eduar\anaconda3\python.exe code\sync_goodreads.py sync-goodreads --csv data\goodreads_library_export.csv --vault-root library_v2
@@ -76,24 +78,17 @@ Single-book utility:
 C:\Users\eduar\anaconda3\python.exe code\sync_goodreads.py add-book "Dune" --csv data\goodreads_library_export.csv --vault-root library_v2
 ```
 
-Fetch only missing covers:
+Fetch only missing book covers:
 
 ```powershell
 C:\Users\eduar\anaconda3\python.exe code\sync_goodreads.py fetch-images --csv data\goodreads_library_export.csv --vault-root library_v2
 ```
 
-Retroactively normalize existing YAML:
+Retroactively normalize existing YAML and regenerate templates:
 
 ```powershell
 C:\Users\eduar\anaconda3\python.exe code\sync_goodreads.py migrate-yaml --vault-root library_v2
 ```
-
-Refresh flags for `sync-goodreads` and `add-book`:
-
-- `--refresh-goodreads` rewrites Goodreads-derived metadata
-- `--refresh-bio` regenerates author biography and country
-- `--refresh-images` refetches covers even when a local image already exists
-- `--force-refresh-metadata` is the legacy alias that enables all three refresh flags together
 
 ## Sync Behavior
 
@@ -104,37 +99,44 @@ The normal rerun path is incremental.
 - Existing author notes are updated when their linked book list changes.
 - Existing biographies are skipped unless missing or `--refresh-bio` is used.
 - Existing countries are skipped unless missing or `--refresh-bio` is used.
-- Existing local covers are skipped unless missing or `--refresh-images` is used.
+- Existing book covers are skipped unless missing or `--refresh-images` is used.
+- Existing author images are skipped unless missing or `--refresh-images` is used.
 - Managed note sections are updated in place; manual content outside those sections is preserved.
-
-If you have old notes from a previous topology, run `migrate-yaml` once to normalize them.
+- The `## Quotes` section is preserved on reruns.
 
 ## Frontmatter Rules
 
-The vault is generated for cleaner Obsidian graph behavior.
+Entity fields stay wikilinked.
 
 Book note frontmatter includes:
 
 - `title`
-- `author` as a wikilink
+- `author` as a YAML list of wikilinks
+- `translator` as a YAML list of wikilinks, empty by default
 - `status` as plain text such as `read` or `to-read`
 - `rating`
 - `read_count`
 - `date_added`
 - `date_read`
 - `language`
+- `publisher`
+- `original_publish_year`
 - `isbn`
 - `isbn13`
 - `pages`
 - `format`
 - `cover`
 - `bookshelves` as wikilinks
+- `reread_dates`
 - `tags` as plain YAML values including `book`
 
 Author note frontmatter includes:
 
 - `name`
+- `cover`
 - `country` as a wikilink, defaulting to `[[Unknown]]`
+- `birth_year`
+- `death_year`
 - `tags` as plain YAML values including `author`
 
 Example book frontmatter:
@@ -142,13 +144,17 @@ Example book frontmatter:
 ```yaml
 ---
 title: "Dune"
-author: "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"
+author:
+  - "[[Authors/Frank Herbert/Frank Herbert|Frank Herbert]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2026-01-01"
 date_read: "2026-01-03"
 language: "English"
+publisher: "Ace"
+original_publish_year: 1965
 isbn: "0441172717"
 isbn13: "9780441172719"
 pages: 896
@@ -157,10 +163,68 @@ cover: "[[Attachments/Covers/Frank Herbert - Dune.jpg]]"
 bookshelves:
   - "[[science fiction]]"
   - "[[favorites]]"
+reread_dates: []
 tags:
   - "book"
 ---
 ```
+
+Example author frontmatter:
+
+```yaml
+---
+name: "Frank Herbert"
+cover: "[[Attachments/AuthorImages/Frank Herbert.jpg]]"
+country: "[[United States]]"
+birth_year: "1920"
+death_year: "1986"
+tags:
+  - "author"
+---
+```
+
+## Generated Note Structure
+
+Book notes include generated blocks for:
+
+- header
+- quotes
+- review
+
+The body shape is:
+
+```md
+<!-- GENERATED:BOOK_HEADER START -->
+# Title
+
+![[Attachments/Covers/Author - Title.jpg|200]]
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->
+```
+
+Author notes include generated blocks for:
+
+- header
+- biography
+- linked books
+
+The header block embeds the author image when one exists.
+
+## Templates
+
+Every sync/bootstrap writes:
+
+- `Templates/Book_Template.md`
+- `Templates/Author_Template.md`
+
+These templates mirror the generated note structure and YAML layout so you can manually add future books/authors without Goodreads.
 
 ## Author Metadata
 
@@ -171,23 +235,29 @@ Author notes are generated in English and include:
 - country of origin in English
 - linked books from your library
 
-The biography worker uses local `codex exec` with `gpt-5.1`, medium reasoning, and runs up to five authors at a time.
+The biography worker uses local `codex exec` with `gpt-5.1`, low reasoning, and runs with the configured author concurrency.
 
-## Cover Lookup
+## Image Lookup
 
-Cover lookup uses a fallback chain:
+Book cover lookup uses this fallback chain:
 
 1. Open Library
 2. Google Books
-3. Wikipedia page image
+3. Wikimedia Commons
+4. Wikipedia page image
 
-The first successful image is downloaded into `library_v2/Attachments/Covers/`.
+Author image lookup uses:
+
+1. Wikimedia Commons
+2. Wikipedia page image
+
+The first successful image is downloaded into the appropriate attachments folder.
 
 ## Manual Review Workflow
 
 Unresolved issues are collected into:
 
-`library_v2/Manual Review/Missing Metadata.md`
+`<vault-root>/Manual Review/Missing Metadata.md`
 
 This note tracks items such as:
 

@@ -1,12 +1,16 @@
 ---
 title: "Los nueve libros de la historia (Sepan Cuantos, Num. 176)"
-author: "[[Authors/Herodotus/Herodotus|Herodotus]]"
+author:
+  - "[[Authors/Herodotus/Herodotus|Herodotus]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
 language: "Spanish"
+publisher: "Porrua"
+original_publish_year: ""
 isbn: "9700772861"
 isbn13: "9789700772868"
 pages: 533
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

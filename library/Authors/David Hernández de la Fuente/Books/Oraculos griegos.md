@@ -1,12 +1,16 @@
 ---
 title: "Oraculos griegos"
-author: "[[Authors/David Hernández de la Fuente/David Hernández de la Fuente|David Hernández de la Fuente]]"
+author:
+  - "[[Authors/David Hernández de la Fuente/David Hernández de la Fuente|David Hernández de la Fuente]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
 language: "Unknown"
+publisher: "Alianza"
+original_publish_year: ""
 isbn: "8420662631"
 isbn13: "9788420662633"
 pages: 272
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

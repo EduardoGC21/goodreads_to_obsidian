@@ -1,12 +1,16 @@
 ---
 title: "Calígula"
-author: "[[Authors/Albert Camus/Albert Camus|Albert Camus]]"
+author:
+  - "[[Authors/Albert Camus/Albert Camus|Albert Camus]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-07-17"
 date_read: "2022-07-18"
 language: "Unknown"
+publisher: "Alianza Editorial"
+original_publish_year: 1944
 isbn: "8420676578"
 isbn13: "9788420676579"
 pages: 146
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Albert Camus - Calígula.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

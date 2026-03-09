@@ -1,12 +1,16 @@
 ---
 title: "Esperando a Godot"
-author: "[[Authors/Samuel Beckett/Samuel Beckett|Samuel Beckett]]"
+author:
+  - "[[Authors/Samuel Beckett/Samuel Beckett|Samuel Beckett]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-05"
 date_read: "2021-11-06"
 language: "Unknown"
+publisher: "Tusquets"
+original_publish_year: 1951
 isbn: "8472238652"
 isbn13: "9788472238657"
 pages: 160
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Samuel Beckett - Esperando a Godot.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

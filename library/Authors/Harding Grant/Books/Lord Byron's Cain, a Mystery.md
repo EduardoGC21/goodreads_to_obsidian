@@ -1,12 +1,16 @@
 ---
 title: "Lord Byron's Cain, a Mystery"
-author: "[[Authors/Harding Grant/Harding Grant|Harding Grant]]"
+author:
+  - "[[Authors/Harding Grant/Harding Grant|Harding Grant]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2024-03-25"
 date_read: ""
 language: "English"
+publisher: "Wentworth Press"
+original_publish_year: 1821
 isbn: "1371434018"
 isbn13: "9781371434014"
 pages: 450
@@ -22,6 +26,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

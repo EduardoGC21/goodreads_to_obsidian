@@ -1,12 +1,16 @@
 ---
 title: "Las mil y una noches"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-05-29"
 date_read: "2021-06-01"
 language: "Spanish"
+publisher: "Austral"
+original_publish_year: ""
 isbn: "8423352889"
 isbn13: "9788423352883"
 pages: 656
@@ -27,6 +31,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - Las mil y una noches.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

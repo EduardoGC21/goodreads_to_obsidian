@@ -1,12 +1,16 @@
 ---
 title: "Las sabidurías de la antigüedad: Contrahistoria de la filosofía, I"
-author: "[[Authors/Michel Onfray/Michel Onfray|Michel Onfray]]"
+author:
+  - "[[Authors/Michel Onfray/Michel Onfray|Michel Onfray]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
 language: "Spanish"
+publisher: "Anagrama"
+original_publish_year: 2006
 isbn: "8433962566"
 isbn13: "9788433962560"
 pages: 336
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Michel Onfray - Las sabidurías de la antigüedad Contrahistoria de la filosofía, I.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

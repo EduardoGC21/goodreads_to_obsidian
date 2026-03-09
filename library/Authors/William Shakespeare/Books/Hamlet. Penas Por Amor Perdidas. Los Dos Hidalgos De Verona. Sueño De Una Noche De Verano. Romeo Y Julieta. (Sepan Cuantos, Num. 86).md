@@ -1,12 +1,16 @@
 ---
 title: "Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86)"
-author: "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+author:
+  - "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-06-03"
 date_read: "2021-06-05"
 language: "Spanish"
+publisher: "Porrua"
+original_publish_year: 2005
 isbn: "9700755428"
 isbn13: "9789700755427"
 pages: 272
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

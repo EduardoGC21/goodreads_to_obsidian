@@ -1,12 +1,16 @@
 ---
 title: "Meditaciones"
-author: "[[Authors/Marcus Aurelius/Marcus Aurelius|Marcus Aurelius]]"
+author:
+  - "[[Authors/Marcus Aurelius/Marcus Aurelius|Marcus Aurelius]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-01-15"
 date_read: "2020-02-27"
 language: "Unknown"
+publisher: "Taurus (Great Ideas)"
+original_publish_year: ""
 isbn: "6071122252"
 isbn13: "9786071122254"
 pages: 172
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Marcus Aurelius - Meditaciones.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

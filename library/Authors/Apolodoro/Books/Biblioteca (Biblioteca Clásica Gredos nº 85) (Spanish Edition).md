@@ -1,12 +1,16 @@
 ---
 title: "Biblioteca (Biblioteca Clásica Gredos nº 85) (Spanish Edition)"
-author: "[[Authors/Apolodoro/Apolodoro|Apolodoro]]"
+author:
+  - "[[Authors/Apolodoro/Apolodoro|Apolodoro]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-04-30"
 date_read: "2023-05-01"
 language: "English"
+publisher: "Gredos"
+original_publish_year: ""
 isbn: "8424929446"
 isbn13: "9788424929442"
 pages: 237
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

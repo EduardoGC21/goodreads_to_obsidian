@@ -1,12 +1,16 @@
 ---
 title: "Thinking, Fast and Slow"
-author: "[[Authors/Daniel Kahneman/Daniel Kahneman|Daniel Kahneman]]"
+author:
+  - "[[Authors/Daniel Kahneman/Daniel Kahneman|Daniel Kahneman]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2018-10-12"
 date_read: "2019-05-25"
 language: "English"
+publisher: "Farrar, Straus and Giroux"
+original_publish_year: 2011
 isbn: "0374275637"
 isbn13: "9780374275631"
 pages: 499
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Daniel Kahneman - Thinking, Fast and Slow.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

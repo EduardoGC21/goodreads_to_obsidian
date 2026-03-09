@@ -1,12 +1,16 @@
 ---
 title: "El cantar de los Nibelungos (Sepan Cuantos, Num. 285)"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2022-05-10"
 language: "Spanish"
+publisher: "Porrúa"
+original_publish_year: 1200
 isbn: "9700757544"
 isbn13: "9789700757544"
 pages: 245
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

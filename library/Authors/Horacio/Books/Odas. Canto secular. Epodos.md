@@ -1,12 +1,16 @@
 ---
 title: "Odas. Canto secular. Epodos"
-author: "[[Authors/Horacio/Horacio|Horacio]]"
+author:
+  - "[[Authors/Horacio/Horacio|Horacio]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-07-12"
 date_read: "2024-07-21"
 language: "Unknown"
+publisher: "Gredos"
+original_publish_year: ""
 isbn: "842493900X"
 isbn13: "9788424939007"
 pages: 592
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Horacio - Odas. Canto secular. Epodos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Berserk, Vol. 1 (Berserk, Num. 1)"
-author: "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+author:
+  - "[[Authors/Kentaro Miura/Kentaro Miura|Kentaro Miura]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-11-13"
 date_read: "2021-11-14"
 language: "Unknown"
+publisher: "Dark Horse Manga"
+original_publish_year: 1990
 isbn: "1593070209"
 isbn13: "9781593070205"
 pages: 224
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 1 (Berserk, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

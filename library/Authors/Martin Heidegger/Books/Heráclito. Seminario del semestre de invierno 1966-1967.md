@@ -1,12 +1,16 @@
 ---
 title: "Heráclito. Seminario del semestre de invierno 1966-1967"
-author: "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+author:
+  - "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2021-03-03"
 date_read: ""
 language: "Unknown"
+publisher: "Fondo de Cultura Económica"
+original_publish_year: 1979
 isbn: "6071650739"
 isbn13: "9786071650733"
 pages: 216
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Martin Heidegger - Heráclito. Seminario del semestre de invierno 1966-1967.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

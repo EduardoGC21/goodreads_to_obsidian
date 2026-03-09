@@ -1,12 +1,16 @@
 ---
 title: "Mitos y leyendas Celtas"
-author: "[[Authors/T.W. Rolleston/T.W. Rolleston|T.W. Rolleston]]"
+author:
+  - "[[Authors/T.W. Rolleston/T.W. Rolleston|T.W. Rolleston]]"
+translator: []
 status: "currently-reading"
 rating: 0
 read_count: 1
 date_added: "2026-02-19"
 date_read: ""
 language: "Unknown"
+publisher: "Turner Publicaciones"
+original_publish_year: 1911
 isbn: ""
 isbn13: ""
 pages: 408
@@ -23,6 +27,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

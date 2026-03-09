@@ -1,12 +1,16 @@
 ---
 title: "Carta sobre el Humanismo"
-author: "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+author:
+  - "[[Authors/Martin Heidegger/Martin Heidegger|Martin Heidegger]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-05-04"
 date_read: "2021-05-05"
 language: "Spanish"
+publisher: "Alianza Editorial"
+original_publish_year: 1946
 isbn: "842063798X"
 isbn13: "9788420637983"
 pages: 96
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Martin Heidegger - Carta sobre el Humanismo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

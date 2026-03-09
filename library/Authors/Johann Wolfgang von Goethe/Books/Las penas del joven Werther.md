@@ -1,12 +1,16 @@
 ---
 title: "Las penas del joven Werther"
-author: "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+author:
+  - "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-07-26"
 language: "Spanish"
+publisher: "Alba Editorial"
+original_publish_year: 1774
 isbn: "848428641X"
 isbn13: "9788484286417"
 pages: 208
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Johann Wolfgang von Goethe - Las penas del joven Werther.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

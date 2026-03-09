@@ -1,12 +1,16 @@
 ---
 title: "Upanisads"
-author: "[[Authors/Anonymous/Anonymous|Anonymous]]"
+author:
+  - "[[Authors/Anonymous/Anonymous|Anonymous]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 2
 date_added: "2021-07-03"
 date_read: "2021-07-06"
 language: "English"
+publisher: "Oxford University Press"
+original_publish_year: ""
 isbn: "019954025X"
 isbn13: "9780199540259"
 pages: 512
@@ -27,6 +31,10 @@ tags:
 
 ![[Attachments/Covers/Anonymous - Upanisads.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

@@ -1,12 +1,16 @@
 ---
 title: "Sinuhé, el egipcio"
-author: "[[Authors/Mika Waltari/Mika Waltari|Mika Waltari]]"
+author:
+  - "[[Authors/Mika Waltari/Mika Waltari|Mika Waltari]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-07-12"
 date_read: "2023-07-21"
 language: "Spanish"
+publisher: "DEBOLSILLO"
+original_publish_year: 1945
 isbn: "849759665X"
 isbn13: "9788497596657"
 pages: 736
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Mika Waltari - Sinuhé, el egipcio.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

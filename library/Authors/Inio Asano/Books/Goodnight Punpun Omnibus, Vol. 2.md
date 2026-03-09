@@ -1,12 +1,16 @@
 ---
 title: "Goodnight Punpun Omnibus, Vol. 2"
-author: "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+author:
+  - "[[Authors/Inio Asano/Inio Asano|Inio Asano]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2024-09-16"
 date_read: "2024-09-22"
 language: "Unknown"
+publisher: "VIZ Media LLC"
+original_publish_year: 2007
 isbn: "1421586215"
 isbn13: "9781421586212"
 pages: 424
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Inio Asano - Goodnight Punpun Omnibus, Vol. 2.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

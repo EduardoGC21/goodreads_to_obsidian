@@ -1,12 +1,16 @@
 ---
 title: "Padres e hijos"
-author: "[[Authors/Ivan Turgenev/Ivan Turgenev|Ivan Turgenev]]"
+author:
+  - "[[Authors/Ivan Turgenev/Ivan Turgenev|Ivan Turgenev]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2022-07-19"
 date_read: ""
 language: "Unknown"
+publisher: "Alba"
+original_publish_year: 1862
 isbn: "849065106X"
 isbn13: "9788490651063"
 pages: 288
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Ivan Turgenev - Padres e hijos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

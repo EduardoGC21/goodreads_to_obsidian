@@ -1,12 +1,16 @@
 ---
 title: "The Classical World: An Epic History from Homer to Hadrian"
-author: "[[Authors/Robin Lane Fox/Robin Lane Fox|Robin Lane Fox]]"
+author:
+  - "[[Authors/Robin Lane Fox/Robin Lane Fox|Robin Lane Fox]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-12-31"
 date_read: ""
 language: "English"
+publisher: "Basic Books"
+original_publish_year: 2005
 isbn: "0465024963"
 isbn13: "9780465024964"
 pages: 672
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Robin Lane Fox - The Classical World An Epic History from Homer to Hadrian.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

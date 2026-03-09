@@ -1,12 +1,16 @@
 ---
 title: "La Diosa Blanca"
-author: "[[Authors/Robert Graves/Robert Graves|Robert Graves]]"
+author:
+  - "[[Authors/Robert Graves/Robert Graves|Robert Graves]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
 language: "Spanish"
+publisher: "Alianza"
+original_publish_year: 1961
 isbn: "8420619485"
 isbn13: "9788420619484"
 pages: 512
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Robert Graves - La Diosa Blanca.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

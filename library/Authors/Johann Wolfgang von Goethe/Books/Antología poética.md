@@ -1,12 +1,16 @@
 ---
 title: "Antología poética"
-author: "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+author:
+  - "[[Authors/Johann Wolfgang von Goethe/Johann Wolfgang von Goethe|Johann Wolfgang von Goethe]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2022-07-26"
 date_read: ""
 language: "Unknown"
+publisher: "Alba"
+original_publish_year: ""
 isbn: "8490657300"
 isbn13: "9788490657300"
 pages: 296
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Johann Wolfgang von Goethe - Antología poética.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

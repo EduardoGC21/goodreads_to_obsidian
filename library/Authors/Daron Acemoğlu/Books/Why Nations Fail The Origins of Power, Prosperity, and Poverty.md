@@ -1,12 +1,16 @@
 ---
 title: "Why Nations Fail: The Origins of Power, Prosperity, and Poverty"
-author: "[[Authors/Daron Acemoğlu/Daron Acemoğlu|Daron Acemoğlu]]"
+author:
+  - "[[Authors/Daron Acemoğlu/Daron Acemoğlu|Daron Acemoğlu]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-01-18"
 date_read: "2020-03-17"
 language: "English"
+publisher: "Crown Currency"
+original_publish_year: 2012
 isbn: "0307719219"
 isbn13: "9780307719218"
 pages: 529
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Daron Acemoğlu - Why Nations Fail The Origins of Power, Prosperity, and Poverty.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

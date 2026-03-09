@@ -1,12 +1,16 @@
 ---
 title: "Lazarillo de Tormes"
-author: "[[Authors/Lazarillo de Tormes/Lazarillo de Tormes|Lazarillo de Tormes]]"
+author:
+  - "[[Authors/Lazarillo de Tormes/Lazarillo de Tormes|Lazarillo de Tormes]]"
+translator: []
 status: "to-read"
 rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
 language: "Unknown"
+publisher: "Cátedra"
+original_publish_year: 1554
 isbn: "8437606608"
 isbn13: "9788437606606"
 pages: 196
@@ -22,6 +26,10 @@ tags:
 
 ![[Attachments/Covers/Lazarillo de Tormes - Lazarillo de Tormes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

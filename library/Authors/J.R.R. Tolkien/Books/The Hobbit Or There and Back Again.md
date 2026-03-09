@@ -1,12 +1,16 @@
 ---
 title: "The Hobbit: Or There and Back Again"
-author: "[[Authors/J.R.R. Tolkien/J.R.R. Tolkien|J.R.R. Tolkien]]"
+author:
+  - "[[Authors/J.R.R. Tolkien/J.R.R. Tolkien|J.R.R. Tolkien]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2025-01-17"
 date_read: "2025-01-19"
 language: "English"
+publisher: "William Morrow"
+original_publish_year: 1937
 isbn: ""
 isbn13: ""
 pages: 322
@@ -25,6 +29,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

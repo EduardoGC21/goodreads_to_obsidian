@@ -1,12 +1,16 @@
 ---
 title: "Dialectica eristica o el arte de tener razon (Spanish Edition)"
-author: "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+author:
+  - "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-12-11"
 date_read: "2020-12-12"
 language: "Unknown"
+publisher: "CreateSpace Independent Publishing Platform"
+original_publish_year: 1831
 isbn: "1973978504"
 isbn13: "9781973978503"
 pages: 36
@@ -26,6 +30,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

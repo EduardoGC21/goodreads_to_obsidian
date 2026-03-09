@@ -1,12 +1,16 @@
 ---
 title: "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results"
-author: "[[Authors/Gary Keller/Gary Keller|Gary Keller]]"
+author:
+  - "[[Authors/Gary Keller/Gary Keller|Gary Keller]]"
+translator: []
 status: "read"
 rating: 1
 read_count: 1
 date_added: "2018-10-14"
 date_read: "2018-11-08"
 language: "English"
+publisher: "Bard Press"
+original_publish_year: 2012
 isbn: "1885167776"
 isbn13: "9781885167774"
 pages: 240
@@ -23,6 +27,10 @@ tags:
 
 ![[Attachments/Covers/Gary Keller - The One Thing The Surprisingly Simple Truth Behind Extraordinary Results.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

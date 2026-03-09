@@ -1,12 +1,16 @@
 ---
 title: "Metafísica de las costumbres"
-author: "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+author:
+  - "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2023-07-08"
 date_read: "2026-02-24"
 language: "Spanish"
+publisher: "Editorial Trotta, S.A."
+original_publish_year: ""
 isbn: "848164448X"
 isbn13: "9788481644487"
 pages: 264
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Arthur Schopenhauer - Metafísica de las costumbres.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

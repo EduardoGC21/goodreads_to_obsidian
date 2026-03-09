@@ -1,12 +1,16 @@
 ---
 title: "Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96)"
-author: "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+author:
+  - "[[Authors/William Shakespeare/William Shakespeare|William Shakespeare]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2022-04-11"
 language: "Spanish"
+publisher: "Editorial Porrúa, S.A."
+original_publish_year: 1968
 isbn: "9700762890"
 isbn13: "9789700762890"
 pages: 231
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/William Shakespeare - Macbeth. El Mercader de Venecia. Las Alegres Comadres de Windsor. Julio César. La Tempestad. (Sepan Cuantos, Num. 96).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

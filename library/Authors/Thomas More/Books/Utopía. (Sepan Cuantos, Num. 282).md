@@ -1,12 +1,16 @@
 ---
 title: "Utopía. (Sepan Cuantos, Num. 282)"
-author: "[[Authors/Thomas More/Thomas More|Thomas More]]"
+author:
+  - "[[Authors/Thomas More/Thomas More|Thomas More]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-04-20"
 date_read: "2020-04-22"
 language: "Unknown"
+publisher: "Porrua"
+original_publish_year: 1516
 isbn: "970073028X"
 isbn13: "9789700730288"
 pages: 85
@@ -24,6 +28,10 @@ tags:
 
 > Cover not available.
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review

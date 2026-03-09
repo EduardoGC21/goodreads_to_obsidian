@@ -1,12 +1,16 @@
 ---
 title: "El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419)"
-author: "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+author:
+  - "[[Authors/Arthur Schopenhauer/Arthur Schopenhauer|Arthur Schopenhauer]]"
+translator: []
 status: "read"
 rating: 5
 read_count: 1
 date_added: "2020-07-11"
 date_read: "2020-07-26"
 language: "Spanish"
+publisher: "Porrua"
+original_publish_year: 1818
 isbn: "9700760685"
 isbn13: "9789700760681"
 pages: 323
@@ -24,6 +28,10 @@ tags:
 
 ![[Attachments/Covers/Arthur Schopenhauer - El Mundo Como Voluntad y Representación (Sepan Cuantos, Num. 419).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
 
 <!-- GENERATED:BOOK_REVIEW START -->
 ## My Review
