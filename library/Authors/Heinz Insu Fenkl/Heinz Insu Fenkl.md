@@ -1,6 +1,6 @@
 ---
 name: "Heinz Insu Fenkl"
-cover: ""
+cover: "[[Attachments/AuthorImages/Heinz Insu Fenkl.jpg]]"
 country: "[[South Korea]]"
 birth_year: "1960"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Heinz Insu Fenkl
+
+![[Attachments/AuthorImages/Heinz Insu Fenkl.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

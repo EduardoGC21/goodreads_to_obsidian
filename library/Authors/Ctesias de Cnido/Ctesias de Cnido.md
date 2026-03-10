@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Ctesias de Cnido.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
-sex: "unknown"
+sex: "male"
 tags:
   - "author"
 ---

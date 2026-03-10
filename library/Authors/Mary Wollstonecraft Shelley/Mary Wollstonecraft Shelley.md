@@ -1,6 +1,6 @@
 ---
 name: "Mary Wollstonecraft Shelley"
-cover: ""
+cover: "[[Attachments/AuthorImages/Mary Wollstonecraft Shelley.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1797"
 death_year: "1851"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mary Wollstonecraft Shelley
+
+![[Attachments/AuthorImages/Mary Wollstonecraft Shelley.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

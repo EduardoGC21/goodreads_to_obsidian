@@ -1,6 +1,6 @@
 ---
 name: "Samuel Taylor Coleridge"
-cover: ""
+cover: "[[Attachments/AuthorImages/Samuel Taylor Coleridge.jpg]]"
 country: "[[England]]"
 birth_year: "1772"
 death_year: "1834"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Samuel Taylor Coleridge
+
+![[Attachments/AuthorImages/Samuel Taylor Coleridge.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

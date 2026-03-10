@@ -2,8 +2,8 @@
 name: "Apollonius of Rhodes"
 cover: "[[Attachments/AuthorImages/Apollonius of Rhodes.jpg]]"
 country: "[[Greece]]"
-birth_year: "0295"
-death_year: "0215"
+birth_year: "295"
+death_year: "-215"
 sex: "male"
 tags:
   - "author"

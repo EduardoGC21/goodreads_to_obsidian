@@ -10,7 +10,7 @@ date_added: "2021-02-14"
 date_read: "2021-03-20"
 language: "Spanish"
 publisher: "Porrua"
-original_publish_year: ""
+original_publish_year: 8
 isbn: "9684325614"
 isbn13: "9789684325616"
 pages: 233

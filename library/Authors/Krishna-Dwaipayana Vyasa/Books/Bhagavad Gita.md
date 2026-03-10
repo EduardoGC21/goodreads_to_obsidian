@@ -10,7 +10,7 @@ date_added: "2021-07-06"
 date_read: "2021-08-09"
 language: "Unknown"
 publisher: "Penguin Clásicos"
-original_publish_year: ""
+original_publish_year: -400
 isbn: "8491059768"
 isbn13: "9788491059769"
 pages: 352

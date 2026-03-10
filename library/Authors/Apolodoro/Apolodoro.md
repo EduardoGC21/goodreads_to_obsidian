@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Apolodoro.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

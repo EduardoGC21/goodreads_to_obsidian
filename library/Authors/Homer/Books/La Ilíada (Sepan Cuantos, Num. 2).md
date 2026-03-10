@@ -10,7 +10,7 @@ date_added: "2020-04-28"
 date_read: "2020-05-03"
 language: "Spanish"
 publisher: "Porrúa"
-original_publish_year: ""
+original_publish_year: -800
 isbn: "9700773302"
 isbn13: "9789700773308"
 pages: 384

@@ -2,8 +2,8 @@
 name: "Platón"
 cover: "[[Attachments/AuthorImages/Platón.jpg]]"
 country: "[[Greece]]"
-birth_year: "0427"
-death_year: "0347"
+birth_year: "-427"
+death_year: "-347"
 sex: "male"
 tags:
   - "author"

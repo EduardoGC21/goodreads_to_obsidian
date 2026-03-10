@@ -2,8 +2,8 @@
 name: "Seneca"
 cover: "[[Attachments/AuthorImages/Seneca.jpg]]"
 country: "[[Spain]]"
-birth_year: "0004"
-death_year: "0065"
+birth_year: "-4"
+death_year: "65"
 sex: "male"
 tags:
   - "author"

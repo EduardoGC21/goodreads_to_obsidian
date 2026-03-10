@@ -15,7 +15,7 @@ isbn: "0500027668"
 isbn13: "9780500027660"
 pages: 256
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Heinz Insu Fenkl - The Korean Myths A Guide to the Gods, Heroes and Legends.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Korean Myths: A Guide to the Gods, Heroes and Legends
 
-> Cover not available.
+![[Attachments/Covers/Heinz Insu Fenkl - The Korean Myths A Guide to the Gods, Heroes and Legends.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

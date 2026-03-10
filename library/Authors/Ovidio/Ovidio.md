@@ -2,8 +2,8 @@
 name: "Ovidio"
 cover: "[[Attachments/AuthorImages/Ovidio.jpg]]"
 country: "[[Roman Empire]]"
-birth_year: "0043"
-death_year: "0017"
+birth_year: "-43"
+death_year: "17"
 sex: "male"
 tags:
   - "author"

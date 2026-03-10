@@ -10,7 +10,7 @@ date_added: "2021-09-18"
 date_read: ""
 language: "Spanish"
 publisher: "Alianza Editorial"
-original_publish_year: ""
+original_publish_year: 250
 isbn: "8420676977"
 isbn13: "9788420676975"
 pages: 664

@@ -1,6 +1,6 @@
 ---
 name: "Jonathan Haskel"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jonathan Haskel.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1963"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jonathan Haskel
+
+![[Attachments/AuthorImages/Jonathan Haskel.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

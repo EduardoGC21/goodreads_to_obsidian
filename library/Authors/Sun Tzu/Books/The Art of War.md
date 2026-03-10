@@ -10,7 +10,7 @@ date_added: "2020-02-27"
 date_read: "2020-03-06"
 language: "English"
 publisher: "Macmillan Collector's Library"
-original_publish_year: ""
+original_publish_year: -500
 isbn: "1509827951"
 isbn13: "9781509827954"
 pages: 184

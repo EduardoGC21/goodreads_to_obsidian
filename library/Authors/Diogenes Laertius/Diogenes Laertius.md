@@ -1,10 +1,10 @@
 ---
 name: "Diogenes Laertius"
 cover: "[[Attachments/AuthorImages/Diogenes Laertius.jpg]]"
-country: "[[Greece]]"
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

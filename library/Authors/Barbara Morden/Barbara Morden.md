@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Barbara Morden.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: ""
 death_year: ""
-sex: "unknown"
+sex: "female"
 tags:
   - "author"
 ---

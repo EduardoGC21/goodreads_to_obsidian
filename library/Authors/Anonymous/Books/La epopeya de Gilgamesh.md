@@ -10,7 +10,7 @@ date_added: "2021-01-15"
 date_read: "2021-01-16"
 language: "Spanish"
 publisher: "DeBolsillo"
-original_publish_year: 2000
+original_publish_year: -2000
 isbn: "8490622094"
 isbn13: "9788490622094"
 pages: 234

@@ -10,7 +10,7 @@ date_added: "2020-06-20"
 date_read: "2020-07-03"
 language: "Unknown"
 publisher: "CreateSpace Independent Publishing Platform"
-original_publish_year: ""
+original_publish_year: 49
 isbn: "1539588505"
 isbn13: "9781539588504"
 pages: 144

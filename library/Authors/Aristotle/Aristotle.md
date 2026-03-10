@@ -2,8 +2,8 @@
 name: "Aristotle"
 cover: "[[Attachments/AuthorImages/Aristotle.jpg]]"
 country: "[[Greece]]"
-birth_year: "0384"
-death_year: "0322"
+birth_year: "384"
+death_year: "-322"
 sex: "male"
 tags:
   - "author"

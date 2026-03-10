@@ -10,7 +10,7 @@ date_added: "2025-07-18"
 date_read: "2025-08-05"
 language: "Spanish"
 publisher: "Cátedra"
-original_publish_year: ""
+original_publish_year: -250
 isbn: "8437605814"
 isbn13: "9788437605814"
 pages: 240

@@ -1,12 +1,12 @@
 ---
-name: "Alix Paré"
+name: Alix Paré
 cover: "[[Attachments/AuthorImages/Alix Paré.jpg]]"
 country: "[[France]]"
-birth_year: ""
+birth_year: "1985"
 death_year: ""
-sex: "unknown"
+sex: female
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alix Paré

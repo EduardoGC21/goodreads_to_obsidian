@@ -2,8 +2,8 @@
 name: "Herodotus"
 cover: "[[Attachments/AuthorImages/Herodotus.jpg]]"
 country: "[[Greece]]"
-birth_year: "0484"
-death_year: "0425"
+birth_year: "-484"
+death_year: "-425"
 sex: "male"
 tags:
   - "author"

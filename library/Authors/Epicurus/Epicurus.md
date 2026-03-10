@@ -2,8 +2,8 @@
 name: "Epicurus"
 cover: "[[Attachments/AuthorImages/Epicurus.jpg]]"
 country: "[[Greece]]"
-birth_year: "0341"
-death_year: "0270"
+birth_year: "341"
+death_year: "-270"
 sex: "male"
 tags:
   - "author"

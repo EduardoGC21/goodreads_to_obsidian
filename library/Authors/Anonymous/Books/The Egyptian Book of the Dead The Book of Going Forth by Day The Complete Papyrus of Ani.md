@@ -10,7 +10,7 @@ date_added: "2021-09-18"
 date_read: "2023-01-05"
 language: "English"
 publisher: "Chronicle Books"
-original_publish_year: 1500
+original_publish_year: -1500
 isbn: "1452144389"
 isbn13: "9781452144382"
 pages: 192

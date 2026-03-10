@@ -3,7 +3,7 @@
 Review these items manually after the sync run.
 
 ## Missing Covers
-- Heinz Insu Fenkl - The Korean Myths: A Guide to the Gods, Heroes and Legends: Cover image not found (row 139)
+- None.
 
 ## Failed Author Biographies
 - None.
@@ -77,32 +77,7 @@ Review these items manually after the sync run.
 - Anonymous - Upanisads: Author missing or anonymous; linked to Anonymous (row 209)
 
 ## API Errors
-- Andrew Roberts: Wikimedia Commons author-image search failed for Andrew Roberts: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Andrew+Roberts&gsrlimit=5&prop=imageinfo&iiprop=url
-- Byung-Chul Han: Wikimedia Commons author-image search failed for Byung-Chul Han: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Byung-Chul+Han&gsrlimit=5&prop=imageinfo&iiprop=url
-- DuckDuckGo cover search failed for The Korean Myths: A Guide to the Gods, Heroes and Legends: DuckDuckGo image search failed: No results found.
-- Esi Edugyan: Wikimedia Commons author-image search failed for Esi Edugyan: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Esi+Edugyan&gsrlimit=5&prop=imageinfo&iiprop=url
-- Friedrich Nietzsche: Wikimedia Commons author-image search failed for Friedrich Nietzsche: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Friedrich+Nietzsche&gsrlimit=5&prop=imageinfo&iiprop=url
-- Gabriel García-Noblejas: DuckDuckGo author-image search failed for Gabriel García-Noblejas: DuckDuckGo image search failed: No results found.
-- Gabriel García-Noblejas: Wikimedia Commons author-image search failed for Gabriel García-Noblejas: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gabriel+Garc%C3%ADa-Noblejas&gsrlimit=5&prop=imageinfo&iiprop=url
-- Gou Tanabe: Wikimedia Commons author-image search failed for Gou Tanabe: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gou+Tanabe&gsrlimit=5&prop=imageinfo&iiprop=url
-- Heinz Insu Fenkl: DuckDuckGo author-image search failed for Heinz Insu Fenkl: DuckDuckGo image search failed: No results found.
-- Heinz Insu Fenkl: Wikimedia Commons author-image search failed for Heinz Insu Fenkl: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Heinz+Insu+Fenkl&gsrlimit=5&prop=imageinfo&iiprop=url
-- Jonathan Haskel: DuckDuckGo author-image search failed for Jonathan Haskel: DuckDuckGo image search failed: No results found.
-- Jonathan Haskel: Wikimedia Commons author-image search failed for Jonathan Haskel: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jonathan+Haskel&gsrlimit=5&prop=imageinfo&iiprop=url
-- Mary Wollstonecraft Shelley: DuckDuckGo author-image search failed for Mary Wollstonecraft Shelley: DuckDuckGo image search failed: No results found.
-- Mary Wollstonecraft Shelley: Wikimedia Commons author-image search failed for Mary Wollstonecraft Shelley: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mary+Wollstonecraft+Shelley&gsrlimit=5&prop=imageinfo&iiprop=url
-- Michael Hardt: Wikimedia Commons author-image search failed for Michael Hardt: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Michael+Hardt&gsrlimit=5&prop=imageinfo&iiprop=url
-- Peter Berresford Ellis: Wikimedia Commons author-image search failed for Peter Berresford Ellis: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Peter+Berresford+Ellis&gsrlimit=5&prop=imageinfo&iiprop=url
-- Samuel Taylor Coleridge: DuckDuckGo author-image search failed for Samuel Taylor Coleridge: DuckDuckGo image search failed: No results found.
-- Samuel Taylor Coleridge: Wikimedia Commons author-image search failed for Samuel Taylor Coleridge: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Samuel+Taylor+Coleridge&gsrlimit=5&prop=imageinfo&iiprop=url
-- Stephen Batchelor: Wikimedia Commons author-image search failed for Stephen Batchelor: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Stephen+Batchelor&gsrlimit=5&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for Crime and Punishment: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Crime+and+Punishment+Fyodor+Dostoevsky&gsrlimit=10&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for El gallo de oro y otros relatos: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+gallo+de+oro+y+otros+relatos+Juan+Rulfo&gsrlimit=10&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for La Raza Cosmica: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Raza+Cosmica+Jos%C3%A9+Vasconcelos&gsrlimit=10&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for La divina comedia: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+divina+comedia+Dante+Alighieri&gsrlimit=10&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for Relatos (Minus nº 79) (Spanish Edition): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Relatos+%28Minus+n%C2%BA+79%29+%28Spanish+Edition%29+Leo+Tolstoy&gsrlimit=10&prop=imageinfo&iiprop=url
-- Wikimedia Commons cover search failed for The Korean Myths: A Guide to the Gods, Heroes and Legends: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Korean+Myths%3A+A+Guide+to+the+Gods%2C+Heroes+and+Legends+Heinz+Insu+Fenkl&gsrlimit=10&prop=imageinfo&iiprop=url
-- William Makepeace Thackeray: Wikimedia Commons author-image search failed for William Makepeace Thackeray: 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=William+Makepeace+Thackeray&gsrlimit=5&prop=imageinfo&iiprop=url
+- None.
 
 ## Parse Issues
 - None.

@@ -10,7 +10,7 @@ date_added: "2020-01-15"
 date_read: "2020-02-27"
 language: "English"
 publisher: "Taurus (Great Ideas)"
-original_publish_year: ""
+original_publish_year: 180
 isbn: "6071122252"
 isbn13: "9786071122254"
 pages: 172

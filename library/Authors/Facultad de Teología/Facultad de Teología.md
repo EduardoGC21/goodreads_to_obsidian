@@ -1,12 +1,12 @@
 ---
-name: "Facultad de Teología"
+name: Facultad de Teología
 cover: "[[Attachments/AuthorImages/Facultad de Teología.jpg]]"
-country: "[[Unknown]]"
-birth_year: ""
+country: "[[Spain]]"
+birth_year: "1910"
 death_year: ""
-sex: "unknown"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Facultad de Teología

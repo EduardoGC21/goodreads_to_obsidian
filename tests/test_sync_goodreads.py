@@ -190,6 +190,32 @@ class GoodreadsSyncTests(unittest.TestCase):
         sleep_mock.assert_called_once()
         self.assertAlmostEqual(sleep_mock.call_args[0][0], 0.6, places=2)
 
+    def test_normalize_year_value_preserves_negative_bce_years(self) -> None:
+        self.assertEqual(sync_goodreads.normalize_year_value("490 BCE"), "-490")
+        self.assertEqual(sync_goodreads.normalize_year_value("490 BC"), "-490")
+        self.assertEqual(sync_goodreads.normalize_year_value("-490"), "-490")
+        self.assertEqual(sync_goodreads.normalize_year_value("0490 BCE"), "-490")
+        self.assertEqual(sync_goodreads.normalize_year_value("490"), "490")
+        self.assertEqual(sync_goodreads.normalize_author_year_value("0490", "Socrates (490 BCE-430 BCE) was a Greek philosopher."), "-490")
+        self.assertEqual(sync_goodreads.normalize_author_year_value("0430", "Socrates (490 BCE-430 BCE) was a Greek philosopher."), "-430")
+
+    def test_existing_author_year_reads_bce_from_biography_context(self) -> None:
+        note = sync_goodreads.NoteDocument(
+            metadata={"birth_year": "0490", "death_year": "0430"},
+            body="""<!-- GENERATED:AUTHOR_BIO START -->
+## Biography
+Socrates (490 BCE-430 BCE) was a Greek philosopher.
+<!-- GENERATED:AUTHOR_BIO END -->
+""",
+        )
+        self.assertEqual(sync_goodreads.get_existing_birth_year(note), "-490")
+        self.assertEqual(sync_goodreads.get_existing_death_year(note), "-430")
+
+    def test_biography_prompt_requests_negative_years_for_bce(self) -> None:
+        prompt = sync_goodreads.build_codex_biography_prompt("Socrates", ["Apology"])
+        self.assertIn("negative years for BCE dates", prompt)
+        self.assertIn("-490", prompt)
+
     def test_fetch_wikimedia_commons_cover_url_returns_ranked_image(self) -> None:
         record = sync_goodreads.BookRecord(
             row_number=2,

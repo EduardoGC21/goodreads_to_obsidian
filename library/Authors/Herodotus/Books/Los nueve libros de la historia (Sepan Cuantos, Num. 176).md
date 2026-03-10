@@ -10,7 +10,7 @@ date_added: "2021-09-18"
 date_read: ""
 language: "Spanish"
 publisher: "Porrua"
-original_publish_year: ""
+original_publish_year: -430
 isbn: "9700772861"
 isbn13: "9789700772868"
 pages: 533

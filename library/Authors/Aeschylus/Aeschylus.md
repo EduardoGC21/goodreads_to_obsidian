@@ -2,8 +2,8 @@
 name: "Aeschylus"
 cover: "[[Attachments/AuthorImages/Aeschylus.jpg]]"
 country: "[[Greece]]"
-birth_year: "0525"
-death_year: "0456"
+birth_year: "525"
+death_year: "-456"
 sex: "male"
 tags:
   - "author"

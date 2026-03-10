@@ -2,8 +2,8 @@
 name: "Marcus Aurelius"
 cover: "[[Attachments/AuthorImages/Marcus Aurelius.jpg]]"
 country: "[[Italy]]"
-birth_year: "0121"
-death_year: "0180"
+birth_year: "121"
+death_year: "180"
 sex: "male"
 tags:
   - "author"

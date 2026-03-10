@@ -1,6 +1,6 @@
 ---
 name: "Gabriel García-Noblejas"
-cover: ""
+cover: "[[Attachments/AuthorImages/Gabriel García-Noblejas.jpg]]"
 country: "[[Spain]]"
 birth_year: "1966"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gabriel García-Noblejas
+
+![[Attachments/AuthorImages/Gabriel García-Noblejas.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

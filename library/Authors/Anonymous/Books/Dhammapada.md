@@ -10,7 +10,7 @@ date_added: "2021-04-10"
 date_read: "2021-04-10"
 language: "Unknown"
 publisher: "Penguin"
-original_publish_year: ""
+original_publish_year: -400
 isbn: "849105071X"
 isbn13: "9788491050711"
 pages: 256

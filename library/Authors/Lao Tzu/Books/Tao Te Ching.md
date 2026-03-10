@@ -10,7 +10,7 @@ date_added: "2020-07-06"
 date_read: "2020-10-13"
 language: "Unknown"
 publisher: "Vintage"
-original_publish_year: ""
+original_publish_year: -350
 isbn: "0679724346"
 isbn13: "9780679724346"
 pages: 107

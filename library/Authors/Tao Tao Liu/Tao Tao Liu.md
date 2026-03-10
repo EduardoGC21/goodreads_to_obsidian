@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Tao Tao Liu.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: "2025"
-sex: "female"
+sex: "unknown"
 tags:
   - "author"
 ---

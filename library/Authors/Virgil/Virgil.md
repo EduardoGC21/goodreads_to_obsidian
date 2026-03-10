@@ -2,8 +2,8 @@
 name: "Virgil"
 cover: "[[Attachments/AuthorImages/Virgil.jpg]]"
 country: "[[Italy]]"
-birth_year: "0070"
-death_year: "0019"
+birth_year: "70"
+death_year: "-19"
 sex: "male"
 tags:
   - "author"

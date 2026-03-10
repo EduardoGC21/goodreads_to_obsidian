@@ -2,8 +2,8 @@
 name: "Arrian"
 cover: "[[Attachments/AuthorImages/Arrian.jpg]]"
 country: "[[Greece]]"
-birth_year: "0086"
-death_year: "0160"
+birth_year: "86"
+death_year: "160"
 sex: "male"
 tags:
   - "author"

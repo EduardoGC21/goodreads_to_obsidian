@@ -2,8 +2,8 @@
 name: "Lucio Anneo Séneca"
 cover: "[[Attachments/AuthorImages/Lucio Anneo Séneca.jpg]]"
 country: "[[Spain]]"
-birth_year: "0004"
-death_year: "0065"
+birth_year: "-4"
+death_year: "65"
 sex: "male"
 tags:
   - "author"

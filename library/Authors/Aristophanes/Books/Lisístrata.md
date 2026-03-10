@@ -10,7 +10,7 @@ date_added: "2026-01-30"
 date_read: "2026-01-30"
 language: "Unknown"
 publisher: "Gredos"
-original_publish_year: ""
+original_publish_year: -423
 isbn: "842493962X"
 isbn13: "9788424939625"
 pages: 144

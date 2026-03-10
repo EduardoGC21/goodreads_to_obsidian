@@ -2,8 +2,8 @@
 name: "Sun Tzu"
 cover: "[[Attachments/AuthorImages/Sun Tzu.jpg]]"
 country: "[[China]]"
-birth_year: "0544"
-death_year: "0496"
+birth_year: "544"
+death_year: "-496"
 sex: "male"
 tags:
   - "author"

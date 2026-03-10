@@ -10,7 +10,7 @@ date_added: "2023-04-30"
 date_read: "2023-05-01"
 language: "Spanish"
 publisher: "Gredos"
-original_publish_year: ""
+original_publish_year: 200
 isbn: "8424929446"
 isbn13: "9788424929442"
 pages: 237

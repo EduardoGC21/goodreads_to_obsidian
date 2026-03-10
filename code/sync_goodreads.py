@@ -1233,7 +1233,7 @@ def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: li
     )
 
 
-def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str, sex: str) -> dict[str, Any]:
+def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str, sex: str, biography: str = "") -> dict[str, Any]:
     """Build author frontmatter for the current sync step."""
     return ordered_metadata(
         AUTHOR_FRONTMATTER_KEYS,
@@ -1241,8 +1241,8 @@ def build_author_frontmatter(author_name: str, cover_link: str, country: str, bi
             "name": author_name,
             "cover": cover_link,
             "country": ensure_wikilink(country or "Unknown"),
-            "birth_year": normalize_year_value(birth_year),
-            "death_year": normalize_year_value(death_year),
+            "birth_year": normalize_author_year_value(birth_year, biography),
+            "death_year": normalize_author_year_value(death_year, biography),
             "sex": normalize_sex_value(sex),
             "tags": ["author"],
         },
@@ -1275,7 +1275,7 @@ def build_author_document(
     body = set_generated_block(body, "author_header", render_author_header(author_name, cover_link))
     body = set_generated_block(body, "author_bio", render_author_bio(biography), after_marker_key="author_header")
     body = set_generated_block(body, "author_books", render_author_books(book_links), after_marker_key="author_bio")
-    return NoteDocument(metadata=build_author_frontmatter(author_name, cover_link, country, birth_year, death_year, sex), body=body)
+    return NoteDocument(metadata=build_author_frontmatter(author_name, cover_link, country, birth_year, death_year, sex, biography), body=body)
 
 
 def get_existing_quotes(note: NoteDocument) -> str:
@@ -1301,12 +1301,12 @@ def get_existing_country(note: NoteDocument) -> str:
 
 def get_existing_birth_year(note: NoteDocument) -> str:
     """Read the current birth year from an existing note."""
-    return normalize_year_value(note.metadata.get("birth_year", ""))
+    return normalize_author_year_value(note.metadata.get("birth_year", ""), get_existing_biography(note))
 
 
 def get_existing_death_year(note: NoteDocument) -> str:
     """Read the current death year from an existing note."""
-    return normalize_year_value(note.metadata.get("death_year", ""))
+    return normalize_author_year_value(note.metadata.get("death_year", ""), get_existing_biography(note))
 
 
 def get_existing_sex(note: NoteDocument) -> str:
@@ -1400,14 +1400,39 @@ def normalize_year_value(value: Any) -> str:
     text = repair_text_value(clean_value(value)).strip()
     if not text or text.casefold() in {"unknown", "none", "null", "n/a"}:
         return ""
-    match = re.search(r"(\d{4})", text)
-    return match.group(1) if match else ""
+    lowered = text.casefold().replace(".", " ")
+    match = re.search(r"(-?\d{1,4})", text)
+    if not match:
+        return ""
+    year = int(match.group(1))
+    is_bce = year < 0 or any(marker in lowered for marker in ("bce", " bc ", " bc", "b c e"))
+    return str(-abs(year) if is_bce else year)
 
 
 def normalize_numeric_year_value(value: Any) -> int | str:
     """Normalize numeric year value into the canonical representation used by this project."""
     year = normalize_year_value(value)
     return int(year) if year else ""
+
+
+def biography_mentions_bce_year(biography: str, year: str) -> bool:
+    """Check whether the biography text explicitly marks the supplied year as BCE/BC."""
+    if not biography or not year:
+        return False
+    try:
+        absolute_year = str(abs(int(year)))
+    except ValueError:
+        return False
+    pattern = re.compile(rf"(?<!\d)0*{re.escape(absolute_year)}(?!\d)\s*(?:b\.?\s*c\.?\s*e?\.?|bc)", re.IGNORECASE)
+    return bool(pattern.search(biography))
+
+
+def normalize_author_year_value(value: Any, biography: str = "") -> str:
+    """Normalize an author year and preserve BCE dates when the biography provides that context."""
+    year = normalize_year_value(value)
+    if not year or year.startswith("-"):
+        return year
+    return f"-{abs(int(year))}" if biography_mentions_bce_year(biography, year) else year
 
 
 
@@ -1740,7 +1765,7 @@ def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> 
             "You are AuthorBiographyAgent. Return strict JSON only with keys biography, country, birth_year, death_year, and sex. "
             "Biography must be in English, 1-3 paragraphs, focused on the author's life, significance, achievements, relationships, and context. "
             "Include birth-death years when known, but do not pad unknown values. Mention the provided books only when materially useful. No external links. "
-            "Country must be the author's country of origin in English. birth_year and death_year must be four-digit strings or empty strings when unknown. "
+            "Country must be the author's country of origin in English. birth_year and death_year must be plain year strings, using negative years for BCE dates (for example -490), or empty strings when unknown. "
             "Sex must be exactly male, female, or unknown. If country or sex is uncertain, return Unknown for that field."
         ),
         "author_name": author_name,
@@ -1756,7 +1781,7 @@ def build_codex_demographics_prompt(author_name: str, biography: str, sample_tit
         "instruction": (
             "You are AuthorDemographicsAgent. Return strict JSON only with keys country, birth_year, death_year, and sex. "
             "Use the provided English biography as primary evidence, and use the listed books only as secondary context. "
-            "Do not rewrite or summarize the biography. Country must be in English. birth_year and death_year must be four-digit strings or empty strings when unknown. "
+            "Do not rewrite or summarize the biography. Country must be in English. birth_year and death_year must be plain year strings, using negative years for BCE dates (for example -490), or empty strings when unknown. "
             "Sex must be exactly male, female, or unknown. If country or sex is uncertain, return Unknown for that field. No external links."
         ),
         "author_name": author_name,
@@ -2351,14 +2376,15 @@ def migrate_note_frontmatter(vault_root: Path, path: Path, is_author: bool) -> b
         if metadata.get("country") != normalized_country:
             metadata["country"] = normalized_country
             changed = True
-        birth_year = normalize_year_value(metadata.get("birth_year", ""))
+        biography = get_existing_biography(note)
+        birth_year = normalize_author_year_value(metadata.get("birth_year", ""), biography)
         if metadata.get("birth_year") != birth_year:
             metadata["birth_year"] = birth_year
             changed = True
         if "birth_year" not in metadata:
             metadata["birth_year"] = birth_year
             changed = True
-        death_year = normalize_year_value(metadata.get("death_year", ""))
+        death_year = normalize_author_year_value(metadata.get("death_year", ""), biography)
         if metadata.get("death_year") != death_year:
             metadata["death_year"] = death_year
             changed = True

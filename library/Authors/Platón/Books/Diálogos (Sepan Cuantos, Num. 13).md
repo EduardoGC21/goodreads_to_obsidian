@@ -10,7 +10,7 @@ date_added: "2020-08-31"
 date_read: "2020-09-20"
 language: "Unknown"
 publisher: "Porrua"
-original_publish_year: ""
+original_publish_year: -380
 isbn: "9700772470"
 isbn13: "9789700772479"
 pages: 1104

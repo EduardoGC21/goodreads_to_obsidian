@@ -10,7 +10,7 @@ date_added: "2020-09-17"
 date_read: ""
 language: "Spanish"
 publisher: "Ediciones Ibéricas - La Crítica Literaria"
-original_publish_year: ""
+original_publish_year: -300
 isbn: ""
 isbn13: ""
 pages: 511

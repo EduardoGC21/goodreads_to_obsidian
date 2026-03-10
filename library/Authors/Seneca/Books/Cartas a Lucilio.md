@@ -10,7 +10,7 @@ date_added: "2024-07-12"
 date_read: "2025-08-01"
 language: "Spanish"
 publisher: "CATEDRA"
-original_publish_year: ""
+original_publish_year: 64
 isbn: "8437638666"
 isbn13: "9788437638669"
 pages: 760

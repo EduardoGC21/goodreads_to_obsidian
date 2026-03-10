@@ -2,8 +2,8 @@
 name: "Confucius"
 cover: "[[Attachments/AuthorImages/Confucius.jpg]]"
 country: "[[China]]"
-birth_year: "0551"
-death_year: "0479"
+birth_year: "551"
+death_year: "-479"
 sex: "male"
 tags:
   - "author"

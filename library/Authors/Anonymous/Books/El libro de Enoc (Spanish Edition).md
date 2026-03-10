@@ -10,7 +10,7 @@ date_added: "2021-09-18"
 date_read: "2021-09-27"
 language: "English"
 publisher: "CreateSpace Independent Publishing Platform"
-original_publish_year: ""
+original_publish_year: -300
 isbn: "1467995533"
 isbn13: "9781467995535"
 pages: 154

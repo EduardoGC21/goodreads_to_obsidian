@@ -10,7 +10,7 @@ date_added: "2024-03-24"
 date_read: ""
 language: "Spanish"
 publisher: "Gredos"
-original_publish_year: ""
+original_publish_year: 64
 isbn: "8424930355"
 isbn13: "9788424930356"
 pages: 1133

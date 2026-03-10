@@ -2,8 +2,8 @@
 name: "Aristophanes"
 cover: "[[Attachments/AuthorImages/Aristophanes.jpg]]"
 country: "[[Greece]]"
-birth_year: "0446"
-death_year: "0386"
+birth_year: "446"
+death_year: "-386"
 sex: "male"
 tags:
   - "author"
