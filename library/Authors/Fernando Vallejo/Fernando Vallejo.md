@@ -1,6 +1,6 @@
 ---
 name: "Fernando Vallejo"
-cover: ""
+cover: "[[Attachments/AuthorImages/Fernando Vallejo.jpg]]"
 country: "[[Colombia]]"
 birth_year: "1942"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Fernando Vallejo
+
+![[Attachments/AuthorImages/Fernando Vallejo.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

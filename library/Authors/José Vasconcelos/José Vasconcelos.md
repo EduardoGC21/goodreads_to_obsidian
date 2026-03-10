@@ -1,6 +1,6 @@
 ---
 name: "José Vasconcelos"
-cover: ""
+cover: "[[Attachments/AuthorImages/José Vasconcelos.jpg]]"
 country: "[[Mexico]]"
 birth_year: "1882"
 death_year: "1959"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Vasconcelos
+
+![[Attachments/AuthorImages/José Vasconcelos.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

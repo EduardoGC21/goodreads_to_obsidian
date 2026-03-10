@@ -1,6 +1,6 @@
 ---
 name: "Peter Berresford Ellis"
-cover: ""
+cover: "[[Attachments/AuthorImages/Peter Berresford Ellis.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1943"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Peter Berresford Ellis
+
+![[Attachments/AuthorImages/Peter Berresford Ellis.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Esi Edugyan"
-cover: ""
+cover: "[[Attachments/AuthorImages/Esi Edugyan.jpg]]"
 country: "[[Canada]]"
 birth_year: "1978"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Esi Edugyan
+
+![[Attachments/AuthorImages/Esi Edugyan.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

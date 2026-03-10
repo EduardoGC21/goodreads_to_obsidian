@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Library_base.base",
-                "viewName": "Library"
+                "file": "Authors_base.base",
+                "viewName": "Authors"
               },
               "icon": "lucide-layout-grid",
-              "title": "Library_base"
+              "title": "Authors_base"
             }
           }
         ]
@@ -184,12 +184,15 @@
   },
   "active": "ee1a6abfbdac3c9d",
   "lastOpenFiles": [
+    "Authors/Joshua Frydman/Joshua Frydman.md",
     "Authors_base.base",
+    "Library.md",
+    "Library_base.base",
+    "Authors/Arthur Schopenhauer/Books/El mundo como voluntad y representación, II complementos.md",
+    "Manual Review/Missing Metadata.md",
     "Attachments/AuthorImages/Vālmīki.jpg",
     "Attachments/AuthorImages/Diogenes Laertius.jpg",
     "Attachments/AuthorImages/Masato Tanaka.jpg",
-    "Library_base.base",
-    "Manual Review/Missing Metadata.md",
     "Attachments/AuthorImages/Ctesias de Cnido.jpg",
     "Attachments/AuthorImages/Marc Lichtenfeld.jpg",
     "Attachments/AuthorImages/José Gaos.jpg",
@@ -215,14 +218,12 @@
     "Authors/Inio Asano/Books/Goodnight Punpun Omnibus, Vol. 4.md",
     "Authors/Aristophanes/Books/Lisístrata.md",
     "Authors/Aeschylus/Books/Esquilo, Sófocles, Eurípides obras completas.md",
-    "Library.md",
     "Authors/George R.R. Martin/Books/A Game of Thrones (A Song of Ice and Fire, Num. 1).md",
     "Authors/Geraldine Pinch/Books/Egyptian Mythology A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.md",
     "Authors/Antón Chéjov/Antón Chéjov.md",
     "Authors/Antón Chéjov/Books/Cinco novelas cortas.md",
     "Authors/Antón Chéjov/Books/La gaviota El tío Vania Las tres hermanas El jardín de los cerezos.md",
     "Authors/Antón Chéjov/Books/Cuentos Chejov.md",
-    "Authors/Antón Chéjov/Books/La estepa En el barranco.md",
     "Authors/Antón Chéjov/Books",
     "Authors/Antón Chéjov",
     "[[Attachments/Covers",

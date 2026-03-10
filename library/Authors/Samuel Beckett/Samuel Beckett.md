@@ -1,6 +1,6 @@
 ---
 name: "Samuel Beckett"
-cover: ""
+cover: "[[Attachments/AuthorImages/Samuel Beckett.jpg]]"
 country: "[[Ireland]]"
 birth_year: "1906"
 death_year: "1989"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Samuel Beckett
+
+![[Attachments/AuthorImages/Samuel Beckett.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -15,7 +15,7 @@ isbn: "0399576428"
 isbn13: "9780399576423"
 pages: 294
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Vince Beiser - The World in a Grain The Story of Sand and How It Transformed Civilization.jpg]]"
 bookshelves:
   - "[[ciencia]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The World in a Grain: The Story of Sand and How It Transformed Civilization
 
-> Cover not available.
+![[Attachments/Covers/Vince Beiser - The World in a Grain The Story of Sand and How It Transformed Civilization.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

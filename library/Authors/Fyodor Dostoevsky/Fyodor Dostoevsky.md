@@ -1,6 +1,6 @@
 ---
 name: "Fyodor Dostoevsky"
-cover: ""
+cover: "[[Attachments/AuthorImages/Fyodor Dostoevsky.jpg]]"
 country: "[[Russia]]"
 birth_year: "1821"
 death_year: "1881"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Fyodor Dostoevsky
+
+![[Attachments/AuthorImages/Fyodor Dostoevsky.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

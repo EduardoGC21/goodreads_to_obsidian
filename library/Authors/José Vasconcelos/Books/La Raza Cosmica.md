@@ -15,7 +15,7 @@ isbn: "9700757285"
 isbn13: "9789700757285"
 pages: 164
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/José Vasconcelos - La Raza Cosmica.jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Raza Cosmica
 
-> Cover not available.
+![[Attachments/Covers/José Vasconcelos - La Raza Cosmica.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

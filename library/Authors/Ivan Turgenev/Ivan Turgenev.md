@@ -1,6 +1,6 @@
 ---
 name: "Ivan Turgenev"
-cover: ""
+cover: "[[Attachments/AuthorImages/Ivan Turgenev.jpg]]"
 country: "[[Russia]]"
 birth_year: "1818"
 death_year: "1883"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ivan Turgenev
+
+![[Attachments/AuthorImages/Ivan Turgenev.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

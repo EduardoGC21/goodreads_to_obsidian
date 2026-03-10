@@ -1,6 +1,6 @@
 ---
 name: "Friedrich Nietzsche"
-cover: ""
+cover: "[[Attachments/AuthorImages/Friedrich Nietzsche.jpg]]"
 country: "[[Germany]]"
 birth_year: "1844"
 death_year: "1900"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Friedrich Nietzsche
+
+![[Attachments/AuthorImages/Friedrich Nietzsche.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

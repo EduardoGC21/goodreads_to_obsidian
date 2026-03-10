@@ -1,6 +1,6 @@
 ---
 name: "Johannes Grave"
-cover: ""
+cover: "[[Attachments/AuthorImages/Johannes Grave.jpg]]"
 country: "[[Germany]]"
 birth_year: "1976"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Johannes Grave
+
+![[Attachments/AuthorImages/Johannes Grave.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

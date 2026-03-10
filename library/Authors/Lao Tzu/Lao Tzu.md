@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Lao Tzu.jpg]]"
 country: "[[China]]"
 birth_year: ""
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

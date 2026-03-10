@@ -2527,7 +2527,7 @@ def run_sync(
         record.author_dir.mkdir(parents=True, exist_ok=True)
         record.books_dir.mkdir(parents=True, exist_ok=True)
 
-        if not record.bookshelves:
+        if not record.bookshelves and record.exclusive_shelf=="read":
             add_review_item(
                 review_sections,
                 "Missing Bookshelves",

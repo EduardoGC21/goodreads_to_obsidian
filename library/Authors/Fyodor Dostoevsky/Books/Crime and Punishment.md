@@ -15,7 +15,7 @@ isbn: "1542099307"
 isbn13: "9781542099301"
 pages: 330
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Fyodor Dostoevsky - Crime and Punishment.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[literatura-rusa]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Crime and Punishment
 
-> Cover not available.
+![[Attachments/Covers/Fyodor Dostoevsky - Crime and Punishment.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

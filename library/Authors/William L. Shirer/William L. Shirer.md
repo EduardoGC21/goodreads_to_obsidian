@@ -1,6 +1,6 @@
 ---
 name: "William L. Shirer"
-cover: ""
+cover: "[[Attachments/AuthorImages/William L. Shirer.jpg]]"
 country: "[[United States]]"
 birth_year: "1904"
 death_year: "1993"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William L. Shirer
+
+![[Attachments/AuthorImages/William L. Shirer.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

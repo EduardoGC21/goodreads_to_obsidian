@@ -15,7 +15,7 @@ isbn: "014377297X"
 isbn13: "9780143772972"
 pages: 400
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Witi Ihimaera - Pūrākau Māori Myths Retold by Māori Writers.jpg]]"
 bookshelves:
   - "[[mitología]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Pūrākau: Māori Myths Retold by Māori Writers
 
-> Cover not available.
+![[Attachments/Covers/Witi Ihimaera - Pūrākau Māori Myths Retold by Māori Writers.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

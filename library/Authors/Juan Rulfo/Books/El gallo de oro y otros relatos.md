@@ -15,7 +15,7 @@ isbn: "6078295373"
 isbn13: "9786078295371"
 pages: 203
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Juan Rulfo - El gallo de oro y otros relatos.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[novelas]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El gallo de oro y otros relatos
 
-> Cover not available.
+![[Attachments/Covers/Juan Rulfo - El gallo de oro y otros relatos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

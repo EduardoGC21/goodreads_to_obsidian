@@ -1,6 +1,6 @@
 ---
 name: "Consuelo Martín"
-cover: ""
+cover: "[[Attachments/AuthorImages/Consuelo Martín.jpg]]"
 country: "[[Spain]]"
 birth_year: "1940"
 death_year: "2023"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Consuelo Martín
+
+![[Attachments/AuthorImages/Consuelo Martín.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

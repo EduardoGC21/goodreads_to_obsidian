@@ -1,6 +1,6 @@
 ---
 name: "Michel Onfray"
-cover: ""
+cover: "[[Attachments/AuthorImages/Michel Onfray.jpg]]"
 country: "[[France]]"
 birth_year: "1959"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Michel Onfray
+
+![[Attachments/AuthorImages/Michel Onfray.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

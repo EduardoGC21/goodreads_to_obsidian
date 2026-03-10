@@ -1,6 +1,6 @@
 ---
 name: "Vince Beiser"
-cover: ""
+cover: "[[Attachments/AuthorImages/Vince Beiser.jpg]]"
 country: "[[United States]]"
 birth_year: "1965"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Vince Beiser
+
+![[Attachments/AuthorImages/Vince Beiser.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

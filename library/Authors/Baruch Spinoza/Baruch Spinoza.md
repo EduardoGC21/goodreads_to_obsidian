@@ -1,6 +1,6 @@
 ---
 name: "Baruch Spinoza"
-cover: ""
+cover: "[[Attachments/AuthorImages/Baruch Spinoza.jpg]]"
 country: "[[Netherlands]]"
 birth_year: "1632"
 death_year: "1677"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Baruch Spinoza
+
+![[Attachments/AuthorImages/Baruch Spinoza.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Paul-Alain Beaulieu.jpg]]"
 country: "[[Canada]]"
 birth_year: ""
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

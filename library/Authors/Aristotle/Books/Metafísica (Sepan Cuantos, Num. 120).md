@@ -15,7 +15,7 @@ isbn: "9700730999"
 isbn13: "9789700730998"
 pages: 326
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Aristotle - Metafísica (Sepan Cuantos, Num. 120).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[grecorromano]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Metafísica (Sepan Cuantos, Num. 120)
 
-> Cover not available.
+![[Attachments/Covers/Aristotle - Metafísica (Sepan Cuantos, Num. 120).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

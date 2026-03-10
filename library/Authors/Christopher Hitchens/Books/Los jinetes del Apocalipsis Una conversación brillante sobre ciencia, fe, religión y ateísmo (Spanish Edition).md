@@ -15,7 +15,7 @@ isbn: "8417623108"
 isbn13: "9788417623104"
 pages: 315
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Christopher Hitchens - Los jinetes del Apocalipsis Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los jinetes del Apocalipsis: Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Christopher Hitchens - Los jinetes del Apocalipsis Una conversación brillante sobre ciencia, fe, religión y ateísmo (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

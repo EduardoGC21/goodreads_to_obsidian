@@ -15,7 +15,7 @@ isbn: "9706668500"
 isbn13: "9789706668509"
 pages: 544
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Dante Alighieri - La divina comedia.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[epopeyas]]"
@@ -29,7 +29,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La divina comedia
 
-> Cover not available.
+![[Attachments/Covers/Dante Alighieri - La divina comedia.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

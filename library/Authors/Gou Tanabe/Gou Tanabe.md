@@ -1,6 +1,6 @@
 ---
 name: "Gou Tanabe"
-cover: ""
+cover: "[[Attachments/AuthorImages/Gou Tanabe.jpg]]"
 country: "[[Japan]]"
 birth_year: "1975"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gou Tanabe
+
+![[Attachments/AuthorImages/Gou Tanabe.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

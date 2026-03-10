@@ -15,7 +15,7 @@ isbn: "1973978504"
 isbn13: "9781973978503"
 pages: 36
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Arthur Schopenhauer - Dialectica eristica o el arte de tener razon (Spanish Edition).jpg]]"
 bookshelves:
   - "[[educación]]"
   - "[[filosofía]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Dialectica eristica o el arte de tener razon (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Arthur Schopenhauer - Dialectica eristica o el arte de tener razon (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

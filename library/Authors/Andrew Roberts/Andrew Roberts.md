@@ -1,6 +1,6 @@
 ---
 name: "Andrew Roberts"
-cover: ""
+cover: "[[Attachments/AuthorImages/Andrew Roberts.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1963"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Andrew Roberts
+
+![[Attachments/AuthorImages/Andrew Roberts.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

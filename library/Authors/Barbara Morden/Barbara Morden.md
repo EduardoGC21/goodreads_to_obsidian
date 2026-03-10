@@ -1,6 +1,6 @@
 ---
 name: "Barbara Morden"
-cover: ""
+cover: "[[Attachments/AuthorImages/Barbara Morden.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Barbara Morden
+
+![[Attachments/AuthorImages/Barbara Morden.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -15,7 +15,7 @@ isbn: "8898006438"
 isbn13: "9788898006434"
 pages: 68
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/H.P. Lovecraft - La llamada de Chtulhu.jpg]]"
 bookshelves:
   - "[[miedo]]"
   - "[[cuentos]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La llamada de Chtulhu
 
-> Cover not available.
+![[Attachments/Covers/H.P. Lovecraft - La llamada de Chtulhu.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

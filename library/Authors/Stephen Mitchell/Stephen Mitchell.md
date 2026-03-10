@@ -1,6 +1,6 @@
 ---
 name: "Stephen  Mitchell"
-cover: ""
+cover: "[[Attachments/AuthorImages/Stephen Mitchell.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1948"
 death_year: "2024"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stephen  Mitchell
+
+![[Attachments/AuthorImages/Stephen Mitchell.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

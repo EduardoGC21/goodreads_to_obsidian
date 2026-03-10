@@ -1,6 +1,6 @@
 ---
 name: "Georg Wilhelm Friedrich Hegel"
-cover: ""
+cover: "[[Attachments/AuthorImages/Georg Wilhelm Friedrich Hegel.jpg]]"
 country: "[[Germany]]"
 birth_year: "1770"
 death_year: "1831"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Georg Wilhelm Friedrich Hegel
+
+![[Attachments/AuthorImages/Georg Wilhelm Friedrich Hegel.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Dante Alighieri"
-cover: ""
+cover: "[[Attachments/AuthorImages/Dante Alighieri.jpg]]"
 country: "[[Italy]]"
 birth_year: "1265"
 death_year: "1321"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Dante Alighieri
+
+![[Attachments/AuthorImages/Dante Alighieri.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

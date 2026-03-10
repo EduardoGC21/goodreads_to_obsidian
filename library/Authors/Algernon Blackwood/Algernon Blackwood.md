@@ -1,6 +1,6 @@
 ---
 name: "Algernon Blackwood"
-cover: ""
+cover: "[[Attachments/AuthorImages/Algernon Blackwood.jpg]]"
 country: "[[England]]"
 birth_year: "1869"
 death_year: "1951"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Algernon Blackwood
+
+![[Attachments/AuthorImages/Algernon Blackwood.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

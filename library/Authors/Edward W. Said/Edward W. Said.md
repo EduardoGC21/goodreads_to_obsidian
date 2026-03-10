@@ -1,6 +1,6 @@
 ---
 name: "Edward W. Said"
-cover: ""
+cover: "[[Attachments/AuthorImages/Edward W. Said.jpg]]"
 country: "[[Palestine]]"
 birth_year: "1935"
 death_year: "2003"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edward W. Said
+
+![[Attachments/AuthorImages/Edward W. Said.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -15,7 +15,7 @@ isbn: "9700772314"
 isbn13: "9789700772318"
 pages: 222
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jean-Jacques Rousseau - El contrato social o Principios de derecho político.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El contrato social o Principios de derecho político
 
-> Cover not available.
+![[Attachments/Covers/Jean-Jacques Rousseau - El contrato social o Principios de derecho político.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

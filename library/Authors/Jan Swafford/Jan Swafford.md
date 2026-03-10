@@ -1,6 +1,6 @@
 ---
 name: "Jan Swafford"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jan Swafford.jpg]]"
 country: "[[United States]]"
 birth_year: "1946"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jan Swafford
+
+![[Attachments/AuthorImages/Jan Swafford.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

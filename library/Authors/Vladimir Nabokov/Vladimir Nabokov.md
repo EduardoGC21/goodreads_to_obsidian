@@ -1,6 +1,6 @@
 ---
 name: "Vladimir Nabokov"
-cover: ""
+cover: "[[Attachments/AuthorImages/Vladimir Nabokov.jpg]]"
 country: "[[Russia]]"
 birth_year: "1899"
 death_year: "1977"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Vladimir Nabokov
+
+![[Attachments/AuthorImages/Vladimir Nabokov.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

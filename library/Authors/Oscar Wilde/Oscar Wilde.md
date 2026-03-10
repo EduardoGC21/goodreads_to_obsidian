@@ -1,6 +1,6 @@
 ---
 name: "Oscar Wilde"
-cover: ""
+cover: "[[Attachments/AuthorImages/Oscar Wilde.jpg]]"
 country: "[[Ireland]]"
 birth_year: "1854"
 death_year: "1900"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Oscar Wilde
+
+![[Attachments/AuthorImages/Oscar Wilde.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

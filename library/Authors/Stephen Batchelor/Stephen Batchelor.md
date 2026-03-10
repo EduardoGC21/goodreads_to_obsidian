@@ -1,6 +1,6 @@
 ---
 name: "Stephen Batchelor"
-cover: ""
+cover: "[[Attachments/AuthorImages/Stephen Batchelor.jpg]]"
 country: "[[Scotland]]"
 birth_year: "1953"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stephen Batchelor
+
+![[Attachments/AuthorImages/Stephen Batchelor.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

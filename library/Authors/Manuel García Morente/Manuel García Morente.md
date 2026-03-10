@@ -1,6 +1,6 @@
 ---
 name: "Manuel García Morente"
-cover: ""
+cover: "[[Attachments/AuthorImages/Manuel García Morente.jpg]]"
 country: "[[Spain]]"
 birth_year: "1886"
 death_year: "1942"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Manuel García Morente
+
+![[Attachments/AuthorImages/Manuel García Morente.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

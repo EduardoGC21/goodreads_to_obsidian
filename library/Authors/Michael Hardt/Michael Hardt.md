@@ -1,6 +1,6 @@
 ---
 name: "Michael Hardt"
-cover: ""
+cover: "[[Attachments/AuthorImages/Michael Hardt.jpg]]"
 country: "[[United States]]"
 birth_year: "1960"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Michael Hardt
+
+![[Attachments/AuthorImages/Michael Hardt.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

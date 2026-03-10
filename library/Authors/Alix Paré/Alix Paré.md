@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Alix Paré.jpg]]"
 country: "[[France]]"
 birth_year: ""
 death_year: ""
-sex: "female"
+sex: "unknown"
 tags:
   - "author"
 ---

@@ -15,7 +15,7 @@ isbn: "8490656746"
 isbn13: "9788490656747"
 pages: 624
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Leo Tolstoy - Relatos (Minus nº 79) (Spanish Edition).jpg]]"
 bookshelves:
   - "[[literatura-rusa]]"
   - "[[antología]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Relatos (Minus nº 79) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Leo Tolstoy - Relatos (Minus nº 79) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

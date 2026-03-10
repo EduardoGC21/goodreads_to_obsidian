@@ -1,6 +1,6 @@
 ---
 name: "Alejandro Ortiz Rescaniere"
-cover: ""
+cover: "[[Attachments/AuthorImages/Alejandro Ortiz Rescaniere.jpg]]"
 country: "[[Peru]]"
 birth_year: ""
 death_year: "2024"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alejandro Ortiz Rescaniere
+
+![[Attachments/AuthorImages/Alejandro Ortiz Rescaniere.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,15 +1,17 @@
 ---
 name: "Joshua Frydman"
-cover: ""
+cover: "[[Attachments/AuthorImages/Joshua Frydman.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
-sex: "unknown"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Joshua Frydman
+
+![[Attachments/AuthorImages/Joshua Frydman.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

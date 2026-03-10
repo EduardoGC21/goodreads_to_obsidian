@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Kayoko Takagi.jpg]]"
 country: "[[Japan]]"
 birth_year: ""
 death_year: ""
-sex: "unknown"
+sex: "female"
 tags:
   - "author"
 ---

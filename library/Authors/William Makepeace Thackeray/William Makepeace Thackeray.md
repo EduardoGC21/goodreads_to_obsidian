@@ -1,6 +1,6 @@
 ---
 name: "William Makepeace Thackeray"
-cover: ""
+cover: "[[Attachments/AuthorImages/William Makepeace Thackeray.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1811"
 death_year: "1863"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William Makepeace Thackeray
+
+![[Attachments/AuthorImages/William Makepeace Thackeray.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

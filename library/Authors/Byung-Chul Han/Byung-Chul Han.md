@@ -1,6 +1,6 @@
 ---
 name: "Byung-Chul Han"
-cover: ""
+cover: "[[Attachments/AuthorImages/Byung-Chul Han.jpg]]"
 country: "[[South Korea]]"
 birth_year: "1959"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Byung-Chul Han
+
+![[Attachments/AuthorImages/Byung-Chul Han.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

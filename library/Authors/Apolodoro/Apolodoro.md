@@ -1,6 +1,6 @@
 ---
 name: "Apolodoro"
-cover: ""
+cover: "[[Attachments/AuthorImages/Apolodoro.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Apolodoro
+
+![[Attachments/AuthorImages/Apolodoro.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

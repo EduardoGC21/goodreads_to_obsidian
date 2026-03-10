@@ -1,7 +1,7 @@
 ---
 name: "Harding Grant"
 cover: "[[Attachments/AuthorImages/Harding Grant.jpg]]"
-country: "[[United Kingdom]]"
+country: "[[England]]"
 birth_year: ""
 death_year: ""
 sex: "male"
