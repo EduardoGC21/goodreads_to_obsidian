@@ -15,7 +15,7 @@ isbn: "8425440076"
 isbn13: "9788425440076"
 pages: 237
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Walter F. Otto - Dioniso Mito y culto (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Dioniso: Mito y culto (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Walter F. Otto - Dioniso Mito y culto (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

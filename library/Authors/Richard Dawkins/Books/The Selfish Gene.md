@@ -15,7 +15,7 @@ isbn: "0191093076"
 isbn13: "9780191093074"
 pages: 544
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Richard Dawkins - The Selfish Gene.jpg]]"
 bookshelves:
   - "[[ciencia]]"
   - "[[filosofía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Selfish Gene
 
-> Cover not available.
+![[Attachments/Covers/Richard Dawkins - The Selfish Gene.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

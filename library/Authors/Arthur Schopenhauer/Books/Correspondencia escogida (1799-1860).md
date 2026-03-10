@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-07-20"
 date_read: "2023-12-10"
-language: "Unknown"
+language: "Spanish"
 publisher: "Acantilado"
 original_publish_year: ""
 isbn: "8418370793"

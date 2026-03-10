@@ -15,7 +15,7 @@ isbn: "1594650152"
 isbn13: "9781594650154"
 pages: 307
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Alejandro Jodorowsky - The Incal.jpg]]"
 bookshelves:
   - "[[novela-grafica]]"
   - "[[ciencia-ficción]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Incal
 
-> Cover not available.
+![[Attachments/Covers/Alejandro Jodorowsky - The Incal.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

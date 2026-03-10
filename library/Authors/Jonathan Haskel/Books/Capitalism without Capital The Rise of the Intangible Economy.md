@@ -15,7 +15,7 @@ isbn: "0691175039"
 isbn13: "9780691175034"
 pages: 288
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jonathan Haskel - Capitalism without Capital The Rise of the Intangible Economy.jpg]]"
 bookshelves:
   - "[[economía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Capitalism without Capital: The Rise of the Intangible Economy
 
-> Cover not available.
+![[Attachments/Covers/Jonathan Haskel - Capitalism without Capital The Rise of the Intangible Economy.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "970074325X"
 isbn13: "9789700743257"
 pages: 341
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Friedrich Nietzsche - Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430)
 
-> Cover not available.
+![[Attachments/Covers/Friedrich Nietzsche - Más Allá del Bien y del Mal. Genealogía de la Moral. (Sepan Cuantos, Num. 430).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

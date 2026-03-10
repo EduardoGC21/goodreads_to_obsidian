@@ -15,7 +15,7 @@ isbn: "9875669075"
 isbn13: "9789875669079"
 pages: 240
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Augusto Monterroso - El paraíso imperfecto Antología tímida.jpg]]"
 bookshelves:
   - "[[antología]]"
   - "[[cuentos]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El paraíso imperfecto: Antología tímida
 
-> Cover not available.
+![[Attachments/Covers/Augusto Monterroso - El paraíso imperfecto Antología tímida.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

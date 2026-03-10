@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 322
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/J.R.R. Tolkien - The Hobbit Or There and Back Again.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[novelas]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Hobbit: Or There and Back Again
 
-> Cover not available.
+![[Attachments/Covers/J.R.R. Tolkien - The Hobbit Or There and Back Again.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

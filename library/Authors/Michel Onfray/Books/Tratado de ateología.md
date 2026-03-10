@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-08-09"
 date_read: "2021-08-11"
-language: "Unknown"
+language: "Spanish"
 publisher: "Editorial Anagrama"
 original_publish_year: 2005
 isbn: "8433962345"

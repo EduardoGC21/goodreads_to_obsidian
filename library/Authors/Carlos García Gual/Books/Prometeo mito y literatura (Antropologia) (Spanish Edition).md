@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2022-04-23"
 date_read: ""
-language: "English"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica"
 original_publish_year: 1979
 isbn: "8437506301"

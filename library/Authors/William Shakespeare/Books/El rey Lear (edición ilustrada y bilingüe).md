@@ -15,7 +15,7 @@ isbn: "8439732171"
 isbn13: "9788439732174"
 pages: 320
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/William Shakespeare - El rey Lear (edición ilustrada y bilingüe).jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El rey Lear (edición ilustrada y bilingüe)
 
-> Cover not available.
+![[Attachments/Covers/William Shakespeare - El rey Lear (edición ilustrada y bilingüe).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

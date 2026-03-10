@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2020-06-04"
 date_read: "2020-06-09"
-language: "Unknown"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica"
 original_publish_year: 1947
 isbn: ""

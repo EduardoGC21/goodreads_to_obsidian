@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2021-09-27"
-language: "Unknown"
+language: "English"
 publisher: "CreateSpace Independent Publishing Platform"
 original_publish_year: ""
 isbn: "1467995533"

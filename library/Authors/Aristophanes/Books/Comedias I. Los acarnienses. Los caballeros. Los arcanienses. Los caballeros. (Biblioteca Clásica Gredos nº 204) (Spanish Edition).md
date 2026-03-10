@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2026-01-17"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Gredos"
 original_publish_year: ""
 isbn: "842493234X"

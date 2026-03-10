@@ -15,7 +15,7 @@ isbn: "0575081562"
 isbn13: "9780575081567"
 pages: 878
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/H.P. Lovecraft - Necronomicon The Best Weird Tales.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[miedo]]"
@@ -32,7 +32,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Necronomicon: The Best Weird Tales
 
-> Cover not available.
+![[Attachments/Covers/H.P. Lovecraft - Necronomicon The Best Weird Tales.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

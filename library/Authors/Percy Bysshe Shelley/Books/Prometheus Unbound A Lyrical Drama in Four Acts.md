@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2024-03-25"
 date_read: "2024-03-27"
-language: "Unknown"
+language: "English"
 publisher: "Createspace Independent Publishing Platform"
 original_publish_year: 1820
 isbn: "1522711937"
 isbn13: "9781522711933"
 pages: 120
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Percy Bysshe Shelley - Prometheus Unbound A Lyrical Drama in Four Acts.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[mitología]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Prometheus Unbound: A Lyrical Drama in Four Acts
 
-> Cover not available.
+![[Attachments/Covers/Percy Bysshe Shelley - Prometheus Unbound A Lyrical Drama in Four Acts.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

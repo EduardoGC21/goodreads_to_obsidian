@@ -15,7 +15,7 @@ isbn: "9878453014"
 isbn13: "9789878453019"
 pages: 353
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Masato Tanaka - Gran historia visual de la filosofía.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[history]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Gran historia visual de la filosofía
 
-> Cover not available.
+![[Attachments/Covers/Masato Tanaka - Gran historia visual de la filosofía.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

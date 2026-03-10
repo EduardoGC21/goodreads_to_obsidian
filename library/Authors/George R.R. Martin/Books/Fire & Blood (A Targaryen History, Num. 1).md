@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2019-05-02"
 date_read: "2020-03-26"
-language: "Unknown"
+language: "English"
 publisher: "Random House Worlds"
 original_publish_year: 2018
 isbn: "152479628X"

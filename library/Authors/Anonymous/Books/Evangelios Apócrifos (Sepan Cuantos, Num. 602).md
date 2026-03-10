@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Porrua"
 original_publish_year: ""
 isbn: "9700768864"

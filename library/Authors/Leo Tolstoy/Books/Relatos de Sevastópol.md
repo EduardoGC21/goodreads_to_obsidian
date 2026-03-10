@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2021-06-28"
 date_read: "2021-07-02"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alba Editorial"
 original_publish_year: 1855
 isbn: "8484289249"
 isbn13: "9788484289241"
 pages: 216
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Leo Tolstoy - Relatos de Sevastópol.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[guerra]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Relatos de Sevastópol
 
-> Cover not available.
+![[Attachments/Covers/Leo Tolstoy - Relatos de Sevastópol.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

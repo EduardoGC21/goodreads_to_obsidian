@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2022-07-17"
 date_read: "2022-07-18"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alianza Editorial"
 original_publish_year: 1944
 isbn: "8420676578"

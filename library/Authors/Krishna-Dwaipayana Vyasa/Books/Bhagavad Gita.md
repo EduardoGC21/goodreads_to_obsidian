@@ -15,7 +15,7 @@ isbn: "8491059768"
 isbn13: "9788491059769"
 pages: 352
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Krishna-Dwaipayana Vyasa - Bhagavad Gita.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[oriental]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Bhagavad Gita
 
-> Cover not available.
+![[Attachments/Covers/Krishna-Dwaipayana Vyasa - Bhagavad Gita.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

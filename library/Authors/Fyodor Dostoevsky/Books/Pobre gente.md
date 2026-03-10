@@ -8,14 +8,14 @@ rating: 0
 read_count: 0
 date_added: "2021-07-06"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Alba Editorial"
 original_publish_year: 1846
 isbn: "8490655847"
 isbn13: "9788490655849"
 pages: 204
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Fyodor Dostoevsky - Pobre gente.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Pobre gente
 
-> Cover not available.
+![[Attachments/Covers/Fyodor Dostoevsky - Pobre gente.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

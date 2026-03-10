@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 511
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Confucius - Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Confucius - Los Cuatro Libros De Confucio, Confucio y Mencio; Colección La Crítica Literaria por el célebre crítico literario Juan Bautista Bergua, Ediciones Ibéricas (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

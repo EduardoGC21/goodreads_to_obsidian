@@ -15,7 +15,7 @@ isbn: "150673376X"
 isbn13: "9781506733760"
 pages: 180
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Kentaro Miura - Berserk Volume 41.jpg]]"
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk Volume 41
 
-> Cover not available.
+![[Attachments/Covers/Kentaro Miura - Berserk Volume 41.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

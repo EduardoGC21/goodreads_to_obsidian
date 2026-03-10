@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-09-18"
 date_read: "2023-07-08"
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Cátedra"
 original_publish_year: 1759
 isbn: "8437605415"

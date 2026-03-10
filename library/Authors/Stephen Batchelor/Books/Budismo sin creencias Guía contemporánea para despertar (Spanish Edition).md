@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2021-04-11"
 date_read: "2021-04-12"
-language: "Unknown"
+language: "Spanish"
 publisher: "Gaia Ediciones"
 original_publish_year: 1997
 isbn: "8484451534"

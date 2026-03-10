@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2025-10-28"
 date_read: "2025-10-31"
-language: "Unknown"
+language: "English"
 publisher: "Bantam"
 original_publish_year: 1951
 isbn: "0553803719"

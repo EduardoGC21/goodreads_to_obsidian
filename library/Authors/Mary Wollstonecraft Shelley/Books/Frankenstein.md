@@ -15,7 +15,7 @@ isbn: "6070735404"
 isbn13: "9786070735400"
 pages: 294
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Mary Wollstonecraft Shelley - Frankenstein.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[novelas]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Frankenstein
 
-> Cover not available.
+![[Attachments/Covers/Mary Wollstonecraft Shelley - Frankenstein.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

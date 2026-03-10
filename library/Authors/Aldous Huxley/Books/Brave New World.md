@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2019-02-10"
 date_read: "2019-03-27"
-language: "Unknown"
+language: "English"
 publisher: "HarperPerennial / Perennial Classics"
 original_publish_year: 1932
 isbn: "0060929871"

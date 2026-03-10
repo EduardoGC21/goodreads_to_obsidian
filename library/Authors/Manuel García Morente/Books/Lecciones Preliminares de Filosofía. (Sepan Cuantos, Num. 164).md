@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-06-06"
 date_read: "2020-07-01"
-language: "Unknown"
+language: "Spanish"
 publisher: "Porrua"
 original_publish_year: 1983
 isbn: ""

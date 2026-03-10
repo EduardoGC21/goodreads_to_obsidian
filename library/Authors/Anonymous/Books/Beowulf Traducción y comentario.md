@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-07-01"
 date_read: "2023-07-05"
-language: "Unknown"
+language: "Spanish"
 publisher: "Minotauro"
 original_publish_year: 2014
 isbn: "8445002600"

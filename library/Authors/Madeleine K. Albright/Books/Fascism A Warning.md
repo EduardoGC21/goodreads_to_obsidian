@@ -8,7 +8,7 @@ rating: 3
 read_count: 1
 date_added: "2019-02-24"
 date_read: "2019-03-20"
-language: "Unknown"
+language: "English"
 publisher: "Harper"
 original_publish_year: 2018
 isbn: "0062802186"

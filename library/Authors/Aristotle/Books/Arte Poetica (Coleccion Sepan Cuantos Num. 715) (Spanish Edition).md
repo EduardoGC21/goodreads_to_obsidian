@@ -15,7 +15,7 @@ isbn: "9700758516"
 isbn13: "9789700758510"
 pages: 378
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Aristotle - Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[dialéctica-retórica-lógica]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Aristotle - Arte Poetica (Coleccion Sepan Cuantos Num. 715) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

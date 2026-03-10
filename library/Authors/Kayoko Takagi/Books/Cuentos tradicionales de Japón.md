@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-09-16"
 date_read: "2023-10-03"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alianza Editorial"
 original_publish_year: 2009
 isbn: "8413628083"

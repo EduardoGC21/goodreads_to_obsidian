@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2025-01-30"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Akal"
 original_publish_year: 2015
 isbn: "8446040123"

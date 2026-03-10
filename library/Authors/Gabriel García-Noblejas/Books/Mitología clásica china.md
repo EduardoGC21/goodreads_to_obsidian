@@ -15,7 +15,7 @@ isbn: "8481646032"
 isbn13: "9788481646030"
 pages: 344
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Gabriel García-Noblejas - Mitología clásica china.jpg]]"
 bookshelves:
   - "[[mitología]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitología clásica china
 
-> Cover not available.
+![[Attachments/Covers/Gabriel García-Noblejas - Mitología clásica china.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

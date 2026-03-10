@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 253
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jean-Paul Sartre - Nausea.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[novelas]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Nausea
 
-> Cover not available.
+![[Attachments/Covers/Jean-Paul Sartre - Nausea.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

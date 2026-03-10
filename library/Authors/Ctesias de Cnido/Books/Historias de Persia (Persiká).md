@@ -8,14 +8,14 @@ rating: 0
 read_count: 0
 date_added: "2025-01-30"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Akal"
 original_publish_year: ""
 isbn: "8446056208"
 isbn13: "9788446056201"
 pages: 192
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Ctesias de Cnido - Historias de Persia (Persiká).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Historias de Persia: (Persiká)
 
-> Cover not available.
+![[Attachments/Covers/Ctesias de Cnido - Historias de Persia (Persiká).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

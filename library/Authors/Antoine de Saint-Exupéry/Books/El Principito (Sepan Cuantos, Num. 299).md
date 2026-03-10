@@ -15,7 +15,7 @@ isbn: "9700774929"
 isbn13: "9789700774923"
 pages: 88
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Antoine de Saint-Exupéry - El Principito (Sepan Cuantos, Num. 299).jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[literatura-francesa]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Principito (Sepan Cuantos, Num. 299)
 
-> Cover not available.
+![[Attachments/Covers/Antoine de Saint-Exupéry - El Principito (Sepan Cuantos, Num. 299).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "4198100101"
 isbn13: "9784198100100"
 pages: 252
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Yuji Oniki - The Art of Howl's Moving Castle.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Art of Howl's Moving Castle
 
-> Cover not available.
+![[Attachments/Covers/Yuji Oniki - The Art of Howl's Moving Castle.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

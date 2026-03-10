@@ -15,7 +15,7 @@ isbn: "9700773302"
 isbn13: "9789700773308"
 pages: 384
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Homer - La Ilíada (Sepan Cuantos, Num. 2).jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[epopeyas]]"
@@ -30,7 +30,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La Ilíada (Sepan Cuantos, Num. 2)
 
-> Cover not available.
+![[Attachments/Covers/Homer - La Ilíada (Sepan Cuantos, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

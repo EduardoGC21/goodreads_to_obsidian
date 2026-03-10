@@ -15,7 +15,7 @@ isbn: "8426406408"
 isbn13: "9788426406408"
 pages: 144
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Jorge Luis Borges - El Aleph.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[borgiano]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Aleph
 
-> Cover not available.
+![[Attachments/Covers/Jorge Luis Borges - El Aleph.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "1934555142"
 isbn13: "9781934555149"
 pages: 204
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Percy Bysshe Shelley - The Cenci A Tragedy in Five Acts An Authoritative Text Based on the 1819 Edition.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Cenci: A Tragedy in Five Acts: An Authoritative Text Based on the 1819 Edition
 
-> Cover not available.
+![[Attachments/Covers/Percy Bysshe Shelley - The Cenci A Tragedy in Five Acts An Authoritative Text Based on the 1819 Edition.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 240
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Antón Chéjov - La estepa En el barranco.jpg]]"
 bookshelves:
   - "[[literatura-rusa]]"
   - "[[novelas]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La estepa / En el barranco
 
-> Cover not available.
+![[Attachments/Covers/Antón Chéjov - La estepa En el barranco.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

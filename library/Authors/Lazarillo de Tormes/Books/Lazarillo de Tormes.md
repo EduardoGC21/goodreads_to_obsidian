@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Cátedra"
 original_publish_year: 1554
 isbn: "8437606608"

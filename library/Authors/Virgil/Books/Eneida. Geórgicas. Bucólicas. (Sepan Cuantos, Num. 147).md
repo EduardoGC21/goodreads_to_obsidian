@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-03-22"
 date_read: "2021-04-14"
-language: "Unknown"
+language: "Spanish"
 publisher: "Porrua"
 original_publish_year: ""
 isbn: "607091161X"

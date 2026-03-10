@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-09-24"
 date_read: "2020-09-26"
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Satori"
 original_publish_year: 2013
 isbn: ""

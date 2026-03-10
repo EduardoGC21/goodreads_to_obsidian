@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2024-01-12"
 date_read: ""
-language: "English"
+language: "Spanish"
 publisher: "Ediciones Cátedra"
 original_publish_year: 2012
 isbn: ""

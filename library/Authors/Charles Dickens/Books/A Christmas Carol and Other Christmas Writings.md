@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 288
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Charles Dickens - A Christmas Carol and Other Christmas Writings.jpg]]"
 bookshelves:
   - "[[cuentos]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A Christmas Carol and Other Christmas Writings
 
-> Cover not available.
+![[Attachments/Covers/Charles Dickens - A Christmas Carol and Other Christmas Writings.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

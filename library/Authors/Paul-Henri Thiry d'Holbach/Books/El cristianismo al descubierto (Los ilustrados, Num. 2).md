@@ -15,7 +15,7 @@ isbn: "8492422025"
 isbn13: "9788492422029"
 pages: 168
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Paul-Henri Thiry d'Holbach - El cristianismo al descubierto (Los ilustrados, Num. 2).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El cristianismo al descubierto (Los ilustrados, Num. 2)
 
-> Cover not available.
+![[Attachments/Covers/Paul-Henri Thiry d'Holbach - El cristianismo al descubierto (Los ilustrados, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

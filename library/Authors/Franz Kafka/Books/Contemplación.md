@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2021-04-04"
 date_read: "2021-04-04"
-language: "Unknown"
+language: "Spanish"
 publisher: "Editorial y librería Goncourt"
 original_publish_year: 1913
 isbn: ""

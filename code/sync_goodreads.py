@@ -14,7 +14,7 @@ import time
 import unicodedata
 from collections import defaultdict, deque
 from concurrent.futures import FIRST_COMPLETED, Future, ThreadPoolExecutor, wait
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
@@ -27,6 +27,16 @@ try:
     import requests
 except ImportError as exc:  # pragma: no cover
     raise SystemExit("Missing dependency: requests. Install requirements first.") from exc
+
+try:
+    from ddgs import DDGS
+    from ddgs.exceptions import DDGSException
+except ImportError:  # pragma: no cover
+    print("Warning: ddgs not found, DuckDuckGo image search will be unavailable. Install requirements first for full functionality.")
+    DDGS = None
+
+    class DDGSException(Exception):
+        pass
 
 try:
     import frontmatter
@@ -47,7 +57,6 @@ import yaml
 OPEN_LIBRARY_SEARCH_API = "https://openlibrary.org/search.json"
 GOOGLE_BOOKS_API = "https://www.googleapis.com/books/v1/volumes"
 WIKIMEDIA_COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-WIKIPEDIA_SUMMARY_API = "https://en.wikipedia.org/api/rest_v1/page/summary/{title}"
 REVIEW_NOTE_NAME = "Missing Metadata.md"
 EXPECTED_COLUMNS = [
     "Book Id",
@@ -96,7 +105,7 @@ BOOK_FRONTMATTER_KEYS = [
     "reread_dates",
     "tags",
 ]
-AUTHOR_FRONTMATTER_KEYS = ["name", "cover", "country", "birth_year", "death_year", "tags"]
+AUTHOR_FRONTMATTER_KEYS = ["name", "cover", "country", "birth_year", "death_year", "sex", "tags"]
 GENERATED_MARKERS = {
     "book_header": ("<!-- GENERATED:BOOK_HEADER START -->", "<!-- GENERATED:BOOK_HEADER END -->"),
     "book_quotes": ("<!-- GENERATED:BOOK_QUOTES START -->", "<!-- GENERATED:BOOK_QUOTES END -->"),
@@ -129,11 +138,8 @@ HTTP_ACCEPT_HEADER = (
     "application/json,text/html,application/xhtml+xml,application/xml;q=0.9,"
     "image/avif,image/webp,*/*;q=0.8"
 )
-IMAGE_PROVIDER_MIN_INTERVALS = {"google_books": 1.0, "wikimedia_commons": 1.0, "wikipedia": 1.0}
+IMAGE_PROVIDER_MIN_INTERVALS = {"google_books": 1.0, "wikimedia_commons": 1.0}
 IMAGE_PROVIDER_MAX_RETRIES = 3
-PLAYWRIGHT_TIMEOUT_SECONDS = 45
-PLAYWRIGHT_OUTPUT_DIRNAME = "output/playwright"
-BING_IMAGES_URL = "https://www.bing.com/images/search?q={query}&form=HDRSC2"
 
 
 @dataclass
@@ -231,6 +237,30 @@ class AuthorMetadataResult:
     country: str
     birth_year: str = ""
     death_year: str = ""
+    sex: str = "unknown"
+
+
+@dataclass
+class ImageFetchResult:
+    url: str = ""
+    provider: str = ""
+    errors: list[str] = field(default_factory=list)
+
+
+@dataclass
+class BookProcessOutcome:
+    status: str
+    metadata_status: str
+    note_status: str
+    cover_status: str
+    cover_provider: str = ""
+
+
+@dataclass
+class AuthorProcessOutcome:
+    note_status: str
+    image_status: str
+    image_provider: str = ""
 
 
 def build_codex_exec_command(
@@ -569,6 +599,19 @@ def normalize_country_name(value: str) -> str:
     if text.startswith("[[") and text.endswith("]]"):
         text = text[2:-2].split("|", 1)[-1]
     return text or "Unknown"
+
+
+def normalize_sex_value(value: Any) -> str:
+    text = repair_text_value(clean_value(value)).strip().casefold()
+    if not text:
+        return ""
+    if text in {"male", "man", "male author", "he", "him"} or " male" in text or text.startswith("male "):
+        return "male"
+    if text in {"female", "woman", "female author", "she", "her"} or " female" in text or text.startswith("female "):
+        return "female"
+    if text in {"unknown", "unsure", "uncertain", "not sure", "n/a", "none", "null"}:
+        return "unknown"
+    return "unknown"
 
 
 def ensure_wikilink(value: str) -> str:
@@ -951,8 +994,16 @@ def ordered_metadata(keys: list[str], values: dict[str, Any]) -> dict[str, Any]:
     return {key: values.get(key, "") for key in keys}
 
 
+def note_has_schema_keys(note: NoteDocument, keys: list[str]) -> bool:
+    return all(key in note.metadata for key in keys)
+
+
 def notes_equal(current: NoteDocument, desired: NoteDocument, keys: list[str]) -> bool:
-    return ordered_metadata(keys, current.metadata) == ordered_metadata(keys, desired.metadata) and current.body.strip() == desired.body.strip()
+    return (
+        note_has_schema_keys(current, keys)
+        and ordered_metadata(keys, current.metadata) == ordered_metadata(keys, desired.metadata)
+        and current.body.strip() == desired.body.strip()
+    )
 
 
 def extract_existing_cover_filename(note: NoteDocument) -> str:
@@ -973,6 +1024,43 @@ def add_review_item(review_sections: dict[str, list[str]], section: str, item: s
 
 def print_progress(kind: str, index: int, total: int, status: str, label: str) -> None:
     print(f"[{kind} {index}/{total}] {status}: {label}", flush=True)
+
+
+def format_provider_status(status: str, provider: str = "") -> str:
+    if provider and status in {"downloaded", "found"}:
+        return f"{status}:{provider}"
+    return status
+
+
+def print_book_outcome(index: int, total: int, record: BookRecord, outcome: BookProcessOutcome) -> None:
+    parts = [
+        outcome.status,
+        f"yaml={outcome.metadata_status}",
+        f"note={outcome.note_status}",
+        f"cover={format_provider_status(outcome.cover_status, outcome.cover_provider)}",
+    ]
+    print(f"[book {index}/{total}] {' | '.join(parts)} | {record.author_name} - {record.display_title()}", flush=True)
+
+
+def print_author_outcome(
+    index: int,
+    total: int,
+    author_name: str,
+    note_status: str,
+    biography_status: str,
+    demographics_status: str,
+    sex_status: str,
+    image_status: str,
+    image_provider: str = "",
+) -> None:
+    parts = [
+        note_status,
+        f"bio={biography_status}",
+        f"country_years={demographics_status}",
+        f"sex={sex_status}",
+        f"image={format_provider_status(image_status, image_provider)}",
+    ]
+    print(f"[author {index}/{total}] {' | '.join(parts)} | {author_name}", flush=True)
 
 
 def format_review_entry(record: BookRecord, detail: str) -> str:
@@ -1024,7 +1112,7 @@ def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: li
     )
 
 
-def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str) -> dict[str, Any]:
+def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str, sex: str) -> dict[str, Any]:
     return ordered_metadata(
         AUTHOR_FRONTMATTER_KEYS,
         {
@@ -1033,6 +1121,7 @@ def build_author_frontmatter(author_name: str, cover_link: str, country: str, bi
             "country": ensure_wikilink(country or "Unknown"),
             "birth_year": normalize_year_value(birth_year),
             "death_year": normalize_year_value(death_year),
+            "sex": normalize_sex_value(sex),
             "tags": ["author"],
         },
     )
@@ -1055,13 +1144,14 @@ def build_author_document(
     country: str,
     birth_year: str,
     death_year: str,
+    sex: str,
     cover_link: str,
 ) -> NoteDocument:
     body = existing.body
     body = set_generated_block(body, "author_header", render_author_header(author_name, cover_link))
     body = set_generated_block(body, "author_bio", render_author_bio(biography), after_marker_key="author_header")
     body = set_generated_block(body, "author_books", render_author_books(book_links), after_marker_key="author_bio")
-    return NoteDocument(metadata=build_author_frontmatter(author_name, cover_link, country, birth_year, death_year), body=body)
+    return NoteDocument(metadata=build_author_frontmatter(author_name, cover_link, country, birth_year, death_year, sex), body=body)
 
 
 def get_existing_quotes(note: NoteDocument) -> str:
@@ -1088,6 +1178,10 @@ def get_existing_birth_year(note: NoteDocument) -> str:
 
 def get_existing_death_year(note: NoteDocument) -> str:
     return normalize_year_value(note.metadata.get("death_year", ""))
+
+
+def get_existing_sex(note: NoteDocument) -> str:
+    return normalize_sex_value(note.metadata.get("sex", ""))
 
 
 def build_book_template_document() -> NoteDocument:
@@ -1138,6 +1232,7 @@ def build_author_template_document() -> NoteDocument:
                 "country": "",
                 "birth_year": "",
                 "death_year": "",
+                "sex": "",
                 "tags": ["author"],
             },
         ),
@@ -1157,6 +1252,7 @@ def author_metadata_is_complete(note: NoteDocument) -> bool:
         bool(get_existing_biography(note))
         and get_existing_country(note) != "Unknown"
         and bool(get_existing_birth_year(note) or get_existing_death_year(note))
+        and bool(get_existing_sex(note))
     )
 
 
@@ -1241,140 +1337,43 @@ def provider_get(
     raise last_error
 
 
-class PlaywrightRunner:
-    def __init__(self, timeout_s: int = PLAYWRIGHT_TIMEOUT_SECONDS) -> None:
-        self.timeout_s = timeout_s
-
-    def _base_command(self) -> list[str]:
-        npx_cmd = shutil.which("npx.cmd") or shutil.which("npx")
-        if os.name == "nt" and npx_cmd:
-            return [npx_cmd, "--yes", "--package", "@playwright/cli", "playwright-cli"]
-
-        codex_home = Path(os.environ.get("CODEX_HOME", str(Path.home() / ".codex")))
-        wrapper = codex_home / "skills" / "playwright" / "scripts" / "playwright_cli.sh"
-        bash_candidates = [
-            shutil.which("bash"),
-            str(Path("C:/Program Files/Git/bin/bash.exe")) if Path("C:/Program Files/Git/bin/bash.exe").exists() else "",
-        ]
-        for bash in bash_candidates:
-            if bash and wrapper.exists():
-                return [bash, str(wrapper).replace(chr(92), "/")]
-        if npx_cmd:
-            return [npx_cmd, "--yes", "--package", "@playwright/cli", "playwright-cli"]
-        raise RuntimeError("Playwright CLI unavailable: install Node.js/npm or make the Playwright skill wrapper executable.")
-
-    def run(self, args: list[str], *, workdir: Path, session_name: str) -> PlaywrightResult:
-        workdir.mkdir(parents=True, exist_ok=True)
-        command = self._base_command() + ["--session", session_name] + args
-        completed = subprocess.run(
-            command,
-            capture_output=True,
-            text=True,
-            encoding="utf-8",
-            errors="replace",
-            timeout=self.timeout_s,
-            check=False,
-            cwd=workdir,
-        )
-        return PlaywrightResult(stdout=completed.stdout or "", stderr=completed.stderr or "", returncode=completed.returncode)
+def fetch_open_library_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    identifiers = [identifier for identifier in (record.isbn13, record.isbn) if identifier]
+    for identifier in identifiers:
+        url = f"https://covers.openlibrary.org/b/isbn/{identifier}-L.jpg?default=false"
+        try:
+            response = session.get(url, timeout=20)
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            if identifier == identifiers[-1]:
+                continue
+            continue
+        if "image" in response.headers.get("Content-Type", "").lower() and response.content:
+            return url.replace("http://", "https://"), []
+    return "", []
 
 
-def build_playwright_cover_query(record: BookRecord) -> str:
-    return f"{record.display_title()} {record.author_name} book cover"
 
-
-def build_playwright_cover_search_url(record: BookRecord) -> str:
-    query = requests.utils.quote(build_playwright_cover_query(record), safe="")
-    return BING_IMAGES_URL.format(query=query)
-
-
-def build_playwright_session_name(record: BookRecord) -> str:
-    digest = hashlib.sha1(f"{record.author_name}|{record.display_title()}".encode("utf-8")).hexdigest()[:12]
-    return f"cover-{digest}"
-
-
-def extract_first_http_url(text: str) -> str:
-    match = re.search(r"https?://[^\s\"'<>]+", text)
-    return match.group(0) if match else ""
-
-
-def score_wikimedia_page(page: dict[str, Any], record: BookRecord) -> int:
+def score_wikimedia_cover_page(page: dict[str, Any], record: BookRecord) -> int:
     title = clean_value(page.get("title", "")).casefold()
     score = 0
-    if "cover" in title:
-        score += 5
-    for token in re.findall(r"\w+", record.display_title().casefold())[:4]:
-        if token in title:
-            score += 2
-    for token in re.findall(r"\w+", record.author_name.casefold())[:3]:
-        if token in title:
+    for token in re.findall(r"\w+", repair_text_value(record.title).casefold())[:6]:
+        if len(token) > 2 and token in title:
+            score += 3
+    for token in re.findall(r"\w+", repair_text_value(record.author_name).casefold())[:4]:
+        if len(token) > 2 and token in title:
             score += 1
+    if any(marker in title for marker in ("cover", "portada", "cubierta")):
+        score += 3
+    if any(title.endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".webp")):
+        score += 1
     return score
-
-def fetch_open_library_cover_url(
-    session: requests.Session,
-    record: BookRecord,
-) -> tuple[str, list[str]]:
-    if record.isbn13:
-        return f"https://covers.openlibrary.org/b/isbn/{record.isbn13}-L.jpg?default=false", []
-    if record.isbn:
-        return f"https://covers.openlibrary.org/b/isbn/{record.isbn}-L.jpg?default=false", []
-
-    try:
-        response = session.get(
-            OPEN_LIBRARY_SEARCH_API,
-            params={"title": record.title, "author": record.author_name, "limit": 1},
-            timeout=20,
-        )
-        response.raise_for_status()
-        payload = response.json()
-    except requests.RequestException as exc:
-        return "", [f"Open Library search failed for {record.display_title()}: {exc}"]
-
-    docs = payload.get("docs") or []
-    if not docs:
-        return "", []
-    cover_id = docs[0].get("cover_i")
-    if not cover_id:
-        return "", []
-    return f"https://covers.openlibrary.org/b/id/{cover_id}-L.jpg", []
-
-
-def fetch_google_books_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
-    queries: list[str] = []
-    if record.isbn13:
-        queries.append(f"isbn:{record.isbn13}")
-    if record.isbn:
-        queries.append(f"isbn:{record.isbn}")
-    queries.append(f'intitle:"{record.title}"+inauthor:"{record.author_name}"')
-    last_errors: list[str] = []
-    for query in queries:
-        try:
-            response = provider_get(
-                session,
-                "google_books",
-                GOOGLE_BOOKS_API,
-                params={"q": query, "maxResults": 1},
-                timeout=20,
-                retry_statuses=(429,),
-            )
-            payload = response.json()
-        except requests.RequestException as exc:
-            last_errors = [f"Google Books search failed for {record.display_title()}: {exc}"]
-            continue
-        items = payload.get("items") or []
-        if not items:
-            continue
-        image_links = ((items[0].get("volumeInfo") or {}).get("imageLinks") or {})
-        for key in ("extraLarge", "large", "medium", "small", "thumbnail", "smallThumbnail"):
-            url = clean_value(image_links.get(key, ""))
-            if url:
-                return url.replace("http://", "https://"), []
-    return "", last_errors
 
 
 def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
-    query = f'{record.display_title()} {record.author_name}'
+    query = " ".join(part for part in (repair_text_value(record.title), repair_text_value(record.author_name)) if part).strip()
+    if not query:
+        return "", []
     try:
         response = provider_get(
             session,
@@ -1386,7 +1385,7 @@ def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRec
                 "generator": "search",
                 "gsrnamespace": 6,
                 "gsrsearch": query,
-                "gsrlimit": 5,
+                "gsrlimit": 10,
                 "prop": "imageinfo",
                 "iiprop": "url",
             },
@@ -1395,11 +1394,11 @@ def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRec
         )
         payload = response.json()
     except requests.RequestException as exc:
-        return "", [f"Wikimedia Commons search failed for {record.display_title()}: {exc}"]
+        return "", [f"Wikimedia Commons cover search failed for {record.display_title()}: {exc}"]
     pages = list(((payload.get("query") or {}).get("pages") or {}).values())
     if not pages:
         return "", []
-    for page in sorted(pages, key=lambda current: score_wikimedia_page(current, record), reverse=True):
+    for page in sorted(pages, key=lambda current: score_wikimedia_cover_page(current, record), reverse=True):
         imageinfo = page.get("imageinfo") or []
         if not imageinfo:
             continue
@@ -1409,220 +1408,24 @@ def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRec
     return "", []
 
 
-def fetch_wikipedia_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
-    title = requests.utils.quote(record.title.replace(" ", "_"), safe="()_,-")
-    try:
-        response = provider_get(
-            session,
-            "wikipedia",
-            WIKIPEDIA_SUMMARY_API.format(title=title),
-            timeout=20,
-            retry_statuses=(403, 429),
-        )
-        payload = response.json()
-    except requests.RequestException as exc:
-        return "", [f"Wikipedia search failed for {record.display_title()}: {exc}"]
-    thumbnail = payload.get("originalimage") or payload.get("thumbnail") or {}
-    url = clean_value(thumbnail.get("source", ""))
-    return (url, []) if url else ("", [])
-
-
-def fetch_playwright_cover_url(_session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
-    runner = PlaywrightRunner()
-    session_name = build_playwright_session_name(record)
-    workdir = Path.cwd() / PLAYWRIGHT_OUTPUT_DIRNAME / session_name
-    query_text = build_playwright_cover_query(record)
-    goto_script = (
-        "const q = " + json.dumps(query_text) + ";"
-        "const parts = new URLSearchParams({ q, form: 'HDRSC2' });"
-        "await page.goto('https://www.bing.com/images/search?' + parts.toString(), { waitUntil: 'domcontentloaded' });"
-    )
-    wait_script = (
-        "await page.waitForLoadState('networkidle').catch(() => null);"
-        "await page.waitForTimeout(1800);"
-        "await page.mouse.wheel(0, 1800).catch(() => null);"
-        "await page.waitForTimeout(1200);"
-        "await page.mouse.wheel(0, -1800).catch(() => null);"
-        "await page.waitForTimeout(600);"
-    )
-    extract_script = r'''JSON.stringify((() => {
-const candidates = [];
-const seen = new Set();
-const noisePattern = /logo|icon|avatar|sprite|badge|emoji|placeholder/i;
-const imageLikePattern = /\.(?:jpe?g|png|webp|gif|bmp)(?:[?#].*)?$/i;
-const encodedParamKeys = ['imgurl', 'mediaurl', 'murl', 'uddg', 'u', 'url'];
-const normalize = (value) => {
-  if (!value) {
-    return '';
-  }
-  let text = String(value).trim();
-  if (!text) {
-    return '';
-  }
-  text = text.split(',')[0].trim().split(/\s+/)[0];
-  if (text.startsWith('//')) {
-    return 'https:' + text;
-  }
-  return text;
-};
-const push = (value, meta = '') => {
-  const candidate = normalize(value);
-  if (!candidate || candidate.startsWith('data:')) {
-    return;
-  }
-  if (!/^https?:/i.test(candidate)) {
-    return;
-  }
-  const haystack = (candidate + ' ' + meta).toLowerCase();
-  if (noisePattern.test(haystack)) {
-    return;
-  }
-  if (!imageLikePattern.test(candidate) && !/image|cover|thumb|media|img|book|novel|edition/i.test(haystack)) {
-    return;
-  }
-  if (seen.has(candidate)) {
-    return;
-  }
-  seen.add(candidate);
-  candidates.push(candidate);
-};
-for (const img of Array.from(document.images)) {
-  const meta = [img.alt || '', img.getAttribute('class') || '', img.getAttribute('aria-label') || '', img.getAttribute('data-bm') || ''].join(' ');
-  push(img.currentSrc, meta);
-  push(img.src, meta);
-  push(img.getAttribute('data-src'), meta);
-  push(img.getAttribute('data-lazy-src'), meta);
-  push(img.getAttribute('data-original'), meta);
-  push(img.getAttribute('data-src-hq'), meta);
-  const srcset = img.getAttribute('srcset') || img.getAttribute('data-srcset') || '';
-  if (srcset) {
-    for (const entry of srcset.split(',')) {
-      push(entry, meta);
-    }
-  }
-}
-for (const node of Array.from(document.querySelectorAll('[m], [data-m]'))) {
-  const raw = node.getAttribute('m') || node.getAttribute('data-m') || '';
-  const meta = [node.getAttribute('class') || '', node.textContent || ''].join(' ');
-  try {
-    const parsed = JSON.parse(raw);
-    if (parsed && typeof parsed === 'object') {
-      for (const key of encodedParamKeys) {
-        if (parsed[key]) {
-          push(parsed[key], meta);
-        }
-      }
-    }
-  } catch (error) {
-    const matches = raw.match(/https?:[^\s"'\\]+/g) || [];
-    for (const match of matches) {
-      push(match, meta);
-    }
-  }
-}
-for (const anchor of Array.from(document.querySelectorAll('a[href]'))) {
-  const href = anchor.href || '';
-  const meta = [anchor.textContent || '', anchor.getAttribute('aria-label') || '', anchor.getAttribute('class') || ''].join(' ');
-  if (imageLikePattern.test(href)) {
-    push(href, meta);
-    continue;
-  }
-  try {
-    const parsed = new URL(href);
-    for (const key of encodedParamKeys) {
-      const value = parsed.searchParams.get(key);
-      if (value) {
-        push(decodeURIComponent(value), meta);
-      }
-    }
-  } catch (error) {
-  }
-}
-for (const node of Array.from(document.querySelectorAll('[style*="background-image"]'))) {
-  const style = node.getAttribute('style') || '';
-  const match = style.match(/background-image\s*:\s*url\((["']?)([^)"']+)\1\)/i);
-  if (match) {
-    push(match[2], node.getAttribute('class') || '');
-  }
-}
-return {
-  candidates: candidates.slice(0, 12),
-  imageCount: document.images.length,
-  title: document.title,
-  url: location.href,
-};
-})())'''
-    debug_script = r'''JSON.stringify({
-  title: document.title,
-  url: location.href,
-  imageCount: document.images.length,
-  firstImages: Array.from(document.images).slice(0, 8).map((img) => ({
-    currentSrc: img.currentSrc || '',
-    src: img.src || '',
-    dataSrc: img.getAttribute('data-src') || '',
-    dataLazySrc: img.getAttribute('data-lazy-src') || '',
-    alt: img.alt || '',
-    className: img.className || '',
-  })),
-  firstAnchors: Array.from(document.querySelectorAll('a[href]')).slice(0, 8).map((anchor) => ({
-    href: anchor.href || '',
-    text: (anchor.textContent || '').trim().slice(0, 80),
-    className: anchor.className || '',
-  })),
-})'''
-    try:
-        opened = runner.run(["open", "https://www.bing.com/"], workdir=workdir, session_name=session_name)
-        if opened.returncode != 0:
-            detail = clean_generated_biography(opened.stderr or opened.stdout)
-            return "", [f"Playwright cover search failed for {record.display_title()}: {detail or 'open command failed.'}"]
-        navigated = runner.run(["run-code", goto_script], workdir=workdir, session_name=session_name)
-        if navigated.returncode != 0:
-            detail = clean_generated_biography(navigated.stderr or navigated.stdout)
-            return "", [f"Playwright cover search failed for {record.display_title()}: {detail or 'navigation command failed.'}"]
-        runner.run(["run-code", wait_script], workdir=workdir, session_name=session_name)
-        extracted = runner.run(["eval", extract_script], workdir=workdir, session_name=session_name)
-        if extracted.returncode != 0:
-            detail = clean_generated_biography(extracted.stderr or extracted.stdout)
-            return "", [f"Playwright cover extraction failed for {record.display_title()}: {detail or 'eval command failed.'}"]
-        payload = extracted.stdout.strip()
-        url = ""
-        try:
-            extracted_payload = json.loads(payload) if payload else {}
-        except json.JSONDecodeError:
-            extracted_payload = {}
-            url = extract_first_http_url(payload)
-        else:
-            candidates = extracted_payload.get("candidates") if isinstance(extracted_payload, dict) else []
-            if isinstance(candidates, list):
-                for candidate in candidates:
-                    if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
-                        url = candidate
-                        break
-        if url:
-            return url.replace("http://", "https://"), []
-        debug_result = runner.run(["eval", debug_script], workdir=workdir, session_name=session_name)
-        detail = clean_generated_biography(debug_result.stdout or debug_result.stderr)
-        return "", [f"Playwright cover search found no usable images for {record.display_title()}: {detail or 'no image URL returned.'}"]
-    except (RuntimeError, subprocess.SubprocessError, OSError) as exc:
-        return "", [f"Playwright cover search failed for {record.display_title()}: {exc}"]
-    finally:
-        try:
-            runner.run(["close"], workdir=workdir, session_name=session_name)
-        except Exception:
-            pass
-def fetch_cover_url_with_fallbacks(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+def fetch_cover_image_with_fallbacks(session: requests.Session, record: BookRecord) -> ImageFetchResult:
     errors: list[str] = []
-    for fetcher in (
-        fetch_open_library_cover_url,
-        fetch_google_books_cover_url,
-        fetch_wikimedia_commons_cover_url,
-        fetch_wikipedia_cover_url,
+    for provider, fetcher in (
+        ("open_library", fetch_open_library_cover_url),
+        ("wikimedia_commons", fetch_wikimedia_commons_cover_url),
+        ("duckduckgo", fetch_ddg_cover_url),
     ):
         url, fetch_errors = fetcher(session, record)
         errors.extend(fetch_errors)
         if url:
-            return url, errors
-    return "", errors
+            return ImageFetchResult(url=url, provider=provider, errors=errors)
+    return ImageFetchResult(errors=errors)
+
+
+# Backward-compatible wrapper used by older tests/call sites.
+def fetch_cover_url_with_fallbacks(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    result = fetch_cover_image_with_fallbacks(session, record)
+    return result.url, result.errors
 
 
 def score_wikimedia_author_page(page: dict[str, Any], author_name: str) -> int:
@@ -1689,14 +1492,19 @@ def fetch_wikipedia_author_image_url(session: requests.Session, author_name: str
     return (url, []) if url else ("", [])
 
 
-def fetch_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+def fetch_author_image_result(session: requests.Session, author_name: str) -> ImageFetchResult:
     errors: list[str] = []
-    for fetcher in (fetch_wikimedia_commons_author_image_url, fetch_wikipedia_author_image_url):
+    for provider, fetcher in (("wikimedia_commons", fetch_wikimedia_commons_author_image_url), ("duckduckgo", fetch_ddg_author_image_url)):
         url, fetch_errors = fetcher(session, author_name)
         errors.extend(fetch_errors)
         if url:
-            return url, errors
-    return "", errors
+            return ImageFetchResult(url=url, provider=provider, errors=errors)
+    return ImageFetchResult(errors=errors)
+
+
+def fetch_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    result = fetch_author_image_result(session, author_name)
+    return result.url, result.errors
 
 
 def download_cover(session: requests.Session, url: str, destination: Path) -> bool:
@@ -1717,18 +1525,74 @@ def download_cover(session: requests.Session, url: str, destination: Path) -> bo
     return True
 
 
+def url_looks_like_image(session: requests.Session, url: str) -> bool:
+    try:
+        response = session.get(url, timeout=10)
+        response.raise_for_status()
+    except requests.RequestException:
+        return False
+    content_type = response.headers.get("Content-Type", "")
+    if "image" in content_type.lower():
+        return True
+    chunk = (response.content or b"")[:16]
+    signatures = (b"\xff\xd8\xff", b"\x89PNG", b"GIF8")
+    return any(chunk.startswith(signature) for signature in signatures) or b"WEBP" in chunk
+
+
+def fetch_first_working_ddg_image_url(session: requests.Session, results: list[dict[str, Any]]) -> str:
+    for item in results:
+        url = clean_value(item.get("image", ""))
+        if url and url_looks_like_image(session, url):
+            return url
+    return ""
+
+
+def ddg_image_search(query: str, retries: int = 3) -> tuple[list[dict[str, Any]], list[str]]:
+    if DDGS is None:
+        return [], ["DuckDuckGo image fallback unavailable because dependency `ddgs` is not installed."]
+    last_error = ""
+    for attempt in range(retries):
+        wait_seconds = 3 * (attempt + 1)
+        time.sleep(wait_seconds)
+        try:
+            return list(DDGS().images(query, max_results=10)), []
+        except DDGSException as exc:
+            last_error = str(exc)
+    if last_error:
+        return [], [f"DuckDuckGo image search failed: {last_error}"]
+    return [], []
+
+
+def fetch_ddg_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    query = f"{repair_text_value(record.title)} {repair_text_value(record.author_name)} book cover".strip()
+    results, errors = ddg_image_search(query)
+    if errors:
+        return "", [f"DuckDuckGo cover search failed for {record.display_title()}: {error}" for error in errors]
+    url = fetch_first_working_ddg_image_url(session, results)
+    return (url, []) if url else ("", [])
+
+
+def fetch_ddg_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    query = f"{repair_text_value(author_name)} author portrait".strip()
+    results, errors = ddg_image_search(query)
+    if errors:
+        return "", [f"DuckDuckGo author-image search failed for {author_name}: {error}" for error in errors]
+    url = fetch_first_working_ddg_image_url(session, results)
+    return (url, []) if url else ("", [])
+
+
 def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> str:
     payload = {
         "instruction": (
-            "You are AuthorBiographyAgent. Return strict JSON only with keys biography, country, birth_year, and death_year. "
+            "You are AuthorBiographyAgent. Return strict JSON only with keys biography, country, birth_year, death_year, and sex. "
             "Biography must be in English, 1-3 paragraphs, focused on the author's life, significance, achievements, relationships, and context. "
             "Include birth-death years when known, but do not pad unknown values. Mention the provided books only when materially useful. No external links. "
             "Country must be the author's country of origin in English. birth_year and death_year must be four-digit strings or empty strings when unknown. "
-            "If country is uncertain, return Unknown."
+            "Sex must be exactly male, female, or unknown. If country or sex is uncertain, return Unknown for that field."
         ),
         "author_name": author_name,
         "books_from_library": sample_titles[:5],
-        "required_keys": ["biography", "country", "birth_year", "death_year"],
+        "required_keys": ["biography", "country", "birth_year", "death_year", "sex"],
     }
     return json.dumps(payload, ensure_ascii=False)
 
@@ -1736,15 +1600,31 @@ def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> 
 def build_codex_demographics_prompt(author_name: str, biography: str, sample_titles: list[str]) -> str:
     payload = {
         "instruction": (
-            "You are AuthorDemographicsAgent. Return strict JSON only with keys country, birth_year, and death_year. "
+            "You are AuthorDemographicsAgent. Return strict JSON only with keys country, birth_year, death_year, and sex. "
             "Use the provided English biography as primary evidence, and use the listed books only as secondary context. "
             "Do not rewrite or summarize the biography. Country must be in English. birth_year and death_year must be four-digit strings or empty strings when unknown. "
-            "If country is uncertain, return Unknown. No external links."
+            "Sex must be exactly male, female, or unknown. If country or sex is uncertain, return Unknown for that field. No external links."
         ),
         "author_name": author_name,
         "existing_biography": biography,
         "books_from_library": sample_titles[:5],
-        "required_keys": ["country", "birth_year", "death_year"],
+        "required_keys": ["country", "birth_year", "death_year", "sex"],
+    }
+    return json.dumps(payload, ensure_ascii=False)
+
+
+def build_codex_sex_prompt(author_name: str, biography: str, sample_titles: list[str]) -> str:
+    payload = {
+        "instruction": (
+            "You are AuthorSexAgent. Return strict JSON only with key sex. "
+            "Use the provided English biography as primary evidence, and use the listed books only as secondary context. "
+            "Do not rewrite or summarize the biography. Sex must be exactly male, female, or unknown. "
+            "If uncertain, return unknown. No external links."
+        ),
+        "author_name": author_name,
+        "existing_biography": biography,
+        "books_from_library": sample_titles[:5],
+        "required_keys": ["sex"],
     }
     return json.dumps(payload, ensure_ascii=False)
 
@@ -1763,7 +1643,8 @@ def parse_author_metadata_result(text: str) -> AuthorMetadataResult:
     country = normalize_country_name(clean_value(payload.get("country", "Unknown")))
     birth_year = normalize_year_value(payload.get("birth_year", ""))
     death_year = normalize_year_value(payload.get("death_year", ""))
-    return AuthorMetadataResult(biography=biography, country=country, birth_year=birth_year, death_year=death_year)
+    sex = normalize_sex_value(payload.get("sex", ""))
+    return AuthorMetadataResult(biography=biography, country=country, birth_year=birth_year, death_year=death_year, sex=sex)
 
 
 def biography_output_looks_invalid(text: str) -> bool:
@@ -1803,6 +1684,17 @@ class AuthorDemographicsAgent(_CodexTextAgent):
         return self._run(prompt, workdir=workdir)
 
 
+class AuthorSexAgent(_CodexTextAgent):
+    agent_name = "AuthorSexAgent"
+
+    def __init__(self, *, runner: CodexRunner | None = None) -> None:
+        super().__init__(runner=runner, model=CODEX_MODEL, reasoning_effort=CODEX_REASONING_EFFORT)
+
+    def run(self, author_name: str, biography: str, sample_titles: list[str], *, workdir: Path) -> CodexResult:
+        prompt = build_codex_sex_prompt(author_name, biography, sample_titles)
+        return self._run(prompt, workdir=workdir)
+
+
 def generate_author_metadata_via_codex(
     author_name: str,
     sample_titles: list[str],
@@ -1837,6 +1729,7 @@ def generate_author_metadata_via_codex(
             country=metadata.country,
             birth_year=metadata.birth_year,
             death_year=metadata.death_year,
+            sex=metadata.sex,
         ), [f"Codex biography generation produced unusable output for {author_name}."]
     return metadata, []
 
@@ -1854,28 +1747,61 @@ def generate_author_demographics_via_codex(
     except RuntimeError as exc:
         message = str(exc)
         if "not found" in message.casefold():
-            return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex CLI not found while inferring demographics for {author_name}."]
+            return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="", sex=""), [f"Codex CLI not found while inferring demographics for {author_name}."]
         detail = clean_generated_biography(message)
         suffix = f" {detail}" if detail else ""
-        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="", sex=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
     except TimeoutError:
-        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference timed out for {author_name}."]
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="", sex=""), [f"Codex demographics inference timed out for {author_name}."]
 
     if result.returncode != 0:
         detail = clean_generated_biography(result.stderr)
         suffix = f" {detail}" if detail else ""
-        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="", sex=""), [f"Codex demographics inference failed for {author_name}.{suffix}".strip()]
 
     try:
         metadata = parse_author_metadata_result(result.text)
     except (json.JSONDecodeError, KeyError, TypeError):
-        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year=""), [f"Codex demographics inference produced unusable output for {author_name}."]
+        return AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="", sex=""), [f"Codex demographics inference produced unusable output for {author_name}."]
     return AuthorMetadataResult(
         biography="",
         country=metadata.country,
         birth_year=metadata.birth_year,
         death_year=metadata.death_year,
+        sex=metadata.sex,
     ), []
+
+
+def generate_author_sex_via_codex(
+    author_name: str,
+    biography: str,
+    sample_titles: list[str],
+    workdir: Path,
+    agent: AuthorSexAgent | None = None,
+) -> tuple[AuthorMetadataResult, list[str]]:
+    sex_agent = agent or AuthorSexAgent()
+    try:
+        result = sex_agent.run(author_name, biography, sample_titles, workdir=workdir)
+    except RuntimeError as exc:
+        message = str(exc)
+        if "not found" in message.casefold():
+            return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex CLI not found while inferring sex for {author_name}."]
+        detail = clean_generated_biography(message)
+        suffix = f" {detail}" if detail else ""
+        return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex sex inference failed for {author_name}.{suffix}".strip()]
+    except TimeoutError:
+        return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex sex inference timed out for {author_name}."]
+
+    if result.returncode != 0:
+        detail = clean_generated_biography(result.stderr)
+        suffix = f" {detail}" if detail else ""
+        return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex sex inference failed for {author_name}.{suffix}".strip()]
+
+    try:
+        metadata = parse_author_metadata_result(result.text)
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex sex inference produced unusable output for {author_name}."]
+    return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=metadata.sex), []
 
 def build_author_work_items(
     records: list[BookRecord],
@@ -1912,31 +1838,40 @@ def materialize_author_note(
     country: str,
     birth_year: str,
     death_year: str,
+    sex: str,
     summary: SyncSummary,
     vault_root: Path,
     metadata_session: requests.Session,
     refresh_images: bool,
     review_sections: dict[str, list[str]],
-) -> str:
+) -> AuthorProcessOutcome:
     assert work_item.author_record.author_path is not None
     assert work_item.author_record.author_cover_path is not None
 
     existing_cover_filename = extract_existing_cover_filename(work_item.current_note)
     cover_link = f"[[{existing_cover_filename}]]" if existing_cover_filename else ""
+    image_status = "missing"
+    image_provider = ""
 
     if work_item.author_name != "Anonymous":
+        if work_item.author_record.author_cover_path.exists():
+            cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+            image_status = "existing"
         if refresh_images or not work_item.author_record.author_cover_path.exists():
-            cover_url, cover_errors = fetch_author_image_url(metadata_session, work_item.author_name)
-            for error in cover_errors:
+            image_result = fetch_author_image_result(metadata_session, work_item.author_name)
+            for error in image_result.errors:
                 add_review_item(review_sections, "API Errors", f"- {work_item.author_name}: {error}")
-            if cover_url and download_cover(metadata_session, cover_url, work_item.author_record.author_cover_path):
+            if image_result.url and download_cover(metadata_session, image_result.url, work_item.author_record.author_cover_path):
+                summary.covers_downloaded += 1
                 cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+                image_status = "downloaded"
+                image_provider = image_result.provider
             elif work_item.author_record.author_cover_path.exists():
                 cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+                image_status = "existing"
             else:
                 cover_link = ""
-        elif work_item.author_record.author_cover_path.exists():
-            cover_link = vault_wiki_link(vault_root, work_item.author_record.author_cover_path, keep_suffix=True)
+                image_status = "missing"
 
     desired_author = build_author_document(
         work_item.current_note,
@@ -1946,21 +1881,22 @@ def materialize_author_note(
         country,
         birth_year,
         death_year,
+        sex,
         cover_link,
     )
     if notes_equal(work_item.current_note, desired_author, AUTHOR_FRONTMATTER_KEYS):
         summary.authors_skipped += 1
-        return "skipped"
+        return AuthorProcessOutcome(note_status="skipped", image_status=image_status, image_provider=image_provider)
 
     existed_before = work_item.author_record.author_path.exists()
     work_item.author_record.author_path.write_text(dump_note(desired_author), encoding="utf-8")
     work_item.current_note = desired_author
     if existed_before:
         summary.authors_updated += 1
-        return "updated"
+        return AuthorProcessOutcome(note_status="updated", image_status=image_status, image_provider=image_provider)
 
     summary.authors_created += 1
-    return "created"
+    return AuthorProcessOutcome(note_status="created", image_status=image_status, image_provider=image_provider)
 
 def classify_biography_result(errors: list[str]) -> str:
     if not errors:
@@ -1993,20 +1929,27 @@ def process_author_biographies(
         country: str,
         birth_year: str,
         death_year: str,
+        sex: str,
         errors: list[str],
+        mode: str,
         slot_id: int | None = None,
     ) -> None:
         nonlocal completed_authors
+        existing_country = get_existing_country(work_item.current_note)
+        existing_birth_year = get_existing_birth_year(work_item.current_note)
+        existing_death_year = get_existing_death_year(work_item.current_note)
+        existing_sex = get_existing_sex(work_item.current_note)
         for error in errors:
             add_review_item(review_sections, "Failed Author Biographies", f"- {work_item.author_name}: {error}")
         if slot_id is not None:
             renderer.update(slot_id, "writing_note", work_item.author_name)
-        author_status = materialize_author_note(
+        author_outcome = materialize_author_note(
             work_item,
             biography,
             country,
             birth_year,
             death_year,
+            sex,
             summary,
             vault_root,
             metadata_session,
@@ -2014,7 +1957,33 @@ def process_author_biographies(
             review_sections,
         )
         completed_authors += 1
-        print_progress("author", completed_authors, total_authors, author_status, work_item.author_name)
+        if mode == "full":
+            biography_status = "generated" if biography else "missing"
+            demographics_status = "generated" if (country != "Unknown" or birth_year or death_year) else "missing"
+            sex_status = "generated" if sex else "missing"
+        elif mode == "demographics":
+            biography_status = "reused"
+            demographics_status = "inferred" if (country != existing_country or birth_year != existing_birth_year or death_year != existing_death_year) else ("missing" if country == "Unknown" and not birth_year and not death_year else "reused")
+            sex_status = "inferred" if sex and not existing_sex else ("reused" if sex else "missing")
+        elif mode == "sex":
+            biography_status = "reused"
+            demographics_status = "reused"
+            sex_status = "inferred" if sex and sex != existing_sex else ("reused" if sex else "missing")
+        else:
+            biography_status = "reused" if biography else "missing"
+            demographics_status = "reused" if (country != "Unknown" or birth_year or death_year) else "missing"
+            sex_status = "reused" if sex else "missing"
+        print_author_outcome(
+            completed_authors,
+            total_authors,
+            work_item.author_name,
+            author_outcome.note_status,
+            biography_status,
+            demographics_status,
+            sex_status,
+            author_outcome.image_status,
+            author_outcome.image_provider,
+        )
         if slot_id is not None:
             renderer.update(slot_id, classify_biography_result(errors), work_item.author_name)
 
@@ -2030,14 +1999,22 @@ def process_author_biographies(
                 existing_country or "Unknown",
                 existing_birth_year,
                 existing_death_year,
+                get_existing_sex(work_item.current_note),
                 [],
+                "existing",
             )
-        elif refresh_bio:
+            continue
+        existing_sex = get_existing_sex(work_item.current_note)
+        if refresh_bio:
             pending_queue.append((work_item, "full"))
         elif infer_author_dates and existing_bio and (existing_country == "Unknown" or not (existing_birth_year or existing_death_year)):
             pending_queue.append((work_item, "demographics"))
+        elif existing_bio and not existing_sex and existing_country != "Unknown" and (existing_birth_year or existing_death_year):
+            pending_queue.append((work_item, "sex"))
         elif author_metadata_is_complete(work_item.current_note):
-            finalize_author(work_item, existing_bio, existing_country, existing_birth_year, existing_death_year, [])
+            finalize_author(work_item, existing_bio, existing_country, existing_birth_year, existing_death_year, existing_sex, [], "existing")
+        elif existing_bio and (existing_country == "Unknown" or not (existing_birth_year or existing_death_year)):
+            pending_queue.append((work_item, "demographics"))
         else:
             pending_queue.append((work_item, "full"))
 
@@ -2064,6 +2041,15 @@ def process_author_biographies(
                     workdir,
                     AuthorDemographicsAgent(),
                 )
+            elif mode == "sex":
+                future = executor.submit(
+                    generate_author_sex_via_codex,
+                    work_item.author_name,
+                    work_item.existing_biography,
+                    work_item.sample_titles,
+                    workdir,
+                    AuthorSexAgent(),
+                )
             else:
                 future = executor.submit(
                     generate_author_metadata_via_codex,
@@ -2084,14 +2070,20 @@ def process_author_biographies(
                 try:
                     metadata, errors = future.result()
                 except Exception as exc:  # pragma: no cover
-                    metadata = AuthorMetadataResult(biography="", country="Unknown", birth_year="", death_year="")
-                    label = "demographics inference" if mode == "demographics" else "biography generation"
+                    metadata = AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex="")
+                    if mode == "demographics":
+                        label = "demographics inference"
+                    elif mode == "sex":
+                        label = "sex inference"
+                    else:
+                        label = "biography generation"
                     errors = [f"Codex {label} failed for {work_item.author_name}: {exc}"]
-                biography = work_item.existing_biography if mode == "demographics" else (metadata.biography or get_existing_biography(work_item.current_note))
+                biography = work_item.existing_biography if mode in {"demographics", "sex"} else (metadata.biography or get_existing_biography(work_item.current_note))
                 country = metadata.country or get_existing_country(work_item.current_note) or "Unknown"
                 birth_year = metadata.birth_year or get_existing_birth_year(work_item.current_note)
                 death_year = metadata.death_year or get_existing_death_year(work_item.current_note)
-                finalize_author(work_item, biography, country, birth_year, death_year, errors, slot_id)
+                sex = metadata.sex or get_existing_sex(work_item.current_note)
+                finalize_author(work_item, biography, country, birth_year, death_year, sex, errors, mode, slot_id)
                 if pending_queue:
                     submit_next(slot_id)
                 else:
@@ -2184,13 +2176,18 @@ def migrate_note_frontmatter(vault_root: Path, path: Path, is_author: bool) -> b
         if "death_year" not in metadata:
             metadata["death_year"] = death_year
             changed = True
-        cover = clean_value(metadata.get("cover", ""))
-        if not cover:
-            author_image_path = vault_root / "Attachments" / "AuthorImages" / f"{sanitize_filename(path.stem)}.jpg"
-            desired_cover = vault_wiki_link(vault_root, author_image_path, keep_suffix=True) if author_image_path.exists() else ""
-            if metadata.get("cover", "") != desired_cover:
-                metadata["cover"] = desired_cover
-                changed = True
+        sex = normalize_sex_value(metadata.get("sex", ""))
+        if metadata.get("sex", "") != sex:
+            metadata["sex"] = sex
+            changed = True
+        if "sex" not in metadata:
+            metadata["sex"] = sex
+            changed = True
+        author_image_path = vault_root / "Attachments" / "AuthorImages" / f"{sanitize_filename(path.stem)}.jpg"
+        desired_cover = vault_wiki_link(vault_root, author_image_path, keep_suffix=True) if author_image_path.exists() else ""
+        if "cover" not in metadata or metadata.get("cover", "") != desired_cover:
+            metadata["cover"] = desired_cover
+            changed = True
     else:
         authors_value = metadata.get("author", [])
         if isinstance(authors_value, list):
@@ -2353,46 +2350,70 @@ def run_sync(
             )
 
         current_book = load_note(record.book_path)
-        existing_cover = extract_existing_cover_filename(current_book)
-        cover_link = f"[[{existing_cover}]]" if existing_cover else ""
+        cover_link = ""
+        cover_status = "missing"
+        cover_provider = ""
+
+        if record.cover_path.exists():
+            cover_link = vault_wiki_link(vault_root, record.cover_path, keep_suffix=True)
+            cover_status = "existing"
 
         if refresh_images or not record.cover_path.exists():
-            cover_url, cover_errors = fetch_cover_url_with_fallbacks(metadata_session, record)
-            for error in cover_errors:
+            cover_result = fetch_cover_image_with_fallbacks(metadata_session, record)
+            for error in cover_result.errors:
                 add_review_item(review_sections, "API Errors", f"- {error}")
-            if cover_url and download_cover(metadata_session, cover_url, record.cover_path):
+            if cover_result.url and download_cover(metadata_session, cover_result.url, record.cover_path):
                 summary.covers_downloaded += 1
                 cover_link = vault_wiki_link(vault_root, record.cover_path, keep_suffix=True)
+                cover_status = "downloaded"
+                cover_provider = cover_result.provider
+            elif record.cover_path.exists():
+                cover_link = vault_wiki_link(vault_root, record.cover_path, keep_suffix=True)
+                cover_status = "existing"
             else:
                 cover_link = ""
+                cover_status = "missing"
                 add_review_item(
                     review_sections,
                     "Missing Covers",
                     format_review_entry(record, "Cover image not found"),
                 )
-        elif record.cover_path.exists():
-            cover_link = vault_wiki_link(vault_root, record.cover_path, keep_suffix=True)
-
-        if image_only:
-            book_status = "skipped"
-            summary.books_skipped += 1
-            print_progress("book", book_index, total_books, book_status, f"{record.author_name} - {record.display_title()}")
-            continue
 
         desired_book = build_book_document(current_book, record, cover_link)
+        metadata_changed = not note_has_schema_keys(current_book, BOOK_FRONTMATTER_KEYS) or ordered_metadata(BOOK_FRONTMATTER_KEYS, current_book.metadata) != ordered_metadata(BOOK_FRONTMATTER_KEYS, desired_book.metadata)
+        body_changed = current_book.body.strip() != desired_book.body.strip()
+
         if notes_equal(current_book, desired_book, BOOK_FRONTMATTER_KEYS):
             summary.books_skipped += 1
-            book_status = "skipped"
+            overall_status = "missing" if cover_status == "missing" else "skipped"
+            outcome = BookProcessOutcome(
+                status=overall_status,
+                metadata_status="unchanged",
+                note_status="skipped",
+                cover_status=cover_status,
+                cover_provider=cover_provider,
+            )
         else:
             existed_before = record.book_path.exists()
             record.book_path.write_text(dump_note(desired_book), encoding="utf-8")
             if existed_before:
                 summary.books_updated += 1
-                book_status = "updated"
+                note_status = "updated"
             else:
                 summary.books_created += 1
-                book_status = "created"
-        print_progress("book", book_index, total_books, book_status, f"{record.author_name} - {record.display_title()}")
+                note_status = "created"
+            overall_status = "updated_note" if image_only and note_status == "updated" and cover_status != "downloaded" else note_status
+            outcome = BookProcessOutcome(
+                status=overall_status,
+                metadata_status="updated" if metadata_changed else "unchanged",
+                note_status=note_status if (metadata_changed or body_changed) else "skipped",
+                cover_status=cover_status,
+                cover_provider=cover_provider,
+            )
+
+        print_book_outcome(book_index, total_books, record, outcome)
+        if image_only:
+            continue
 
     author_work_items = build_author_work_items(records, author_books)
     if not image_only:
@@ -2430,7 +2451,7 @@ def format_summary(summary: SyncSummary, vault_root: Path) -> str:
         f"- Authors created: {summary.authors_created}\n"
         f"- Authors updated: {summary.authors_updated}\n"
         f"- Authors skipped: {summary.authors_skipped}\n"
-        f"- Covers downloaded: {summary.covers_downloaded}\n"
+        f"- Images downloaded: {summary.covers_downloaded}\n"
         f"- Manual review items: {summary.review_items}\n"
         f"- Output root: {vault_root}"
     )
@@ -2488,5 +2509,6 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 
 

@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-07-13"
 date_read: "2023-07-29"
-language: "Unknown"
+language: "Spanish"
 publisher: "Edimat Libros"
 original_publish_year: 1606
 isbn: "8484035719"

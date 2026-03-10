@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2022-01-16"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Paidos Iberica"
 original_publish_year: 2000
 isbn: "9501253368"

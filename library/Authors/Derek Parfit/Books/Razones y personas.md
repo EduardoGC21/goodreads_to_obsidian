@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2020-08-19"
 date_read: "2020-08-26"
-language: "Unknown"
+language: "Spanish"
 publisher: "Antonio Machado"
 original_publish_year: 1984
 isbn: "8491142614"
 isbn13: "9788491142614"
 pages: 908
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Derek Parfit - Razones y personas.jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Razones y personas
 
-> Cover not available.
+![[Attachments/Covers/Derek Parfit - Razones y personas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

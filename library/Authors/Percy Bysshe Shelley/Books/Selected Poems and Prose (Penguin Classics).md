@@ -15,7 +15,7 @@ isbn: "0241253063"
 isbn13: "9780241253069"
 pages: 920
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Percy Bysshe Shelley - Selected Poems and Prose (Penguin Classics).jpg]]"
 bookshelves:
   - "[[poesía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Selected Poems and Prose (Penguin Classics)
 
-> Cover not available.
+![[Attachments/Covers/Percy Bysshe Shelley - Selected Poems and Prose (Penguin Classics).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

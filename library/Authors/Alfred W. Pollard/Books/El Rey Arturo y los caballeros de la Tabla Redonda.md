@@ -15,7 +15,7 @@ isbn: "8419124656"
 isbn13: "9788419124654"
 pages: 544
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Alfred W. Pollard - El Rey Arturo y los caballeros de la Tabla Redonda.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Rey Arturo y los caballeros de la Tabla Redonda
 
-> Cover not available.
+![[Attachments/Covers/Alfred W. Pollard - El Rey Arturo y los caballeros de la Tabla Redonda.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

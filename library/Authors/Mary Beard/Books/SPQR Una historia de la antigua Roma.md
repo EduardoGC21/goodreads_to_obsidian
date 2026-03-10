@@ -15,7 +15,7 @@ isbn: "9584252143"
 isbn13: "9789584252142"
 pages: 648
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Mary Beard - SPQR Una historia de la antigua Roma.jpg]]"
 bookshelves:
   - "[[history]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # SPQR: Una historia de la antigua Roma
 
-> Cover not available.
+![[Attachments/Covers/Mary Beard - SPQR Una historia de la antigua Roma.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

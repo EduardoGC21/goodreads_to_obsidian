@@ -15,7 +15,7 @@ isbn: "8484287769"
 isbn13: "9788484287766"
 pages: 390
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Herman Melville - Cuentos completos (Clásica Maior) (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos completos (Clásica Maior) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Herman Melville - Cuentos completos (Clásica Maior) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 163
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Wilhelm Gwinner - Arthur Schopenhauer presentado desde el trato personal Una mirada a su vida, su carácter y su pensamiento (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Arthur Schopenhauer presentado desde el trato personal: Una mirada a su vida, su carácter y su pensamiento (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Wilhelm Gwinner - Arthur Schopenhauer presentado desde el trato personal Una mirada a su vida, su carácter y su pensamiento (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

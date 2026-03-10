@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2025-12-08"
 date_read: "2026-02-04"
-language: "Unknown"
+language: "English"
 publisher: "Del Rey Books"
 original_publish_year: 1953
 isbn: ""

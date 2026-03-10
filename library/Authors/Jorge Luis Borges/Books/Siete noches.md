@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-05-10"
 date_read: "2023-05-14"
-language: "Unknown"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica USA"
 original_publish_year: 1977
 isbn: "9681664094"

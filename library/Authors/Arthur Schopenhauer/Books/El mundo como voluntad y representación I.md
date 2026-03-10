@@ -15,7 +15,7 @@ isbn: "8481647268"
 isbn13: "9788481647266"
 pages: 605
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Arthur Schopenhauer - El mundo como voluntad y representación I.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[schopenhueriano]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El mundo como voluntad y representación I
 
-> Cover not available.
+![[Attachments/Covers/Arthur Schopenhauer - El mundo como voluntad y representación I.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

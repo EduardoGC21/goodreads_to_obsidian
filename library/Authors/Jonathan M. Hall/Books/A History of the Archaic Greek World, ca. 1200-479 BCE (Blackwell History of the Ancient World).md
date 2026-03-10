@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 394
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Jonathan M. Hall - A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World)
 
-> Cover not available.
+![[Attachments/Covers/Jonathan M. Hall - A History of the Archaic Greek World, ca. 1200-479 BCE (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

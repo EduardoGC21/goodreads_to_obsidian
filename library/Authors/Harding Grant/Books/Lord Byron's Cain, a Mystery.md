@@ -15,7 +15,7 @@ isbn: "1371434018"
 isbn13: "9781371434014"
 pages: 450
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Harding Grant - Lord Byron's Cain, a Mystery.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lord Byron's Cain, a Mystery
 
-> Cover not available.
+![[Attachments/Covers/Harding Grant - Lord Byron's Cain, a Mystery.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

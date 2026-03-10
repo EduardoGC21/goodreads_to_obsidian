@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2024-07-12"
 date_read: "2025-08-01"
-language: "Unknown"
+language: "Spanish"
 publisher: "CATEDRA"
 original_publish_year: ""
 isbn: "8437638666"

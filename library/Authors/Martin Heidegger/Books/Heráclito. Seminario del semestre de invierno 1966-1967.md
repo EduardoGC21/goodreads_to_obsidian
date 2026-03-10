@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2021-03-03"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica"
 original_publish_year: 1979
 isbn: "6071650739"

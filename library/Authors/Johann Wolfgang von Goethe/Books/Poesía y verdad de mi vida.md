@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2022-07-26"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Alba Editorial"
 original_publish_year: 1833
 isbn: "8489846545"

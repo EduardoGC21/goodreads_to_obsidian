@@ -15,7 +15,7 @@ isbn: "8402049273"
 isbn13: "9788402049278"
 pages: 253
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Mao Zedong - El Libro Rojo de Mao.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Libro Rojo de Mao
 
-> Cover not available.
+![[Attachments/Covers/Mao Zedong - El Libro Rojo de Mao.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

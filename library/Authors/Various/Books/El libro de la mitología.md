@@ -15,7 +15,7 @@ isbn: "1465482857"
 isbn13: "9781465482853"
 pages: 352
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Various - El libro de la mitología.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El libro de la mitología
 
-> Cover not available.
+![[Attachments/Covers/Various - El libro de la mitología.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

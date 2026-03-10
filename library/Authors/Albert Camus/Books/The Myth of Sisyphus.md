@@ -15,7 +15,7 @@ isbn: "0525567003"
 isbn13: "9780525567004"
 pages: 155
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Albert Camus - The Myth of Sisyphus.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[existencialista]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Myth of Sisyphus
 
-> Cover not available.
+![[Attachments/Covers/Albert Camus - The Myth of Sisyphus.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

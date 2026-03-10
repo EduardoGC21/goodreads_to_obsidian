@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2020-01-02"
 date_read: "2020-08-19"
-language: "Spanish"
+language: "English"
 publisher: "Createspace Independent Publishing Platform"
 original_publish_year: 1888
 isbn: "8027205735"
 isbn13: "9788027205738"
 pages: 117
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Friedrich Nietzsche - El Anticristo.jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Anticristo
 
-> Cover not available.
+![[Attachments/Covers/Friedrich Nietzsche - El Anticristo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

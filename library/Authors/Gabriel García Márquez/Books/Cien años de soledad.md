@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-06-20"
 date_read: "2022-07-07"
-language: "Unknown"
+language: "Spanish"
 publisher: "Literatura Random House"
 original_publish_year: 1967
 isbn: "8439732473"

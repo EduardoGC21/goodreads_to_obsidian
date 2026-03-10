@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2021-09-18"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Alianza Editorial"
 original_publish_year: 1956
 isbn: "8420674192"

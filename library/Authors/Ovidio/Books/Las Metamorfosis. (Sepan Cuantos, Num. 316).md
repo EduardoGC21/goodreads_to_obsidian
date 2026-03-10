@@ -15,7 +15,7 @@ isbn: "9684325614"
 isbn13: "9789684325616"
 pages: 233
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Ovidio - Las Metamorfosis. (Sepan Cuantos, Num. 316).jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[poesía]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las Metamorfosis. (Sepan Cuantos, Num. 316)
 
-> Cover not available.
+![[Attachments/Covers/Ovidio - Las Metamorfosis. (Sepan Cuantos, Num. 316).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

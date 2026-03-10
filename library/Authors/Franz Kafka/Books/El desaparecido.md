@@ -15,7 +15,7 @@ isbn: "9588773423"
 isbn13: "9789588773421"
 pages: 289
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Franz Kafka - El desaparecido.jpg]]"
 bookshelves:
   - "[[novelas]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El desaparecido
 
-> Cover not available.
+![[Attachments/Covers/Franz Kafka - El desaparecido.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

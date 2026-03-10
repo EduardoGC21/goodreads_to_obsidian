@@ -15,7 +15,7 @@ isbn: "8481648795"
 isbn13: "9788481648799"
 pages: 510
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Arthur Schopenhauer - Parerga y paralipómena I.jpg]]"
 bookshelves:
   - "[[favoritos]]"
   - "[[filosofía]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Parerga y paralipómena I
 
-> Cover not available.
+![[Attachments/Covers/Arthur Schopenhauer - Parerga y paralipómena I.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

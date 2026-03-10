@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-12-11"
 date_read: "2020-12-12"
-language: "Unknown"
+language: "English"
 publisher: "CreateSpace Independent Publishing Platform"
 original_publish_year: 1831
 isbn: "1973978504"

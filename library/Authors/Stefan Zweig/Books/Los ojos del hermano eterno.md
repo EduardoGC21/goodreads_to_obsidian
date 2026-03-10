@@ -15,7 +15,7 @@ isbn: "8417902589"
 isbn13: "9788417902582"
 pages: 52
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Stefan Zweig - Los ojos del hermano eterno.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[oriental]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los ojos del hermano eterno
 
-> Cover not available.
+![[Attachments/Covers/Stefan Zweig - Los ojos del hermano eterno.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

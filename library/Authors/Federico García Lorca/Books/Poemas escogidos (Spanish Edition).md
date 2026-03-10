@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2023-07-11"
 date_read: "2023-07-11"
-language: "English"
+language: "Spanish"
 publisher: "Biblioteca Nacional de España"
 original_publish_year: ""
 isbn: ""

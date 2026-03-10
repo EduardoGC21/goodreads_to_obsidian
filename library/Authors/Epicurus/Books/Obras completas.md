@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-08-21"
 date_read: "2021-11-05"
-language: "Unknown"
+language: "Spanish"
 publisher: "Cátedra/Letras Universales, 221"
 original_publish_year: 1995
 isbn: "8437613302"

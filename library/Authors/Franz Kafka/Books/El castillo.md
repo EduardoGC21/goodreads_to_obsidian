@@ -15,7 +15,7 @@ isbn: "6073832788"
 isbn13: "9786073832786"
 pages: 368
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Franz Kafka - El castillo.jpg]]"
 bookshelves:
   - "[[novelas]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El castillo
 
-> Cover not available.
+![[Attachments/Covers/Franz Kafka - El castillo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

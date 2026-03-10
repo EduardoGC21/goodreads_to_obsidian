@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 4
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Karl Marx - Tesis sobre Feuerbach (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tesis sobre Feuerbach (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Karl Marx - Tesis sobre Feuerbach (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

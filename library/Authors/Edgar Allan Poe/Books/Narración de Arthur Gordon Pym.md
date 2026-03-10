@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2022-12-28"
 date_read: "2023-01-05"
-language: "Unknown"
+language: "Spanish"
 publisher: "Libros del Zorro Rojo"
 original_publish_year: 1838
 isbn: "8494291874"

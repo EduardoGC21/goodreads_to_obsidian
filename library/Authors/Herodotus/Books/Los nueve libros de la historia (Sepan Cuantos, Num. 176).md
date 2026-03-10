@@ -15,7 +15,7 @@ isbn: "9700772861"
 isbn13: "9789700772868"
 pages: 533
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Herodotus - Los nueve libros de la historia (Sepan Cuantos, Num. 176).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los nueve libros de la historia (Sepan Cuantos, Num. 176)
 
-> Cover not available.
+![[Attachments/Covers/Herodotus - Los nueve libros de la historia (Sepan Cuantos, Num. 176).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

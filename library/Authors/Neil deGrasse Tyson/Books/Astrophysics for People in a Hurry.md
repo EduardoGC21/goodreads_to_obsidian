@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2019-12-12"
 date_read: "2019-12-15"
-language: "Unknown"
+language: "English"
 publisher: "W. W. Norton & Company"
 original_publish_year: 2017
 isbn: "0393609391"

@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2023-07-29"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Siruela"
 original_publish_year: 1210
 isbn: "8416465789"

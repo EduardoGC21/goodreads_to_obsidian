@@ -8,7 +8,7 @@ rating: 3
 read_count: 1
 date_added: "2018-12-14"
 date_read: "2019-03-12"
-language: "Unknown"
+language: "English"
 publisher: "Crown"
 original_publish_year: 2018
 isbn: "1524762938"

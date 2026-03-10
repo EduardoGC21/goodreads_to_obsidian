@@ -15,7 +15,7 @@ isbn: "9700773272"
 isbn13: "9789700773278"
 pages: 500
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jean-Jacques Rousseau - Emilio o De la Educación. (Sepan Cuantos, Num. 159).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[educación]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Emilio o De la Educación. (Sepan Cuantos, Num. 159)
 
-> Cover not available.
+![[Attachments/Covers/Jean-Jacques Rousseau - Emilio o De la Educación. (Sepan Cuantos, Num. 159).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

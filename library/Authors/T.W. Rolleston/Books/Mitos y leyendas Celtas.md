@@ -8,14 +8,14 @@ rating: 0
 read_count: 1
 date_added: "2026-02-19"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Turner Publicaciones"
 original_publish_year: 1911
 isbn: ""
 isbn13: ""
 pages: 408
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/T.W. Rolleston - Mitos y leyendas Celtas.jpg]]"
 bookshelves:
   - "[[currently-reading]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mitos y leyendas Celtas
 
-> Cover not available.
+![[Attachments/Covers/T.W. Rolleston - Mitos y leyendas Celtas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "8490622094"
 isbn13: "9788490622094"
 pages: 234
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Anonymous - La epopeya de Gilgamesh.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[novelas]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La epopeya de Gilgamesh
 
-> Cover not available.
+![[Attachments/Covers/Anonymous - La epopeya de Gilgamesh.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

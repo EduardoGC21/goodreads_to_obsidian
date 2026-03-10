@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 472
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Liu Cixin - The Three-Body Problem (Remembrance of Earth’s Past, Num. 1).jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[ciencia-ficción]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Three-Body Problem (Remembrance of Earth’s Past, Num. 1)
 
-> Cover not available.
+![[Attachments/Covers/Liu Cixin - The Three-Body Problem (Remembrance of Earth’s Past, Num. 1).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

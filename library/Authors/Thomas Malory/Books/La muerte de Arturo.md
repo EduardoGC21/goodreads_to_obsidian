@@ -15,7 +15,7 @@ isbn: "849841279X"
 isbn13: "9788498412796"
 pages: 976
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Thomas Malory - La muerte de Arturo.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La muerte de Arturo
 
-> Cover not available.
+![[Attachments/Covers/Thomas Malory - La muerte de Arturo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

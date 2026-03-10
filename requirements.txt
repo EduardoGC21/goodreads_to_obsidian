@@ -1,5 +1,7 @@
-pandas
+﻿pandas
 requests
 python-frontmatter
 langdetect
 PyYAML
+ddgs
+

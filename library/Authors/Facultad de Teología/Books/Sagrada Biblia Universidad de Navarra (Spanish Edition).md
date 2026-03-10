@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2021-06-20"
 date_read: "2021-07-16"
-language: "English"
+language: "Spanish"
 publisher: "EUNSA Ediciones Universidad de Navarra"
 original_publish_year: ""
 isbn: ""
 isbn13: ""
 pages: 11531
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Facultad de Teología - Sagrada Biblia Universidad de Navarra (Spanish Edition).jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[history]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sagrada Biblia: Universidad de Navarra (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Facultad de Teología - Sagrada Biblia Universidad de Navarra (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

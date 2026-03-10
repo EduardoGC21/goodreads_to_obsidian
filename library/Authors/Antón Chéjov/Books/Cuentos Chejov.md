@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-03-05"
 date_read: "2023-05-09"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alba"
 original_publish_year: ""
 isbn: "8484282198"

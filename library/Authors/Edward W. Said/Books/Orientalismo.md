@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 510
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Edward W. Said - Orientalismo.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Orientalismo
 
-> Cover not available.
+![[Attachments/Covers/Edward W. Said - Orientalismo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

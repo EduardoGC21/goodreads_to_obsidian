@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2025-11-02"
 date_read: "2025-11-06"
-language: "Unknown"
+language: "English"
 publisher: "Bantam Spectra"
 original_publish_year: 1953
 isbn: "0553803735"

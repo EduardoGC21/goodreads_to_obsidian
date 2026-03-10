@@ -15,7 +15,7 @@ isbn: "1542099587"
 isbn13: "9781542099585"
 pages: 145
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Fyodor Dostoevsky - Notes from the Underground (AmazonClassics Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[novelas]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Notes from the Underground (AmazonClassics Edition)
 
-> Cover not available.
+![[Attachments/Covers/Fyodor Dostoevsky - Notes from the Underground (AmazonClassics Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

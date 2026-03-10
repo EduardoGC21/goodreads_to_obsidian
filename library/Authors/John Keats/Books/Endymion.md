@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2023-07-13"
 date_read: "2023-07-23"
-language: "Unknown"
+language: "English"
 publisher: "CreateSpace Independent Publishing Platform"
 original_publish_year: 1818
 isbn: "1501015974"

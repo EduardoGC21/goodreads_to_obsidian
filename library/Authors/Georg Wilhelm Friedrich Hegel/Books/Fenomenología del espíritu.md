@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-01-16"
 date_read: "2021-02-09"
-language: "Unknown"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica"
 original_publish_year: 1807
 isbn: "9681605845"

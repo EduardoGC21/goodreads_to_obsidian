@@ -8,14 +8,14 @@ rating: 4
 read_count: 1
 date_added: "2021-03-03"
 date_read: "2021-04-15"
-language: "Unknown"
+language: "Spanish"
 publisher: "Fondo de Cultura Económica"
 original_publish_year: 1951
 isbn: "6071644143"
 isbn13: "9786071644145"
 pages: 145
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/José Gaos - Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/José Gaos - Introducción a el ser y el tiempo de Martin Heidegger (Filosofa) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

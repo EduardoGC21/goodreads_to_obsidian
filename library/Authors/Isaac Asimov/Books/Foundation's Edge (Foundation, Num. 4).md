@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2025-11-06"
 date_read: "2025-11-16"
-language: "Unknown"
+language: "English"
 publisher: "Bantam/Spectra"
 original_publish_year: 1982
 isbn: "0553293389"

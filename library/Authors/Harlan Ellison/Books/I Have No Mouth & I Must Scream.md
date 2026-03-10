@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-11-15"
 date_read: "2021-11-15"
-language: "Unknown"
+language: "English"
 publisher: "Ace"
 original_publish_year: 1967
 isbn: "0441363954"

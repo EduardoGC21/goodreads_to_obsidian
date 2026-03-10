@@ -15,7 +15,7 @@ isbn: "8446054663"
 isbn13: "9788446054665"
 pages: 69
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Franz Kafka - Carta al padre.jpg]]"
 bookshelves:
   - "[[epistolas]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Carta al padre
 
-> Cover not available.
+![[Attachments/Covers/Franz Kafka - Carta al padre.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

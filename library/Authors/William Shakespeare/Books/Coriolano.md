@@ -15,7 +15,7 @@ isbn: "8817165948"
 isbn13: "9788817165945"
 pages: 304
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/William Shakespeare - Coriolano.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Coriolano
 
-> Cover not available.
+![[Attachments/Covers/William Shakespeare - Coriolano.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

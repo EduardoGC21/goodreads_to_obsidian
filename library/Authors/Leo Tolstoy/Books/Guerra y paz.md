@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2022-01-07"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alba Editorial"
 original_publish_year: 1869
 isbn: "8490657580"
 isbn13: "9788490657584"
 pages: 1680
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Leo Tolstoy - Guerra y paz.jpg]]"
 bookshelves:
   - "[[guerra]]"
   - "[[literatura-rusa]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Guerra y paz
 
-> Cover not available.
+![[Attachments/Covers/Leo Tolstoy - Guerra y paz.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

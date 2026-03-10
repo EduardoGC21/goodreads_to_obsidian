@@ -15,7 +15,7 @@ isbn: "8435007278"
 isbn13: "9788435007276"
 pages: 573
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Aldous Huxley - La isla.jpg]]"
 bookshelves:
   - "[[novelas]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La isla
 
-> Cover not available.
+![[Attachments/Covers/Aldous Huxley - La isla.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "1539588505"
 isbn13: "9781539588504"
 pages: 144
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Seneca - De la brevedad de la vida y otras cartas filosóficas (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[grecorromano]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # De la brevedad de la vida: y otras cartas filosóficas (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Seneca - De la brevedad de la vida y otras cartas filosóficas (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

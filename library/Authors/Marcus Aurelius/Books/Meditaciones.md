@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-01-15"
 date_read: "2020-02-27"
-language: "Unknown"
+language: "English"
 publisher: "Taurus (Great Ideas)"
 original_publish_year: ""
 isbn: "6071122252"

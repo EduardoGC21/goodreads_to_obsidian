@@ -15,7 +15,7 @@ isbn: "8424937589"
 isbn13: "9788424937584"
 pages: 555
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Aristophanes - Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Aristophanes - Comedias II. Las nubes - Las avispas - La paz - Las aves (Biblioteca Clásica Gredos nº 391) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

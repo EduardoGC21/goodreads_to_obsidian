@@ -15,7 +15,7 @@ isbn: "0241524512"
 isbn13: "9780241524510"
 pages: 464
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Robin Lane Fox - Homer and His Iliad.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Homer and His Iliad
 
-> Cover not available.
+![[Attachments/Covers/Robin Lane Fox - Homer and His Iliad.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

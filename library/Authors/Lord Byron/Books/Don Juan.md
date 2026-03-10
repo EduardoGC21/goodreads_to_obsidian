@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-07-06"
-language: "Unknown"
+language: "English"
 publisher: "Penguin Classics"
 original_publish_year: 1819
 isbn: "0140424520"

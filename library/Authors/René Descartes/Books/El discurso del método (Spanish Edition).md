@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2020-05-24"
 date_read: "2020-05-25"
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Akal, S.A."
 original_publish_year: 1637
 isbn: "8446027895"

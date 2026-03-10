@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2025-03-31"
 date_read: ""
-language: "Unknown"
+language: "English"
 publisher: "Harper Perennial Modern Classics"
 original_publish_year: 1960
 isbn: ""

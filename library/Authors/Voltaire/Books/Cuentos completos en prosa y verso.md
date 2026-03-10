@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2024-10-04"
 date_read: "2025-12-30"
-language: "Unknown"
+language: "Spanish"
 publisher: "Siruela"
 original_publish_year: 2015
 isbn: "8416280991"

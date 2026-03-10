@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 505
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Victor Parker - A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World)
 
-> Cover not available.
+![[Attachments/Covers/Victor Parker - A History of Greece, 1300 to 30 BC (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

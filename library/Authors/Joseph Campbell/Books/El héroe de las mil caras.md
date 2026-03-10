@@ -15,7 +15,7 @@ isbn: "8437507375"
 isbn13: "9788437507378"
 pages: 480
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Joseph Campbell - El héroe de las mil caras.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[mitología]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El héroe de las mil caras
 
-> Cover not available.
+![[Attachments/Covers/Joseph Campbell - El héroe de las mil caras.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "8412712269"
 isbn13: "9788412712261"
 pages: 304
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Joshua Frydman - Los mitos japoneses Una guía de sus dioses, héroes y espíritus.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos japoneses: Una guía de sus dioses, héroes y espíritus
 
-> Cover not available.
+![[Attachments/Covers/Joshua Frydman - Los mitos japoneses Una guía de sus dioses, héroes y espíritus.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

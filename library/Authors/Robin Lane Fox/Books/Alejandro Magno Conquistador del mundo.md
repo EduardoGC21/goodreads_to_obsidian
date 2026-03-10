@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2024-03-24"
 date_read: "2025-10-23"
-language: "Unknown"
+language: "Spanish"
 publisher: "Acantilado"
 original_publish_year: 1973
 isbn: "8496834255"

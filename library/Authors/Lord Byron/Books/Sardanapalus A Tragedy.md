@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2024-03-22"
 date_read: "2024-03-24"
-language: "Unknown"
+language: "English"
 publisher: "Createspace Independent Publishing Platform"
 original_publish_year: ""
 isbn: "1515144267"
 isbn13: "9781515144267"
 pages: 136
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Lord Byron - Sardanapalus A Tragedy.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Sardanapalus: A Tragedy
 
-> Cover not available.
+![[Attachments/Covers/Lord Byron - Sardanapalus A Tragedy.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -8,14 +8,14 @@ rating: 0
 read_count: 0
 date_added: "2025-07-18"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Alianza"
 original_publish_year: ""
 isbn: "8420662631"
 isbn13: "9788420662633"
 pages: 272
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/David Hernández de la Fuente - Oraculos griegos.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Oraculos griegos
 
-> Cover not available.
+![[Attachments/Covers/David Hernández de la Fuente - Oraculos griegos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -15,7 +15,7 @@ isbn: "8408200313"
 isbn13: "9788408200314"
 pages: 729
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Jordan B. Peterson - 12 reglas para vivir Un antídoto al caos.jpg]]"
 bookshelves:
   - "[[self-help]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # 12 reglas para vivir: Un antídoto al caos
 
-> Cover not available.
+![[Attachments/Covers/Jordan B. Peterson - 12 reglas para vivir Un antídoto al caos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

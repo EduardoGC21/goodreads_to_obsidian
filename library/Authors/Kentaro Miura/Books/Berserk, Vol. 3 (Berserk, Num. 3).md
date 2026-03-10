@@ -15,7 +15,7 @@ isbn: "1593070225"
 isbn13: "9781593070229"
 pages: 240
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Kentaro Miura - Berserk, Vol. 3 (Berserk, Num. 3).jpg]]"
 bookshelves:
   - "[[berserk]]"
   - "[[manga]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Berserk, Vol. 3 (Berserk, Num. 3)
 
-> Cover not available.
+![[Attachments/Covers/Kentaro Miura - Berserk, Vol. 3 (Berserk, Num. 3).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

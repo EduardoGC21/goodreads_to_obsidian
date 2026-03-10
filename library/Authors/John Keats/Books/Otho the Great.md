@@ -15,7 +15,7 @@ isbn: "1515137627"
 isbn13: "9781515137627"
 pages: 102
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/John Keats - Otho the Great.jpg]]"
 bookshelves:
   - "[[poesía]]"
   - "[[teatral-dramático]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Otho the Great
 
-> Cover not available.
+![[Attachments/Covers/John Keats - Otho the Great.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

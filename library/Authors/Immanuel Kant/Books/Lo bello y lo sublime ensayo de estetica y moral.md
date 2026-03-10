@@ -8,7 +8,7 @@ rating: 4
 read_count: 1
 date_added: "2020-08-29"
 date_read: "2020-08-29"
-language: "Unknown"
+language: "Spanish"
 publisher: "Biblioteca Nacional de España"
 original_publish_year: 1764
 isbn: ""

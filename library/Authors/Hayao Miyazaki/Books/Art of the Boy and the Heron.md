@@ -15,7 +15,7 @@ isbn: "1974754596"
 isbn13: "9781974754595"
 pages: 328
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Hayao Miyazaki - Art of the Boy and the Heron.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Art of the Boy and the Heron
 
-> Cover not available.
+![[Attachments/Covers/Hayao Miyazaki - Art of the Boy and the Heron.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

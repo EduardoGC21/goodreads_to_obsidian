@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2025-01-23"
 date_read: "2025-01-25"
-language: "Unknown"
+language: "Spanish"
 publisher: "Losada/Argentina"
 original_publish_year: 1605
 isbn: "9500306271"

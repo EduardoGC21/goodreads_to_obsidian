@@ -15,7 +15,7 @@ isbn: "8484287459"
 isbn13: ""
 pages: 658
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Ivan Turgenev - Novelas cortas (Clásica Maior) (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Novelas cortas (Clásica Maior) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Ivan Turgenev - Novelas cortas (Clásica Maior) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

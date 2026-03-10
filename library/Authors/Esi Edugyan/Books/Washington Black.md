@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2019-03-24"
 date_read: "2019-05-02"
-language: "Unknown"
+language: "English"
 publisher: "Vintage"
 original_publish_year: 2018
 isbn: "0525563245"

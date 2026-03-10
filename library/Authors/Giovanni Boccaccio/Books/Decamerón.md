@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-07-06"
 date_read: "2021-08-29"
-language: "Unknown"
+language: "Spanish"
 publisher: "Catedra"
 original_publish_year: 1349
 isbn: "8437623499"

@@ -15,7 +15,7 @@ isbn: "8499702368"
 isbn13: ""
 pages: 792
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Adrian Goldsworthy - César; la biografía definitiva.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # César; la biografía definitiva
 
-> Cover not available.
+![[Attachments/Covers/Adrian Goldsworthy - César; la biografía definitiva.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

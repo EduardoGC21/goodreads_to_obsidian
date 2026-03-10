@@ -8,14 +8,14 @@ rating: 0
 read_count: 0
 date_added: "2026-01-17"
 date_read: ""
-language: "Unknown"
+language: "Spanish"
 publisher: "Gredos"
 original_publish_year: ""
 isbn: "8424930231"
 isbn13: "9788424930233"
 pages: 640
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Aristophanes - Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Aristophanes - Comedias III. Lisístrata - Las Tesmoforiantes, Las ranas - Las asambleístas, Pluto. (Biblioteca Clásica Gredos nº 408) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

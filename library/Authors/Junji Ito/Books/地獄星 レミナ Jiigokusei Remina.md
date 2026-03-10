@@ -15,7 +15,7 @@ isbn: "4091860834"
 isbn13: "9784091860835"
 pages: 291
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Junji Ito - 地獄星 レミナ Jiigokusei Remina.jpg]]"
 bookshelves:
   - "[[miedo]]"
   - "[[manga]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # 地獄星 レミナ [Jiigokusei Remina]
 
-> Cover not available.
+![[Attachments/Covers/Junji Ito - 地獄星 レミナ Jiigokusei Remina.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

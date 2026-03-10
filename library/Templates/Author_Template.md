@@ -4,6 +4,7 @@ cover: ""
 country: ""
 birth_year: ""
 death_year: ""
+sex: ""
 tags:
   - "author"
 ---

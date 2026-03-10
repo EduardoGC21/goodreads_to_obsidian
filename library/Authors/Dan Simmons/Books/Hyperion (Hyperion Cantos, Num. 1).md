@@ -8,7 +8,7 @@ rating: 0
 read_count: 0
 date_added: "2025-12-08"
 date_read: ""
-language: "Unknown"
+language: "English"
 publisher: "Bantam Doubleday Dell Publishing Group"
 original_publish_year: 1989
 isbn: "0553283685"

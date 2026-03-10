@@ -15,7 +15,7 @@ isbn: "9700750272"
 isbn13: "9789700750279"
 pages: 225
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Friedrich Nietzsche - Así hablaba Zaratustra.jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Así hablaba Zaratustra
 
-> Cover not available.
+![[Attachments/Covers/Friedrich Nietzsche - Así hablaba Zaratustra.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

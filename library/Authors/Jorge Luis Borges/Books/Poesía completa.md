@@ -8,14 +8,14 @@ rating: 5
 read_count: 1
 date_added: "2021-01-06"
 date_read: "2021-02-12"
-language: "Unknown"
+language: "Spanish"
 publisher: "LUMEN"
 original_publish_year: 1961
 isbn: "8426419011"
 isbn13: "9788426419019"
 pages: 656
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jorge Luis Borges - Poesía completa.jpg]]"
 bookshelves:
   - "[[poesía]]"
   - "[[borgiano]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Poesía completa
 
-> Cover not available.
+![[Attachments/Covers/Jorge Luis Borges - Poesía completa.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

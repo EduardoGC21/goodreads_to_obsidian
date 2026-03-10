@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 209
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Lester Vernon Chandler - Introduccion A La Teoria Monetaria.jpg]]"
 bookshelves:
   - "[[economía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Introduccion A La Teoria Monetaria
 
-> Cover not available.
+![[Attachments/Covers/Lester Vernon Chandler - Introduccion A La Teoria Monetaria.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2020-04-20"
 date_read: "2020-04-22"
-language: "Unknown"
+language: "Spanish"
 publisher: "Porrua"
 original_publish_year: 1516
 isbn: "970073028X"

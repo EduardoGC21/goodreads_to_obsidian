@@ -15,7 +15,7 @@ isbn: "9700752321"
 isbn13: "9789700752327"
 pages: 421
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Aristotle - Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70)
 
-> Cover not available.
+![[Attachments/Covers/Aristotle - Ética Nicomaquea. Política. (Sepan Cuantos, Num. 70).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

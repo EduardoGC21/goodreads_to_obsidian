@@ -15,7 +15,7 @@ isbn: "8435027031"
 isbn13: "9788435027038"
 pages: 128
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jean-Paul Sartre - El existencialismo es un humanismo.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[existencialista]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El existencialismo es un humanismo
 
-> Cover not available.
+![[Attachments/Covers/Jean-Paul Sartre - El existencialismo es un humanismo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

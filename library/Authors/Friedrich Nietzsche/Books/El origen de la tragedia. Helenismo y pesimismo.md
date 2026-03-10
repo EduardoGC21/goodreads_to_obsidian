@@ -15,7 +15,7 @@ isbn: "987718365X"
 isbn13: "9789877183658"
 pages: 258
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Friedrich Nietzsche - El origen de la tragedia. Helenismo y pesimismo.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[teatral-dramático]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El origen de la tragedia. Helenismo y pesimismo
 
-> Cover not available.
+![[Attachments/Covers/Friedrich Nietzsche - El origen de la tragedia. Helenismo y pesimismo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

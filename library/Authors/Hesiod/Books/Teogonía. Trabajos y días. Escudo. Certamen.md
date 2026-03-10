@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2021-06-28"
 date_read: "2021-06-30"
-language: "Unknown"
+language: "Spanish"
 publisher: "Alianza Editorial"
 original_publish_year: ""
 isbn: "842063686X"

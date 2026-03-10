@@ -15,7 +15,7 @@ isbn: "8412712277"
 isbn13: "9788412712278"
 pages: 248
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Tao Tao Liu - Los mitos chinos Una guía de sus dioses y leyendas.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Los mitos chinos: Una guía de sus dioses y leyendas
 
-> Cover not available.
+![[Attachments/Covers/Tao Tao Liu - Los mitos chinos Una guía de sus dioses y leyendas.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -8,7 +8,7 @@ rating: 5
 read_count: 1
 date_added: "2022-07-26"
 date_read: "2023-10-27"
-language: "Unknown"
+language: "Spanish"
 publisher: "Ediciones Cátedra"
 original_publish_year: 1808
 isbn: "8437606772"
