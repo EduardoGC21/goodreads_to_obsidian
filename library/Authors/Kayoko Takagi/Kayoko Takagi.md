@@ -1,6 +1,6 @@
 ---
 name: "Kayoko Takagi"
-cover: ""
+cover: "[[Attachments/AuthorImages/Kayoko Takagi.jpg]]"
 country: "[[Japan]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Kayoko Takagi
+
+![[Attachments/AuthorImages/Kayoko Takagi.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

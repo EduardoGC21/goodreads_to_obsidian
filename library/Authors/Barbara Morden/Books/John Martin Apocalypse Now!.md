@@ -15,7 +15,7 @@ isbn: "1904794998"
 isbn13: "9781904794998"
 pages: 136
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Barbara Morden - John Martin Apocalypse Now!.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # John Martin: Apocalypse Now!
 
-> Cover not available.
+![[Attachments/Covers/Barbara Morden - John Martin Apocalypse Now!.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -1,6 +1,6 @@
 ---
 name: "Alejandro Jodorowsky"
-cover: ""
+cover: "[[Attachments/AuthorImages/Alejandro Jodorowsky.jpg]]"
 country: "[[Chile]]"
 birth_year: "1929"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alejandro Jodorowsky
+
+![[Attachments/AuthorImages/Alejandro Jodorowsky.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

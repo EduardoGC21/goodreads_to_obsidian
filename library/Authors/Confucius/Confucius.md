@@ -1,6 +1,6 @@
 ---
 name: "Confucius"
-cover: ""
+cover: "[[Attachments/AuthorImages/Confucius.jpg]]"
 country: "[[China]]"
 birth_year: "0551"
 death_year: "0479"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Confucius
+
+![[Attachments/AuthorImages/Confucius.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

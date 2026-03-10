@@ -1,6 +1,6 @@
 ---
 name: "Juan Rulfo"
-cover: ""
+cover: "[[Attachments/AuthorImages/Juan Rulfo.jpg]]"
 country: "[[Mexico]]"
 birth_year: "1917"
 death_year: "1986"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Juan Rulfo
+
+![[Attachments/AuthorImages/Juan Rulfo.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Thomas More"
-cover: ""
+cover: "[[Attachments/AuthorImages/Thomas More.jpg]]"
 country: "[[England]]"
 birth_year: "1478"
 death_year: "1535"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas More
+
+![[Attachments/AuthorImages/Thomas More.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

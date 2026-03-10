@@ -1,6 +1,6 @@
 ---
 name: "Masato  Tanaka"
-cover: ""
+cover: "[[Attachments/AuthorImages/Masato Tanaka.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Masato  Tanaka
+
+![[Attachments/AuthorImages/Masato Tanaka.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

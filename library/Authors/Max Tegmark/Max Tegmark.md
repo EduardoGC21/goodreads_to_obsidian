@@ -1,6 +1,6 @@
 ---
 name: "Max Tegmark"
-cover: ""
+cover: "[[Attachments/AuthorImages/Max Tegmark.jpg]]"
 country: "[[Sweden]]"
 birth_year: "1967"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Max Tegmark
+
+![[Attachments/AuthorImages/Max Tegmark.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

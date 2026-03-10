@@ -1,6 +1,6 @@
 ---
 name: "Jack Weatherford"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jack Weatherford.jpg]]"
 country: "[[United States]]"
 birth_year: "1946"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jack Weatherford
+
+![[Attachments/AuthorImages/Jack Weatherford.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

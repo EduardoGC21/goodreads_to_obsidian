@@ -1,6 +1,6 @@
 ---
 name: "Percy Bysshe Shelley"
-cover: ""
+cover: "[[Attachments/AuthorImages/Percy Bysshe Shelley.jpg]]"
 country: "[[England]]"
 birth_year: "1792"
 death_year: "1822"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Percy Bysshe Shelley
+
+![[Attachments/AuthorImages/Percy Bysshe Shelley.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

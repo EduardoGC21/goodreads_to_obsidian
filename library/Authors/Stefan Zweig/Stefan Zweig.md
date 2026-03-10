@@ -1,6 +1,6 @@
 ---
 name: "Stefan Zweig"
-cover: ""
+cover: "[[Attachments/AuthorImages/Stefan Zweig.jpg]]"
 country: "[[Austria]]"
 birth_year: "1881"
 death_year: "1942"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stefan Zweig
+
+![[Attachments/AuthorImages/Stefan Zweig.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

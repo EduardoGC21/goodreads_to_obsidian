@@ -1,6 +1,6 @@
 ---
 name: "Derek Parfit"
-cover: ""
+cover: "[[Attachments/AuthorImages/Derek Parfit.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1942"
 death_year: "2017"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Derek Parfit
+
+![[Attachments/AuthorImages/Derek Parfit.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

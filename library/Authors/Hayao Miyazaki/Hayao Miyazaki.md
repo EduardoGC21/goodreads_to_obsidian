@@ -1,6 +1,6 @@
 ---
 name: "Hayao Miyazaki"
-cover: ""
+cover: "[[Attachments/AuthorImages/Hayao Miyazaki.jpg]]"
 country: "[[Japan]]"
 birth_year: "1941"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Hayao Miyazaki
+
+![[Attachments/AuthorImages/Hayao Miyazaki.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

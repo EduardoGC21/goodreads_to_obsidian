@@ -1,6 +1,6 @@
 ---
 name: "Arthur Schopenhauer"
-cover: ""
+cover: "[[Attachments/AuthorImages/Arthur Schopenhauer.jpg]]"
 country: "[[Germany]]"
 birth_year: "1788"
 death_year: "1860"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arthur Schopenhauer
+
+![[Attachments/AuthorImages/Arthur Schopenhauer.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

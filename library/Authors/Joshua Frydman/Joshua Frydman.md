@@ -1,10 +1,10 @@
 ---
 name: "Joshua Frydman"
 cover: ""
-country: "[[United States]]"
+country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

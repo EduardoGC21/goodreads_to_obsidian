@@ -1,6 +1,6 @@
 ---
 name: "Voltaire"
-cover: ""
+cover: "[[Attachments/AuthorImages/Voltaire.jpg]]"
 country: "[[France]]"
 birth_year: "1694"
 death_year: "1778"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Voltaire
+
+![[Attachments/AuthorImages/Voltaire.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Aeschylus"
-cover: ""
+cover: "[[Attachments/AuthorImages/Aeschylus.jpg]]"
 country: "[[Greece]]"
 birth_year: "0525"
 death_year: "0456"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aeschylus
+
+![[Attachments/AuthorImages/Aeschylus.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

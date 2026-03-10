@@ -1,6 +1,6 @@
 ---
 name: "Émile Zola"
-cover: ""
+cover: "[[Attachments/AuthorImages/Émile Zola.jpg]]"
 country: "[[France]]"
 birth_year: "1840"
 death_year: "1902"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Émile Zola
+
+![[Attachments/AuthorImages/Émile Zola.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

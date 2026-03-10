@@ -1,6 +1,6 @@
 ---
 name: "Matt Manero"
-cover: ""
+cover: "[[Attachments/AuthorImages/Matt Manero.jpg]]"
 country: "[[United States]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Matt Manero
+
+![[Attachments/AuthorImages/Matt Manero.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

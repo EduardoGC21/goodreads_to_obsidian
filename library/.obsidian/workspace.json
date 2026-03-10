@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Authors_base.base",
-                "viewName": "Authors"
+                "file": "Library_base.base",
+                "viewName": "Library"
               },
               "icon": "lucide-layout-grid",
-              "title": "Authors_base"
+              "title": "Library_base"
             }
           }
         ]
@@ -184,20 +184,20 @@
   },
   "active": "ee1a6abfbdac3c9d",
   "lastOpenFiles": [
+    "Authors_base.base",
+    "Attachments/AuthorImages/Vālmīki.jpg",
+    "Attachments/AuthorImages/Diogenes Laertius.jpg",
+    "Attachments/AuthorImages/Masato Tanaka.jpg",
+    "Library_base.base",
+    "Manual Review/Missing Metadata.md",
+    "Attachments/AuthorImages/Ctesias de Cnido.jpg",
     "Attachments/AuthorImages/Marc Lichtenfeld.jpg",
     "Attachments/AuthorImages/José Gaos.jpg",
     "Attachments/AuthorImages/Adolf Hitler.jpg",
     "Attachments/AuthorImages/Jordan B. Peterson.jpg",
     "Authors/Adrian Goldsworthy/Adrian Goldsworthy.md",
-    "Authors_base.base",
     "Attachments/AuthorImages/Gary Keller.jpg",
     "Attachments/AuthorImages/Walter Moers.jpg",
-    "Attachments/AuthorImages/Augusto Monterroso.jpg",
-    "Attachments/AuthorImages/Rudyard Kipling.jpg",
-    "Library_base.base",
-    "Attachments/AuthorImages/Françoise Bonardel.jpg",
-    "Attachments/AuthorImages/Johann Wolfgang von Goethe.jpg",
-    "Attachments/AuthorImages/James Baldwin.jpg",
     "Authors/H.P. Lovecraft/Books/Eldritch Tales A Miscellany of the Macabre.md",
     "Templates/Book_Template.md",
     "Templates/Author_Template.md",
@@ -225,7 +225,6 @@
     "Authors/Antón Chéjov/Books/La estepa En el barranco.md",
     "Authors/Antón Chéjov/Books",
     "Authors/Antón Chéjov",
-    "[[Attachments/Covers/Geraldine.md",
     "[[Attachments/Covers",
     "[[Attachments"
   ]

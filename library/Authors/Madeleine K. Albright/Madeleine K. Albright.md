@@ -1,6 +1,6 @@
 ---
 name: "Madeleine K. Albright"
-cover: ""
+cover: "[[Attachments/AuthorImages/Madeleine K. Albright.jpg]]"
 country: "[[United States]]"
 birth_year: "1937"
 death_year: "2022"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Madeleine K. Albright
+
+![[Attachments/AuthorImages/Madeleine K. Albright.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

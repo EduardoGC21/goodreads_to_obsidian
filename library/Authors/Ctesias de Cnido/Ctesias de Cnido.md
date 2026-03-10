@@ -1,6 +1,6 @@
 ---
 name: "Ctesias de Cnido"
-cover: ""
+cover: "[[Attachments/AuthorImages/Ctesias de Cnido.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ctesias de Cnido
+
+![[Attachments/AuthorImages/Ctesias de Cnido.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

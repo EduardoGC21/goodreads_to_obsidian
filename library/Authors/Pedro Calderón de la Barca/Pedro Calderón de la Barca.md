@@ -1,6 +1,6 @@
 ---
 name: "Pedro Calderón de la Barca"
-cover: ""
+cover: "[[Attachments/AuthorImages/Pedro Calderón de la Barca.jpg]]"
 country: "[[Spain]]"
 birth_year: "1600"
 death_year: "1681"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Pedro Calderón de la Barca
+
+![[Attachments/AuthorImages/Pedro Calderón de la Barca.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

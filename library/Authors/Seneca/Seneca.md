@@ -1,6 +1,6 @@
 ---
 name: "Seneca"
-cover: ""
+cover: "[[Attachments/AuthorImages/Seneca.jpg]]"
 country: "[[Spain]]"
 birth_year: "0004"
 death_year: "0065"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Seneca
+
+![[Attachments/AuthorImages/Seneca.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

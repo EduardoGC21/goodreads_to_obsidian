@@ -1,6 +1,6 @@
 ---
 name: "Vālmīki"
-cover: ""
+cover: "[[Attachments/AuthorImages/Vālmīki.jpg]]"
 country: "[[India]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Vālmīki
+
+![[Attachments/AuthorImages/Vālmīki.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

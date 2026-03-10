@@ -15,7 +15,7 @@ isbn: "1501015974"
 isbn13: "9781501015977"
 pages: 234
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/John Keats - Endymion.jpg]]"
 bookshelves:
   - "[[poesía]]"
   - "[[mitología]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Endymion
 
-> Cover not available.
+![[Attachments/Covers/John Keats - Endymion.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

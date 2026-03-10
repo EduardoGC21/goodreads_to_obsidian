@@ -1,6 +1,6 @@
 ---
 name: "Baltasar Gracián"
-cover: ""
+cover: "[[Attachments/AuthorImages/Baltasar Gracián.jpg]]"
 country: "[[Spain]]"
 birth_year: "1601"
 death_year: "1658"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Baltasar Gracián
+
+![[Attachments/AuthorImages/Baltasar Gracián.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

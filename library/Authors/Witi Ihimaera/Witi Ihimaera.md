@@ -1,6 +1,6 @@
 ---
 name: "Witi Ihimaera"
-cover: ""
+cover: "[[Attachments/AuthorImages/Witi Ihimaera.jpg]]"
 country: "[[New Zealand]]"
 birth_year: "1944"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Witi Ihimaera
+
+![[Attachments/AuthorImages/Witi Ihimaera.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

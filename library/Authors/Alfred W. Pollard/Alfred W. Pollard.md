@@ -1,6 +1,6 @@
 ---
 name: "Alfred W. Pollard"
-cover: ""
+cover: "[[Attachments/AuthorImages/Alfred W. Pollard.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1859"
 death_year: "1944"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alfred W. Pollard
+
+![[Attachments/AuthorImages/Alfred W. Pollard.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

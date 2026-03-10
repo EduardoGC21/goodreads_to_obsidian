@@ -1,6 +1,6 @@
 ---
 name: "David Hernández de la Fuente"
-cover: ""
+cover: "[[Attachments/AuthorImages/David Hernández de la Fuente.jpg]]"
 country: "[[Spain]]"
 birth_year: "1974"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # David Hernández de la Fuente
+
+![[Attachments/AuthorImages/David Hernández de la Fuente.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

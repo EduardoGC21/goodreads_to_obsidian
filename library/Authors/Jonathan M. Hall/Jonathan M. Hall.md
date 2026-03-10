@@ -1,6 +1,6 @@
 ---
 name: "Jonathan M. Hall"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jonathan M. Hall.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jonathan M. Hall
+
+![[Attachments/AuthorImages/Jonathan M. Hall.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

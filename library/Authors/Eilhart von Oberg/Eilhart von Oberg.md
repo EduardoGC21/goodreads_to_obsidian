@@ -1,6 +1,6 @@
 ---
 name: "Eilhart von Oberg"
-cover: ""
+cover: "[[Attachments/AuthorImages/Eilhart von Oberg.jpg]]"
 country: "[[Germany]]"
 birth_year: "1140"
 death_year: "1195"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Eilhart von Oberg
+
+![[Attachments/AuthorImages/Eilhart von Oberg.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

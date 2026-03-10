@@ -1,6 +1,6 @@
 ---
 name: "Carlos Fuentes"
-cover: ""
+cover: "[[Attachments/AuthorImages/Carlos Fuentes.jpg]]"
 country: "[[Mexico]]"
 birth_year: "1928"
 death_year: "2012"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Carlos Fuentes
+
+![[Attachments/AuthorImages/Carlos Fuentes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

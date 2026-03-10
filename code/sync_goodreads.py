@@ -36,6 +36,7 @@ except ImportError:  # pragma: no cover
     DDGS = None
 
     class DDGSException(Exception):
+        """Provide the state and behavior for DDGSException."""
         pass
 
 try:
@@ -129,7 +130,7 @@ GENERATED_HUB_NOTE_NAMES = ("Library.md",)
 CODEX_TIMEOUT_SECONDS = 90
 CODEX_MODEL = "gpt-5.1"
 CODEX_REASONING_EFFORT = "low"
-AUTHOR_BIO_CONCURRENCY = 10
+AUTHOR_BIO_CONCURRENCY = 20
 HTTP_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 GoodreadsToObsidian/1.0"
@@ -142,8 +143,14 @@ IMAGE_PROVIDER_MIN_INTERVALS = {"google_books": 1.0, "wikimedia_commons": 1.0}
 IMAGE_PROVIDER_MAX_RETRIES = 3
 
 
+
+# ============================================================================
+# Data Models
+# ============================================================================
 @dataclass
+
 class BookRecord:
+    """Represent one Goodreads row after normalization plus all derived vault paths and links."""
     row_number: int
     book_id: str
     title: str
@@ -177,17 +184,20 @@ class BookRecord:
     book_link: str = ""
 
     def display_title(self) -> str:
+        """Return the title variant that is safe to display in notes, links, and review messages."""
         return sanitize_obsidian_text(self.title or "Untitled")
 
 
 @dataclass
 class NoteDocument:
+    """Provide the state and behavior for NoteDocument."""
     metadata: dict[str, Any]
     body: str
 
 
 @dataclass
 class SyncSummary:
+    """Provide the state and behavior for SyncSummary."""
     books_created: int = 0
     books_updated: int = 0
     books_skipped: int = 0
@@ -200,6 +210,7 @@ class SyncSummary:
 
 @dataclass
 class CodexResult:
+    """Provide the state and behavior for CodexResult."""
     text: str
     stderr: str
     returncode: int
@@ -208,6 +219,7 @@ class CodexResult:
 
 @dataclass
 class PlaywrightResult:
+    """Provide the state and behavior for PlaywrightResult."""
     stdout: str
     stderr: str
     returncode: int
@@ -215,6 +227,7 @@ class PlaywrightResult:
 
 @dataclass
 class AuthorWorkItem:
+    """Provide the state and behavior for AuthorWorkItem."""
     author_name: str
     author_record: BookRecord
     current_note: NoteDocument
@@ -226,6 +239,7 @@ class AuthorWorkItem:
 
 @dataclass
 class BiographyWorkerSlot:
+    """Provide the state and behavior for BiographyWorkerSlot."""
     slot_id: int
     state: str = "queued"
     author_name: str = ""
@@ -233,6 +247,7 @@ class BiographyWorkerSlot:
 
 @dataclass
 class AuthorMetadataResult:
+    """Provide the state and behavior for AuthorMetadataResult."""
     biography: str
     country: str
     birth_year: str = ""
@@ -242,6 +257,7 @@ class AuthorMetadataResult:
 
 @dataclass
 class ImageFetchResult:
+    """Provide the state and behavior for ImageFetchResult."""
     url: str = ""
     provider: str = ""
     errors: list[str] = field(default_factory=list)
@@ -249,6 +265,7 @@ class ImageFetchResult:
 
 @dataclass
 class BookProcessOutcome:
+    """Provide the state and behavior for BookProcessOutcome."""
     status: str
     metadata_status: str
     note_status: str
@@ -258,11 +275,17 @@ class BookProcessOutcome:
 
 @dataclass
 class AuthorProcessOutcome:
+    """Provide the state and behavior for AuthorProcessOutcome."""
     note_status: str
     image_status: str
     image_provider: str = ""
 
 
+
+
+# ============================================================================
+# Codex Runner And Agent Wiring
+# ============================================================================
 def build_codex_exec_command(
     prompt: str,
     workdir: Path,
@@ -270,6 +293,7 @@ def build_codex_exec_command(
     model: str,
     reasoning_effort: str,
 ) -> list[str]:
+    """Build codex exec command for the current sync step."""
     return [
         "codex",
         "exec",
@@ -289,17 +313,20 @@ def build_codex_exec_command(
 
 
 class CodexRunner:
+    """Provide the state and behavior for CodexRunner."""
     def __init__(
         self,
         model: str = CODEX_MODEL,
         reasoning_effort: str = CODEX_REASONING_EFFORT,
         timeout_s: int = CODEX_TIMEOUT_SECONDS,
     ) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         self.model = model
         self.reasoning_effort = reasoning_effort
         self.timeout_s = timeout_s
 
     def run(self, prompt: str, *, workdir: Path, timeout_s: int | None = None) -> CodexResult:
+        """Execute the main operation for this helper and return its structured result."""
         if shutil.which("codex") is None:
             raise RuntimeError("`codex` not found in PATH.")
 
@@ -342,6 +369,7 @@ class CodexRunner:
 
 
 class _CodexTextAgent:
+    """Provide the state and behavior for CodexTextAgent."""
     agent_name = "CodexTextAgent"
 
     def __init__(
@@ -351,13 +379,20 @@ class _CodexTextAgent:
         model: str = CODEX_MODEL,
         reasoning_effort: str = CODEX_REASONING_EFFORT,
     ) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         self.runner = runner or CodexRunner(model=model, reasoning_effort=reasoning_effort)
 
     def _run(self, prompt: str, *, workdir: Path) -> CodexResult:
+        """Handle run for the current sync workflow."""
         return self.runner.run(prompt, workdir=workdir)
 
 
+
+# ============================================================================
+# CLI Parsing
+# ============================================================================
 def add_common_sync_arguments(parser: argparse.ArgumentParser) -> None:
+    """Add common sync arguments to the structure being built for this run."""
     parser.add_argument("--csv", required=True, help="Path to the Goodreads CSV export.")
     parser.add_argument("--vault-root", default="library_v2", help="Output vault root.")
     parser.add_argument("--refresh-goodreads", action="store_true", help="Force rewrite Goodreads-derived metadata.")
@@ -368,6 +403,7 @@ def add_common_sync_arguments(parser: argparse.ArgumentParser) -> None:
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    """Parse args from raw input into the value used by the sync."""
     parser = argparse.ArgumentParser(
         description="Sync a Goodreads CSV export into a structured Obsidian-style vault."
     )
@@ -399,7 +435,13 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     return args
 
 
+
+
+# ============================================================================
+# Vault Bootstrap
+# ============================================================================
 def ensure_directories(vault_root: Path) -> dict[str, Path]:
+    """Ensure directories exists and is shaped the way the sync expects."""
     paths = {
         "root": vault_root,
         "attachments": vault_root / "Attachments",
@@ -417,6 +459,7 @@ def ensure_directories(vault_root: Path) -> dict[str, Path]:
 
 
 def ensure_hub_notes(vault_root: Path) -> None:
+    """Ensure hub notes exists and is shaped the way the sync expects."""
     library_path = vault_root / "Library.md"
     if not library_path.exists():
         library_path.write_text(
@@ -435,6 +478,7 @@ def ensure_hub_notes(vault_root: Path) -> None:
 
 
 def cleanup_generated_vault_content(vault_root: Path) -> None:
+    """Handle cleanup generated vault content for the current sync workflow."""
     authors_root = vault_root / "Authors"
     covers_root = vault_root / "Attachments" / "Covers"
     author_images_root = vault_root / "Attachments" / "AuthorImages"
@@ -460,13 +504,16 @@ def cleanup_generated_vault_content(vault_root: Path) -> None:
 
 
 class BiographyStatusRenderer:
+    """Provide the state and behavior for BiographyStatusRenderer."""
     def __init__(self, slot_count: int) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         self.slot_count = slot_count
         self.slots = {slot_id: BiographyWorkerSlot(slot_id=slot_id) for slot_id in range(1, slot_count + 1)}
         self.interactive = sys.stdout.isatty() and not os.environ.get("PYTEST_CURRENT_TEST")
         self._has_rendered = False
 
     def update(self, slot_id: int, state: str, author_name: str = "") -> None:
+        """Handle update for the current sync workflow."""
         slot = self.slots[slot_id]
         slot.state = state
         slot.author_name = author_name
@@ -477,11 +524,13 @@ class BiographyStatusRenderer:
         print(f"[agent {slot_id}] {state}: {label}", flush=True)
 
     def finish(self) -> None:
+        """Handle finish for the current sync workflow."""
         if self.interactive and self._has_rendered:
             sys.stdout.write("\n")
             sys.stdout.flush()
 
     def _render_interactive(self) -> None:
+        """Handle render interactive for the current sync workflow."""
         if self._has_rendered:
             sys.stdout.write(f"\x1b[{self.slot_count + 1}F")
         lines = ["Biography workers:"]
@@ -495,7 +544,13 @@ class BiographyStatusRenderer:
         self._has_rendered = True
 
 
+
+
+# ============================================================================
+# CSV And Text Normalization
+# ============================================================================
 def read_goodreads_csv(csv_path: Path) -> pd.DataFrame:
+    """Handle read goodreads csv for the current sync workflow."""
     attempts = [
         ("utf-8-sig", "strict"),
         ("utf-8", "strict"),
@@ -513,6 +568,7 @@ def read_goodreads_csv(csv_path: Path) -> pd.DataFrame:
 
 
 def clean_value(value: Any) -> str:
+    """Clean value before it is reused elsewhere in the pipeline."""
     if value is None:
         return ""
     if isinstance(value, float) and pd.isna(value):
@@ -522,14 +578,17 @@ def clean_value(value: Any) -> str:
 
 
 def looks_like_mojibake(text: str) -> bool:
+    """Heuristically decide whether the value looks like mojibake."""
     return any(marker in text for marker in MOJIBAKE_MARKERS)
 
 
 def mojibake_score(text: str) -> int:
+    """Handle mojibake score for the current sync workflow."""
     return sum(text.count(marker) for marker in MOJIBAKE_MARKERS)
 
 
 def repair_text_value(value: Any) -> str:
+    """Handle repair text value for the current sync workflow."""
     text = clean_value(value)
     if not text:
         return ""
@@ -548,10 +607,12 @@ def repair_text_value(value: Any) -> str:
 
 
 def normalize_isbn(value: str) -> str:
+    """Normalize isbn into the canonical representation used by this project."""
     return re.sub(r"[^0-9Xx]", "", repair_text_value(value))
 
 
 def parse_date(value: str) -> str:
+    """Parse date from raw input into the value used by the sync."""
     text = repair_text_value(value)
     if not text:
         return ""
@@ -562,6 +623,7 @@ def parse_date(value: str) -> str:
 
 
 def parse_intish(value: str) -> int | str:
+    """Parse intish from raw input into the value used by the sync."""
     text = repair_text_value(value)
     if not text:
         return ""
@@ -572,6 +634,7 @@ def parse_intish(value: str) -> int | str:
 
 
 def sanitize_obsidian_text(text: str, fallback: str = "Untitled") -> str:
+    """Sanitize obsidian text so it is safe for vault paths, links, or metadata."""
     value = repair_text_value(text) or fallback
     value = unicodedata.normalize("NFC", value)
     value = re.sub(r"\s*#\s*", " Num. ", value)
@@ -580,6 +643,7 @@ def sanitize_obsidian_text(text: str, fallback: str = "Untitled") -> str:
 
 
 def sanitize_filename(text: str, fallback: str = "Untitled") -> str:
+    """Sanitize filename so it is safe for vault paths, links, or metadata."""
     value = sanitize_obsidian_text(text, fallback=fallback)
     value = value.replace("[", "").replace("]", "")
     value = re.sub(r"[<>:\"/\\|?*\x00-\x1F]", "", value)
@@ -588,6 +652,7 @@ def sanitize_filename(text: str, fallback: str = "Untitled") -> str:
 
 
 def normalize_plain_status(value: str) -> str:
+    """Normalize plain status into the canonical representation used by this project."""
     text = repair_text_value(value).strip()
     if text.startswith("[[") and text.endswith("]]"):
         text = text[2:-2].split("|", 1)[-1]
@@ -595,6 +660,7 @@ def normalize_plain_status(value: str) -> str:
 
 
 def normalize_country_name(value: str) -> str:
+    """Normalize country name into the canonical representation used by this project."""
     text = repair_text_value(value).strip()
     if text.startswith("[[") and text.endswith("]]"):
         text = text[2:-2].split("|", 1)[-1]
@@ -602,6 +668,7 @@ def normalize_country_name(value: str) -> str:
 
 
 def normalize_sex_value(value: Any) -> str:
+    """Normalize sex value into the canonical representation used by this project."""
     text = repair_text_value(clean_value(value)).strip().casefold()
     if not text:
         return ""
@@ -615,6 +682,7 @@ def normalize_sex_value(value: Any) -> str:
 
 
 def ensure_wikilink(value: str) -> str:
+    """Ensure wikilink exists and is shaped the way the sync expects."""
     text = repair_text_value(value).strip()
     if not text:
         return ""
@@ -624,6 +692,7 @@ def ensure_wikilink(value: str) -> str:
 
 
 def normalize_wikilink_list(values: list[str]) -> list[str]:
+    """Normalize wikilink list into the canonical representation used by this project."""
     output: list[str] = []
     seen: set[str] = set()
     for value in values:
@@ -639,10 +708,12 @@ def normalize_wikilink_list(values: list[str]) -> list[str]:
 
 
 def normalize_bookshelf_links(values: list[str]) -> list[str]:
+    """Normalize bookshelf links into the canonical representation used by this project."""
     return normalize_wikilink_list(values)
 
 
 def normalize_tags(values: list[str]) -> list[str]:
+    """Normalize tags into the canonical representation used by this project."""
     output: list[str] = []
     seen: set[str] = set()
     for value in values:
@@ -658,6 +729,7 @@ def normalize_tags(values: list[str]) -> list[str]:
 
 
 def sanitize_tag(value: str) -> str:
+    """Sanitize tag so it is safe for vault paths, links, or metadata."""
     text = repair_text_value(value).lower()
     text = re.sub(r"[^\w\s/-]", "", text, flags=re.UNICODE)
     text = re.sub(r"[/\s]+", "-", text)
@@ -666,6 +738,7 @@ def sanitize_tag(value: str) -> str:
 
 
 def parse_bookshelves(value: str) -> list[str]:
+    """Parse bookshelves from raw input into the value used by the sync."""
     shelves: list[str] = []
     seen_shelves: set[str] = set()
     for raw_part in repair_text_value(value).split(","):
@@ -682,6 +755,7 @@ def parse_bookshelves(value: str) -> list[str]:
     return shelves
 
 def is_anonymous_author(author_name: str) -> bool:
+    """Handle is anonymous author for the current sync workflow."""
     return repair_text_value(author_name).casefold() in {"", "anonymous", "anon", "unknown"}
 
 
@@ -695,12 +769,14 @@ CHEKHOV_ALIAS_PATTERNS = (
 
 
 def normalize_author_alias_key(author_name: str) -> str:
+    """Normalize author alias key into the canonical representation used by this project."""
     repaired = repair_text_value(author_name)
     normalized = unicodedata.normalize("NFKD", repaired)
     return "".join(char for char in normalized if not unicodedata.combining(char)).casefold().strip()
 
 
 def is_chekhov_alias(author_name: str) -> bool:
+    """Handle is chekhov alias for the current sync workflow."""
     candidate_forms = {
         author_name.casefold(),
         repair_text_value(author_name).casefold(),
@@ -715,6 +791,7 @@ def is_chekhov_alias(author_name: str) -> bool:
 
 
 def normalize_author_name(author_name: str) -> str:
+    """Normalize author name into the canonical representation used by this project."""
     if is_anonymous_author(author_name):
         return "Anonymous"
     repaired = repair_text_value(author_name)
@@ -724,6 +801,7 @@ def normalize_author_name(author_name: str) -> str:
 
 
 def apply_manual_record_fixes(title: str, author_name: str) -> tuple[str, str]:
+    """Handle apply manual record fixes for the current sync workflow."""
     normalized_title = sanitize_obsidian_text(title).casefold()
     canonical_author = normalize_author_name(author_name)
     normalized_author_key = normalize_author_alias_key(canonical_author)
@@ -732,6 +810,7 @@ def apply_manual_record_fixes(title: str, author_name: str) -> tuple[str, str]:
     return title, canonical_author
 
 def classify_format(binding: str) -> str:
+    """Classify format into the bucket used by later sync logic."""
     value = repair_text_value(binding).casefold()
     if any(term in value for term in ("kindle", "ebook", "e-book", "digital")):
         return "virtual"
@@ -741,6 +820,7 @@ def classify_format(binding: str) -> str:
 
 
 def detect_primary_language(title: str, publisher: str) -> str:
+    """Detect primary language from the available local inputs."""
     sample = " ".join(
         part for part in [repair_text_value(title), repair_text_value(publisher)] if part
     ).strip()
@@ -773,6 +853,7 @@ def detect_primary_language(title: str, publisher: str) -> str:
 
 
 def dedupe_preserve_order(values: list[str]) -> list[str]:
+    """Handle dedupe preserve order for the current sync workflow."""
     output: list[str] = []
     seen: set[str] = set()
     for value in values:
@@ -784,7 +865,13 @@ def dedupe_preserve_order(values: list[str]) -> list[str]:
     return output
 
 
+
+
+# ============================================================================
+# Record Building And Path Derivation
+# ============================================================================
 def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
+    """Convert the Goodreads dataframe into normalized book records with resolved vault paths."""
     authors_root = vault_root / "Authors"
     covers_root = vault_root / "Attachments" / "Covers"
     author_images_root = vault_root / "Attachments" / "AuthorImages"
@@ -853,6 +940,7 @@ def build_records(vault_root: Path, frame: pd.DataFrame) -> list[BookRecord]:
 
 
 def vault_relative_path(vault_root: Path, target_path: Path, keep_suffix: bool = False) -> str:
+    """Handle vault relative path for the current sync workflow."""
     relative = target_path.relative_to(vault_root).as_posix()
     if keep_suffix:
         return relative
@@ -860,13 +948,20 @@ def vault_relative_path(vault_root: Path, target_path: Path, keep_suffix: bool =
 
 
 def vault_wiki_link(vault_root: Path, target_path: Path, alias: str | None = None, keep_suffix: bool = False) -> str:
+    """Handle vault wiki link for the current sync workflow."""
     target = vault_relative_path(vault_root, target_path, keep_suffix=keep_suffix)
     if alias:
         return f"[[{target}|{alias}]]"
     return f"[[{target}]]"
 
 
+
+
+# ============================================================================
+# Markdown Note IO And Rendering
+# ============================================================================
 def load_note(path: Path) -> NoteDocument:
+    """Load note from disk into the in-memory representation used by the sync."""
     if not path.exists():
         return NoteDocument(metadata={}, body="")
     text = path.read_text(encoding="utf-8")
@@ -877,6 +972,7 @@ def load_note(path: Path) -> NoteDocument:
 
 
 def fallback_load_note(text: str) -> NoteDocument:
+    """Handle fallback load note for the current sync workflow."""
     if text.startswith("---"):
         parts = text.split("---", 2)
         if len(parts) >= 3:
@@ -887,6 +983,7 @@ def fallback_load_note(text: str) -> NoteDocument:
 
 
 def dump_note(document: NoteDocument) -> str:
+    """Serialize note back into the on-disk format used by the vault."""
     metadata_text = dump_frontmatter(document.metadata)
     body = document.body.rstrip()
     if body:
@@ -895,6 +992,7 @@ def dump_note(document: NoteDocument) -> str:
 
 
 def dump_frontmatter(metadata: dict[str, Any]) -> str:
+    """Serialize frontmatter back into the on-disk format used by the vault."""
     lines: list[str] = []
     for key, value in metadata.items():
         if isinstance(value, list):
@@ -914,6 +1012,7 @@ def dump_frontmatter(metadata: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 def format_yaml_scalar(value: Any) -> str:
+    """Handle format yaml scalar for the current sync workflow."""
     if isinstance(value, bool):
         return "true" if value else "false"
     if isinstance(value, (int, float)) and not isinstance(value, bool):
@@ -922,6 +1021,7 @@ def format_yaml_scalar(value: Any) -> str:
 
 
 def normalize_reread_dates(value: Any) -> list[dict[str, str]]:
+    """Normalize reread dates into the canonical representation used by this project."""
     if not isinstance(value, list):
         return []
     normalized: list[dict[str, str]] = []
@@ -935,6 +1035,7 @@ def normalize_reread_dates(value: Any) -> list[dict[str, str]]:
 
 
 def set_generated_block(body: str, marker_key: str, rendered_block: str, after_marker_key: str | None = None) -> str:
+    """Handle set generated block for the current sync workflow."""
     start_marker, end_marker = GENERATED_MARKERS[marker_key]
     replacement = f"{start_marker}\n{rendered_block.rstrip()}\n{end_marker}"
     pattern = re.compile(re.escape(start_marker) + r".*?" + re.escape(end_marker), re.DOTALL)
@@ -955,35 +1056,42 @@ def set_generated_block(body: str, marker_key: str, rendered_block: str, after_m
 
 
 def render_book_header(title: str, cover_link: str) -> str:
+    """Render the generated markdown block for book header."""
     image_block = f"!{cover_link[:-2]}|200]]" if cover_link.startswith("[[") and cover_link.endswith("]]") else "> Cover not available."
     return f"# {title}\n\n{image_block}"
 
 
 def render_book_quotes(quotes: str) -> str:
+    """Render the generated markdown block for book quotes."""
     return f"## Quotes\n{quotes}".rstrip()
 
 
 def render_book_review(review: str) -> str:
+    """Render the generated markdown block for book review."""
     return f"## My Review\n{review}".rstrip()
 
 
 def render_author_header(author_name: str, cover_link: str) -> str:
+    """Render the generated markdown block for author header."""
     lines = [f"# {author_name}"]
     if cover_link.startswith("[[") and cover_link.endswith("]]"):
         lines.extend(["", f"!{cover_link}"])
     return "\n".join(lines).rstrip()
 
 def render_author_bio(biography: str) -> str:
+    """Render the generated markdown block for author bio."""
     return f"## Biography\n{biography or 'Biography not available yet.'}".rstrip()
 
 
 def render_author_books(book_links: list[str]) -> str:
+    """Render the generated markdown block for author books."""
     lines = ["## Books Linked"]
     lines.extend(f"- {link}" for link in book_links) if book_links else lines.append("- No linked books yet.")
     return "\n".join(lines)
 
 
 def extract_generated_block(body: str, marker_key: str) -> str:
+    """Handle extract generated block for the current sync workflow."""
     start_marker, end_marker = GENERATED_MARKERS[marker_key]
     pattern = re.compile(re.escape(start_marker) + r"\n?(.*?)\n?" + re.escape(end_marker), re.DOTALL)
     match = pattern.search(body)
@@ -991,14 +1099,17 @@ def extract_generated_block(body: str, marker_key: str) -> str:
 
 
 def ordered_metadata(keys: list[str], values: dict[str, Any]) -> dict[str, Any]:
+    """Handle ordered metadata for the current sync workflow."""
     return {key: values.get(key, "") for key in keys}
 
 
 def note_has_schema_keys(note: NoteDocument, keys: list[str]) -> bool:
+    """Handle note has schema keys for the current sync workflow."""
     return all(key in note.metadata for key in keys)
 
 
 def notes_equal(current: NoteDocument, desired: NoteDocument, keys: list[str]) -> bool:
+    """Handle notes equal for the current sync workflow."""
     return (
         note_has_schema_keys(current, keys)
         and ordered_metadata(keys, current.metadata) == ordered_metadata(keys, desired.metadata)
@@ -1007,6 +1118,7 @@ def notes_equal(current: NoteDocument, desired: NoteDocument, keys: list[str]) -
 
 
 def extract_existing_cover_filename(note: NoteDocument) -> str:
+    """Handle extract existing cover filename for the current sync workflow."""
     cover = clean_value(note.metadata.get("cover", ""))
     if cover.startswith("[[") and cover.endswith("]]"):
         return cover[2:-2].split("|", 1)[0]
@@ -1014,25 +1126,30 @@ def extract_existing_cover_filename(note: NoteDocument) -> str:
 
 
 def create_manual_review_collector() -> dict[str, list[str]]:
+    """Create manual review collector for the current run."""
     return {section: [] for section in MANUAL_REVIEW_SECTIONS}
 
 
 def add_review_item(review_sections: dict[str, list[str]], section: str, item: str) -> None:
+    """Add review item to the structure being built for this run."""
     if item not in review_sections[section]:
         review_sections[section].append(item)
 
 
 def print_progress(kind: str, index: int, total: int, status: str, label: str) -> None:
+    """Handle print progress for the current sync workflow."""
     print(f"[{kind} {index}/{total}] {status}: {label}", flush=True)
 
 
 def format_provider_status(status: str, provider: str = "") -> str:
+    """Handle format provider status for the current sync workflow."""
     if provider and status in {"downloaded", "found"}:
         return f"{status}:{provider}"
     return status
 
 
 def print_book_outcome(index: int, total: int, record: BookRecord, outcome: BookProcessOutcome) -> None:
+    """Handle print book outcome for the current sync workflow."""
     parts = [
         outcome.status,
         f"yaml={outcome.metadata_status}",
@@ -1053,6 +1170,7 @@ def print_author_outcome(
     image_status: str,
     image_provider: str = "",
 ) -> None:
+    """Handle print author outcome for the current sync workflow."""
     parts = [
         note_status,
         f"bio={biography_status}",
@@ -1064,10 +1182,12 @@ def print_author_outcome(
 
 
 def format_review_entry(record: BookRecord, detail: str) -> str:
+    """Handle format review entry for the current sync workflow."""
     return f"- {record.author_name} - {record.display_title()}: {detail} ({record.row_context})"
 
 
 def write_manual_review_note(path: Path, review_sections: dict[str, list[str]]) -> None:
+    """Handle write manual review note for the current sync workflow."""
     if not any(review_sections.values()):
         if path.exists():
             path.unlink()
@@ -1086,6 +1206,7 @@ def write_manual_review_note(path: Path, review_sections: dict[str, list[str]]) 
 
 
 def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: list[dict[str, str]]) -> dict[str, Any]:
+    """Build book frontmatter for the current sync step."""
     return ordered_metadata(
         BOOK_FRONTMATTER_KEYS,
         {
@@ -1113,6 +1234,7 @@ def build_book_frontmatter(record: BookRecord, cover_link: str, reread_dates: li
 
 
 def build_author_frontmatter(author_name: str, cover_link: str, country: str, birth_year: str, death_year: str, sex: str) -> dict[str, Any]:
+    """Build author frontmatter for the current sync step."""
     return ordered_metadata(
         AUTHOR_FRONTMATTER_KEYS,
         {
@@ -1128,6 +1250,7 @@ def build_author_frontmatter(author_name: str, cover_link: str, country: str, bi
 
 
 def build_book_document(existing: NoteDocument, record: BookRecord, cover_link: str) -> NoteDocument:
+    """Build book document for the current sync step."""
     body = existing.body
     body = set_generated_block(body, "book_header", render_book_header(record.display_title(), cover_link))
     body = set_generated_block(body, "book_quotes", render_book_quotes(get_existing_quotes(existing)), after_marker_key="book_header")
@@ -1147,6 +1270,7 @@ def build_author_document(
     sex: str,
     cover_link: str,
 ) -> NoteDocument:
+    """Build author document for the current sync step."""
     body = existing.body
     body = set_generated_block(body, "author_header", render_author_header(author_name, cover_link))
     body = set_generated_block(body, "author_bio", render_author_bio(biography), after_marker_key="author_header")
@@ -1155,6 +1279,7 @@ def build_author_document(
 
 
 def get_existing_quotes(note: NoteDocument) -> str:
+    """Read the current quotes from an existing note."""
     block = extract_generated_block(note.body, "book_quotes")
     if block.startswith("## Quotes"):
         return block[len("## Quotes") :].strip()
@@ -1162,6 +1287,7 @@ def get_existing_quotes(note: NoteDocument) -> str:
 
 
 def get_existing_biography(note: NoteDocument) -> str:
+    """Read the current biography from an existing note."""
     block = extract_generated_block(note.body, "author_bio")
     if block.startswith("## Biography"):
         return block[len("## Biography") :].strip()
@@ -1169,22 +1295,32 @@ def get_existing_biography(note: NoteDocument) -> str:
 
 
 def get_existing_country(note: NoteDocument) -> str:
+    """Read the current country from an existing note."""
     return normalize_country_name(clean_value(note.metadata.get("country", "")))
 
 
 def get_existing_birth_year(note: NoteDocument) -> str:
+    """Read the current birth year from an existing note."""
     return normalize_year_value(note.metadata.get("birth_year", ""))
 
 
 def get_existing_death_year(note: NoteDocument) -> str:
+    """Read the current death year from an existing note."""
     return normalize_year_value(note.metadata.get("death_year", ""))
 
 
 def get_existing_sex(note: NoteDocument) -> str:
+    """Read the current sex from an existing note."""
     return normalize_sex_value(note.metadata.get("sex", ""))
 
 
+
+
+# ============================================================================
+# Template And Schema Helpers
+# ============================================================================
 def build_book_template_document() -> NoteDocument:
+    """Build book template document for the current sync step."""
     body = ""
     body = set_generated_block(body, "book_header", render_book_header("", ""))
     body = set_generated_block(body, "book_quotes", render_book_quotes(""), after_marker_key="book_header")
@@ -1219,6 +1355,7 @@ def build_book_template_document() -> NoteDocument:
 
 
 def build_author_template_document() -> NoteDocument:
+    """Build author template document for the current sync step."""
     body = ""
     body = set_generated_block(body, "author_header", render_author_header("", ""))
     body = set_generated_block(body, "author_bio", render_author_bio(""), after_marker_key="author_header")
@@ -1241,6 +1378,7 @@ def build_author_template_document() -> NoteDocument:
 
 
 def ensure_template_notes(vault_root: Path) -> None:
+    """Ensure template notes exists and is shaped the way the sync expects."""
     templates_root = vault_root / "Templates"
     templates_root.mkdir(parents=True, exist_ok=True)
     (templates_root / "Book_Template.md").write_text(dump_note(build_book_template_document()), encoding="utf-8")
@@ -1248,6 +1386,7 @@ def ensure_template_notes(vault_root: Path) -> None:
 
 
 def author_metadata_is_complete(note: NoteDocument) -> bool:
+    """Handle author metadata is complete for the current sync workflow."""
     return (
         bool(get_existing_biography(note))
         and get_existing_country(note) != "Unknown"
@@ -1257,6 +1396,7 @@ def author_metadata_is_complete(note: NoteDocument) -> bool:
 
 
 def normalize_year_value(value: Any) -> str:
+    """Normalize year value into the canonical representation used by this project."""
     text = repair_text_value(clean_value(value)).strip()
     if not text or text.casefold() in {"unknown", "none", "null", "n/a"}:
         return ""
@@ -1265,17 +1405,24 @@ def normalize_year_value(value: Any) -> str:
 
 
 def normalize_numeric_year_value(value: Any) -> int | str:
+    """Normalize numeric year value into the canonical representation used by this project."""
     year = normalize_year_value(value)
     return int(year) if year else ""
 
 
+
+# ============================================================================
+# HTTP And Image Provider Helpers
+# ============================================================================
 def configure_metadata_session(session: requests.Session) -> requests.Session:
+    """Handle configure metadata session for the current sync workflow."""
     session.headers.setdefault("User-Agent", HTTP_USER_AGENT)
     session.headers.setdefault("Accept", HTTP_ACCEPT_HEADER)
     return session
 
 
 def provider_request_state(session: requests.Session) -> dict[str, float]:
+    """Handle provider request state for the current sync workflow."""
     state = getattr(session, "_goodreads_provider_state", None)
     if state is None:
         state = {}
@@ -1284,6 +1431,7 @@ def provider_request_state(session: requests.Session) -> dict[str, float]:
 
 
 def rate_limit_provider(session: requests.Session, provider: str) -> None:
+    """Handle rate limit provider for the current sync workflow."""
     minimum = IMAGE_PROVIDER_MIN_INTERVALS.get(provider, 0.0)
     if minimum <= 0:
         return
@@ -1297,6 +1445,7 @@ def rate_limit_provider(session: requests.Session, provider: str) -> None:
 
 
 def parse_retry_after_seconds(response: requests.Response) -> float:
+    """Parse retry after seconds from raw input into the value used by the sync."""
     value = response.headers.get("Retry-After", "")
     try:
         seconds = float(value)
@@ -1314,6 +1463,7 @@ def provider_get(
     timeout: int = 20,
     retry_statuses: tuple[int, ...] = (),
 ) -> requests.Response:
+    """Handle provider get for the current sync workflow."""
     last_error: requests.RequestException | None = None
     for attempt in range(IMAGE_PROVIDER_MAX_RETRIES):
         rate_limit_provider(session, provider)
@@ -1338,6 +1488,7 @@ def provider_get(
 
 
 def fetch_open_library_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    """Fetch open library cover url and return soft errors instead of crashing the run."""
     identifiers = [identifier for identifier in (record.isbn13, record.isbn) if identifier]
     for identifier in identifiers:
         url = f"https://covers.openlibrary.org/b/isbn/{identifier}-L.jpg?default=false"
@@ -1355,6 +1506,7 @@ def fetch_open_library_cover_url(session: requests.Session, record: BookRecord) 
 
 
 def score_wikimedia_cover_page(page: dict[str, Any], record: BookRecord) -> int:
+    """Handle score wikimedia cover page for the current sync workflow."""
     title = clean_value(page.get("title", "")).casefold()
     score = 0
     for token in re.findall(r"\w+", repair_text_value(record.title).casefold())[:6]:
@@ -1371,6 +1523,7 @@ def score_wikimedia_cover_page(page: dict[str, Any], record: BookRecord) -> int:
 
 
 def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    """Fetch wikimedia commons cover url and return soft errors instead of crashing the run."""
     query = " ".join(part for part in (repair_text_value(record.title), repair_text_value(record.author_name)) if part).strip()
     if not query:
         return "", []
@@ -1409,6 +1562,7 @@ def fetch_wikimedia_commons_cover_url(session: requests.Session, record: BookRec
 
 
 def fetch_cover_image_with_fallbacks(session: requests.Session, record: BookRecord) -> ImageFetchResult:
+    """Run the active book-cover provider chain and keep provider attribution for reporting."""
     errors: list[str] = []
     for provider, fetcher in (
         ("open_library", fetch_open_library_cover_url),
@@ -1424,11 +1578,13 @@ def fetch_cover_image_with_fallbacks(session: requests.Session, record: BookReco
 
 # Backward-compatible wrapper used by older tests/call sites.
 def fetch_cover_url_with_fallbacks(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    """Fetch cover url with fallbacks and return soft errors instead of crashing the run."""
     result = fetch_cover_image_with_fallbacks(session, record)
     return result.url, result.errors
 
 
 def score_wikimedia_author_page(page: dict[str, Any], author_name: str) -> int:
+    """Handle score wikimedia author page for the current sync workflow."""
     title = clean_value(page.get("title", "")).casefold()
     score = 0
     for token in re.findall(r"\w+", repair_text_value(author_name).casefold())[:4]:
@@ -1440,6 +1596,7 @@ def score_wikimedia_author_page(page: dict[str, Any], author_name: str) -> int:
 
 
 def fetch_wikimedia_commons_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    """Fetch wikimedia commons author image url and return soft errors instead of crashing the run."""
     try:
         response = provider_get(
             session,
@@ -1474,25 +1631,8 @@ def fetch_wikimedia_commons_author_image_url(session: requests.Session, author_n
     return "", []
 
 
-def fetch_wikipedia_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
-    title = requests.utils.quote(repair_text_value(author_name).replace(" ", "_"), safe="()_,-")
-    try:
-        response = provider_get(
-            session,
-            "wikipedia",
-            WIKIPEDIA_SUMMARY_API.format(title=title),
-            timeout=20,
-            retry_statuses=(403, 429),
-        )
-        payload = response.json()
-    except requests.RequestException as exc:
-        return "", [f"Wikipedia author-image search failed for {author_name}: {exc}"]
-    thumbnail = payload.get("originalimage") or payload.get("thumbnail") or {}
-    url = clean_value(thumbnail.get("source", ""))
-    return (url, []) if url else ("", [])
-
-
 def fetch_author_image_result(session: requests.Session, author_name: str) -> ImageFetchResult:
+    """Run the active author-image provider chain and keep provider attribution for reporting."""
     errors: list[str] = []
     for provider, fetcher in (("wikimedia_commons", fetch_wikimedia_commons_author_image_url), ("duckduckgo", fetch_ddg_author_image_url)):
         url, fetch_errors = fetcher(session, author_name)
@@ -1503,11 +1643,13 @@ def fetch_author_image_result(session: requests.Session, author_name: str) -> Im
 
 
 def fetch_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
+    """Fetch author image url and return soft errors instead of crashing the run."""
     result = fetch_author_image_result(session, author_name)
     return result.url, result.errors
 
 
 def download_cover(session: requests.Session, url: str, destination: Path) -> bool:
+    """Handle download cover for the current sync workflow."""
     if not url:
         return False
     try:
@@ -1526,6 +1668,7 @@ def download_cover(session: requests.Session, url: str, destination: Path) -> bo
 
 
 def url_looks_like_image(session: requests.Session, url: str) -> bool:
+    """Handle url looks like image for the current sync workflow."""
     try:
         response = session.get(url, timeout=10)
         response.raise_for_status()
@@ -1540,6 +1683,7 @@ def url_looks_like_image(session: requests.Session, url: str) -> bool:
 
 
 def fetch_first_working_ddg_image_url(session: requests.Session, results: list[dict[str, Any]]) -> str:
+    """Fetch first working ddg image url and return soft errors instead of crashing the run."""
     for item in results:
         url = clean_value(item.get("image", ""))
         if url and url_looks_like_image(session, url):
@@ -1548,6 +1692,7 @@ def fetch_first_working_ddg_image_url(session: requests.Session, results: list[d
 
 
 def ddg_image_search(query: str, retries: int = 3) -> tuple[list[dict[str, Any]], list[str]]:
+    """Handle ddg image search for the current sync workflow."""
     if DDGS is None:
         return [], ["DuckDuckGo image fallback unavailable because dependency `ddgs` is not installed."]
     last_error = ""
@@ -1564,6 +1709,7 @@ def ddg_image_search(query: str, retries: int = 3) -> tuple[list[dict[str, Any]]
 
 
 def fetch_ddg_cover_url(session: requests.Session, record: BookRecord) -> tuple[str, list[str]]:
+    """Fetch ddg cover url and return soft errors instead of crashing the run."""
     query = f"{repair_text_value(record.title)} {repair_text_value(record.author_name)} book cover".strip()
     results, errors = ddg_image_search(query)
     if errors:
@@ -1573,7 +1719,8 @@ def fetch_ddg_cover_url(session: requests.Session, record: BookRecord) -> tuple[
 
 
 def fetch_ddg_author_image_url(session: requests.Session, author_name: str) -> tuple[str, list[str]]:
-    query = f"{repair_text_value(author_name)} author portrait".strip()
+    """Fetch ddg author image url and return soft errors instead of crashing the run."""
+    query = f"{repair_text_value(author_name)} portrait".strip()
     results, errors = ddg_image_search(query)
     if errors:
         return "", [f"DuckDuckGo author-image search failed for {author_name}: {error}" for error in errors]
@@ -1581,7 +1728,13 @@ def fetch_ddg_author_image_url(session: requests.Session, author_name: str) -> t
     return (url, []) if url else ("", [])
 
 
+
+
+# ============================================================================
+# Author Metadata Prompting And Parsing
+# ============================================================================
 def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> str:
+    """Build codex biography prompt for the current sync step."""
     payload = {
         "instruction": (
             "You are AuthorBiographyAgent. Return strict JSON only with keys biography, country, birth_year, death_year, and sex. "
@@ -1598,6 +1751,7 @@ def build_codex_biography_prompt(author_name: str, sample_titles: list[str]) -> 
 
 
 def build_codex_demographics_prompt(author_name: str, biography: str, sample_titles: list[str]) -> str:
+    """Build codex demographics prompt for the current sync step."""
     payload = {
         "instruction": (
             "You are AuthorDemographicsAgent. Return strict JSON only with keys country, birth_year, death_year, and sex. "
@@ -1614,6 +1768,7 @@ def build_codex_demographics_prompt(author_name: str, biography: str, sample_tit
 
 
 def build_codex_sex_prompt(author_name: str, biography: str, sample_titles: list[str]) -> str:
+    """Build codex sex prompt for the current sync step."""
     payload = {
         "instruction": (
             "You are AuthorSexAgent. Return strict JSON only with key sex. "
@@ -1629,6 +1784,7 @@ def build_codex_sex_prompt(author_name: str, biography: str, sample_titles: list
     return json.dumps(payload, ensure_ascii=False)
 
 def clean_generated_biography(text: str) -> str:
+    """Clean generated biography before it is reused elsewhere in the pipeline."""
     cleaned = repair_text_value(text)
     cleaned = re.sub(r"^\s*[-*]\s*", "", cleaned, flags=re.MULTILINE)
     cleaned = re.sub(r"[ \t]+\n", "\n", cleaned)
@@ -1637,6 +1793,7 @@ def clean_generated_biography(text: str) -> str:
 
 
 def parse_author_metadata_result(text: str) -> AuthorMetadataResult:
+    """Parse author metadata result from raw input into the value used by the sync."""
     match = re.search(r"\{.*\}", text, re.DOTALL)
     payload = json.loads(match.group(0) if match else text)
     biography = clean_generated_biography(clean_value(payload.get("biography", "")))
@@ -1648,6 +1805,7 @@ def parse_author_metadata_result(text: str) -> AuthorMetadataResult:
 
 
 def biography_output_looks_invalid(text: str) -> bool:
+    """Handle biography output looks invalid for the current sync workflow."""
     lowered = text.casefold()
     invalid_markers = [
         "i can't",
@@ -1663,34 +1821,43 @@ def biography_output_looks_invalid(text: str) -> bool:
 
 
 class AuthorBiographyAgent(_CodexTextAgent):
+    """Provide the state and behavior for AuthorBiographyAgent."""
     agent_name = "AuthorBiographyAgent"
 
     def __init__(self, *, runner: CodexRunner | None = None) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         super().__init__(runner=runner, model=CODEX_MODEL, reasoning_effort=CODEX_REASONING_EFFORT)
 
     def run(self, author_name: str, sample_titles: list[str], *, workdir: Path) -> CodexResult:
+        """Execute the main operation for this helper and return its structured result."""
         prompt = build_codex_biography_prompt(author_name, sample_titles)
         return self._run(prompt, workdir=workdir)
 
 
 class AuthorDemographicsAgent(_CodexTextAgent):
+    """Provide the state and behavior for AuthorDemographicsAgent."""
     agent_name = "AuthorDemographicsAgent"
 
     def __init__(self, *, runner: CodexRunner | None = None) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         super().__init__(runner=runner, model=CODEX_MODEL, reasoning_effort=CODEX_REASONING_EFFORT)
 
     def run(self, author_name: str, biography: str, sample_titles: list[str], *, workdir: Path) -> CodexResult:
+        """Execute the main operation for this helper and return its structured result."""
         prompt = build_codex_demographics_prompt(author_name, biography, sample_titles)
         return self._run(prompt, workdir=workdir)
 
 
 class AuthorSexAgent(_CodexTextAgent):
+    """Provide the state and behavior for AuthorSexAgent."""
     agent_name = "AuthorSexAgent"
 
     def __init__(self, *, runner: CodexRunner | None = None) -> None:
+        """Initialize the object state needed for later pipeline calls."""
         super().__init__(runner=runner, model=CODEX_MODEL, reasoning_effort=CODEX_REASONING_EFFORT)
 
     def run(self, author_name: str, biography: str, sample_titles: list[str], *, workdir: Path) -> CodexResult:
+        """Execute the main operation for this helper and return its structured result."""
         prompt = build_codex_sex_prompt(author_name, biography, sample_titles)
         return self._run(prompt, workdir=workdir)
 
@@ -1701,6 +1868,7 @@ def generate_author_metadata_via_codex(
     workdir: Path,
     agent: AuthorBiographyAgent | None = None,
 ) -> tuple[AuthorMetadataResult, list[str]]:
+    """Handle generate author metadata via codex for the current sync workflow."""
     biography_agent = agent or AuthorBiographyAgent()
     try:
         result = biography_agent.run(author_name, sample_titles, workdir=workdir)
@@ -1741,6 +1909,7 @@ def generate_author_demographics_via_codex(
     workdir: Path,
     agent: AuthorDemographicsAgent | None = None,
 ) -> tuple[AuthorMetadataResult, list[str]]:
+    """Handle generate author demographics via codex for the current sync workflow."""
     demographics_agent = agent or AuthorDemographicsAgent()
     try:
         result = demographics_agent.run(author_name, biography, sample_titles, workdir=workdir)
@@ -1779,6 +1948,7 @@ def generate_author_sex_via_codex(
     workdir: Path,
     agent: AuthorSexAgent | None = None,
 ) -> tuple[AuthorMetadataResult, list[str]]:
+    """Handle generate author sex via codex for the current sync workflow."""
     sex_agent = agent or AuthorSexAgent()
     try:
         result = sex_agent.run(author_name, biography, sample_titles, workdir=workdir)
@@ -1803,10 +1973,16 @@ def generate_author_sex_via_codex(
         return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=""), [f"Codex sex inference produced unusable output for {author_name}."]
     return AuthorMetadataResult(biography="", country="", birth_year="", death_year="", sex=metadata.sex), []
 
+
+
+# ============================================================================
+# Author Note Processing
+# ============================================================================
 def build_author_work_items(
     records: list[BookRecord],
     author_books: dict[str, list[str]],
 ) -> list[AuthorWorkItem]:
+    """Build author work items for the current sync step."""
     author_records = {record.author_name: record for record in records}
     sample_titles_by_author: dict[str, list[str]] = defaultdict(list)
     for record in records:
@@ -1845,6 +2021,7 @@ def materialize_author_note(
     refresh_images: bool,
     review_sections: dict[str, list[str]],
 ) -> AuthorProcessOutcome:
+    """Write the desired author note, including portrait handling, and report what changed."""
     assert work_item.author_record.author_path is not None
     assert work_item.author_record.author_cover_path is not None
 
@@ -1899,6 +2076,7 @@ def materialize_author_note(
     return AuthorProcessOutcome(note_status="created", image_status=image_status, image_provider=image_provider)
 
 def classify_biography_result(errors: list[str]) -> str:
+    """Classify biography result into the bucket used by later sync logic."""
     if not errors:
         return "finished"
     lowered = " ".join(errors).casefold()
@@ -1918,6 +2096,7 @@ def process_author_biographies(
     review_sections: dict[str, list[str]],
     summary: SyncSummary,
 ) -> None:
+    """Coordinate author enrichment, worker status updates, and final author note writes."""
     total_authors = len(work_items)
     completed_authors = 0
     pending_queue: deque[tuple[AuthorWorkItem, str]] = deque()
@@ -1934,6 +2113,7 @@ def process_author_biographies(
         mode: str,
         slot_id: int | None = None,
     ) -> None:
+        """Finish one author job by writing the note and reporting the final outcome."""
         nonlocal completed_authors
         existing_country = get_existing_country(work_item.current_note)
         existing_birth_year = get_existing_birth_year(work_item.current_note)
@@ -2027,6 +2207,7 @@ def process_author_biographies(
         available_slots = deque(range(1, AUTHOR_BIO_CONCURRENCY + 1))
 
         def submit_next(slot_id: int) -> None:
+            """Handle submit next for the current sync workflow."""
             if not pending_queue:
                 renderer.update(slot_id, "queued")
                 return
@@ -2091,10 +2272,16 @@ def process_author_biographies(
 
     renderer.finish()
 
+
+
+# ============================================================================
+# Link Materialization And Migration
+# ============================================================================
 def materialize_book_links(
     records: list[BookRecord],
     review_sections: dict[str, list[str]],
 ) -> dict[str, list[str]]:
+    """Materialize book links into the note and link structures used by the vault."""
     author_books: dict[str, list[str]] = defaultdict(list)
     scheduled_paths = {record.book_path for record in records if record.book_path is not None}
     for record in records:
@@ -2118,6 +2305,7 @@ def materialize_book_links(
 
 
 def select_records_for_add_book(records: list[BookRecord], selector: str) -> list[BookRecord]:
+    """Select records for add book according to the CLI or sync constraints."""
     exact_id = [record for record in records if record.book_id == selector]
     if exact_id:
         return exact_id
@@ -2130,6 +2318,7 @@ def select_records_for_add_book(records: list[BookRecord], selector: str) -> lis
 
 
 def migrate_note_frontmatter(vault_root: Path, path: Path, is_author: bool) -> bool:
+    """Handle migrate note frontmatter for the current sync workflow."""
     note = load_note(path)
     metadata = dict(note.metadata)
     body = note.body
@@ -2232,6 +2421,7 @@ def migrate_note_frontmatter(vault_root: Path, path: Path, is_author: bool) -> b
 
 
 def migrate_yaml(vault_root: Path) -> tuple[int, int]:
+    """Handle migrate yaml for the current sync workflow."""
     authors = 0
     books = 0
     ensure_directories(vault_root)
@@ -2248,6 +2438,7 @@ def migrate_yaml(vault_root: Path) -> tuple[int, int]:
     return authors, books
 
 def merge_known_author_aliases(vault_root: Path) -> None:
+    """Merge known author aliases according to the project-specific normalization rules."""
     authors_root = vault_root / "Authors"
     if not authors_root.exists():
         return
@@ -2286,6 +2477,11 @@ def merge_known_author_aliases(vault_root: Path) -> None:
         shutil.rmtree(author_dir, ignore_errors=True)
 
 
+
+
+# ============================================================================
+# Sync Orchestration
+# ============================================================================
 def run_sync(
     csv_path: Path,
     vault_root: Path,
@@ -2297,6 +2493,7 @@ def run_sync(
     selector: str | None = None,
     image_only: bool = False,
 ) -> SyncSummary:
+    """Orchestrate the full Goodreads-to-vault sync, including books, authors, images, and review-note rebuilding."""
     ensure_directories(vault_root)
     merge_known_author_aliases(vault_root)
     review_sections = create_manual_review_collector()
@@ -2443,6 +2640,7 @@ def run_sync(
 
 
 def format_summary(summary: SyncSummary, vault_root: Path) -> str:
+    """Handle format summary for the current sync workflow."""
     return (
         "Sync completed.\n"
         f"- Books created: {summary.books_created}\n"
@@ -2458,6 +2656,7 @@ def format_summary(summary: SyncSummary, vault_root: Path) -> str:
 
 
 def main(argv: list[str] | None = None) -> int:
+    """CLI entrypoint that routes subcommands into the appropriate sync or migration path."""
     args = parse_args(argv)
     vault_root = Path(args.vault_root).expanduser().resolve()
 

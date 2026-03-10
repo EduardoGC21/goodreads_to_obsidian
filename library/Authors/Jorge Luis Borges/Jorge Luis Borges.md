@@ -1,6 +1,6 @@
 ---
 name: "Jorge Luis Borges"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jorge Luis Borges.jpg]]"
 country: "[[Argentina]]"
 birth_year: "1899"
 death_year: "1986"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jorge Luis Borges
+
+![[Attachments/AuthorImages/Jorge Luis Borges.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

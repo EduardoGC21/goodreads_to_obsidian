@@ -1,6 +1,6 @@
 ---
 name: "Junji Ito"
-cover: ""
+cover: "[[Attachments/AuthorImages/Junji Ito.jpg]]"
 country: "[[Japan]]"
 birth_year: "1963"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Junji Ito
+
+![[Attachments/AuthorImages/Junji Ito.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

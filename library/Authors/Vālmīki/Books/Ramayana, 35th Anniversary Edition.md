@@ -15,7 +15,7 @@ isbn: "0520272986"
 isbn13: "9780520272989"
 pages: 464
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Vālmīki - Ramayana, 35th Anniversary Edition.jpg]]"
 bookshelves:
   - "[[epopeyas]]"
   - "[[mitología]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Ramayana, 35th Anniversary Edition
 
-> Cover not available.
+![[Attachments/Covers/Vālmīki - Ramayana, 35th Anniversary Edition.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

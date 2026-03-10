@@ -1,15 +1,17 @@
 ---
 name: "Tao Tao Liu"
-cover: ""
+cover: "[[Attachments/AuthorImages/Tao Tao Liu.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: "2025"
-sex: "female"
+sex: "unknown"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Tao Tao Liu
+
+![[Attachments/AuthorImages/Tao Tao Liu.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

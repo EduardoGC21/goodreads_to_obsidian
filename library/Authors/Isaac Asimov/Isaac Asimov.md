@@ -1,6 +1,6 @@
 ---
 name: "Isaac Asimov"
-cover: ""
+cover: "[[Attachments/AuthorImages/Isaac Asimov.jpg]]"
 country: "[[Russia]]"
 birth_year: "1920"
 death_year: "1992"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Isaac Asimov
+
+![[Attachments/AuthorImages/Isaac Asimov.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Frank Herbert"
-cover: ""
+cover: "[[Attachments/AuthorImages/Frank Herbert.jpg]]"
 country: "[[United States]]"
 birth_year: "1920"
 death_year: "1986"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Frank Herbert
+
+![[Attachments/AuthorImages/Frank Herbert.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

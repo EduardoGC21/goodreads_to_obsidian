@@ -1,6 +1,6 @@
 ---
 name: "Ray Bradbury"
-cover: ""
+cover: "[[Attachments/AuthorImages/Ray Bradbury.jpg]]"
 country: "[[United States]]"
 birth_year: "1920"
 death_year: "2012"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ray Bradbury
+
+![[Attachments/AuthorImages/Ray Bradbury.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

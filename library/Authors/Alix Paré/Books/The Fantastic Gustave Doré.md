@@ -15,7 +15,7 @@ isbn: "3791379631"
 isbn13: "9783791379630"
 pages: 480
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Alix Paré - The Fantastic Gustave Doré.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Fantastic Gustave Doré
 
-> Cover not available.
+![[Attachments/Covers/Alix Paré - The Fantastic Gustave Doré.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

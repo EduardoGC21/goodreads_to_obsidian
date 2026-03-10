@@ -1,6 +1,6 @@
 ---
 name: "Richard H. Thaler"
-cover: ""
+cover: "[[Attachments/AuthorImages/Richard H. Thaler.jpg]]"
 country: "[[United States]]"
 birth_year: "1945"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Richard H. Thaler
+
+![[Attachments/AuthorImages/Richard H. Thaler.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,6 +1,6 @@
 ---
 name: "Jean-Jacques Rousseau"
-cover: ""
+cover: "[[Attachments/AuthorImages/Jean-Jacques Rousseau.jpg]]"
 country: "[[Switzerland]]"
 birth_year: "1712"
 death_year: "1778"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jean-Jacques Rousseau
+
+![[Attachments/AuthorImages/Jean-Jacques Rousseau.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

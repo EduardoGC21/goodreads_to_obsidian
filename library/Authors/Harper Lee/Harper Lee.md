@@ -1,6 +1,6 @@
 ---
 name: "Harper Lee"
-cover: ""
+cover: "[[Attachments/AuthorImages/Harper Lee.jpg]]"
 country: "[[United States]]"
 birth_year: "1926"
 death_year: "2016"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harper Lee
+
+![[Attachments/AuthorImages/Harper Lee.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

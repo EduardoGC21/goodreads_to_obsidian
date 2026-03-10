@@ -1,6 +1,6 @@
 ---
 name: "Walter F. Otto"
-cover: ""
+cover: "[[Attachments/AuthorImages/Walter F. Otto.jpg]]"
 country: "[[Germany]]"
 birth_year: "1874"
 death_year: "1958"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Walter F. Otto
+
+![[Attachments/AuthorImages/Walter F. Otto.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

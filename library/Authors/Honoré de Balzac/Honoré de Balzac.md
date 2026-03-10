@@ -1,6 +1,6 @@
 ---
 name: "Honoré de Balzac"
-cover: ""
+cover: "[[Attachments/AuthorImages/Honoré de Balzac.jpg]]"
 country: "[[France]]"
 birth_year: "1799"
 death_year: "1850"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Honoré de Balzac
+
+![[Attachments/AuthorImages/Honoré de Balzac.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

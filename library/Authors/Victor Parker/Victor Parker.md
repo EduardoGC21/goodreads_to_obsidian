@@ -4,7 +4,7 @@ cover: "[[Attachments/AuthorImages/Victor Parker.jpg]]"
 country: "[[Unknown]]"
 birth_year: "1966"
 death_year: ""
-sex: "male"
+sex: "unknown"
 tags:
   - "author"
 ---

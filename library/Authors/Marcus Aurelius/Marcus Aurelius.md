@@ -1,6 +1,6 @@
 ---
 name: "Marcus Aurelius"
-cover: ""
+cover: "[[Attachments/AuthorImages/Marcus Aurelius.jpg]]"
 country: "[[Italy]]"
 birth_year: "0121"
 death_year: "0180"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marcus Aurelius
+
+![[Attachments/AuthorImages/Marcus Aurelius.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

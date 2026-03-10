@@ -1,6 +1,6 @@
 ---
 name: "Arthur C. Clarke"
-cover: ""
+cover: "[[Attachments/AuthorImages/Arthur C. Clarke.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1917"
 death_year: "2008"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arthur C. Clarke
+
+![[Attachments/AuthorImages/Arthur C. Clarke.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

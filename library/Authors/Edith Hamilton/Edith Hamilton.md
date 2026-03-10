@@ -1,6 +1,6 @@
 ---
 name: "Edith Hamilton"
-cover: ""
+cover: "[[Attachments/AuthorImages/Edith Hamilton.jpg]]"
 country: "[[United States]]"
 birth_year: "1867"
 death_year: "1963"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edith Hamilton
+
+![[Attachments/AuthorImages/Edith Hamilton.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

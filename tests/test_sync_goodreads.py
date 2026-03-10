@@ -182,42 +182,6 @@ class GoodreadsSyncTests(unittest.TestCase):
         self.assertIn('Frank Herbert - Dune', review_text)
         self.assertNotIn('[[', review_text)
 
-    def test_fetch_google_books_cover_url_retries_and_uses_headers(self) -> None:
-        record = sync_goodreads.BookRecord(
-            row_number=2,
-            book_id="1",
-            title="Dune",
-            author_name="Frank Herbert",
-            original_author_name="Frank Herbert",
-            isbn="",
-            isbn13="9780441172719",
-            rating=0,
-            read_count=0,
-            date_added="",
-            date_read="",
-            language="English",
-            pages=0,
-            binding="Paperback",
-            format_tag="physical",
-            exclusive_shelf="read",
-            bookshelves=["science fiction"],
-            review="",
-            publisher="Ace",
-            original_publish_year="",
-            row_context="row 2",
-        )
-        session = sync_goodreads.configure_metadata_session(FakeSession([
-            FakeResponse(429, headers={"Retry-After": "0"}),
-            FakeResponse(200, payload={"items": [{"volumeInfo": {"imageLinks": {"large": "http://example.com/cover.jpg"}}}]}),
-        ]))
-        with patch.object(sync_goodreads.time, "sleep") as sleep_mock:
-            cover_url, errors = sync_goodreads.fetch_google_books_cover_url(session, record)
-        self.assertEqual(cover_url, "https://example.com/cover.jpg")
-        self.assertEqual(errors, [])
-        self.assertEqual(len(session.calls), 2)
-        self.assertIn("Mozilla/5.0", session.headers["User-Agent"])
-        self.assertTrue(sleep_mock.called)
-
     def test_rate_limit_provider_enforces_minimum_delay(self) -> None:
         session = FakeSession([])
         with patch.object(sync_goodreads.time, "monotonic", side_effect=[10.0, 10.0, 10.4, 10.4]), patch.object(sync_goodreads.time, "sleep") as sleep_mock:

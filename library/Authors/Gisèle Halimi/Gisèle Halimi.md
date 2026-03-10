@@ -1,6 +1,6 @@
 ---
 name: "Gisèle Halimi"
-cover: ""
+cover: "[[Attachments/AuthorImages/Gisèle Halimi.jpg]]"
 country: "[[Tunisia]]"
 birth_year: "1927"
 death_year: "2020"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gisèle Halimi
+
+![[Attachments/AuthorImages/Gisèle Halimi.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

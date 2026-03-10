@@ -1,6 +1,6 @@
 ---
 name: "Paul-Alain Beaulieu"
-cover: ""
+cover: "[[Attachments/AuthorImages/Paul-Alain Beaulieu.jpg]]"
 country: "[[Canada]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Paul-Alain Beaulieu
+
+![[Attachments/AuthorImages/Paul-Alain Beaulieu.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

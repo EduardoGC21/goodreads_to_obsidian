@@ -1,6 +1,6 @@
 ---
 name: "Robert E. Howard"
-cover: ""
+cover: "[[Attachments/AuthorImages/Robert E. Howard.jpg]]"
 country: "[[United States]]"
 birth_year: "1906"
 death_year: "1936"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert E. Howard
+
+![[Attachments/AuthorImages/Robert E. Howard.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

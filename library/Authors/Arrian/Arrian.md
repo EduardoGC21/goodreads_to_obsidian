@@ -1,6 +1,6 @@
 ---
 name: "Arrian"
-cover: ""
+cover: "[[Attachments/AuthorImages/Arrian.jpg]]"
 country: "[[Greece]]"
 birth_year: "0086"
 death_year: "0160"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Arrian
+
+![[Attachments/AuthorImages/Arrian.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

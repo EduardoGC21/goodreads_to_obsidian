@@ -1,6 +1,6 @@
 ---
 name: "Diogenes Laertius"
-cover: ""
+cover: "[[Attachments/AuthorImages/Diogenes Laertius.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Diogenes Laertius
+
+![[Attachments/AuthorImages/Diogenes Laertius.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

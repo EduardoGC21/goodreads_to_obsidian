@@ -1,6 +1,6 @@
 ---
 name: "Platón"
-cover: ""
+cover: "[[Attachments/AuthorImages/Platón.jpg]]"
 country: "[[Greece]]"
 birth_year: "0427"
 death_year: "0347"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Platón
+
+![[Attachments/AuthorImages/Platón.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

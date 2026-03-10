@@ -1,6 +1,6 @@
 ---
 name: "Lewis Carroll"
-cover: ""
+cover: "[[Attachments/AuthorImages/Lewis Carroll.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1832"
 death_year: "1898"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lewis Carroll
+
+![[Attachments/AuthorImages/Lewis Carroll.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

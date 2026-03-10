@@ -1,6 +1,6 @@
 ---
 name: "Joseph Campbell"
-cover: ""
+cover: "[[Attachments/AuthorImages/Joseph Campbell.jpg]]"
 country: "[[United States]]"
 birth_year: "1904"
 death_year: "1987"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Joseph Campbell
+
+![[Attachments/AuthorImages/Joseph Campbell.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

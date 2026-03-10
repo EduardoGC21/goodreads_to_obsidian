@@ -15,7 +15,7 @@ isbn: "8437623499"
 isbn13: "9788437623498"
 pages: 1168
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Giovanni Boccaccio - Decamerón.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[novelas]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Decamerón
 
-> Cover not available.
+![[Attachments/Covers/Giovanni Boccaccio - Decamerón.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

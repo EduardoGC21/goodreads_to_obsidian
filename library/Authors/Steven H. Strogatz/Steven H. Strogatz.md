@@ -1,6 +1,6 @@
 ---
 name: "Steven H. Strogatz"
-cover: ""
+cover: "[[Attachments/AuthorImages/Steven H. Strogatz.jpg]]"
 country: "[[United States]]"
 birth_year: "1959"
 death_year: ""
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Steven H. Strogatz
+
+![[Attachments/AuthorImages/Steven H. Strogatz.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

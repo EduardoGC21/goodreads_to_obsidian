@@ -1,6 +1,6 @@
 ---
 name: "Franz Kafka"
-cover: ""
+cover: "[[Attachments/AuthorImages/Franz Kafka.jpg]]"
 country: "[[Czech Republic]]"
 birth_year: "1883"
 death_year: "1924"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Franz Kafka
+
+![[Attachments/AuthorImages/Franz Kafka.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

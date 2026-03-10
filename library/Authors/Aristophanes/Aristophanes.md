@@ -1,6 +1,6 @@
 ---
 name: "Aristophanes"
-cover: ""
+cover: "[[Attachments/AuthorImages/Aristophanes.jpg]]"
 country: "[[Greece]]"
 birth_year: "0446"
 death_year: "0386"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aristophanes
+
+![[Attachments/AuthorImages/Aristophanes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

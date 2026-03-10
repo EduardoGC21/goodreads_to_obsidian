@@ -1,6 +1,6 @@
 ---
 name: "J.R.R. Tolkien"
-cover: ""
+cover: "[[Attachments/AuthorImages/J.R.R. Tolkien.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1892"
 death_year: "1973"
@@ -10,6 +10,8 @@ tags:
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # J.R.R. Tolkien
+
+![[Attachments/AuthorImages/J.R.R. Tolkien.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->
