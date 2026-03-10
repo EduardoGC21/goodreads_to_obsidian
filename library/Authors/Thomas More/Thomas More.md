@@ -1,8 +1,10 @@
 ---
 name: "Thomas More"
+cover: ""
 country: "[[England]]"
 birth_year: "1478"
 death_year: "1535"
+sex: "male"
 tags:
   - "author"
 ---

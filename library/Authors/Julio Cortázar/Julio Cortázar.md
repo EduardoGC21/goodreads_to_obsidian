@@ -1,13 +1,17 @@
 ---
 name: "Julio Cortázar"
+cover: "[[Attachments/AuthorImages/Julio Cortázar.jpg]]"
 country: "[[Argentina]]"
 birth_year: "1914"
 death_year: "1984"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Julio Cortázar
+
+![[Attachments/AuthorImages/Julio Cortázar.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

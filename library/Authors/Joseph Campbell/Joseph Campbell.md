@@ -1,8 +1,10 @@
 ---
 name: "Joseph Campbell"
+cover: ""
 country: "[[United States]]"
 birth_year: "1904"
 death_year: "1987"
+sex: "male"
 tags:
   - "author"
 ---

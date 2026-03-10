@@ -1,13 +1,17 @@
 ---
 name: "Françoise Bonardel"
+cover: "[[Attachments/AuthorImages/Françoise Bonardel.jpg]]"
 country: "[[France]]"
 birth_year: "1947"
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Françoise Bonardel
+
+![[Attachments/AuthorImages/Françoise Bonardel.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

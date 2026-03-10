@@ -1,13 +1,17 @@
 ---
 name: "Harding Grant"
+cover: "[[Attachments/AuthorImages/Harding Grant.jpg]]"
 country: "[[England]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harding Grant
+
+![[Attachments/AuthorImages/Harding Grant.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

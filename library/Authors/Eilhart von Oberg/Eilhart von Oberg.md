@@ -1,8 +1,10 @@
 ---
 name: "Eilhart von Oberg"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1140"
 death_year: "1195"
+sex: "male"
 tags:
   - "author"
 ---

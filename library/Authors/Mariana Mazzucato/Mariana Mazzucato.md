@@ -1,13 +1,17 @@
 ---
 name: "Mariana Mazzucato"
+cover: "[[Attachments/AuthorImages/Mariana Mazzucato.jpg]]"
 country: "[[Italy]]"
 birth_year: "1968"
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mariana Mazzucato
+
+![[Attachments/AuthorImages/Mariana Mazzucato.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

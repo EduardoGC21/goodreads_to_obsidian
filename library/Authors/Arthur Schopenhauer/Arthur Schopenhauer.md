@@ -1,8 +1,10 @@
 ---
 name: "Arthur Schopenhauer"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1788"
 death_year: "1860"
+sex: "male"
 tags:
   - "author"
 ---

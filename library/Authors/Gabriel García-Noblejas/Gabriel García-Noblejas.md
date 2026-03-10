@@ -1,8 +1,10 @@
 ---
 name: "Gabriel García-Noblejas"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1966"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

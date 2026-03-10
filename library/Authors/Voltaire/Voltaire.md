@@ -1,8 +1,10 @@
 ---
 name: "Voltaire"
+cover: ""
 country: "[[France]]"
 birth_year: "1694"
 death_year: "1778"
+sex: "male"
 tags:
   - "author"
 ---

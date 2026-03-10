@@ -1,8 +1,10 @@
 ---
 name: "Lewis Carroll"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1832"
 death_year: "1898"
+sex: "male"
 tags:
   - "author"
 ---

@@ -15,7 +15,7 @@ isbn: "970073028X"
 isbn13: "9789700730288"
 pages: 85
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Thomas More - Utopía. (Sepan Cuantos, Num. 282).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Utopía. (Sepan Cuantos, Num. 282)
 
-> Cover not available.
+![[Attachments/Covers/Thomas More - Utopía. (Sepan Cuantos, Num. 282).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

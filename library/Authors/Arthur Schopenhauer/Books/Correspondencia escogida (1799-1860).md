@@ -15,7 +15,7 @@ isbn: "8418370793"
 isbn13: "9788418370793"
 pages: 832
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Arthur Schopenhauer - Correspondencia escogida (1799-1860).jpg]]"
 bookshelves:
   - "[[epistolas]]"
   - "[[schopenhueriano]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Correspondencia escogida (1799-1860)
 
-> Cover not available.
+![[Attachments/Covers/Arthur Schopenhauer - Correspondencia escogida (1799-1860).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

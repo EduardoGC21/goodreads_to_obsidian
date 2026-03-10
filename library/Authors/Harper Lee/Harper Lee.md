@@ -1,8 +1,10 @@
 ---
 name: "Harper Lee"
+cover: ""
 country: "[[United States]]"
 birth_year: "1926"
 death_year: "2016"
+sex: "female"
 tags:
   - "author"
 ---

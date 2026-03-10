@@ -1,13 +1,17 @@
 ---
 name: "George R.R. Martin"
+cover: "[[Attachments/AuthorImages/George R.R. Martin.jpg]]"
 country: "[[United States]]"
 birth_year: "1948"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # George R.R. Martin
+
+![[Attachments/AuthorImages/George R.R. Martin.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

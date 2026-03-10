@@ -1,13 +1,17 @@
 ---
 name: "Molière"
+cover: "[[Attachments/AuthorImages/Molière.jpg]]"
 country: "[[France]]"
 birth_year: "1622"
 death_year: "1673"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Molière
+
+![[Attachments/AuthorImages/Molière.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

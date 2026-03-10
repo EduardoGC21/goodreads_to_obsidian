@@ -1,13 +1,17 @@
 ---
 name: "René Descartes"
+cover: "[[Attachments/AuthorImages/René Descartes.jpg]]"
 country: "[[France]]"
 birth_year: "1596"
 death_year: "1650"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # René Descartes
+
+![[Attachments/AuthorImages/René Descartes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

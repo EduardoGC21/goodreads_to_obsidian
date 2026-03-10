@@ -1,13 +1,17 @@
 ---
 name: "Geraldine Pinch"
+cover: "[[Attachments/AuthorImages/Geraldine Pinch.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1951"
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Geraldine Pinch
+
+![[Attachments/AuthorImages/Geraldine Pinch.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

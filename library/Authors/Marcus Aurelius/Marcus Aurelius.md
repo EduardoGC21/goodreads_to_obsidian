@@ -1,8 +1,10 @@
 ---
 name: "Marcus Aurelius"
+cover: ""
 country: "[[Italy]]"
 birth_year: "0121"
 death_year: "0180"
+sex: "male"
 tags:
   - "author"
 ---

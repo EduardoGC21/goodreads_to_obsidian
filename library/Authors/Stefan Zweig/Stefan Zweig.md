@@ -1,8 +1,10 @@
 ---
 name: "Stefan Zweig"
+cover: ""
 country: "[[Austria]]"
 birth_year: "1881"
 death_year: "1942"
+sex: "male"
 tags:
   - "author"
 ---

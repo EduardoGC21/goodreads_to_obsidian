@@ -15,7 +15,7 @@ isbn: "8439733259"
 isbn13: "9788439733256"
 pages: 68
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Sappho - No creo poder tocar el cielo con las manos.jpg]]"
 bookshelves:
   - "[[poesía]]"
   - "[[mitología]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # No creo poder tocar el cielo con las manos
 
-> Cover not available.
+![[Attachments/Covers/Sappho - No creo poder tocar el cielo con las manos.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

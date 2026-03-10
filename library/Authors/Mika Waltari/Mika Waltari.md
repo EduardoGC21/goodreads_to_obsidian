@@ -1,13 +1,17 @@
 ---
 name: "Mika Waltari"
+cover: "[[Attachments/AuthorImages/Mika Waltari.jpg]]"
 country: "[[Finland]]"
 birth_year: "1908"
 death_year: "1979"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mika Waltari
+
+![[Attachments/AuthorImages/Mika Waltari.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

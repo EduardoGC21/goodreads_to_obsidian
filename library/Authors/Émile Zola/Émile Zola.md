@@ -1,8 +1,10 @@
 ---
 name: "Émile Zola"
+cover: ""
 country: "[[France]]"
 birth_year: "1840"
 death_year: "1902"
+sex: "male"
 tags:
   - "author"
 ---

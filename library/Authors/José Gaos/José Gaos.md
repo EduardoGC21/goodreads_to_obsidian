@@ -1,13 +1,17 @@
 ---
 name: "José Gaos"
+cover: "[[Attachments/AuthorImages/José Gaos.jpg]]"
 country: "[[Spain]]"
 birth_year: "1900"
 death_year: "1969"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Gaos
+
+![[Attachments/AuthorImages/José Gaos.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

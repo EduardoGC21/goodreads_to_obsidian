@@ -1,8 +1,10 @@
 ---
 name: "Michael Hardt"
+cover: ""
 country: "[[United States]]"
 birth_year: "1960"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Kentaro Miura"
+cover: "[[Attachments/AuthorImages/Kentaro Miura.jpg]]"
 country: "[[Japan]]"
 birth_year: "1966"
 death_year: "2021"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Kentaro Miura
+
+![[Attachments/AuthorImages/Kentaro Miura.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

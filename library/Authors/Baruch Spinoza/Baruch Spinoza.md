@@ -1,8 +1,10 @@
 ---
 name: "Baruch Spinoza"
+cover: ""
 country: "[[Netherlands]]"
 birth_year: "1632"
 death_year: "1677"
+sex: "male"
 tags:
   - "author"
 ---

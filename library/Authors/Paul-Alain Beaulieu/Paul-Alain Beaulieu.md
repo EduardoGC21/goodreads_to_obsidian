@@ -1,8 +1,10 @@
 ---
 name: "Paul-Alain Beaulieu"
+cover: ""
 country: "[[Canada]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "William Golding"
+cover: "[[Attachments/AuthorImages/William Golding.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1911"
 death_year: "1993"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William Golding
+
+![[Attachments/AuthorImages/William Golding.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

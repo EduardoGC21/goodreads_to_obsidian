@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 369
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Robert Malcolm Errington - A History of the Hellenistic World 323 - 30 BC (Blackwell History of the Ancient World Book 16).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of the Hellenistic World: 323 - 30 BC (Blackwell History of the Ancient World Book 16)
 
-> Cover not available.
+![[Attachments/Covers/Robert Malcolm Errington - A History of the Hellenistic World 323 - 30 BC (Blackwell History of the Ancient World Book 16).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

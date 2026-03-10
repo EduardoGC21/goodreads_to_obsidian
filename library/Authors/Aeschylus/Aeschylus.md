@@ -1,8 +1,10 @@
 ---
 name: "Aeschylus"
+cover: ""
 country: "[[Greece]]"
 birth_year: "0525"
 death_year: "0456"
+sex: "male"
 tags:
   - "author"
 ---

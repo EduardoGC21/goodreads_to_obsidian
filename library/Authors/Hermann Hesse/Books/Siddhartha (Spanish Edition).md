@@ -15,7 +15,7 @@ isbn: "8466337342"
 isbn13: "9788466337342"
 pages: 218
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Hermann Hesse - Siddhartha (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[novelas]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Siddhartha (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Hermann Hesse - Siddhartha (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

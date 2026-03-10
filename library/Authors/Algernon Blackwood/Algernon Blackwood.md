@@ -1,8 +1,10 @@
 ---
 name: "Algernon Blackwood"
+cover: ""
 country: "[[England]]"
 birth_year: "1869"
 death_year: "1951"
+sex: "male"
 tags:
   - "author"
 ---

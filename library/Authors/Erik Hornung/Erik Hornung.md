@@ -1,13 +1,17 @@
 ---
 name: "Erik Hornung"
+cover: "[[Attachments/AuthorImages/Erik Hornung.jpg]]"
 country: "[[Latvia]]"
 birth_year: "1933"
 death_year: "2022"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Erik Hornung
+
+![[Attachments/AuthorImages/Erik Hornung.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Herman Melville"
+cover: "[[Attachments/AuthorImages/Herman Melville.jpg]]"
 country: "[[United States]]"
 birth_year: "1819"
 death_year: "1891"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Herman Melville
+
+![[Attachments/AuthorImages/Herman Melville.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Pedro Calderón de la Barca"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1600"
 death_year: "1681"
+sex: "male"
 tags:
   - "author"
 ---

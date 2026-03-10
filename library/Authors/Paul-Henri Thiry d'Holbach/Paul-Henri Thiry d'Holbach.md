@@ -1,13 +1,17 @@
 ---
 name: "Paul-Henri Thiry d'Holbach"
+cover: "[[Attachments/AuthorImages/Paul-Henri Thiry d'Holbach.jpg]]"
 country: "[[Germany]]"
 birth_year: "1723"
 death_year: "1789"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Paul-Henri Thiry d'Holbach
+
+![[Attachments/AuthorImages/Paul-Henri Thiry d'Holbach.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

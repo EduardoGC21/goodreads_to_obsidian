@@ -1,8 +1,10 @@
 ---
 name: "Vince Beiser"
+cover: ""
 country: "[[United States]]"
 birth_year: "1965"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

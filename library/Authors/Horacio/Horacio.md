@@ -1,13 +1,17 @@
 ---
 name: "Horacio"
+cover: "[[Attachments/AuthorImages/Horacio.jpg]]"
 country: "[[Italy]]"
 birth_year: "0065"
 death_year: "0008"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Horacio
+
+![[Attachments/AuthorImages/Horacio.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

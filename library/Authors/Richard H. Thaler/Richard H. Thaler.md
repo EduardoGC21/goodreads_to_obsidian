@@ -1,8 +1,10 @@
 ---
 name: "Richard H. Thaler"
+cover: ""
 country: "[[United States]]"
 birth_year: "1945"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Jackson  Crawford"
+cover: "[[Attachments/AuthorImages/Jackson Crawford.jpg]]"
 country: "[[United States]]"
 birth_year: "1985"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jackson  Crawford
+
+![[Attachments/AuthorImages/Jackson Crawford.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Baltasar Gracián"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1601"
 death_year: "1658"
+sex: "male"
 tags:
   - "author"
 ---

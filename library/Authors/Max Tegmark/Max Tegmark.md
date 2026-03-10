@@ -1,8 +1,10 @@
 ---
 name: "Max Tegmark"
+cover: ""
 country: "[[Sweden]]"
 birth_year: "1967"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

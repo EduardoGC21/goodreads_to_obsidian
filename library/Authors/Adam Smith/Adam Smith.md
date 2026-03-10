@@ -1,13 +1,17 @@
 ---
 name: "Adam Smith"
+cover: "[[Attachments/AuthorImages/Adam Smith.jpg]]"
 country: "[[Scotland]]"
 birth_year: "1723"
 death_year: "1790"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Adam Smith
+
+![[Attachments/AuthorImages/Adam Smith.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

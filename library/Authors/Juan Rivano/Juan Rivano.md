@@ -1,13 +1,17 @@
 ---
 name: "Juan Rivano"
+cover: "[[Attachments/AuthorImages/Juan Rivano.jpg]]"
 country: "[[Chile]]"
 birth_year: "1926"
 death_year: "2015"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Juan Rivano
+
+![[Attachments/AuthorImages/Juan Rivano.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

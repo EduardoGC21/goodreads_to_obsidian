@@ -15,7 +15,7 @@ isbn: "8804380039"
 isbn13: "9788804380030"
 pages: 211
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/William Shakespeare - Tito Andronico.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Tito Andronico
 
-> Cover not available.
+![[Attachments/Covers/William Shakespeare - Tito Andronico.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

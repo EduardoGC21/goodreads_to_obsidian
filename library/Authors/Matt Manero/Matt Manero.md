@@ -1,8 +1,10 @@
 ---
 name: "Matt Manero"
+cover: ""
 country: "[[United States]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

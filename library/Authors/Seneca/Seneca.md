@@ -1,8 +1,10 @@
 ---
 name: "Seneca"
+cover: ""
 country: "[[Spain]]"
 birth_year: "0004"
 death_year: "0065"
+sex: "male"
 tags:
   - "author"
 ---

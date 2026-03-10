@@ -1,13 +1,17 @@
 ---
 name: "Thomas Mann"
+cover: "[[Attachments/AuthorImages/Thomas Mann.jpg]]"
 country: "[[Germany]]"
 birth_year: "1875"
 death_year: "1955"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas Mann
+
+![[Attachments/AuthorImages/Thomas Mann.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

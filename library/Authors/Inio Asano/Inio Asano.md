@@ -1,13 +1,17 @@
 ---
 name: "Inio Asano"
+cover: "[[Attachments/AuthorImages/Inio Asano.jpg]]"
 country: "[[Japan]]"
 birth_year: "1980"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Inio Asano
+
+![[Attachments/AuthorImages/Inio Asano.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

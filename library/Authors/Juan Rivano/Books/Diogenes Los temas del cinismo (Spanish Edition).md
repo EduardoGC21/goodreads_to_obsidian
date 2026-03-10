@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 131
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Juan Rivano - Diogenes Los temas del cinismo (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Diogenes: Los temas del cinismo (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Juan Rivano - Diogenes Los temas del cinismo (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

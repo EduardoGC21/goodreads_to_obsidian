@@ -1,8 +1,10 @@
 ---
 name: "Jean-Jacques Rousseau"
+cover: ""
 country: "[[Switzerland]]"
 birth_year: "1712"
 death_year: "1778"
+sex: "male"
 tags:
   - "author"
 ---

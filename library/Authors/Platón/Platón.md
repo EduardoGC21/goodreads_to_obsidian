@@ -1,8 +1,10 @@
 ---
 name: "Platón"
+cover: ""
 country: "[[Greece]]"
 birth_year: "0427"
 death_year: "0347"
+sex: "male"
 tags:
   - "author"
 ---

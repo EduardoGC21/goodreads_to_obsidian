@@ -1,13 +1,17 @@
 ---
 name: "Nikolai Gogol"
+cover: "[[Attachments/AuthorImages/Nikolai Gogol.jpg]]"
 country: "[[Ukraine]]"
 birth_year: "1809"
 death_year: "1852"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Nikolai Gogol
+
+![[Attachments/AuthorImages/Nikolai Gogol.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

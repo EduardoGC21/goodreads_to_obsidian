@@ -1,13 +1,17 @@
 ---
 name: "Maria Brosius"
+cover: "[[Attachments/AuthorImages/Maria Brosius.jpg]]"
 country: "[[Germany]]"
 birth_year: ""
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Maria Brosius
+
+![[Attachments/AuthorImages/Maria Brosius.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

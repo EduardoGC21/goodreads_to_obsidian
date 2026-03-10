@@ -15,7 +15,7 @@ isbn: "8490321426"
 isbn13: "9788490321423"
 pages: 264
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Franz Kafka - El proceso.jpg]]"
 bookshelves:
   - "[[novelas]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El proceso
 
-> Cover not available.
+![[Attachments/Covers/Franz Kafka - El proceso.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

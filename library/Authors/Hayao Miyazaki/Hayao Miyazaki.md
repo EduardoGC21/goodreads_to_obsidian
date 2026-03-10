@@ -1,8 +1,10 @@
 ---
 name: "Hayao Miyazaki"
+cover: ""
 country: "[[Japan]]"
 birth_year: "1941"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,8 +1,10 @@
 ---
 name: "Apolodoro"
+cover: ""
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

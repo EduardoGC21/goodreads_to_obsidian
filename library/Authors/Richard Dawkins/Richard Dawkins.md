@@ -1,13 +1,17 @@
 ---
 name: "Richard Dawkins"
+cover: "[[Attachments/AuthorImages/Richard Dawkins.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1941"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Richard Dawkins
+
+![[Attachments/AuthorImages/Richard Dawkins.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Philip K. Dick"
+cover: "[[Attachments/AuthorImages/Philip K. Dick.jpg]]"
 country: "[[United States]]"
 birth_year: "1928"
 death_year: "1982"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Philip K. Dick
+
+![[Attachments/AuthorImages/Philip K. Dick.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -15,7 +15,7 @@ isbn: "9700755428"
 isbn13: "9789700755427"
 pages: 272
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/William Shakespeare - Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86).jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86)
 
-> Cover not available.
+![[Attachments/Covers/William Shakespeare - Hamlet. Penas Por Amor Perdidas. Los Dos Hidalgos De Verona. Sueño De Una Noche De Verano. Romeo Y Julieta. (Sepan Cuantos, Num. 86).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

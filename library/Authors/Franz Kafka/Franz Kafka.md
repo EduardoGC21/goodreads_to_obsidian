@@ -1,8 +1,10 @@
 ---
 name: "Franz Kafka"
+cover: ""
 country: "[[Czech Republic]]"
 birth_year: "1883"
 death_year: "1924"
+sex: "male"
 tags:
   - "author"
 ---

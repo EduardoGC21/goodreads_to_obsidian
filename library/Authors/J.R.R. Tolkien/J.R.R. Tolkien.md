@@ -1,8 +1,10 @@
 ---
 name: "J.R.R. Tolkien"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1892"
 death_year: "1973"
+sex: "male"
 tags:
   - "author"
 ---

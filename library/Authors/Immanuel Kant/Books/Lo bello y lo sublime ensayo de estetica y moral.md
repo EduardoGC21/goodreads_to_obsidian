@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 65
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Immanuel Kant - Lo bello y lo sublime ensayo de estetica y moral.jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Lo bello y lo sublime ensayo de estetica y moral
 
-> Cover not available.
+![[Attachments/Covers/Immanuel Kant - Lo bello y lo sublime ensayo de estetica y moral.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

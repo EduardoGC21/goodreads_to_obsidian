@@ -1,8 +1,10 @@
 ---
 name: "David Hernández de la Fuente"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1974"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

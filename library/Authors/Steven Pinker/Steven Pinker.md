@@ -1,13 +1,17 @@
 ---
 name: "Steven Pinker"
+cover: "[[Attachments/AuthorImages/Steven Pinker.jpg]]"
 country: "[[Canada]]"
 birth_year: "1954"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Steven Pinker
+
+![[Attachments/AuthorImages/Steven Pinker.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

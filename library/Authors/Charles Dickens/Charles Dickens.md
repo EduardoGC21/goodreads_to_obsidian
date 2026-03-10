@@ -1,13 +1,17 @@
 ---
 name: "Charles Dickens"
+cover: "[[Attachments/AuthorImages/Charles Dickens.jpg]]"
 country: "[[England]]"
 birth_year: "1812"
 death_year: "1870"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Charles Dickens
+
+![[Attachments/AuthorImages/Charles Dickens.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

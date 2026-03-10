@@ -15,7 +15,7 @@ isbn: "8433902407"
 isbn13: "9788433902405"
 pages: 384
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Roberto Calasso - Las bodas de Cadmo y Harmonía.jpg]]"
 bookshelves:
   - "[[mitología]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las bodas de Cadmo y Harmonía
 
-> Cover not available.
+![[Attachments/Covers/Roberto Calasso - Las bodas de Cadmo y Harmonía.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

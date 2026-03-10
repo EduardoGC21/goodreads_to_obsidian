@@ -1,13 +1,17 @@
 ---
 name: "Lazarillo de Tormes"
+cover: "[[Attachments/AuthorImages/Lazarillo de Tormes.jpg]]"
 country: "[[Spain]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lazarillo de Tormes
+
+![[Attachments/AuthorImages/Lazarillo de Tormes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Yuval Noah Harari"
+cover: "[[Attachments/AuthorImages/Yuval Noah Harari.jpg]]"
 country: "[[Israel]]"
 birth_year: "1976"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Yuval Noah Harari
+
+![[Attachments/AuthorImages/Yuval Noah Harari.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

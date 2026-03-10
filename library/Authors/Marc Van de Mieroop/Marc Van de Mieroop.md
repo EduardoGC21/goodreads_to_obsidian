@@ -1,13 +1,17 @@
 ---
 name: "Marc Van de Mieroop"
+cover: "[[Attachments/AuthorImages/Marc Van de Mieroop.jpg]]"
 country: "[[Belgium]]"
 birth_year: "1956"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marc Van de Mieroop
+
+![[Attachments/AuthorImages/Marc Van de Mieroop.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

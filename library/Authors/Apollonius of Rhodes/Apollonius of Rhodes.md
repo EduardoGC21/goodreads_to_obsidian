@@ -1,13 +1,17 @@
 ---
 name: "Apollonius of Rhodes"
+cover: "[[Attachments/AuthorImages/Apollonius of Rhodes.jpg]]"
 country: "[[Greece]]"
 birth_year: "0295"
 death_year: "0215"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Apollonius of Rhodes
+
+![[Attachments/AuthorImages/Apollonius of Rhodes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

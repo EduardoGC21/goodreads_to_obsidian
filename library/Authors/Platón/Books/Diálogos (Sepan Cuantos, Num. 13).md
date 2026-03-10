@@ -15,7 +15,7 @@ isbn: "9700772470"
 isbn13: "9789700772479"
 pages: 1104
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Platón - Diálogos (Sepan Cuantos, Num. 13).jpg]]"
 bookshelves:
   - "[[educación]]"
   - "[[filosofía]]"
@@ -32,7 +32,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Diálogos (Sepan Cuantos, Num. 13)
 
-> Cover not available.
+![[Attachments/Covers/Platón - Diálogos (Sepan Cuantos, Num. 13).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

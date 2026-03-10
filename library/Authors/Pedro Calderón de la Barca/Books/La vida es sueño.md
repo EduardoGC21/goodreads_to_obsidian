@@ -15,7 +15,7 @@ isbn: "8491051023"
 isbn13: "9788491051022"
 pages: 234
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Pedro Calderón de la Barca - La vida es sueño.jpg]]"
 bookshelves:
   - "[[teatral-dramático]]"
   - "[[favoritos]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # La vida es sueño
 
-> Cover not available.
+![[Attachments/Covers/Pedro Calderón de la Barca - La vida es sueño.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

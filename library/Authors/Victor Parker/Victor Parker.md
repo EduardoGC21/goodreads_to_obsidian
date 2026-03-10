@@ -1,13 +1,17 @@
 ---
 name: "Victor Parker"
+cover: "[[Attachments/AuthorImages/Victor Parker.jpg]]"
 country: "[[Unknown]]"
 birth_year: "1966"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Victor Parker
+
+![[Attachments/AuthorImages/Victor Parker.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Krishna-Dwaipayana Vyasa"
+cover: "[[Attachments/AuthorImages/Krishna-Dwaipayana Vyasa.jpg]]"
 country: "[[India]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Krishna-Dwaipayana Vyasa
+
+![[Attachments/AuthorImages/Krishna-Dwaipayana Vyasa.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

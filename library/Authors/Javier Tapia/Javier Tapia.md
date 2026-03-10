@@ -1,13 +1,17 @@
 ---
 name: "Javier Tapia"
+cover: "[[Attachments/AuthorImages/Javier Tapia.jpg]]"
 country: "[[Mexico]]"
 birth_year: "1955"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Javier Tapia
+
+![[Attachments/AuthorImages/Javier Tapia.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

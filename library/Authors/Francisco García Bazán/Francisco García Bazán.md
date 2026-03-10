@@ -1,13 +1,17 @@
 ---
 name: "Francisco García Bazán"
+cover: "[[Attachments/AuthorImages/Francisco García Bazán.jpg]]"
 country: "[[Argentina]]"
 birth_year: "1940"
 death_year: "2025"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Francisco García Bazán
+
+![[Attachments/AuthorImages/Francisco García Bazán.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Alejandro Jodorowsky"
+cover: ""
 country: "[[Chile]]"
 birth_year: "1929"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Virgil"
+cover: "[[Attachments/AuthorImages/Virgil.jpg]]"
 country: "[[Italy]]"
 birth_year: "0070"
 death_year: "0019"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Virgil
+
+![[Attachments/AuthorImages/Virgil.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

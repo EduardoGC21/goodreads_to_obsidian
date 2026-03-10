@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 50
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Federico García Lorca - Poemas escogidos (Spanish Edition).jpg]]"
 bookshelves:
   - "[[poesía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Poemas escogidos (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Federico García Lorca - Poemas escogidos (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

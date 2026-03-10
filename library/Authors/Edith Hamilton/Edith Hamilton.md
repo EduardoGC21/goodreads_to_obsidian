@@ -1,8 +1,10 @@
 ---
 name: "Edith Hamilton"
+cover: ""
 country: "[[United States]]"
 birth_year: "1867"
 death_year: "1963"
+sex: "female"
 tags:
   - "author"
 ---

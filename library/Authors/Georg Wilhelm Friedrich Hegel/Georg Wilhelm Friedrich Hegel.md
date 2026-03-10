@@ -1,8 +1,10 @@
 ---
 name: "Georg Wilhelm Friedrich Hegel"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1770"
 death_year: "1831"
+sex: "male"
 tags:
   - "author"
 ---

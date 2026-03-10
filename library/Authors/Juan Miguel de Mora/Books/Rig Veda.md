@@ -15,7 +15,7 @@ isbn: "6074552134"
 isbn13: "9786074552133"
 pages: 310
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Juan Miguel de Mora - Rig Veda.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[poesía]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Rig Veda
 
-> Cover not available.
+![[Attachments/Covers/Juan Miguel de Mora - Rig Veda.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

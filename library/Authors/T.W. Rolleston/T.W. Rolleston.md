@@ -1,13 +1,17 @@
 ---
 name: "T.W. Rolleston"
+cover: "[[Attachments/AuthorImages/T.W. Rolleston.jpg]]"
 country: "[[Ireland]]"
 birth_year: "1857"
 death_year: "1920"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # T.W. Rolleston
+
+![[Attachments/AuthorImages/T.W. Rolleston.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

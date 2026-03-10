@@ -1,13 +1,17 @@
 ---
 name: "Raúl Prebisch"
+cover: "[[Attachments/AuthorImages/Raúl Prebisch.jpg]]"
 country: "[[Argentina]]"
 birth_year: "1901"
 death_year: "1986"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Raúl Prebisch
+
+![[Attachments/AuthorImages/Raúl Prebisch.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

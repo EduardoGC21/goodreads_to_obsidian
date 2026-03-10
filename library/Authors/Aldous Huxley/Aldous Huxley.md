@@ -1,13 +1,17 @@
 ---
 name: "Aldous Huxley"
+cover: "[[Attachments/AuthorImages/Aldous Huxley.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1894"
 death_year: "1963"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aldous Huxley
+
+![[Attachments/AuthorImages/Aldous Huxley.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Juan Rulfo"
+cover: ""
 country: "[[Mexico]]"
 birth_year: "1917"
 death_year: "1986"
+sex: "male"
 tags:
   - "author"
 ---

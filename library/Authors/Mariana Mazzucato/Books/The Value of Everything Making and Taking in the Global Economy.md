@@ -15,7 +15,7 @@ isbn: "161039674X"
 isbn13: "9781610396745"
 pages: 384
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Mariana Mazzucato - The Value of Everything Making and Taking in the Global Economy.jpg]]"
 bookshelves:
   - "[[economía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Value of Everything: Making and Taking in the Global Economy
 
-> Cover not available.
+![[Attachments/Covers/Mariana Mazzucato - The Value of Everything Making and Taking in the Global Economy.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

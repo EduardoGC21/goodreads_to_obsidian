@@ -15,7 +15,7 @@ isbn: "1011931958"
 isbn13: "9781011931958"
 pages: 52
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Lord Byron - The Prophecy Of Dante A Poem.jpg]]"
 bookshelves:
   - "[[poesía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Prophecy Of Dante: A Poem
 
-> Cover not available.
+![[Attachments/Covers/Lord Byron - The Prophecy Of Dante A Poem.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

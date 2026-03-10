@@ -1,8 +1,10 @@
 ---
 name: "Madeleine K. Albright"
+cover: ""
 country: "[[United States]]"
 birth_year: "1937"
 death_year: "2022"
+sex: "female"
 tags:
   - "author"
 ---

@@ -1,8 +1,10 @@
 ---
 name: "Anonymous"
+cover: ""
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+sex: ""
 tags:
   - "author"
 ---

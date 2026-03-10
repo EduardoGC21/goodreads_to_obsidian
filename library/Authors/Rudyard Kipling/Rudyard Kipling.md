@@ -1,13 +1,17 @@
 ---
 name: "Rudyard Kipling"
+cover: "[[Attachments/AuthorImages/Rudyard Kipling.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1865"
 death_year: "1936"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Rudyard Kipling
+
+![[Attachments/AuthorImages/Rudyard Kipling.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

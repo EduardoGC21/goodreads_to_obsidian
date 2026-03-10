@@ -1,8 +1,10 @@
 ---
 name: "Vladimir Nabokov"
+cover: ""
 country: "[[Russia]]"
 birth_year: "1899"
 death_year: "1977"
+sex: "male"
 tags:
   - "author"
 ---

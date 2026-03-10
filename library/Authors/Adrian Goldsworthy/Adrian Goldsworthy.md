@@ -1,13 +1,17 @@
 ---
 name: "Adrian Goldsworthy"
+cover: "[[Attachments/AuthorImages/Adrian Goldsworthy.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1969"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Adrian Goldsworthy
+
+![[Attachments/AuthorImages/Adrian Goldsworthy.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

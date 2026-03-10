@@ -1,8 +1,10 @@
 ---
 name: "Esi Edugyan"
+cover: ""
 country: "[[Canada]]"
 birth_year: "1978"
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---

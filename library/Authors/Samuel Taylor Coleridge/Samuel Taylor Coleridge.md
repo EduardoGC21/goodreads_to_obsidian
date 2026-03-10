@@ -1,8 +1,10 @@
 ---
 name: "Samuel Taylor Coleridge"
+cover: ""
 country: "[[England]]"
 birth_year: "1772"
 death_year: "1834"
+sex: "male"
 tags:
   - "author"
 ---

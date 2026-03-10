@@ -1,8 +1,10 @@
 ---
 name: "Jonathan M. Hall"
+cover: ""
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

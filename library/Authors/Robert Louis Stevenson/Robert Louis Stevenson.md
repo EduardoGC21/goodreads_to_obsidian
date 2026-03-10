@@ -1,13 +1,17 @@
 ---
 name: "Robert Louis Stevenson"
+cover: "[[Attachments/AuthorImages/Robert Louis Stevenson.jpg]]"
 country: "[[Scotland]]"
 birth_year: "1850"
 death_year: "1894"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert Louis Stevenson
+
+![[Attachments/AuthorImages/Robert Louis Stevenson.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

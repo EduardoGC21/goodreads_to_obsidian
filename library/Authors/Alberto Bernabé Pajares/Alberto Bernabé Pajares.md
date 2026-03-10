@@ -1,13 +1,17 @@
 ---
 name: "Alberto Bernabé Pajares"
+cover: "[[Attachments/AuthorImages/Alberto Bernabé Pajares.jpg]]"
 country: "[[Spain]]"
 birth_year: "1946"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alberto Bernabé Pajares
+
+![[Attachments/AuthorImages/Alberto Bernabé Pajares.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

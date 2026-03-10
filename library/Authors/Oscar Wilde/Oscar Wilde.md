@@ -1,8 +1,10 @@
 ---
 name: "Oscar Wilde"
+cover: ""
 country: "[[Ireland]]"
 birth_year: "1854"
 death_year: "1900"
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Christopher Hitchens"
+cover: "[[Attachments/AuthorImages/Christopher Hitchens.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1949"
 death_year: "2011"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Christopher Hitchens
+
+![[Attachments/AuthorImages/Christopher Hitchens.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Samuel Beckett"
+cover: ""
 country: "[[Ireland]]"
 birth_year: "1906"
 death_year: "1989"
+sex: "male"
 tags:
   - "author"
 ---

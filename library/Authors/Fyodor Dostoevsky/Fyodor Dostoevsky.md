@@ -1,8 +1,10 @@
 ---
 name: "Fyodor Dostoevsky"
+cover: ""
 country: "[[Russia]]"
 birth_year: "1821"
 death_year: "1881"
+sex: "male"
 tags:
   - "author"
 ---

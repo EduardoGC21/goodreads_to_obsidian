@@ -1,13 +1,17 @@
 ---
 name: "Walter Moers"
+cover: "[[Attachments/AuthorImages/Walter Moers.jpg]]"
 country: "[[Germany]]"
 birth_year: "1957"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Walter Moers
+
+![[Attachments/AuthorImages/Walter Moers.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

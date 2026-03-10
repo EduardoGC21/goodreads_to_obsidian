@@ -1,13 +1,17 @@
 ---
 name: "Thomas Malory"
+cover: "[[Attachments/AuthorImages/Thomas Malory.jpg]]"
 country: "[[England]]"
 birth_year: "1415"
 death_year: "1471"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Thomas Malory
+
+![[Attachments/AuthorImages/Thomas Malory.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Lord Byron"
+cover: "[[Attachments/AuthorImages/Lord Byron.jpg]]"
 country: "[[England]]"
 birth_year: "1788"
 death_year: "1824"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lord Byron
+
+![[Attachments/AuthorImages/Lord Byron.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

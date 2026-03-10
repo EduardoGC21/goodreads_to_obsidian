@@ -1,8 +1,10 @@
 ---
 name: "Percy Bysshe Shelley"
+cover: ""
 country: "[[England]]"
 birth_year: "1792"
 death_year: "1822"
+sex: "male"
 tags:
   - "author"
 ---

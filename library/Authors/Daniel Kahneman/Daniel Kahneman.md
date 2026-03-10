@@ -1,13 +1,17 @@
 ---
 name: "Daniel Kahneman"
+cover: "[[Attachments/AuthorImages/Daniel Kahneman.jpg]]"
 country: "[[Israel]]"
 birth_year: "1934"
 death_year: "2024"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Daniel Kahneman
+
+![[Attachments/AuthorImages/Daniel Kahneman.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

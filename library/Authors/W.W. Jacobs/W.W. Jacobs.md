@@ -1,13 +1,17 @@
 ---
 name: "W.W. Jacobs"
+cover: "[[Attachments/AuthorImages/W.W. Jacobs.jpg]]"
 country: "[[England]]"
 birth_year: "1863"
 death_year: "1943"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # W.W. Jacobs
+
+![[Attachments/AuthorImages/W.W. Jacobs.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

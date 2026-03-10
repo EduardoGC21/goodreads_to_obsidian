@@ -1,8 +1,10 @@
 ---
 name: "Friedrich Nietzsche"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1844"
 death_year: "1900"
+sex: "male"
 tags:
   - "author"
 ---

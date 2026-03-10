@@ -1,13 +1,17 @@
 ---
 name: "Ovidio"
+cover: "[[Attachments/AuthorImages/Ovidio.jpg]]"
 country: "[[Roman Empire]]"
 birth_year: "0043"
 death_year: "0017"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Ovidio
+
+![[Attachments/AuthorImages/Ovidio.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

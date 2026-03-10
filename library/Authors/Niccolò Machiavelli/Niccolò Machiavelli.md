@@ -1,13 +1,17 @@
 ---
 name: "Niccolò Machiavelli"
+cover: "[[Attachments/AuthorImages/Niccolò Machiavelli.jpg]]"
 country: "[[Italy]]"
 birth_year: "1469"
 death_year: "1527"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Niccolò Machiavelli
+
+![[Attachments/AuthorImages/Niccolò Machiavelli.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

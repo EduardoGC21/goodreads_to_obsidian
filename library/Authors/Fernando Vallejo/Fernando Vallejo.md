@@ -1,8 +1,10 @@
 ---
 name: "Fernando Vallejo"
+cover: ""
 country: "[[Colombia]]"
 birth_year: "1942"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

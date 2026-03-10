@@ -1,13 +1,17 @@
 ---
 name: "Snorri Sturluson"
+cover: "[[Attachments/AuthorImages/Snorri Sturluson.jpg]]"
 country: "[[Iceland]]"
 birth_year: "1179"
 death_year: "1241"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Snorri Sturluson
+
+![[Attachments/AuthorImages/Snorri Sturluson.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

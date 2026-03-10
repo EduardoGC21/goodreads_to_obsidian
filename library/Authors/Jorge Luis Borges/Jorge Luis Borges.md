@@ -1,8 +1,10 @@
 ---
 name: "Jorge Luis Borges"
+cover: ""
 country: "[[Argentina]]"
 birth_year: "1899"
 death_year: "1986"
+sex: "male"
 tags:
   - "author"
 ---

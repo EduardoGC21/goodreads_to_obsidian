@@ -1,13 +1,17 @@
 ---
 name: "Albert Camus"
+cover: "[[Attachments/AuthorImages/Albert Camus.jpg]]"
 country: "[[Algeria]]"
 birth_year: "1913"
 death_year: "1960"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Albert Camus
+
+![[Attachments/AuthorImages/Albert Camus.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

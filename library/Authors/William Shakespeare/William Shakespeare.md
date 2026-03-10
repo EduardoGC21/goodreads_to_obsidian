@@ -1,13 +1,17 @@
 ---
 name: "William Shakespeare"
+cover: "[[Attachments/AuthorImages/William Shakespeare.jpg]]"
 country: "[[England]]"
 birth_year: "1564"
 death_year: "1616"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # William Shakespeare
+
+![[Attachments/AuthorImages/William Shakespeare.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

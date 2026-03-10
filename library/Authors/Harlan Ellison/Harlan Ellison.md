@@ -1,13 +1,17 @@
 ---
 name: "Harlan Ellison"
+cover: "[[Attachments/AuthorImages/Harlan Ellison.jpg]]"
 country: "[[United States]]"
 birth_year: "1934"
 death_year: "2018"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Harlan Ellison
+
+![[Attachments/AuthorImages/Harlan Ellison.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

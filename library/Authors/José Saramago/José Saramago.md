@@ -1,13 +1,17 @@
 ---
 name: "José Saramago"
+cover: "[[Attachments/AuthorImages/José Saramago.jpg]]"
 country: "[[Portugal]]"
 birth_year: "1922"
 death_year: "2010"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # José Saramago
+
+![[Attachments/AuthorImages/José Saramago.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

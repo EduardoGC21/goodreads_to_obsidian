@@ -1,8 +1,10 @@
 ---
 name: "Junji Ito"
+cover: ""
 country: "[[Japan]]"
 birth_year: "1963"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

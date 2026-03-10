@@ -15,7 +15,7 @@ isbn: "9685566682"
 isbn13: "9789685566681"
 pages: 190
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Adolf Hitler - Mi lucha.jpg]]"
 bookshelves:
   - "[[economía]]"
   - "[[filosofía]]"
@@ -29,7 +29,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Mi lucha
 
-> Cover not available.
+![[Attachments/Covers/Adolf Hitler - Mi lucha.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -1,13 +1,17 @@
 ---
 name: "Leo Tolstoy"
+cover: "[[Attachments/AuthorImages/Leo Tolstoy.jpg]]"
 country: "[[Russia]]"
 birth_year: "1828"
 death_year: "1910"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Leo Tolstoy
+
+![[Attachments/AuthorImages/Leo Tolstoy.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

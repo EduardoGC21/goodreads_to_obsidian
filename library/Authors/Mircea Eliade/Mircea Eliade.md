@@ -1,13 +1,17 @@
 ---
 name: "Mircea Eliade"
+cover: "[[Attachments/AuthorImages/Mircea Eliade.jpg]]"
 country: "[[Romania]]"
 birth_year: "1907"
 death_year: "1986"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mircea Eliade
+
+![[Attachments/AuthorImages/Mircea Eliade.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

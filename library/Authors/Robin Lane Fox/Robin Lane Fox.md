@@ -1,13 +1,17 @@
 ---
 name: "Robin Lane Fox"
+cover: "[[Attachments/AuthorImages/Robin Lane Fox.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1946"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robin Lane Fox
+
+![[Attachments/AuthorImages/Robin Lane Fox.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

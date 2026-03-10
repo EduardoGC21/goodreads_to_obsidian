@@ -1,13 +1,17 @@
 ---
 name: "Robert J. Shiller"
+cover: "[[Attachments/AuthorImages/Robert J. Shiller.jpg]]"
 country: "[[United States]]"
 birth_year: "1946"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert J. Shiller
+
+![[Attachments/AuthorImages/Robert J. Shiller.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

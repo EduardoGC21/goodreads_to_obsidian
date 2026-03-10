@@ -1,8 +1,10 @@
 ---
 name: "Yuji Oniki"
+cover: ""
 country: "[[United States]]"
 birth_year: "1967"
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---

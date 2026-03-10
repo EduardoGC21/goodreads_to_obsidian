@@ -1,13 +1,17 @@
 ---
 name: "Emil M. Cioran"
+cover: "[[Attachments/AuthorImages/Emil M. Cioran.jpg]]"
 country: "[[Romania]]"
 birth_year: "1911"
 death_year: "1995"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Emil M. Cioran
+
+![[Attachments/AuthorImages/Emil M. Cioran.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

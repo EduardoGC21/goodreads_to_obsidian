@@ -1,8 +1,10 @@
 ---
 name: "Manuel García Morente"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1886"
 death_year: "1942"
+sex: "male"
 tags:
   - "author"
 ---

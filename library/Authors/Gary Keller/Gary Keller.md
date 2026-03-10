@@ -1,13 +1,17 @@
 ---
 name: "Gary Keller"
+cover: "[[Attachments/AuthorImages/Gary Keller.jpg]]"
 country: "[[United States]]"
 birth_year: "1957"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gary Keller
+
+![[Attachments/AuthorImages/Gary Keller.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Wilhelm Gwinner"
+cover: "[[Attachments/AuthorImages/Wilhelm Gwinner.jpg]]"
 country: "[[Germany]]"
 birth_year: "1825"
 death_year: "1917"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Wilhelm Gwinner
+
+![[Attachments/AuthorImages/Wilhelm Gwinner.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

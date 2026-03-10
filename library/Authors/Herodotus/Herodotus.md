@@ -1,13 +1,17 @@
 ---
 name: "Herodotus"
+cover: "[[Attachments/AuthorImages/Herodotus.jpg]]"
 country: "[[Greece]]"
 birth_year: "0484"
 death_year: "0425"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Herodotus
+
+![[Attachments/AuthorImages/Herodotus.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

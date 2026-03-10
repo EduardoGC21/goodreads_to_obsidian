@@ -1,13 +1,17 @@
 ---
 name: "Giovanni Boccaccio"
+cover: "[[Attachments/AuthorImages/Giovanni Boccaccio.jpg]]"
 country: "[[Italy]]"
 birth_year: "1313"
 death_year: "1375"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Giovanni Boccaccio
+
+![[Attachments/AuthorImages/Giovanni Boccaccio.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

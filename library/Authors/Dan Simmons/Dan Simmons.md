@@ -1,13 +1,17 @@
 ---
 name: "Dan Simmons"
+cover: "[[Attachments/AuthorImages/Dan Simmons.jpg]]"
 country: "[[United States]]"
 birth_year: "1948"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Dan Simmons
+
+![[Attachments/AuthorImages/Dan Simmons.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

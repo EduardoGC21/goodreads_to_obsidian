@@ -1,8 +1,10 @@
 ---
 name: "William Makepeace Thackeray"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1811"
 death_year: "1863"
+sex: "male"
 tags:
   - "author"
 ---

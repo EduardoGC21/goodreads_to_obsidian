@@ -15,7 +15,7 @@ isbn: "8496834255"
 isbn13: "9788496834255"
 pages: 960
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Robin Lane Fox - Alejandro Magno Conquistador del mundo.jpg]]"
 bookshelves:
   - "[[favoritos]]"
   - "[[history]]"
@@ -29,7 +29,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Alejandro Magno: Conquistador del mundo
 
-> Cover not available.
+![[Attachments/Covers/Robin Lane Fox - Alejandro Magno Conquistador del mundo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

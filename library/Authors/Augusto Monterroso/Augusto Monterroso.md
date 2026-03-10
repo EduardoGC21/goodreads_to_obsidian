@@ -1,13 +1,17 @@
 ---
 name: "Augusto Monterroso"
+cover: "[[Attachments/AuthorImages/Augusto Monterroso.jpg]]"
 country: "[[Guatemala]]"
 birth_year: "1921"
 death_year: "2003"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Augusto Monterroso
+
+![[Attachments/AuthorImages/Augusto Monterroso.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

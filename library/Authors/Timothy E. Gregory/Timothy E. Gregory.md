@@ -1,13 +1,17 @@
 ---
 name: "Timothy E. Gregory"
+cover: "[[Attachments/AuthorImages/Timothy E. Gregory.jpg]]"
 country: "[[United States]]"
 birth_year: "1943"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Timothy E. Gregory
+
+![[Attachments/AuthorImages/Timothy E. Gregory.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

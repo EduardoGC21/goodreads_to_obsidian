@@ -15,7 +15,7 @@ isbn: "842493234X"
 isbn13: "9788424932343"
 pages: 353
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Aristophanes - Comedias I. Los acarnienses. Los caballeros. Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Comedias I. Los acarnienses. Los caballeros.: Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Aristophanes - Comedias I. Los acarnienses. Los caballeros. Los arcanienses. Los caballeros. (Biblioteca Clásica Gredos nº 204) (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

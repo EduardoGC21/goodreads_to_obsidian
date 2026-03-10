@@ -1,13 +1,17 @@
 ---
 name: "Mary Beard"
+cover: "[[Attachments/AuthorImages/Mary Beard.jpg]]"
 country: "[[England]]"
 birth_year: "1955"
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mary Beard
+
+![[Attachments/AuthorImages/Mary Beard.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

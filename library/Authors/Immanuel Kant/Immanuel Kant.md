@@ -1,13 +1,17 @@
 ---
 name: "Immanuel Kant"
+cover: "[[Attachments/AuthorImages/Immanuel Kant.jpg]]"
 country: "[[Prussia]]"
 birth_year: "1724"
 death_year: "1804"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Immanuel Kant
+
+![[Attachments/AuthorImages/Immanuel Kant.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

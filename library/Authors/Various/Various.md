@@ -1,13 +1,17 @@
 ---
 name: "Various"
+cover: "[[Attachments/AuthorImages/Various.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Various
+
+![[Attachments/AuthorImages/Various.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

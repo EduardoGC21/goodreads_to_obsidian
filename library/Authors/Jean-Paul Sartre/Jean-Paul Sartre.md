@@ -1,13 +1,17 @@
 ---
 name: "Jean-Paul Sartre"
+cover: "[[Attachments/AuthorImages/Jean-Paul Sartre.jpg]]"
 country: "[[France]]"
 birth_year: "1905"
 death_year: "1980"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jean-Paul Sartre
+
+![[Attachments/AuthorImages/Jean-Paul Sartre.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Aristotle"
+cover: "[[Attachments/AuthorImages/Aristotle.jpg]]"
 country: "[[Greece]]"
 birth_year: "0384"
 death_year: "0322"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aristotle
+
+![[Attachments/AuthorImages/Aristotle.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

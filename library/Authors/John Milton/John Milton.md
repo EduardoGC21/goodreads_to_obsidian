@@ -1,13 +1,17 @@
 ---
 name: "John Milton"
+cover: "[[Attachments/AuthorImages/John Milton.jpg]]"
 country: "[[England]]"
 birth_year: "1608"
 death_year: "1674"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # John Milton
+
+![[Attachments/AuthorImages/John Milton.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

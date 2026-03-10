@@ -1,8 +1,10 @@
 ---
 name: "Gou Tanabe"
+cover: ""
 country: "[[Japan]]"
 birth_year: "1975"
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Jordan B. Peterson"
+cover: "[[Attachments/AuthorImages/Jordan B. Peterson.jpg]]"
 country: "[[Canada]]"
 birth_year: "1962"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jordan B. Peterson
+
+![[Attachments/AuthorImages/Jordan B. Peterson.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

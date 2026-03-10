@@ -1,13 +1,17 @@
 ---
 name: "Alexander Pushkin"
+cover: "[[Attachments/AuthorImages/Alexander Pushkin.jpg]]"
 country: "[[Russia]]"
 birth_year: "1799"
 death_year: "1837"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alexander Pushkin
+
+![[Attachments/AuthorImages/Alexander Pushkin.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

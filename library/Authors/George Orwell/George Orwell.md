@@ -1,13 +1,17 @@
 ---
 name: "George Orwell"
+cover: "[[Attachments/AuthorImages/George Orwell.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1903"
 death_year: "1950"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # George Orwell
+
+![[Attachments/AuthorImages/George Orwell.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

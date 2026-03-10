@@ -1,8 +1,10 @@
 ---
 name: "Robert Malcolm Errington"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1939"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

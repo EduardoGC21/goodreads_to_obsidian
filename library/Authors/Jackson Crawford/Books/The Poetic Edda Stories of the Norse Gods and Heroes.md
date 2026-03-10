@@ -15,7 +15,7 @@ isbn: "1624663567"
 isbn13: "9781624663567"
 pages: 392
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Jackson Crawford - The Poetic Edda Stories of the Norse Gods and Heroes.jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[poesía]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Poetic Edda: Stories of the Norse Gods and Heroes
 
-> Cover not available.
+![[Attachments/Covers/Jackson Crawford - The Poetic Edda Stories of the Norse Gods and Heroes.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

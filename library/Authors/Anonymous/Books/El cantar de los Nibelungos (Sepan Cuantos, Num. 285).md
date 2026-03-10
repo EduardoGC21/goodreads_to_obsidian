@@ -15,7 +15,7 @@ isbn: "9700757544"
 isbn13: "9789700757544"
 pages: 245
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Anonymous - El cantar de los Nibelungos (Sepan Cuantos, Num. 285).jpg]]"
 bookshelves:
   - "[[epopeyas]]"
   - "[[mitología]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El cantar de los Nibelungos (Sepan Cuantos, Num. 285)
 
-> Cover not available.
+![[Attachments/Covers/Anonymous - El cantar de los Nibelungos (Sepan Cuantos, Num. 285).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

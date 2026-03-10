@@ -1,8 +1,10 @@
 ---
 name: "Kayoko Takagi"
+cover: ""
 country: "[[Japan]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---

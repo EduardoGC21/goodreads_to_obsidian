@@ -1,8 +1,10 @@
 ---
 name: "Michel Onfray"
+cover: ""
 country: "[[France]]"
 birth_year: "1959"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

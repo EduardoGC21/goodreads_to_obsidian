@@ -1,13 +1,17 @@
 ---
 name: "Federico García Lorca"
+cover: "[[Attachments/AuthorImages/Federico García Lorca.jpg]]"
 country: "[[Spain]]"
 birth_year: "1898"
 death_year: "1936"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Federico García Lorca
+
+![[Attachments/AuthorImages/Federico García Lorca.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

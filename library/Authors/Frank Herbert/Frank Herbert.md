@@ -1,8 +1,10 @@
 ---
 name: "Frank Herbert"
+cover: ""
 country: "[[United States]]"
 birth_year: "1920"
 death_year: "1986"
+sex: "male"
 tags:
   - "author"
 ---

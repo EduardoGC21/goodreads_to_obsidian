@@ -1,8 +1,10 @@
 ---
 name: "Arthur C. Clarke"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1917"
 death_year: "2008"
+sex: "male"
 tags:
   - "author"
 ---

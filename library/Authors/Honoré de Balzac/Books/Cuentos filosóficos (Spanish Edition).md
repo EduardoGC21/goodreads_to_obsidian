@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 880
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Honoré de Balzac - Cuentos filosóficos (Spanish Edition).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Cuentos filosóficos (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Honoré de Balzac - Cuentos filosóficos (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

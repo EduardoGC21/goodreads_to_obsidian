@@ -1,8 +1,10 @@
 ---
 name: "José Vasconcelos"
+cover: ""
 country: "[[Mexico]]"
 birth_year: "1882"
 death_year: "1959"
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,13 +1,17 @@
 ---
 name: "Carlos García Gual"
+cover: "[[Attachments/AuthorImages/Carlos García Gual.jpg]]"
 country: "[[Spain]]"
 birth_year: "1943"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Carlos García Gual
+
+![[Attachments/AuthorImages/Carlos García Gual.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Neil deGrasse Tyson"
+cover: "[[Attachments/AuthorImages/Neil deGrasse Tyson.jpg]]"
 country: "[[United States]]"
 birth_year: "1958"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Neil deGrasse Tyson
+
+![[Attachments/AuthorImages/Neil deGrasse Tyson.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

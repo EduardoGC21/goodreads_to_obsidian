@@ -1,13 +1,17 @@
 ---
 name: "Edgar Allan Poe"
+cover: "[[Attachments/AuthorImages/Edgar Allan Poe.jpg]]"
 country: "[[United States]]"
 birth_year: "1809"
 death_year: "1849"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edgar Allan Poe
+
+![[Attachments/AuthorImages/Edgar Allan Poe.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

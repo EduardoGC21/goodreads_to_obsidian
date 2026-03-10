@@ -1,8 +1,10 @@
 ---
 name: "Heinz Insu Fenkl"
+cover: ""
 country: "[[South Korea]]"
 birth_year: "1960"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

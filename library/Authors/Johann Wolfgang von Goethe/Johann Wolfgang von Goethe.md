@@ -1,13 +1,17 @@
 ---
 name: "Johann Wolfgang von Goethe"
+cover: "[[Attachments/AuthorImages/Johann Wolfgang von Goethe.jpg]]"
 country: "[[Germany]]"
 birth_year: "1749"
 death_year: "1832"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Johann Wolfgang von Goethe
+
+![[Attachments/AuthorImages/Johann Wolfgang von Goethe.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

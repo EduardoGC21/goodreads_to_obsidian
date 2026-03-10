@@ -1,13 +1,17 @@
 ---
 name: "P.J. Rhodes"
+cover: "[[Attachments/AuthorImages/P.J. Rhodes.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1940"
 death_year: "2021"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # P.J. Rhodes
+
+![[Attachments/AuthorImages/P.J. Rhodes.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

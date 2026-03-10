@@ -1,13 +1,17 @@
 ---
 name: "Karl Marx"
+cover: "[[Attachments/AuthorImages/Karl Marx.jpg]]"
 country: "[[Germany]]"
 birth_year: "1818"
 death_year: "1883"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Karl Marx
+
+![[Attachments/AuthorImages/Karl Marx.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

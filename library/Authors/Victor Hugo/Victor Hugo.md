@@ -1,13 +1,17 @@
 ---
 name: "Victor Hugo"
+cover: "[[Attachments/AuthorImages/Victor Hugo.jpg]]"
 country: "[[France]]"
 birth_year: "1802"
 death_year: "1885"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Victor Hugo
+
+![[Attachments/AuthorImages/Victor Hugo.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Aristophanes"
+cover: ""
 country: "[[Greece]]"
 birth_year: "0446"
 death_year: "0386"
+sex: "male"
 tags:
   - "author"
 ---

@@ -1,8 +1,10 @@
 ---
 name: "Honoré de Balzac"
+cover: ""
 country: "[[France]]"
 birth_year: "1799"
 death_year: "1850"
+sex: "male"
 tags:
   - "author"
 ---

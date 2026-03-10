@@ -1,13 +1,17 @@
 ---
 name: "Miguel de Cervantes Saavedra"
+cover: "[[Attachments/AuthorImages/Miguel de Cervantes Saavedra.jpg]]"
 country: "[[Spain]]"
 birth_year: "1547"
 death_year: "1616"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Miguel de Cervantes Saavedra
+
+![[Attachments/AuthorImages/Miguel de Cervantes Saavedra.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

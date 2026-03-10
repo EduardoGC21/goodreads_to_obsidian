@@ -1,13 +1,17 @@
 ---
 name: "Lao Tzu"
+cover: "[[Attachments/AuthorImages/Lao Tzu.jpg]]"
 country: "[[China]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lao Tzu
+
+![[Attachments/AuthorImages/Lao Tzu.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

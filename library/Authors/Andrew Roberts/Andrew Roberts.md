@@ -1,8 +1,10 @@
 ---
 name: "Andrew Roberts"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1963"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

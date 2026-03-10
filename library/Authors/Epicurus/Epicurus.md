@@ -1,13 +1,17 @@
 ---
 name: "Epicurus"
+cover: "[[Attachments/AuthorImages/Epicurus.jpg]]"
 country: "[[Greece]]"
 birth_year: "0341"
 death_year: "0270"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Epicurus
+
+![[Attachments/AuthorImages/Epicurus.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

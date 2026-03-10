@@ -1,8 +1,10 @@
 ---
 name: "Isaac Asimov"
+cover: ""
 country: "[[Russia]]"
 birth_year: "1920"
 death_year: "1992"
+sex: "male"
 tags:
   - "author"
 ---

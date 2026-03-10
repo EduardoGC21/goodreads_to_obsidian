@@ -15,7 +15,7 @@ isbn: "0735216983"
 isbn13: "9780735216983"
 pages: 240
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Matt Manero - You Need More Money Wake Up and Solve Your Financial Problems Once And For All.jpg]]"
 bookshelves:
   - "[[economía]]"
   - "[[self-help]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # You Need More Money: Wake Up and Solve Your Financial Problems Once And For All
 
-> Cover not available.
+![[Attachments/Covers/Matt Manero - You Need More Money Wake Up and Solve Your Financial Problems Once And For All.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

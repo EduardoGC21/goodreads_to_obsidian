@@ -1,8 +1,10 @@
 ---
 name: "Peter Berresford Ellis"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1943"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

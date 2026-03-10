@@ -1,8 +1,10 @@
 ---
 name: "Witi Ihimaera"
+cover: ""
 country: "[[New Zealand]]"
 birth_year: "1944"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

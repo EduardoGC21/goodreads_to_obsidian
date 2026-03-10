@@ -15,7 +15,7 @@ isbn: "1542021928"
 isbn13: "9781542021920"
 pages: 998
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Fyodor Dostoevsky - The Brothers Karamazov.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[novelas]]"
@@ -29,7 +29,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # The Brothers Karamazov
 
-> Cover not available.
+![[Attachments/Covers/Fyodor Dostoevsky - The Brothers Karamazov.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -1,8 +1,10 @@
 ---
 name: "Barbara Morden"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---

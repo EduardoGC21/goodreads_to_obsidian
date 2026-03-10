@@ -1,13 +1,17 @@
 ---
 name: "Gareth Hinds"
+cover: "[[Attachments/AuthorImages/Gareth Hinds.jpg]]"
 country: "[[United States]]"
 birth_year: "1971"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gareth Hinds
+
+![[Attachments/AuthorImages/Gareth Hinds.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,8 +1,10 @@
 ---
 name: "Gisèle Halimi"
+cover: ""
 country: "[[Tunisia]]"
 birth_year: "1927"
 death_year: "2020"
+sex: "female"
 tags:
   - "author"
 ---

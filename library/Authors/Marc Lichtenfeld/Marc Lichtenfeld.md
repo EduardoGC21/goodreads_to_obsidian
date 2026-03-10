@@ -1,13 +1,17 @@
 ---
 name: "Marc Lichtenfeld"
-country: "[[Unknown]]"
+cover: "[[Attachments/AuthorImages/Marc Lichtenfeld.jpg]]"
+country: "[[United States]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Marc Lichtenfeld
+
+![[Attachments/AuthorImages/Marc Lichtenfeld.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

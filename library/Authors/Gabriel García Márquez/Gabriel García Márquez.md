@@ -1,13 +1,17 @@
 ---
 name: "Gabriel García Márquez"
+cover: "[[Attachments/AuthorImages/Gabriel García Márquez.jpg]]"
 country: "[[Colombia]]"
 birth_year: "1927"
 death_year: "2014"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gabriel García Márquez
+
+![[Attachments/AuthorImages/Gabriel García Márquez.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

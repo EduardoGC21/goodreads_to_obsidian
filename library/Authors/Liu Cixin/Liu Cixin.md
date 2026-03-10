@@ -1,13 +1,17 @@
 ---
 name: "Liu Cixin"
+cover: "[[Attachments/AuthorImages/Liu Cixin.jpg]]"
 country: "[[China]]"
 birth_year: "1963"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Liu Cixin
+
+![[Attachments/AuthorImages/Liu Cixin.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

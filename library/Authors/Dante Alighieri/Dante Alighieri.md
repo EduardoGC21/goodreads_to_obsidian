@@ -1,8 +1,10 @@
 ---
 name: "Dante Alighieri"
+cover: ""
 country: "[[Italy]]"
 birth_year: "1265"
 death_year: "1321"
+sex: "male"
 tags:
   - "author"
 ---

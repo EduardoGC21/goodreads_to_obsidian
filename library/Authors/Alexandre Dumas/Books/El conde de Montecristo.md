@@ -15,7 +15,7 @@ isbn: "8413626703"
 isbn13: "9788413626703"
 pages: 1318
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Alexandre Dumas - El conde de Montecristo.jpg]]"
 bookshelves:
   - "[[novelas]]"
   - "[[favoritos]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El conde de Montecristo
 
-> Cover not available.
+![[Attachments/Covers/Alexandre Dumas - El conde de Montecristo.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

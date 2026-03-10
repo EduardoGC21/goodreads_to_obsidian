@@ -15,7 +15,7 @@ isbn: "607091161X"
 isbn13: "9786070911613"
 pages: 445
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Virgil - Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147).jpg]]"
 bookshelves:
   - "[[mitología]]"
   - "[[epopeyas]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147)
 
-> Cover not available.
+![[Attachments/Covers/Virgil - Eneida. Geórgicas. Bucólicas. (Sepan Cuantos, Num. 147).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

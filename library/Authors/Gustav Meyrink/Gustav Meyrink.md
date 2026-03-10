@@ -1,13 +1,17 @@
 ---
 name: "Gustav Meyrink"
+cover: "[[Attachments/AuthorImages/Gustav Meyrink.jpg]]"
 country: "[[Austria]]"
 birth_year: "1868"
 death_year: "1932"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Gustav Meyrink
+
+![[Attachments/AuthorImages/Gustav Meyrink.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

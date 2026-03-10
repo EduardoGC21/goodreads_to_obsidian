@@ -1,8 +1,10 @@
 ---
 name: "Mary Wollstonecraft Shelley"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1797"
 death_year: "1851"
+sex: "female"
 tags:
   - "author"
 ---

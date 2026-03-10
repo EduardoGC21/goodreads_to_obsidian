@@ -1,8 +1,10 @@
 ---
 name: "William L. Shirer"
+cover: ""
 country: "[[United States]]"
 birth_year: "1904"
 death_year: "1993"
+sex: "male"
 tags:
   - "author"
 ---

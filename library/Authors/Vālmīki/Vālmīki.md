@@ -1,8 +1,10 @@
 ---
 name: "Vālmīki"
+cover: ""
 country: "[[India]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

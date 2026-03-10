@@ -15,7 +15,7 @@ isbn: "1119459117"
 isbn13: "9781119459118"
 pages: 302
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Paul-Alain Beaulieu - A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World)
 
-> Cover not available.
+![[Attachments/Covers/Paul-Alain Beaulieu - A History of Babylon, 2200 BC - AD 75 (Blackwell History of the Ancient World).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

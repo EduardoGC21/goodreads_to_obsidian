@@ -1,13 +1,17 @@
 ---
 name: "Wu Cheng'en"
+cover: "[[Attachments/AuthorImages/Wu Cheng'en.jpg]]"
 country: "[[China]]"
 birth_year: "1500"
 death_year: "1582"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Wu Cheng'en
+
+![[Attachments/AuthorImages/Wu Cheng'en.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

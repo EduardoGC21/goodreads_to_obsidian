@@ -1,13 +1,17 @@
 ---
 name: "César A.  Hidalgo"
+cover: "[[Attachments/AuthorImages/César A. Hidalgo.jpg]]"
 country: "[[Chile]]"
 birth_year: "1979"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # César A.  Hidalgo
+
+![[Attachments/AuthorImages/César A. Hidalgo.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

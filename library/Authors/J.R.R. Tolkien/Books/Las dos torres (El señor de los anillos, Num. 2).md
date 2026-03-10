@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 464
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/J.R.R. Tolkien - Las dos torres (El señor de los anillos, Num. 2).jpg]]"
 bookshelves:
   - "[[fantasía]]"
   - "[[novelas]]"
@@ -27,7 +27,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Las dos torres (El señor de los anillos, Num. 2)
 
-> Cover not available.
+![[Attachments/Covers/J.R.R. Tolkien - Las dos torres (El señor de los anillos, Num. 2).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

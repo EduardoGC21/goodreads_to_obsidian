@@ -1,8 +1,10 @@
 ---
 name: "Jan Swafford"
+cover: ""
 country: "[[United States]]"
 birth_year: "1946"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

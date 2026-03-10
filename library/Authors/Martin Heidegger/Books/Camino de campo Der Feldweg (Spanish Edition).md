@@ -15,7 +15,7 @@ isbn: "8425429943"
 isbn13: "9788425429941"
 pages: 43
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Martin Heidegger - Camino de campo Der Feldweg (Spanish Edition).jpg]]"
 bookshelves:
   - "[[filosofía]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Camino de campo: Der Feldweg (Spanish Edition)
 
-> Cover not available.
+![[Attachments/Covers/Martin Heidegger - Camino de campo Der Feldweg (Spanish Edition).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

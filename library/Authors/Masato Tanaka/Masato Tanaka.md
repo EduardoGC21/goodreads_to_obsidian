@@ -1,8 +1,10 @@
 ---
 name: "Masato  Tanaka"
+cover: ""
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---

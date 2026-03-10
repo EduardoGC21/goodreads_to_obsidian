@@ -1,8 +1,10 @@
 ---
 name: "Steven H. Strogatz"
+cover: ""
 country: "[[United States]]"
 birth_year: "1959"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

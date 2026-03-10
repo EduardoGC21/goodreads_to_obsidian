@@ -1,13 +1,17 @@
 ---
 name: "Stendhal"
+cover: "[[Attachments/AuthorImages/Stendhal.jpg]]"
 country: "[[France]]"
 birth_year: "1783"
 death_year: "1842"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Stendhal
+
+![[Attachments/AuthorImages/Stendhal.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

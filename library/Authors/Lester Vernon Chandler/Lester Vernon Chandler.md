@@ -1,13 +1,17 @@
 ---
 name: "Lester Vernon Chandler"
+cover: "[[Attachments/AuthorImages/Lester Vernon Chandler.jpg]]"
 country: "[[United States]]"
 birth_year: "1905"
 death_year: "2000"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Lester Vernon Chandler
+
+![[Attachments/AuthorImages/Lester Vernon Chandler.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "Martin Heidegger"
+cover: "[[Attachments/AuthorImages/Martin Heidegger.jpg]]"
 country: "[[Germany]]"
 birth_year: "1889"
 death_year: "1976"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Martin Heidegger
+
+![[Attachments/AuthorImages/Martin Heidegger.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

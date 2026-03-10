@@ -1,13 +1,17 @@
 ---
 name: "Hesiod"
+cover: "[[Attachments/AuthorImages/Hesiod.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Hesiod
+
+![[Attachments/AuthorImages/Hesiod.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

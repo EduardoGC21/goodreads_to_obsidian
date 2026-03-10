@@ -1,13 +1,17 @@
 ---
 name: "Jacob Grimm"
+cover: "[[Attachments/AuthorImages/Jacob Grimm.jpg]]"
 country: "[[Germany]]"
 birth_year: "1785"
 death_year: "1863"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Jacob Grimm
+
+![[Attachments/AuthorImages/Jacob Grimm.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

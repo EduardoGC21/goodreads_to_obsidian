@@ -1,8 +1,10 @@
 ---
 name: "Consuelo Martín"
+cover: ""
 country: "[[Spain]]"
 birth_year: "1940"
 death_year: "2023"
+sex: "female"
 tags:
   - "author"
 ---

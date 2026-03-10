@@ -1,13 +1,17 @@
 ---
 name: "Negri"
+cover: "[[Attachments/AuthorImages/Negri.jpg]]"
 country: "[[Italy]]"
 birth_year: "1933"
 death_year: "2023"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Negri
+
+![[Attachments/AuthorImages/Negri.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

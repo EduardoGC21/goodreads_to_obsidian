@@ -15,7 +15,7 @@ isbn: "9700771016"
 isbn13: "9789700771014"
 pages: 74
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Niccolò Machiavelli - El Príncipe.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[política]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El Príncipe
 
-> Cover not available.
+![[Attachments/Covers/Niccolò Machiavelli - El Príncipe.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

@@ -1,13 +1,17 @@
 ---
 name: "H.P. Lovecraft"
+cover: "[[Attachments/AuthorImages/H.P. Lovecraft.jpg]]"
 country: "[[United States]]"
 birth_year: "1890"
 death_year: "1937"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # H.P. Lovecraft
+
+![[Attachments/AuthorImages/H.P. Lovecraft.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

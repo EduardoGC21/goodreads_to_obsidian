@@ -1,13 +1,17 @@
 ---
 name: "John Stuart Mill"
+cover: "[[Attachments/AuthorImages/John Stuart Mill.jpg]]"
 country: "[[United Kingdom]]"
 birth_year: "1806"
 death_year: "1873"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # John Stuart Mill
+
+![[Attachments/AuthorImages/John Stuart Mill.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

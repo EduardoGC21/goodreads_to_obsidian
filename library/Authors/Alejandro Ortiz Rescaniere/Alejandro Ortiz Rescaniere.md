@@ -1,8 +1,10 @@
 ---
 name: "Alejandro Ortiz Rescaniere"
+cover: ""
 country: "[[Peru]]"
 birth_year: ""
 death_year: "2024"
+sex: "male"
 tags:
   - "author"
 ---

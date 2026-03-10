@@ -1,13 +1,17 @@
 ---
 name: "Mao Zedong"
+cover: "[[Attachments/AuthorImages/Mao Zedong.jpg]]"
 country: "[[China]]"
 birth_year: "1893"
 death_year: "1976"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Mao Zedong
+
+![[Attachments/AuthorImages/Mao Zedong.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

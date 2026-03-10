@@ -1,13 +1,17 @@
 ---
 name: "Antón Chéjov"
+cover: "[[Attachments/AuthorImages/Antón Chéjov.jpg]]"
 country: "[[Russia]]"
 birth_year: "1860"
 death_year: "1904"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Antón Chéjov
+
+![[Attachments/AuthorImages/Antón Chéjov.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

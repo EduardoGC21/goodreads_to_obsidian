@@ -1,13 +1,17 @@
 ---
 name: "Daron Acemoğlu"
+cover: "[[Attachments/AuthorImages/Daron Acemoğlu.jpg]]"
 country: "[[Turkey]]"
 birth_year: "1967"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Daron Acemoğlu
+
+![[Attachments/AuthorImages/Daron Acemoğlu.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

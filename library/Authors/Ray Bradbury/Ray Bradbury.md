@@ -1,8 +1,10 @@
 ---
 name: "Ray Bradbury"
+cover: ""
 country: "[[United States]]"
 birth_year: "1920"
 death_year: "2012"
+sex: "male"
 tags:
   - "author"
 ---

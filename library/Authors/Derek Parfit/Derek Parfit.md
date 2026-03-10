@@ -1,8 +1,10 @@
 ---
 name: "Derek Parfit"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1942"
 death_year: "2017"
+sex: "male"
 tags:
   - "author"
 ---

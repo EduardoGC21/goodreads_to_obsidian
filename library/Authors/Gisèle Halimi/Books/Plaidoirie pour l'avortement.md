@@ -15,7 +15,7 @@ isbn: "2073025102"
 isbn13: "9782073025104"
 pages: 76
 format: "virtual"
-cover: ""
+cover: "[[Attachments/Covers/Gisèle Halimi - Plaidoirie pour l'avortement.jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Plaidoirie pour l'avortement
 
-> Cover not available.
+![[Attachments/Covers/Gisèle Halimi - Plaidoirie pour l'avortement.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

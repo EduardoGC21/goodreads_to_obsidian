@@ -1,13 +1,17 @@
 ---
 name: "Juan Miguel de Mora"
+cover: "[[Attachments/AuthorImages/Juan Miguel de Mora.jpg]]"
 country: "[[Mexico]]"
 birth_year: "1921"
 death_year: "2017"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Juan Miguel de Mora
+
+![[Attachments/AuthorImages/Juan Miguel de Mora.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

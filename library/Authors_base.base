@@ -1,0 +1,20 @@
+views:
+  - type: cards
+    name: Authors
+    filters:
+      and:
+        - file.inFolder("Authors")
+        - file.tags.contains("author")
+    groupBy:
+      property: country
+      direction: ASC
+    order:
+      - file.name
+      - birth_year
+      - sex
+      - country
+    sort:
+      - property: name
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 0.7

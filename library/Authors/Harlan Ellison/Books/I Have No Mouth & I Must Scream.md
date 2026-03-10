@@ -15,7 +15,7 @@ isbn: "0441363954"
 isbn13: "9780441363957"
 pages: 134
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Harlan Ellison - I Have No Mouth & I Must Scream.jpg]]"
 bookshelves:
   - "[[cuentos]]"
   - "[[ciencia-ficción]]"
@@ -26,7 +26,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # I Have No Mouth & I Must Scream
 
-> Cover not available.
+![[Attachments/Covers/Harlan Ellison - I Have No Mouth & I Must Scream.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

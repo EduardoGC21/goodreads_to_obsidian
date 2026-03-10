@@ -1,13 +1,17 @@
 ---
 name: "Robert M. Sapolsky"
+cover: "[[Attachments/AuthorImages/Robert M. Sapolsky.jpg]]"
 country: "[[United States]]"
 birth_year: "1957"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Robert M. Sapolsky
+
+![[Attachments/AuthorImages/Robert M. Sapolsky.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

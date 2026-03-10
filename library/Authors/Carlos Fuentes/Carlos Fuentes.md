@@ -1,8 +1,10 @@
 ---
 name: "Carlos Fuentes"
+cover: ""
 country: "[[Mexico]]"
 birth_year: "1928"
 death_year: "2012"
+sex: "male"
 tags:
   - "author"
 ---

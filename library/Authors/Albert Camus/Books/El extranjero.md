@@ -15,7 +15,7 @@ isbn: ""
 isbn13: ""
 pages: 124
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Albert Camus - El extranjero.jpg]]"
 bookshelves:
   - "[[filosofía]]"
   - "[[novelas]]"
@@ -28,7 +28,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # El extranjero
 
-> Cover not available.
+![[Attachments/Covers/Albert Camus - El extranjero.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

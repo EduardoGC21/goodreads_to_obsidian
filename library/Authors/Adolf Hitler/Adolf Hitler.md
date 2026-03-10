@@ -1,13 +1,17 @@
 ---
 name: "Adolf Hitler"
+cover: "[[Attachments/AuthorImages/Adolf Hitler.jpg]]"
 country: "[[Austria]]"
 birth_year: "1889"
 death_year: "1945"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Adolf Hitler
+
+![[Attachments/AuthorImages/Adolf Hitler.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

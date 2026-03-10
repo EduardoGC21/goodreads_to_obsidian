@@ -1,13 +1,17 @@
 ---
 name: "Daniel Defoe"
+cover: "[[Attachments/AuthorImages/Daniel Defoe.jpg]]"
 country: "[[England]]"
 birth_year: "1660"
 death_year: "1731"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Daniel Defoe
+
+![[Attachments/AuthorImages/Daniel Defoe.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

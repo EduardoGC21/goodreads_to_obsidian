@@ -1,13 +1,17 @@
 ---
 name: "Alexandre Dumas"
+cover: "[[Attachments/AuthorImages/Alexandre Dumas.jpg]]"
 country: "[[France]]"
 birth_year: "1802"
 death_year: "1870"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Alexandre Dumas
+
+![[Attachments/AuthorImages/Alexandre Dumas.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

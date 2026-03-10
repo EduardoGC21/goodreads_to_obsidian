@@ -1,8 +1,10 @@
 ---
 name: "Walter F. Otto"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1874"
 death_year: "1958"
+sex: "male"
 tags:
   - "author"
 ---

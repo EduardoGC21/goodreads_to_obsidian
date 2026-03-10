@@ -1,13 +1,17 @@
 ---
 name: "Facultad de Teología"
+cover: "[[Attachments/AuthorImages/Facultad de Teología.jpg]]"
 country: "[[Unknown]]"
 birth_year: ""
 death_year: ""
+sex: "unknown"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Facultad de Teología
+
+![[Attachments/AuthorImages/Facultad de Teología.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

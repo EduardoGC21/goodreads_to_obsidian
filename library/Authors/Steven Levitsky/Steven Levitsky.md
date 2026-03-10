@@ -1,13 +1,17 @@
 ---
 name: "Steven Levitsky"
+cover: "[[Attachments/AuthorImages/Steven Levitsky.jpg]]"
 country: "[[United States]]"
 birth_year: "1968"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Steven Levitsky
+
+![[Attachments/AuthorImages/Steven Levitsky.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

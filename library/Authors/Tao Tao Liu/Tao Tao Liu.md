@@ -1,8 +1,10 @@
 ---
 name: "Tao Tao Liu"
+cover: ""
 country: "[[Unknown]]"
 birth_year: ""
 death_year: "2025"
+sex: "female"
 tags:
   - "author"
 ---

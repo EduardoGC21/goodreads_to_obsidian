@@ -1,13 +1,17 @@
 ---
 name: "Noam Chomsky"
+cover: "[[Attachments/AuthorImages/Noam Chomsky.jpg]]"
 country: "[[United States]]"
 birth_year: "1928"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Noam Chomsky
+
+![[Attachments/AuthorImages/Noam Chomsky.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

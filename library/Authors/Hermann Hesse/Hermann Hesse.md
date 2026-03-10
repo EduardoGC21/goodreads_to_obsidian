@@ -1,13 +1,17 @@
 ---
 name: "Hermann Hesse"
+cover: "[[Attachments/AuthorImages/Hermann Hesse.jpg]]"
 country: "[[Germany]]"
 birth_year: "1877"
 death_year: "1962"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Hermann Hesse
+
+![[Attachments/AuthorImages/Hermann Hesse.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

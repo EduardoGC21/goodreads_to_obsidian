@@ -1,13 +1,17 @@
 ---
 name: "Sappho"
+cover: "[[Attachments/AuthorImages/Sappho.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
+sex: "female"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Sappho
+
+![[Attachments/AuthorImages/Sappho.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

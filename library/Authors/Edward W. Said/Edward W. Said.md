@@ -1,8 +1,10 @@
 ---
 name: "Edward W. Said"
+cover: ""
 country: "[[Palestine]]"
 birth_year: "1935"
 death_year: "2003"
+sex: "male"
 tags:
   - "author"
 ---

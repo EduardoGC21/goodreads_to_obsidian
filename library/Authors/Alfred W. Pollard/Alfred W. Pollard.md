@@ -1,8 +1,10 @@
 ---
 name: "Alfred W. Pollard"
+cover: ""
 country: "[[United Kingdom]]"
 birth_year: "1859"
 death_year: "1944"
+sex: "male"
 tags:
   - "author"
 ---

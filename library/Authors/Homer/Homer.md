@@ -1,13 +1,17 @@
 ---
 name: "Homer"
+cover: "[[Attachments/AuthorImages/Homer.jpg]]"
 country: "[[Greece]]"
 birth_year: ""
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Homer
+
+![[Attachments/AuthorImages/Homer.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

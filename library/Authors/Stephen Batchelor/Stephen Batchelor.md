@@ -1,8 +1,10 @@
 ---
 name: "Stephen Batchelor"
+cover: ""
 country: "[[Scotland]]"
 birth_year: "1953"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

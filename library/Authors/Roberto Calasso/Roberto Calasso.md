@@ -1,13 +1,17 @@
 ---
 name: "Roberto Calasso"
+cover: "[[Attachments/AuthorImages/Roberto Calasso.jpg]]"
 country: "[[Italy]]"
 birth_year: "1941"
 death_year: "2021"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Roberto Calasso
+
+![[Attachments/AuthorImages/Roberto Calasso.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

@@ -1,13 +1,17 @@
 ---
 name: "John Keats"
+cover: "[[Attachments/AuthorImages/John Keats.jpg]]"
 country: "[[England]]"
 birth_year: "1795"
 death_year: "1821"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # John Keats
+
+![[Attachments/AuthorImages/John Keats.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

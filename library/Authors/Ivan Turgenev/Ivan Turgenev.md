@@ -1,8 +1,10 @@
 ---
 name: "Ivan Turgenev"
+cover: ""
 country: "[[Russia]]"
 birth_year: "1818"
 death_year: "1883"
+sex: "male"
 tags:
   - "author"
 ---

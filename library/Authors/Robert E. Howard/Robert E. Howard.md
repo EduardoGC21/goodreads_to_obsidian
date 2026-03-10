@@ -1,8 +1,10 @@
 ---
 name: "Robert E. Howard"
+cover: ""
 country: "[[United States]]"
 birth_year: "1906"
 death_year: "1936"
+sex: "male"
 tags:
   - "author"
 ---

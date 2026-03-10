@@ -15,7 +15,7 @@ isbn: "9700768864"
 isbn13: "9789700768861"
 pages: 213
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Anonymous - Evangelios Apócrifos (Sepan Cuantos, Num. 602).jpg]]"
 bookshelves: []
 reread_dates: []
 tags:
@@ -24,7 +24,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Evangelios Apócrifos (Sepan Cuantos, Num. 602)
 
-> Cover not available.
+![[Attachments/Covers/Anonymous - Evangelios Apócrifos (Sepan Cuantos, Num. 602).jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

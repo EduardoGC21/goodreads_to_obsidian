@@ -1,13 +1,17 @@
 ---
 name: "Antoine de Saint-Exupéry"
+cover: "[[Attachments/AuthorImages/Antoine de Saint-Exupéry.jpg]]"
 country: "[[France]]"
 birth_year: "1900"
 death_year: "1944"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Antoine de Saint-Exupéry
+
+![[Attachments/AuthorImages/Antoine de Saint-Exupéry.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

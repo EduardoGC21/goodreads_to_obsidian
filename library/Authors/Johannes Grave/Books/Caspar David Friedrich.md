@@ -15,7 +15,7 @@ isbn: "3791346288"
 isbn13: "9783791346281"
 pages: 288
 format: "physical"
-cover: ""
+cover: "[[Attachments/Covers/Johannes Grave - Caspar David Friedrich.jpg]]"
 bookshelves:
   - "[[historia-arte]]"
 reread_dates: []
@@ -25,7 +25,7 @@ tags:
 <!-- GENERATED:BOOK_HEADER START -->
 # Caspar David Friedrich
 
-> Cover not available.
+![[Attachments/Covers/Johannes Grave - Caspar David Friedrich.jpg|200]]
 <!-- GENERATED:BOOK_HEADER END -->
 
 <!-- GENERATED:BOOK_QUOTES START -->

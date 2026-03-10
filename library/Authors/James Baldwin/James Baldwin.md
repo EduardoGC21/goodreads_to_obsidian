@@ -1,13 +1,17 @@
 ---
 name: "James Baldwin"
+cover: "[[Attachments/AuthorImages/James Baldwin.jpg]]"
 country: "[[United States]]"
 birth_year: "1924"
 death_year: "1987"
+sex: "male"
 tags:
   - "author"
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # James Baldwin
+
+![[Attachments/AuthorImages/James Baldwin.jpg]]
 <!-- GENERATED:AUTHOR_HEADER END -->
 
 <!-- GENERATED:AUTHOR_BIO START -->

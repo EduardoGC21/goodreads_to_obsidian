@@ -1,8 +1,10 @@
 ---
 name: "Johannes Grave"
+cover: ""
 country: "[[Germany]]"
 birth_year: "1976"
 death_year: ""
+sex: "male"
 tags:
   - "author"
 ---

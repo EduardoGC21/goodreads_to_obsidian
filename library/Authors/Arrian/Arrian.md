@@ -1,8 +1,10 @@
 ---
 name: "Arrian"
+cover: ""
 country: "[[Greece]]"
 birth_year: "0086"
 death_year: "0160"
+sex: "male"
 tags:
   - "author"
 ---
