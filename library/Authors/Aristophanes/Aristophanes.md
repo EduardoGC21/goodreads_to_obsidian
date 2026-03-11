@@ -1,12 +1,12 @@
 ---
-name: "Aristophanes"
+name: Aristophanes
 cover: "[[Attachments/AuthorImages/Aristophanes.jpg]]"
 country: "[[Greece]]"
-birth_year: "446"
+birth_year: "-446"
 death_year: "-386"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aristophanes

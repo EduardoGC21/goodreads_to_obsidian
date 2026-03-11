@@ -1,12 +1,12 @@
 ---
-name: "Edward W. Said"
+name: Edward W. Said
 cover: "[[Attachments/AuthorImages/Edward W. Said.jpg]]"
-country: "[[Palestine]]"
+country: "[[United States]]"
 birth_year: "1935"
 death_year: "2003"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Edward W. Said

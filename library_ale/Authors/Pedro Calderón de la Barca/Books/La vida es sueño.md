@@ -1,0 +1,36 @@
+---
+title: "La vida es sueño"
+author:
+  - "[[Authors/Pedro Calderón de la Barca/Pedro Calderón de la Barca|Pedro Calderón de la Barca]]"
+translator: []
+status: "read"
+rating: 5
+read_count: 1
+date_added: "2021-12-17"
+date_read: "2021-12-17"
+language: "Spanish"
+publisher: "Libros del Zorro Rojo"
+original_publish_year: 1635
+isbn: "8494884824"
+isbn13: "9788494884825"
+pages: 192
+format: "physical"
+cover: "[[Attachments/Covers/Pedro Calderón de la Barca - La vida es sueño.jpg]]"
+bookshelves: []
+reread_dates: []
+tags:
+  - "book"
+---
+<!-- GENERATED:BOOK_HEADER START -->
+# La vida es sueño
+
+![[Attachments/Covers/Pedro Calderón de la Barca - La vida es sueño.jpg|200]]
+<!-- GENERATED:BOOK_HEADER END -->
+
+<!-- GENERATED:BOOK_QUOTES START -->
+## Quotes
+<!-- GENERATED:BOOK_QUOTES END -->
+
+<!-- GENERATED:BOOK_REVIEW START -->
+## My Review
+<!-- GENERATED:BOOK_REVIEW END -->

@@ -1,12 +1,12 @@
 ---
-name: "Horacio"
+name: Horacio
 cover: "[[Attachments/AuthorImages/Horacio.jpg]]"
 country: "[[Italy]]"
-birth_year: "65"
+birth_year: "-65"
 death_year: "8"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Horacio

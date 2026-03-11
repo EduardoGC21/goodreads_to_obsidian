@@ -1,12 +1,12 @@
 ---
-name: "Sun Tzu"
+name: Sun Tzu
 cover: "[[Attachments/AuthorImages/Sun Tzu.jpg]]"
 country: "[[China]]"
-birth_year: "544"
+birth_year: "-544"
 death_year: "-496"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Sun Tzu

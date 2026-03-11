@@ -1,12 +1,12 @@
 ---
-name: "Confucius"
+name: Confucius
 cover: "[[Attachments/AuthorImages/Confucius.jpg]]"
 country: "[[China]]"
-birth_year: "551"
+birth_year: "-551"
 death_year: "-479"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Confucius

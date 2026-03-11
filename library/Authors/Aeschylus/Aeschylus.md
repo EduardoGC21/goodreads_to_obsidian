@@ -1,12 +1,12 @@
 ---
-name: "Aeschylus"
+name: Aeschylus
 cover: "[[Attachments/AuthorImages/Aeschylus.jpg]]"
 country: "[[Greece]]"
-birth_year: "525"
+birth_year: "-525"
 death_year: "-456"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Aeschylus

@@ -1,12 +1,12 @@
 ---
-name: "Epicurus"
+name: Epicurus
 cover: "[[Attachments/AuthorImages/Epicurus.jpg]]"
 country: "[[Greece]]"
-birth_year: "341"
+birth_year: "-341"
 death_year: "-270"
-sex: "male"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Epicurus

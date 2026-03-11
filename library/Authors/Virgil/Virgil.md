@@ -1,12 +1,12 @@
 ---
-name: "Virgil"
+name: Virgil
 cover: "[[Attachments/AuthorImages/Virgil.jpg]]"
 country: "[[Italy]]"
-birth_year: "70"
-death_year: "-19"
-sex: "male"
+birth_year: "-70"
+death_year: "19"
+sex: male
 tags:
-  - "author"
+  - author
 ---
 <!-- GENERATED:AUTHOR_HEADER START -->
 # Virgil
